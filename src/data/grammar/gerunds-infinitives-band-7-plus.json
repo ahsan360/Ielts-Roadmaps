@@ -1,0 +1,473 @@
+{
+  "title": "Gerunds, Infinitives & Verb Patterns — Band 7+ Reference",
+  "subtitle": "Which verbs take -ing, which take to-V, and the meaning shifts that confuse Band 6 candidates",
+  "icon": "📋",
+  "intro": "After most verbs in English, you have to choose: -ing (gerund) or to + V (infinitive). 'I enjoy reading' / 'I want to read'. Get it wrong and the sentence is grammatically broken. Some verbs even change meaning depending on the choice ('I stopped smoking' ≠ 'I stopped to smoke'). This reference is the comprehensive list — memorise the patterns, eliminate the errors.",
+  "sections": [
+    {
+      "id": "fundamentals",
+      "title": "1. The Three Forms — Gerund / Infinitive / Bare Infinitive",
+      "summary": "Three verb forms can follow another verb. Each has specific contexts.",
+      "rules": [
+        {
+          "pattern": "GERUND (-ING form) — verbal noun",
+          "examples": [
+            { "singular": "as subject", "plural": "Reading is my hobby." },
+            { "singular": "as object after certain verbs", "plural": "I enjoy reading." },
+            { "singular": "after prepositions (always!)", "plural": "I am good at reading. / She insisted on coming." },
+            { "singular": "after possessives", "plural": "I appreciate your helping me." }
+          ]
+        },
+        {
+          "pattern": "TO-INFINITIVE (TO + V) — full infinitive",
+          "examples": [
+            { "singular": "after certain verbs", "plural": "I want to leave." },
+            { "singular": "to express purpose", "plural": "I came here to study." },
+            { "singular": "after adjectives", "plural": "I am happy to help. / It is important to study." },
+            { "singular": "after question words", "plural": "I don't know what to do / where to go / how to start." }
+          ]
+        },
+        {
+          "pattern": "BARE INFINITIVE (V without 'to')",
+          "examples": [
+            { "singular": "after modals", "plural": "You should leave. / She can swim." },
+            { "singular": "after make / let / have (causative)", "plural": "She made me cry. / Let me help you. / I had him fix it." },
+            { "singular": "after sense verbs (sometimes)", "plural": "I saw him leave. / I heard her sing." },
+            { "singular": "after 'why not / had better'", "plural": "Why not try it? / You'd better leave." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gerund-only",
+      "title": "2. Verbs Followed by GERUND ONLY",
+      "summary": "Memorise these. There are about 30 essential ones — using 'to + V' after them is grammatically wrong.",
+      "rules": [
+        {
+          "pattern": "Common verbs taking -ING only",
+          "items": [
+            "enjoy (I enjoy reading)",
+            "avoid (We avoided talking about it)",
+            "consider (She is considering moving abroad)",
+            "suggest (He suggested taking a break)",
+            "recommend (I recommend trying this restaurant)",
+            "deny (He denied stealing the money)",
+            "admit (She admitted making a mistake)",
+            "mention (He mentioned seeing her)",
+            "discuss (We discussed changing the plan)",
+            "imagine (Imagine living in a remote village)",
+            "involve (The job involves travelling abroad)",
+            "miss (I miss living near the sea)",
+            "mind (Do you mind opening the window?)",
+            "practise (She practises playing piano daily)",
+            "postpone (We postponed making a decision)",
+            "delay (They delayed announcing the results)",
+            "finish (I finished writing the report)",
+            "give up (He gave up smoking last year)",
+            "keep / keep on (She keeps complaining)",
+            "risk (You risk losing everything)",
+            "tolerate (I won't tolerate being treated like that)",
+            "endure",
+            "fancy (BrE: Do you fancy going out tonight?)",
+            "feel like (I don't feel like cooking tonight)",
+            "appreciate",
+            "anticipate",
+            "resist",
+            "report"
+          ]
+        },
+        {
+          "pattern": "Common errors with these verbs",
+          "examples": [
+            { "singular": "❌ I enjoy to read.", "plural": "✔ I enjoy reading." },
+            { "singular": "❌ She avoided to meet him.", "plural": "✔ She avoided meeting him." },
+            { "singular": "❌ He suggested to go to the cinema.", "plural": "✔ He suggested going to the cinema." },
+            { "singular": "❌ I gave up to smoke.", "plural": "✔ I gave up smoking." }
+          ]
+        },
+        {
+          "pattern": "Negative gerund — NOT + -ing (not 'to not')",
+          "examples": [
+            { "singular": "negative form", "plural": "He admitted NOT KNOWING the answer. (NOT 'to not know')" },
+            { "singular": "negative form", "plural": "She regrets NOT GOING to university." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "infinitive-only",
+      "title": "3. Verbs Followed by TO-INFINITIVE ONLY",
+      "summary": "These verbs require 'to + V'. Using -ing is wrong.",
+      "rules": [
+        {
+          "pattern": "Common verbs taking TO-INFINITIVE only",
+          "items": [
+            "want (I want to leave)",
+            "decide (She decided to apply)",
+            "hope (We hope to see you soon)",
+            "expect (I expect to arrive by 5)",
+            "promise (He promised to call)",
+            "agree (They agreed to help)",
+            "refuse (She refused to comment)",
+            "offer (He offered to drive me)",
+            "plan (We plan to visit Italy)",
+            "intend (I intend to finish today)",
+            "manage (She managed to escape)",
+            "fail (He failed to attend)",
+            "afford (I can't afford to lose this job)",
+            "deserve (You deserve to know)",
+            "tend (Children tend to learn quickly)",
+            "seem / appear (She seems to know him)",
+            "pretend (He pretended to sleep)",
+            "claim (He claimed to be a doctor)",
+            "threaten (She threatened to quit)",
+            "wish (I wish to apply for the position)",
+            "happen (I happened to meet her)",
+            "prepare (We prepared to leave)",
+            "arrange (We arranged to meet at noon)",
+            "demand (They demanded to see the manager)",
+            "ask (She asked to be excused)",
+            "learn (He learned to swim)",
+            "choose (She chose to study abroad)",
+            "hesitate (Don't hesitate to ask)"
+          ]
+        },
+        {
+          "pattern": "Common errors",
+          "examples": [
+            { "singular": "❌ I want going home.", "plural": "✔ I want to go home." },
+            { "singular": "❌ She decided studying medicine.", "plural": "✔ She decided to study medicine." },
+            { "singular": "❌ We agreed meeting at 6.", "plural": "✔ We agreed to meet at 6." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "both-same",
+      "title": "4. Verbs Taking BOTH — Same Meaning",
+      "summary": "These verbs accept either gerund or to-infinitive with no difference in meaning.",
+      "rules": [
+        {
+          "pattern": "Both forms, same meaning — pick whichever",
+          "items": [
+            "begin / start (I began studying / I began to study)",
+            "continue (She continues working / to work)",
+            "like (I like swimming / to swim)",
+            "love (I love dancing / to dance)",
+            "hate (I hate waiting / to wait)",
+            "prefer (I prefer reading / to read)",
+            "intend (We intend going / to go)",
+            "propose (formal: He proposed leaving / to leave)",
+            "attempt (She attempted explaining / to explain)",
+            "bother (Don't bother coming / to come)",
+            "can't bear / can't stand (I can't bear waiting / to wait)"
+          ]
+        },
+        {
+          "pattern": "Subtle stylistic differences",
+          "examples": [
+            { "singular": "-ing emphasises ongoing process", "plural": "I love DANCING. (general activity)" },
+            { "singular": "to-V emphasises specific occasion or preference", "plural": "I would love TO DANCE with you. (specific)" }
+          ],
+          "note": "Both correct. -ing is slightly more general; to-infinitive often has a specific or polite tone."
+        }
+      ]
+    },
+    {
+      "id": "both-different",
+      "title": "5. Verbs Taking BOTH — DIFFERENT Meaning (Critical)",
+      "summary": "These verbs take both forms — but the meaning changes completely. Confusing them is a Band 6 vocabulary/grammar error that examiners catch.",
+      "rules": [
+        {
+          "pattern": "STOP",
+          "examples": [
+            { "singular": "stop + -ing = quit doing", "plural": "I stopped smoking last year. (= I quit)" },
+            { "singular": "stop + to V = pause in order to do", "plural": "I stopped to smoke. (= I paused my activity in order to have a cigarette)" }
+          ]
+        },
+        {
+          "pattern": "REMEMBER",
+          "examples": [
+            { "singular": "remember + -ing = recall a past action", "plural": "I remember LOCKING the door. (= I locked it; I remember doing so)" },
+            { "singular": "remember + to V = remember to do (future obligation)", "plural": "Remember TO LOCK the door. (= don't forget to do it)" }
+          ]
+        },
+        {
+          "pattern": "FORGET",
+          "examples": [
+            { "singular": "forget + -ing = fail to recall a past action", "plural": "I'll never forget MEETING her. (= I met her; the memory is permanent)" },
+            { "singular": "forget + to V = fail to do something", "plural": "I forgot TO LOCK the door. (= I didn't lock it)" }
+          ]
+        },
+        {
+          "pattern": "REGRET",
+          "examples": [
+            { "singular": "regret + -ing = feel sorry about a past action", "plural": "I regret SAYING that. (= I said it; now I'm sorry)" },
+            { "singular": "regret + to V = sorry to inform (formal)", "plural": "I regret TO INFORM you that your application was unsuccessful." }
+          ]
+        },
+        {
+          "pattern": "TRY",
+          "examples": [
+            { "singular": "try + -ing = experiment, do as a test", "plural": "Try ADDING more salt. (= experiment with adding salt)" },
+            { "singular": "try + to V = attempt, make an effort", "plural": "I tried TO OPEN the door. (= I made an effort but maybe didn't succeed)" }
+          ]
+        },
+        {
+          "pattern": "MEAN",
+          "examples": [
+            { "singular": "mean + -ing = involve / result in", "plural": "Getting promoted means MOVING to a new city. (= involves)" },
+            { "singular": "mean + to V = intend to", "plural": "I meant TO CALL you yesterday. (= I intended to)" }
+          ]
+        },
+        {
+          "pattern": "GO ON",
+          "examples": [
+            { "singular": "go on + -ing = continue the same action", "plural": "She went on TALKING for hours. (= continued talking)" },
+            { "singular": "go on + to V = move to next action", "plural": "She finished her degree, then went on TO STUDY law. (= moved to next thing)" }
+          ]
+        },
+        {
+          "pattern": "NEED — passive shortcut",
+          "examples": [
+            { "singular": "need + -ing = passive meaning (need to be done)", "plural": "The car needs WASHING. (= needs to be washed)" },
+            { "singular": "need + to V = active necessity", "plural": "I need TO WASH the car." }
+          ]
+        }
+      ],
+      "tip": "Memorise these 8 'meaning-shift' verbs as a list and drill 5 sentences with each (4 correct + 1 with intentional mix-up to recognise the error). They appear constantly in IELTS Reading."
+    },
+    {
+      "id": "preposition-gerund",
+      "title": "6. After PREPOSITIONS — Always GERUND (Never to-V)",
+      "summary": "After ANY preposition (in, on, at, of, for, with, about, by, from, etc.), the verb MUST be -ing form.",
+      "rules": [
+        {
+          "pattern": "Adjective + preposition + -ING",
+          "items": [
+            "good at (She is good at SOLVING problems)",
+            "interested in (I am interested in LEARNING German)",
+            "tired of (We are tired of WAITING)",
+            "afraid of (Don't be afraid of MAKING mistakes)",
+            "responsible for (Who is responsible for ORGANISING this?)",
+            "capable of (She is capable of HANDLING the project)",
+            "fond of (He is fond of TRAVELLING)",
+            "keen on (BrE: I'm keen on STARTING soon)",
+            "used to / accustomed to (I'm used to GETTING up early)"
+          ]
+        },
+        {
+          "pattern": "Verb + preposition + -ING",
+          "items": [
+            "look forward to (I look forward to MEETING you)",
+            "insist on (She insisted on PAYING)",
+            "succeed in (He succeeded in PASSING the exam)",
+            "object to (They objected to BEING treated unfairly)",
+            "apologise for (I apologise for BEING late)",
+            "confess to (He confessed to STEALING)",
+            "thank for (Thank you for HELPING me)",
+            "stop from (Nothing can stop me from TRYING)",
+            "depend on (Success depends on WORKING hard)",
+            "give up on (I won't give up on SOLVING this)",
+            "warn against (She warned us against INVESTING there)"
+          ]
+        },
+        {
+          "pattern": "Common error — 'to' as preposition vs 'to' as infinitive marker",
+          "examples": [
+            { "singular": "❌ I look forward to MEET you. (treated 'to' as infinitive marker)", "plural": "✔ I look forward to MEETING you. (here 'to' is a preposition!)" },
+            { "singular": "❌ I'm used to WORK hard.", "plural": "✔ I'm used to WORKING hard. ('used to + -ing' = accustomed to)" }
+          ],
+          "note": "When 'to' is a PREPOSITION (look forward to / used to / accustomed to / object to / opposed to / committed to / dedicated to), it takes -ING. When 'to' is an INFINITIVE marker (want to / decide to / try to), it takes V. Test: replace 'to' with 'to + a noun'. If it sounds natural ('I look forward to the meeting'), it's a preposition → use -ING."
+        },
+        {
+          "pattern": "Noun + of + -ING",
+          "items": [
+            "the importance of",
+            "the possibility of",
+            "the difficulty of",
+            "the risk of",
+            "the chance of",
+            "the way of",
+            "the idea of",
+            "the cost of"
+          ],
+          "examples": [
+            { "singular": "noun + of + -ing", "plural": "The importance of GETTING enough sleep cannot be overstated." },
+            { "singular": "noun + of + -ing", "plural": "The possibility of REACHING an agreement seems remote." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "verb-object",
+      "title": "7. Verb + OBJECT + Infinitive (or -ing)",
+      "summary": "Many verbs take an object before the infinitive. A small group take an object before -ing. Get the pattern right.",
+      "rules": [
+        {
+          "pattern": "Verb + object + TO-INFINITIVE",
+          "items": [
+            "ask sb to do (I asked her to leave)",
+            "tell sb to do (He told me to wait)",
+            "want sb to do (I want you to come)",
+            "expect sb to do (We expect them to arrive)",
+            "advise sb to do (She advised me to study)",
+            "allow sb to do (They allowed us to enter)",
+            "encourage sb to do (His teacher encouraged him to apply)",
+            "force sb to do (She was forced to leave)",
+            "invite sb to do (He invited me to dinner)",
+            "persuade sb to do (I persuaded her to stay)",
+            "remind sb to do (Remind me to call)",
+            "warn sb to do / not to do (She warned us to be careful)",
+            "teach sb to do (My father taught me to drive)",
+            "help sb (to) do (Can you help me (to) move?)"
+          ]
+        },
+        {
+          "pattern": "Verb + object + BARE INFINITIVE (no 'to')",
+          "items": [
+            "make sb do (She made me cry)",
+            "let sb do (Let me help)",
+            "have sb do (causative: I'll have him fix it)",
+            "see sb do (I saw him leave — completed action)",
+            "hear sb do (We heard her sing — completed action)",
+            "feel sb do (I felt her hand touch mine — completed action)",
+            "watch sb do (We watched the team play)"
+          ],
+          "note": "Sense verbs (see, hear, watch, feel) can also take -ING for action in progress: 'I saw him crossing the street' (in progress) vs 'I saw him cross the street' (complete action)."
+        },
+        {
+          "pattern": "MAKE / LET — passive forms differ",
+          "examples": [
+            { "singular": "active (bare inf)", "plural": "She made me cry." },
+            { "singular": "passive (TO-inf)", "plural": "I was made to cry." },
+            { "singular": "active (bare inf)", "plural": "They let her go." },
+            { "singular": "passive (use 'allowed')", "plural": "She was allowed to go. ('Let' has no normal passive — use 'allow' instead)" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ielts-application",
+      "title": "8. Verb Patterns in IELTS Writing & Speaking",
+      "summary": "Specific high-yield patterns to deploy in IELTS contexts.",
+      "rules": [
+        {
+          "pattern": "Task 2 — opinion verbs",
+          "examples": [
+            { "singular": "I tend to V (hedged opinion)", "plural": "I tend to agree with the first view." },
+            { "singular": "I am inclined to V", "plural": "I am inclined to disagree with this perspective." },
+            { "singular": "It is worth + -ing", "plural": "It is worth considering both sides of the argument." },
+            { "singular": "There is no point in + -ing", "plural": "There is no point in denying the seriousness of the issue." }
+          ]
+        },
+        {
+          "pattern": "Task 2 — recommendation verbs",
+          "examples": [
+            { "singular": "should consider + -ing", "plural": "Governments should consider investing more in renewable energy." },
+            { "singular": "must focus on + -ing", "plural": "Educators must focus on developing critical thinking." },
+            { "singular": "be committed to + -ing", "plural": "Society must be committed to addressing inequality." }
+          ]
+        },
+        {
+          "pattern": "Speaking Part 2 — habit / routine descriptions",
+          "examples": [
+            { "singular": "I am used to + -ing", "plural": "I'm used to waking up early for work." },
+            { "singular": "I have got used to + -ing", "plural": "I've got used to living in a big city." },
+            { "singular": "I would rather V (than V)", "plural": "I'd rather stay home than go out tonight." }
+          ]
+        },
+        {
+          "pattern": "Speaking Part 3 — abstract discussion",
+          "examples": [
+            { "singular": "It is essential to V", "plural": "It is essential to balance work and family life." },
+            { "singular": "There is a risk of + -ing", "plural": "There is a risk of losing cultural identity in a globalised world." },
+            { "singular": "be aware of + -ing", "plural": "Young people need to be aware of protecting their data online." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "errors",
+      "title": "9. Top Verb-Pattern Errors at the Band 6 → 7+ Threshold",
+      "summary": "Specific mistakes that pull Band 7 candidates down.",
+      "rules": [
+        {
+          "pattern": "1. Wrong form after 'enjoy / avoid / suggest / consider'",
+          "examples": [
+            { "singular": "❌ I enjoy to play football.", "plural": "✔ I enjoy playing football." },
+            { "singular": "❌ He suggested to go to the cinema.", "plural": "✔ He suggested going to the cinema." }
+          ]
+        },
+        {
+          "pattern": "2. Wrong form after 'want / decide / hope / agree'",
+          "examples": [
+            { "singular": "❌ I want going home.", "plural": "✔ I want to go home." },
+            { "singular": "❌ We agreed meeting at 6.", "plural": "✔ We agreed to meet at 6." }
+          ]
+        },
+        {
+          "pattern": "3. After 'look forward to' or 'used to' (preposition 'to')",
+          "examples": [
+            { "singular": "❌ I look forward to meet you.", "plural": "✔ I look forward to meeting you." },
+            { "singular": "❌ I'm used to work hard.", "plural": "✔ I'm used to working hard." }
+          ]
+        },
+        {
+          "pattern": "4. After preposition (always -ing)",
+          "examples": [
+            { "singular": "❌ I am interested in to learn German.", "plural": "✔ I am interested in learning German." },
+            { "singular": "❌ Thank you for help me.", "plural": "✔ Thank you for helping me." }
+          ]
+        },
+        {
+          "pattern": "5. Confusing 'stop -ing' with 'stop to V'",
+          "examples": [
+            { "singular": "❌ I stopped to smoke last year. (means: I paused to have a cigarette)", "plural": "✔ I stopped smoking last year. (= I quit)" }
+          ]
+        },
+        {
+          "pattern": "6. Confusing 'remember -ing' with 'remember to V'",
+          "examples": [
+            { "singular": "❌ Remember locking the door before you leave.", "plural": "✔ Remember to lock the door before you leave. (= future obligation)" }
+          ]
+        },
+        {
+          "pattern": "7. 'To' after 'make / let' (no 'to' needed)",
+          "examples": [
+            { "singular": "❌ She made me to cry.", "plural": "✔ She made me cry." },
+            { "singular": "❌ Let me to help you.", "plural": "✔ Let me help you." }
+          ]
+        },
+        {
+          "pattern": "8. Wrong negative form ('to not' vs 'not to')",
+          "examples": [
+            { "singular": "❌ I decided to not go.", "plural": "✔ I decided not to go. ('not' before 'to')" },
+            { "singular": "❌ She admitted to not knowing.", "plural": "✔ She admitted not knowing. (negative -ing)" }
+          ]
+        },
+        {
+          "pattern": "9. Adjective + to-V vs adjective + -ing",
+          "examples": [
+            { "singular": "❌ I am happy meeting you.", "plural": "✔ I am happy to meet you. (adjectives take to-V for reaction)" },
+            { "singular": "✔ He is busy WORKING.", "plural": "(busy + -ing for ongoing activity)" }
+          ]
+        }
+      ],
+      "tip": "Build a personal verb-pattern flashcard deck: front = verb, back = pattern + example. Drill 10/day. After 14 days, the top 50 patterns become automatic. This is the single most effective drill for eliminating gerund/infinitive errors."
+    }
+  ],
+  "checklist": [
+    "I always use -ING after enjoy / avoid / suggest / consider / recommend / deny / admit / mind.",
+    "I always use TO-V after want / decide / hope / expect / agree / refuse / promise / plan.",
+    "I always use -ING after ANY preposition (in, on, at, of, for, with, by, from, about).",
+    "I always use -ING after 'look forward to / used to / accustomed to / committed to' (here 'to' is a preposition, not infinitive marker).",
+    "I distinguish 'stop + -ing' (quit) from 'stop + to V' (pause in order to).",
+    "I distinguish 'remember + -ing' (past memory) from 'remember + to V' (future obligation).",
+    "I distinguish 'try + -ing' (experiment) from 'try + to V' (attempt).",
+    "I never put 'to' after make / let / have (causative): 'She made me cry', not 'made me to cry'.",
+    "I form negatives correctly: 'decided NOT TO V' (not 'to not V') and 'admitted NOT V-ing' (not 'to not -ing').",
+    "I use bare infinitive after modals (can swim, should leave) — never 'to'.",
+    "I deploy at least 3 different verb-pattern collocations per Band 7+ Task 2 essay (consider doing, focus on doing, committed to doing)."
+  ]
+}

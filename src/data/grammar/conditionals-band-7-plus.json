@@ -1,0 +1,324 @@
+{
+  "title": "Conditionals — Band 7+ Reference",
+  "subtitle": "Zero / 1st / 2nd / 3rd + Mixed + Inverted + Wish/If only — the highest Band 7+ signal",
+  "icon": "🔀",
+  "intro": "Conditionals are gold for IELTS Band 7+. They show complex thinking — cause-effect, hypothesis, regret, hypothetical reasoning. Speaking Part 3 examiners specifically use 'What would happen if…' to test conditional control. Mixed and inverted conditionals are the single clearest Band 7.5+ markers in Writing Task 2.",
+  "sections": [
+    {
+      "id": "four-types",
+      "title": "1. The Four Standard Conditionals",
+      "summary": "Memorise the form of each. Choosing the wrong one for the meaning is a Band 6 grammar error.",
+      "rules": [
+        {
+          "pattern": "ZERO CONDITIONAL — general truths / scientific facts",
+          "examples": [
+            { "singular": "Form: If + Present, Present", "plural": "If you heat water to 100°C, it boils." },
+            { "singular": "general rule", "plural": "If people exercise regularly, they live longer." },
+            { "singular": "habit / automatic result", "plural": "If I drink coffee at night, I can't sleep." }
+          ],
+          "note": "'When' often replaces 'if' here, with the same meaning: 'When you heat water…'"
+        },
+        {
+          "pattern": "FIRST CONDITIONAL — likely / possible future",
+          "examples": [
+            { "singular": "Form: If + Present, will + V", "plural": "If it rains tomorrow, we will cancel the trip." },
+            { "singular": "warning / consequence", "plural": "If you don't study, you will fail the exam." },
+            { "singular": "promise", "plural": "If you help me, I will help you in return." }
+          ],
+          "note": "Modal alternatives: 'will' can be replaced by 'can / may / might / should': 'If it rains, we MAY stay home.'"
+        },
+        {
+          "pattern": "SECOND CONDITIONAL — unlikely / imaginary present or future",
+          "examples": [
+            { "singular": "Form: If + Past Simple, would + V", "plural": "If I had more time, I would learn another language." },
+            { "singular": "hypothetical advice", "plural": "If I were you, I would accept the offer." },
+            { "singular": "imaginary scenario", "plural": "If everyone used public transport, cities would be cleaner." }
+          ],
+          "note": "Use 'were' (not 'was') for all persons in formal English: 'If I WERE rich…' This is the subjunctive form examiners reward."
+        },
+        {
+          "pattern": "THIRD CONDITIONAL — impossible past (regret / hypothetical past)",
+          "examples": [
+            { "singular": "Form: If + Past Perfect, would have + V3", "plural": "If I had studied medicine, I would have become a doctor." },
+            { "singular": "regret", "plural": "If she had left earlier, she would not have missed the train." },
+            { "singular": "alternative past", "plural": "If governments had acted sooner, the crisis would have been avoided." }
+          ],
+          "note": "❌ Common error: using 'would have' in the if-clause: 'If I would have studied…' This is wrong. Use Past Perfect ('If I had studied…')."
+        }
+      ]
+    },
+    {
+      "id": "mixed",
+      "title": "2. Mixed Conditionals — The Band 7+ Signature",
+      "summary": "Mixed conditionals combine times. Using one accurate mixed conditional in a Task 2 essay is a strong Band 7.5+ marker — most candidates never reach this.",
+      "rules": [
+        {
+          "pattern": "TYPE A — past condition → present result",
+          "examples": [
+            { "singular": "Form: If + Past Perfect, would + V", "plural": "If I had studied medicine, I would be a doctor now." },
+            { "singular": "past choice → present situation", "plural": "If she had taken the job in London, she would be living there now." },
+            { "singular": "past inaction → present problem", "plural": "If governments had invested in renewable energy in the 1990s, climate change would not be such a serious problem today." }
+          ],
+          "note": "The action in the if-clause happened (or didn't) in the past; the result applies right now."
+        },
+        {
+          "pattern": "TYPE B — present condition → past result",
+          "examples": [
+            { "singular": "Form: If + Past Simple, would have + V3", "plural": "If I were better organised, I would not have missed the deadline." },
+            { "singular": "general trait → past consequence", "plural": "If he weren't so impatient, he would have got the promotion." },
+            { "singular": "ongoing condition → past event", "plural": "If she didn't speak French, she would not have got the job in Paris." }
+          ],
+          "note": "The if-clause describes a general or ongoing condition (true in present); the result clause refers to a specific past event."
+        }
+      ],
+      "tip": "Memorise ONE template per type and deploy it under exam pressure: 'If I hadn't [past action], I wouldn't be [present state] today.' (Type A) — perfect for Speaking Part 2 about turning points."
+    },
+    {
+      "id": "inverted",
+      "title": "3. Inverted Conditionals (Drop 'if')",
+      "summary": "Drop 'if' and invert subject and auxiliary. Formal, written register. One per essay is impressive; three sounds forced.",
+      "rules": [
+        {
+          "pattern": "FIRST CONDITIONAL inversion — Should + Subject + V",
+          "examples": [
+            { "singular": "If you should need help → Should you need help", "plural": "Should you need any further information, please contact me." },
+            { "singular": "If the situation should arise", "plural": "Should the situation arise, the committee will reconvene." }
+          ],
+          "note": "Common in formal letters and reports."
+        },
+        {
+          "pattern": "SECOND CONDITIONAL inversion — Were + Subject + (to) + V",
+          "examples": [
+            { "singular": "If I were to choose → Were I to choose", "plural": "Were I to choose again, I would pick a different career." },
+            { "singular": "If governments were to act", "plural": "Were governments to act decisively, climate change could be mitigated." },
+            { "singular": "If it were not for + noun", "plural": "Were it not for technology, modern life would be unrecognisable." }
+          ]
+        },
+        {
+          "pattern": "THIRD CONDITIONAL inversion — Had + Subject + V3",
+          "examples": [
+            { "singular": "If I had known → Had I known", "plural": "Had I known the risks, I would never have invested." },
+            { "singular": "If she had not intervened", "plural": "Had she not intervened, the situation would have escalated." },
+            { "singular": "If it had not been for + noun", "plural": "Had it not been for the new policy, the crisis would have continued." }
+          ]
+        }
+      ],
+      "tip": "In Task 2 conclusions, drop in ONE inverted conditional: 'Should this trend continue…' or 'Were governments to take stronger action…'. That single sentence raises the perceived register of the whole conclusion."
+    },
+    {
+      "id": "wish",
+      "title": "4. Wish / If only / I'd rather / It's (high) time",
+      "summary": "All four use the UNREAL PAST (Past Simple or Past Perfect) even when the meaning is present or future. This is one of the highest-yield Band 7+ patterns.",
+      "rules": [
+        {
+          "pattern": "WISH / IF ONLY + Past Simple — present unreality (something not true now)",
+          "examples": [
+            { "singular": "I don't know the answer", "plural": "I wish I knew the answer." },
+            { "singular": "She doesn't speak French", "plural": "She wishes she spoke French." },
+            { "singular": "It's raining", "plural": "If only it weren't raining." }
+          ],
+          "note": "Use 'were' (not 'was') for formal register: 'I wish I WERE taller.'"
+        },
+        {
+          "pattern": "WISH / IF ONLY + Past Perfect — past regret",
+          "examples": [
+            { "singular": "I didn't study harder", "plural": "I wish I had studied harder." },
+            { "singular": "We took the wrong route", "plural": "If only we hadn't taken that route." },
+            { "singular": "The government didn't act sooner", "plural": "Many citizens wish the government had acted sooner." }
+          ]
+        },
+        {
+          "pattern": "WISH + would — complaint about someone else's behaviour",
+          "examples": [
+            { "singular": "He keeps interrupting", "plural": "I wish he would stop interrupting." },
+            { "singular": "It keeps raining", "plural": "I wish it would stop raining." }
+          ],
+          "note": "Don't use 'wish + would' for yourself: ❌ 'I wish I would study harder.' Use 'I wish I studied harder' (Simple) or 'could' (I wish I could study harder)."
+        },
+        {
+          "pattern": "I'D RATHER + Subject + Past Simple — preference about now",
+          "examples": [
+            { "singular": "preference (now)", "plural": "I'd rather you didn't smoke here." },
+            { "singular": "preference (someone else)", "plural": "She'd rather we left earlier." }
+          ],
+          "note": "If the subject is the SAME as the speaker, use bare infinitive: 'I'd rather stay at home' (no 'past', no 'to')."
+        },
+        {
+          "pattern": "IT'S (HIGH) TIME + Subject + Past Simple — something should be happening NOW",
+          "examples": [
+            { "singular": "general urgency", "plural": "It's high time the government acted on climate change." },
+            { "singular": "personal urgency", "plural": "It's time you found a job." },
+            { "singular": "criticism", "plural": "It's about time someone said something." }
+          ],
+          "note": "The Past Simple form is misleading — the meaning is PRESENT/FUTURE urgency, not past."
+        }
+      ],
+      "tip": "Speaking Part 3 questions about social problems are perfect for 'It's high time + Past Simple': 'It's high time governments invested more in education / regulated social media / addressed inequality.'"
+    },
+    {
+      "id": "alternatives",
+      "title": "5. Alternatives to 'if'",
+      "summary": "Vary your conditional connectors. Repeating 'if-if-if' across an essay sounds Band 6.",
+      "rules": [
+        {
+          "pattern": "PROVIDED THAT / PROVIDING / AS LONG AS — on the condition that",
+          "examples": [
+            { "singular": "formal", "plural": "Students may attend the workshop, provided that they register in advance." },
+            { "singular": "informal", "plural": "I'll lend you the book, as long as you return it next week." }
+          ]
+        },
+        {
+          "pattern": "UNLESS — if not (used with positive verb)",
+          "examples": [
+            { "singular": "warning", "plural": "Unless you study, you will fail." },
+            { "singular": "exception", "plural": "We will go to the park unless it rains." }
+          ],
+          "note": "❌ Common error: 'Unless you don't study, you will fail.' 'Unless' already contains the negative — never pair it with another negative."
+        },
+        {
+          "pattern": "SUPPOSING / SUPPOSE / WHAT IF — hypothetical (often spoken)",
+          "examples": [
+            { "singular": "imagine a scenario", "plural": "Supposing you won the lottery, what would you do?" },
+            { "singular": "Speaking Part 3", "plural": "What if everyone worked from home permanently?" }
+          ]
+        },
+        {
+          "pattern": "IN CASE — as a precaution (NOT 'if')",
+          "examples": [
+            { "singular": "preparation", "plural": "Take an umbrella in case it rains." },
+            { "singular": "precaution", "plural": "Save your work regularly in case the computer crashes." }
+          ],
+          "note": "'In case' ≠ 'if'. 'In case it rains' means 'so that you are prepared if it does'. 'If it rains' means 'on condition that it rains'."
+        },
+        {
+          "pattern": "ON CONDITION THAT / ASSUMING THAT — formal alternatives",
+          "examples": [
+            { "singular": "formal contract", "plural": "The funding will be granted on condition that progress reports are submitted quarterly." },
+            { "singular": "academic", "plural": "Assuming current trends continue, global temperatures will rise by 2°C by 2050." }
+          ]
+        },
+        {
+          "pattern": "OTHERWISE — implicit conditional ('if not')",
+          "examples": [
+            { "singular": "after a statement", "plural": "Wear a coat; otherwise, you will catch a cold. (= if you don't wear a coat)" },
+            { "singular": "warning", "plural": "Submit the application by Friday; otherwise, your place may be withdrawn." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ielts-application",
+      "title": "6. Conditionals in IELTS Speaking & Writing",
+      "summary": "Examiners specifically design questions to test conditional control. Recognise the prompt and deploy the right form.",
+      "rules": [
+        {
+          "pattern": "Speaking Part 3 — hypothetical questions trigger Second Conditional",
+          "examples": [
+            { "singular": "'What would happen if everyone used public transport?'", "plural": "If everyone used public transport, cities would be cleaner and traffic would be reduced." },
+            { "singular": "'How would things change if working hours were shorter?'", "plural": "If working hours were shorter, employees would be more productive and have better work-life balance." }
+          ],
+          "note": "A Band 6 candidate answers in Present Simple ('Cities are cleaner…'). A Band 7+ candidate stays in 'would' throughout the answer."
+        },
+        {
+          "pattern": "Writing Task 2 — using Mixed conditionals for cause-effect",
+          "examples": [
+            { "singular": "social commentary", "plural": "If governments had invested in renewable energy decades ago, we would not be facing such a serious climate crisis today." },
+            { "singular": "education essay", "plural": "If schools had introduced coding earlier, today's workforce would be far better prepared for technological change." }
+          ]
+        },
+        {
+          "pattern": "Writing Task 2 — Inverted conditionals in formal tone",
+          "examples": [
+            { "singular": "policy recommendation", "plural": "Were governments to invest more in public transport, urban congestion would be significantly reduced." },
+            { "singular": "warning conclusion", "plural": "Should this trend continue, the consequences for future generations will be severe." }
+          ]
+        },
+        {
+          "pattern": "Writing Task 2 — 'It's high time' for criticism / urgency",
+          "examples": [
+            { "singular": "introduction", "plural": "It is high time policymakers acknowledged the scale of the problem." },
+            { "singular": "conclusion", "plural": "It is about time society took collective responsibility for environmental protection." }
+          ]
+        }
+      ],
+      "tip": "Plan to use AT LEAST 3 different conditional forms in any 250-word Task 2 essay: one Second, one Third or Mixed, and one alternative form (unless / provided that / inverted)."
+    },
+    {
+      "id": "errors",
+      "title": "7. Top Conditional Errors at the Band 6 → 7+ Threshold",
+      "summary": "These specific errors pull a Band 7 candidate down to Band 6.5. Each is fixable with conscious practice.",
+      "rules": [
+        {
+          "pattern": "1. 'Would' inside the if-clause",
+          "examples": [
+            { "singular": "❌ If I would have time, I would help.", "plural": "✔ If I had time, I would help. (Second Conditional)" },
+            { "singular": "❌ If I would have known, I would have called.", "plural": "✔ If I had known, I would have called. (Third Conditional)" }
+          ],
+          "note": "Rule: 'would' goes in the RESULT clause, never in the if-clause (with rare exceptions for politeness)."
+        },
+        {
+          "pattern": "2. 'Will' inside the if-clause (mixing First and Zero)",
+          "examples": [
+            { "singular": "❌ If it will rain tomorrow, we will stay home.", "plural": "✔ If it rains tomorrow, we will stay home." }
+          ]
+        },
+        {
+          "pattern": "3. Double negative with 'unless'",
+          "examples": [
+            { "singular": "❌ Unless you don't try, you will fail.", "plural": "✔ Unless you try, you will fail." }
+          ]
+        },
+        {
+          "pattern": "4. 'Was' instead of 'were' in formal Second Conditional",
+          "examples": [
+            { "singular": "❌ If I was you, I would accept.", "plural": "✔ If I were you, I would accept." }
+          ],
+          "note": "'Was' is acceptable in informal speech, but Band 7+ writing should use 'were' for all persons."
+        },
+        {
+          "pattern": "5. Mixing tenses across the conditional incorrectly",
+          "examples": [
+            { "singular": "❌ If I had studied harder, I would get a better job now (Third in if-clause + present 'now' in result).", "plural": "✔ If I had studied harder, I would HAVE A better job now. (Mixed Type A — past condition + present result)" },
+            { "singular": "❌ If I would study harder, my marks would improve.", "plural": "✔ If I studied harder, my marks would improve. (consistent Second Conditional)" }
+          ],
+          "note": "Pick a conditional type and stay in it — or use a Mixed Conditional deliberately. Don't mix accidentally."
+        },
+        {
+          "pattern": "6. 'In case' confused with 'if'",
+          "examples": [
+            { "singular": "❌ Take an umbrella if it rains.", "plural": "✔ Take an umbrella in case it rains. (= as a precaution, before knowing if it rains)" }
+          ],
+          "note": "'If' = on condition that. 'In case' = as a precaution against the possibility of."
+        },
+        {
+          "pattern": "7. Inversion errors (forgetting subject-auxiliary swap)",
+          "examples": [
+            { "singular": "❌ Should you would need help, contact me.", "plural": "✔ Should you need help, contact me." },
+            { "singular": "❌ Were I to known the answer, I would tell you.", "plural": "✔ Were I to know the answer, I would tell you. (use base form after 'to')" }
+          ]
+        },
+        {
+          "pattern": "8. Forgetting tense shift in 'wish'",
+          "examples": [
+            { "singular": "❌ I wish I have more time.", "plural": "✔ I wish I had more time." },
+            { "singular": "❌ I wish I would be taller.", "plural": "✔ I wish I were taller. (use Past Simple for present unreality, not 'would')" }
+          ]
+        }
+      ],
+      "tip": "Self-test: write 8 sentences (one per conditional type + alternatives) on a real Band-7 topic like climate change or education. Check each against this error list before counting them as 'mastered'."
+    }
+  ],
+  "checklist": [
+    "I can name and form Zero, First, Second, Third — and write one accurate example of each.",
+    "I never put 'would' or 'will' inside an if-clause in standard conditionals.",
+    "I use 'were' (not 'was') for all persons in formal Second Conditional and 'wish' constructions.",
+    "I can produce both types of Mixed Conditional — past condition → present result, and present condition → past result.",
+    "I can deploy at least one Inverted Conditional (Should you / Were I to / Had I known) in a Task 2 essay without it sounding forced.",
+    "I use Wish + Past Simple for present unreality and Wish + Past Perfect for past regret — and never mix the two.",
+    "I use 'unless' with a positive verb and never write a double negative.",
+    "I distinguish 'in case' (precaution) from 'if' (condition).",
+    "I can answer Speaking Part 3 hypothetical questions (What would happen if…) staying in the 'would' world throughout.",
+    "I use 'It's high time + Past Simple' for present urgency in social-issues essays.",
+    "I plan to deploy at least 3 different conditional forms in any Band 7+ Task 2 essay."
+  ]
+}

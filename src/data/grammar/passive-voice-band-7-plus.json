@@ -1,0 +1,336 @@
+{
+  "title": "Passive Voice — Band 7+ Reference",
+  "subtitle": "Full passive across all tenses + reporting passives + causative — IELTS Task 1 essential",
+  "icon": "🔄",
+  "intro": "Passive voice is critical for IELTS Writing Task 1 (process diagrams are 70% passive) and high-impact for Task 2 academic register. Band 7+ candidates control passive in ALL 12 tenses, plus reporting passives ('It is said that…') and causative structures ('have something done'). This reference covers the full system.",
+  "sections": [
+    {
+      "id": "fundamentals",
+      "title": "1. Active vs Passive — When and Why",
+      "summary": "Passive shifts focus from the doer to the receiver of the action. Use it deliberately, not by default.",
+      "rules": [
+        {
+          "pattern": "Active vs Passive — basic transformation",
+          "examples": [
+            { "singular": "Active: They built the bridge in 1850.", "plural": "Passive: The bridge was built in 1850." },
+            { "singular": "Active: Scientists have discovered a new species.", "plural": "Passive: A new species has been discovered." },
+            { "singular": "Active: The committee will announce the results tomorrow.", "plural": "Passive: The results will be announced tomorrow." }
+          ],
+          "note": "Formula: Active O → Passive S. Active V → 'be' + V3. Active S → 'by + agent' (often dropped)."
+        },
+        {
+          "pattern": "WHEN to use passive — 4 situations",
+          "items": [
+            "1. The doer is unknown: 'My bike was stolen yesterday.' (don't know who)",
+            "2. The doer is unimportant: 'The school was built in 1980.' (we don't care who built it)",
+            "3. The doer is obvious: 'The criminal was arrested.' (obviously by police)",
+            "4. To put the receiver in focus: 'The economy is being affected by inflation.' (focus on economy, not inflation)"
+          ]
+        },
+        {
+          "pattern": "WHEN NOT to use passive",
+          "items": [
+            "When the doer is the most important information",
+            "When the active sounds clearer and more direct",
+            "Throughout an entire essay (overuse sounds vague and bureaucratic)"
+          ],
+          "note": "Band 6 candidates use almost no passive. Band 6.5 over-use it ('It can be said that it has been argued that it is believed that…'). Band 7+ uses passive deliberately, mixed with active."
+        }
+      ]
+    },
+    {
+      "id": "all-tenses",
+      "title": "2. Passive Across All Tenses",
+      "summary": "Memorise the passive form in every tense. The verb 'build' is conjugated below for reference.",
+      "rules": [
+        {
+          "pattern": "PRESENT passives",
+          "examples": [
+            { "singular": "Present Simple", "plural": "is/are built — Houses ARE BUILT every year." },
+            { "singular": "Present Continuous", "plural": "is/are being built — A new bridge IS BEING BUILT." },
+            { "singular": "Present Perfect", "plural": "has/have been built — Several schools HAVE BEEN BUILT recently." },
+            { "singular": "Present Perfect Continuous (rare)", "plural": "has/have been being built — Mostly avoided; rephrase as Present Perfect." }
+          ]
+        },
+        {
+          "pattern": "PAST passives",
+          "examples": [
+            { "singular": "Past Simple", "plural": "was/were built — The bridge WAS BUILT in 1850." },
+            { "singular": "Past Continuous", "plural": "was/were being built — While the road WAS BEING BUILT, traffic was diverted." },
+            { "singular": "Past Perfect", "plural": "had been built — By 1900, the cathedral HAD BEEN BUILT." },
+            { "singular": "Past Perfect Continuous (rare)", "plural": "had been being built — Avoided; rephrase." }
+          ]
+        },
+        {
+          "pattern": "FUTURE passives",
+          "examples": [
+            { "singular": "Future Simple", "plural": "will be built — A new airport WILL BE BUILT next year." },
+            { "singular": "Future Continuous (rare)", "plural": "will be being built — Avoided; rephrase as 'will be under construction'." },
+            { "singular": "Future Perfect", "plural": "will have been built — By 2030, the system WILL HAVE BEEN BUILT." },
+            { "singular": "be going to", "plural": "is/are going to be built — A new hospital IS GOING TO BE BUILT." }
+          ]
+        },
+        {
+          "pattern": "MODAL passives",
+          "examples": [
+            { "singular": "must / should / can / may + be + V3", "plural": "The document MUST BE SIGNED. / Schools SHOULD BE FUNDED. / The work CAN BE DONE quickly. / Permission MAY BE GRANTED." },
+            { "singular": "modal perfect passive", "plural": "must/should/could/might HAVE BEEN + V3 — The decision SHOULD HAVE BEEN MADE earlier. / The accident COULD HAVE BEEN PREVENTED." }
+          ],
+          "note": "Modal passive is high-yield for Band 7+ — 'must be addressed', 'should be implemented', 'can be achieved', 'might have been prevented'. Drop one in every Task 2 essay."
+        }
+      ],
+      "tip": "Conjugate 'build' through all 12 tenses in passive on one page. Then do the same for 'introduce', 'discover', 'recognise' — three high-frequency academic verbs."
+    },
+    {
+      "id": "reporting",
+      "title": "3. Passive of Reporting Verbs — 'It Is Said That…'",
+      "summary": "Two passive structures for reporting. Both make Task 2 essays sound objective and academic.",
+      "rules": [
+        {
+          "pattern": "TYPE 1: It + passive reporting verb + that-clause",
+          "examples": [
+            { "singular": "general claim", "plural": "It is said that smoking causes cancer." },
+            { "singular": "wide acceptance", "plural": "It is widely believed that climate change is human-induced." },
+            { "singular": "estimation", "plural": "It is estimated that 1 billion people lack clean water." },
+            { "singular": "argument", "plural": "It has been argued that technology has worsened isolation." },
+            { "singular": "expectation", "plural": "It is expected that the population will reach 9 billion by 2050." }
+          ]
+        },
+        {
+          "pattern": "TYPE 2: Subject + passive reporting verb + to-infinitive",
+          "examples": [
+            { "singular": "general claim", "plural": "Smoking is said to cause cancer." },
+            { "singular": "ongoing state", "plural": "He is believed to be hiding in a remote location." },
+            { "singular": "past action", "plural": "He is believed to have stolen the money. (past = to have + V3)" },
+            { "singular": "expectation", "plural": "The economy is expected to recover by next year." }
+          ],
+          "note": "Tense in the to-infinitive shifts: 'to be working' (current/ongoing); 'to have done' (past)."
+        },
+        {
+          "pattern": "Common reporting verbs (passive form)",
+          "items": [
+            "say (it is said that...)",
+            "believe (it is believed that...)",
+            "think (it is thought that...)",
+            "claim (it is claimed that...)",
+            "report (it is reported that...)",
+            "expect (it is expected that...)",
+            "know (it is known that...)",
+            "consider (it is considered that...)",
+            "allege (it is alleged that...)",
+            "estimate (it is estimated that...)",
+            "assume (it is assumed that...)",
+            "argue (it has been argued that...)",
+            "suggest (it has been suggested that...)",
+            "demonstrate (it has been demonstrated that...)"
+          ]
+        },
+        {
+          "pattern": "Why these matter for IELTS",
+          "examples": [
+            { "singular": "Band 6 (everyday)", "plural": "People say that technology has changed our lives." },
+            { "singular": "Band 7+ (academic)", "plural": "It is widely accepted that technology has transformed modern life. / Technology is widely accepted to have transformed modern life." }
+          ],
+          "note": "Reporting passives let you make a claim without naming the source — useful when discussing widely-held views."
+        }
+      ],
+      "tip": "Drop 1–2 reporting passives in every Task 2 essay — typically in the introduction ('It is widely believed that…') and conclusion ('It can therefore be argued that…')."
+    },
+    {
+      "id": "causative",
+      "title": "4. Causative — Have / Get Something Done",
+      "summary": "Express that someone else did the action for you. Common in Speaking and useful for Task 2 social-issue essays.",
+      "rules": [
+        {
+          "pattern": "HAVE + object + V3 — arranging a service",
+          "examples": [
+            { "singular": "Present Simple", "plural": "I have my car serviced every year." },
+            { "singular": "Present Continuous", "plural": "I am having my house painted this week." },
+            { "singular": "Past Simple", "plural": "She had her hair cut yesterday." },
+            { "singular": "Future Simple", "plural": "I will have my dress dry-cleaned for the wedding." },
+            { "singular": "Modal", "plural": "You should have your eyes checked annually." }
+          ]
+        },
+        {
+          "pattern": "GET + object + V3 — informal alternative",
+          "examples": [
+            { "singular": "informal", "plural": "I got my car repaired yesterday." },
+            { "singular": "informal", "plural": "She got her teeth whitened last month." },
+            { "singular": "Speaking Part 1", "plural": "Where do you usually get your hair cut?" }
+          ],
+          "note": "'Get' is more common in spoken English, 'have' in formal/written. Same meaning."
+        },
+        {
+          "pattern": "Negative meaning — experiencing something done to you",
+          "examples": [
+            { "singular": "loss / negative event", "plural": "He had his wallet stolen on the train." },
+            { "singular": "loss / negative event", "plural": "She got her phone confiscated by the teacher." },
+            { "singular": "loss / negative event", "plural": "Many citizens had their homes destroyed in the flood." }
+          ],
+          "note": "Same form, different meaning — context tells you whether it's an arrangement or an unfortunate experience."
+        },
+        {
+          "pattern": "Speaking Part 1 application",
+          "examples": [
+            { "singular": "Q: Do you cut your own hair?", "plural": "A: No, I usually have it cut at a salon. / I get my hair cut every two months." },
+            { "singular": "Q: Do you fix things yourself?", "plural": "A: Some things, but for cars and appliances I prefer to have them repaired by professionals." }
+          ],
+          "note": "These answers sound noticeably more advanced than 'No, somebody cuts my hair' (Band 6)."
+        }
+      ]
+    },
+    {
+      "id": "task1",
+      "title": "5. Passive in IELTS Writing Task 1 — Process Diagrams",
+      "summary": "Process diagrams (how something is made / how something works) are typically 70% passive. Mastering this means an instant Band 7+ on Task 1 grammar.",
+      "rules": [
+        {
+          "pattern": "Process diagram — typical passive sentences",
+          "examples": [
+            { "singular": "introduction step", "plural": "Raw materials are first collected from the source." },
+            { "singular": "transformation step", "plural": "The mixture is heated to 200°C and then poured into moulds." },
+            { "singular": "passive with adverb", "plural": "Once filtered, the liquid is bottled and labelled." },
+            { "singular": "modal passive (purpose)", "plural": "The product must be tested before being shipped." },
+            { "singular": "perfect passive (sequence)", "plural": "After the components have been assembled, the unit is packaged." }
+          ]
+        },
+        {
+          "pattern": "Sequencing passive steps with connectors",
+          "items": [
+            "Firstly, the raw material is collected.",
+            "Subsequently, it is processed in a large machine.",
+            "Once heated, the mixture is poured into moulds.",
+            "After cooling, the products are inspected for quality.",
+            "Finally, they are packaged and distributed to retailers."
+          ],
+          "note": "Connectors for processes: firstly, subsequently, then, once, after which, at this stage, meanwhile, finally."
+        },
+        {
+          "pattern": "Reduced passive participles in processes (Band 7+)",
+          "examples": [
+            { "singular": "full passive", "plural": "After the mixture has been heated, it is poured into moulds." },
+            { "singular": "reduced passive (more elegant)", "plural": "Once heated, the mixture is poured into moulds." },
+            { "singular": "fronted passive", "plural": "Cooled and inspected, the products are then packaged." }
+          ],
+          "note": "Reduced passives ('Once heated…', 'Having been processed…') are exactly what Band 7+ Task 1 looks like."
+        }
+      ],
+      "tip": "Pick any IELTS Task 1 process diagram online and write a 150-word description. After writing, count: passive verbs / total verbs. Aim for at least 70% passive in process descriptions."
+    },
+    {
+      "id": "task2",
+      "title": "6. Passive in IELTS Writing Task 2 — Strategic Use",
+      "summary": "Task 2 should mix active and passive. Reporting passives and modal passives are the high-value moves.",
+      "rules": [
+        {
+          "pattern": "Introduction passives — establishing common views",
+          "examples": [
+            { "singular": "It is + V3 + that", "plural": "It is widely believed that technology has transformed modern life." },
+            { "singular": "It has been + V3", "plural": "It has often been argued that economic growth comes at an environmental cost." }
+          ]
+        },
+        {
+          "pattern": "Body paragraph — modal passives for recommendations",
+          "examples": [
+            { "singular": "must be + V3", "plural": "Stricter regulations must be implemented to address this issue." },
+            { "singular": "should be + V3", "plural": "More resources should be allocated to public transport." },
+            { "singular": "can be + V3", "plural": "Significant progress can be achieved through international cooperation." }
+          ]
+        },
+        {
+          "pattern": "Conclusion — modal perfect passive for retrospect",
+          "examples": [
+            { "singular": "could have been + V3", "plural": "Many of these problems could have been avoided with earlier intervention." },
+            { "singular": "should have been + V3", "plural": "Such measures should have been introduced decades ago." }
+          ]
+        },
+        {
+          "pattern": "When to PREFER active in Task 2",
+          "examples": [
+            { "singular": "❌ vague passive", "plural": "It is felt by many people that…" },
+            { "singular": "✔ direct active", "plural": "Many people feel that…" }
+          ],
+          "note": "If the doer is important, use active. Reserve passive for objective statements."
+        }
+      ]
+    },
+    {
+      "id": "errors",
+      "title": "7. Top Passive-Voice Errors at the Band 6 → 7+ Threshold",
+      "summary": "Specific mistakes that pull Band 7 candidates down.",
+      "rules": [
+        {
+          "pattern": "1. Forgetting 'be' or wrong form of 'be'",
+          "examples": [
+            { "singular": "❌ The bridge built in 1850.", "plural": "✔ The bridge WAS built in 1850." },
+            { "singular": "❌ The decision been made.", "plural": "✔ The decision HAS been made. / The decision WAS made." }
+          ]
+        },
+        {
+          "pattern": "2. Wrong past participle (V3) — irregular verbs",
+          "examples": [
+            { "singular": "❌ The book was wrote by Orwell.", "plural": "✔ The book was WRITTEN by Orwell." },
+            { "singular": "❌ The game has been winned.", "plural": "✔ The game has been WON." },
+            { "singular": "❌ The cake was eated.", "plural": "✔ The cake was EATEN." }
+          ],
+          "note": "Memorise the irregular V3 list. The 30 most common irregulars (be/been, do/done, go/gone, give/given, take/taken, see/seen, etc.) cover 90% of usage."
+        },
+        {
+          "pattern": "3. Passive of intransitive verbs (impossible)",
+          "examples": [
+            { "singular": "❌ He was gone home. (gone is intransitive — no object)", "plural": "✔ He went home." },
+            { "singular": "❌ The accident was happened yesterday.", "plural": "✔ The accident happened yesterday. (happen has no passive)" }
+          ],
+          "note": "Verbs without an object (intransitive) cannot be passive: arrive, happen, go, come, exist, occur, sleep."
+        },
+        {
+          "pattern": "4. Over-use of passive throughout an essay",
+          "examples": [
+            { "singular": "❌ It is felt that it has been argued that it can be said that…", "plural": "✔ Mix active and passive. Use passive deliberately, not by default." }
+          ]
+        },
+        {
+          "pattern": "5. Wrong agent preposition ('by' vs 'with')",
+          "examples": [
+            { "singular": "❌ The cake was made with my mother.", "plural": "✔ The cake was made BY my mother. (agent = by)" },
+            { "singular": "❌ The cake was made by butter.", "plural": "✔ The cake was made WITH butter. (instrument/material = with)" }
+          ]
+        },
+        {
+          "pattern": "6. Reporting passive — wrong tense in to-infinitive",
+          "examples": [
+            { "singular": "❌ He is believed to steal the money. (sounds like a habit)", "plural": "✔ He is believed to HAVE STOLEN the money. (past act → 'to have + V3')" },
+            { "singular": "❌ She is said to be working there last year.", "plural": "✔ She is said to HAVE WORKED there last year." }
+          ]
+        },
+        {
+          "pattern": "7. Causative — using base verb instead of V3",
+          "examples": [
+            { "singular": "❌ I had my hair cutting yesterday.", "plural": "✔ I had my hair CUT yesterday. (V3, not -ing)" },
+            { "singular": "❌ She got her car repair last week.", "plural": "✔ She got her car REPAIRED last week." }
+          ]
+        },
+        {
+          "pattern": "8. Wrong subject pronoun in passive",
+          "examples": [
+            { "singular": "❌ Me was given a book.", "plural": "✔ I WAS GIVEN a book. (use subject pronoun)" }
+          ]
+        }
+      ],
+      "tip": "Print the irregular V3 list (be/been, do/done, see/seen, give/given, take/taken, write/written, eat/eaten, drive/driven, break/broken, choose/chosen, speak/spoken, steal/stolen, etc.). Drill 5 per day until automatic. This single drill fixes 60% of Band 6 passive errors."
+    }
+  ],
+  "checklist": [
+    "I can conjugate any verb in passive across all 12 tenses without hesitation.",
+    "I know all 30 most common irregular past participles (V3) and never write *wrote/*ate/*winned in passive.",
+    "I use modal passives (must be addressed, should be implemented, can be achieved) at least once per Task 2 essay.",
+    "I use modal perfect passives (could have been prevented, should have been introduced) where appropriate.",
+    "I use reporting passives (It is widely believed that… / X is said to have done Y) in introductions and conclusions.",
+    "I use causative have/get + V3 ('I had my hair cut') in Speaking, not 'somebody cut my hair'.",
+    "I aim for ~70% passive in IELTS Task 1 process diagrams.",
+    "I use reduced passive participles ('Once heated, the mixture…', 'Having been informed, she…') in process descriptions.",
+    "I never make intransitive verbs passive (gone, happened, occurred).",
+    "I use 'by' for the agent (by my mother) and 'with' for the instrument (with a knife) — never the wrong way.",
+    "I balance active and passive in Task 2 — never write four passives in a row."
+  ]
+}

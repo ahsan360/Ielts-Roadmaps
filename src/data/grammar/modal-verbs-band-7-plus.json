@@ -1,0 +1,380 @@
+{
+  "title": "Modal Verbs — Band 7+ Reference",
+  "subtitle": "Basic + expanded + perfect modals + speculation — the Band 7+ nuance toolkit",
+  "icon": "🎯",
+  "intro": "Modals carry meaning that no other word can: ability, possibility, necessity, advice, deduction, criticism. Band 6 candidates use only can / must / should — and only in the present. Band 7+ candidates use the full range, including PERFECT MODALS (must have, should have, could have) for past speculation and regret. Perfect modals are the single highest-value modal feature for Band 7.5+.",
+  "sections": [
+    {
+      "id": "fundamentals",
+      "title": "1. The Modal System — Form Basics",
+      "summary": "Modals share key grammar properties. Get these right; the rest is meaning.",
+      "rules": [
+        {
+          "pattern": "Modal grammar rules — the same for all modals",
+          "items": [
+            "Followed by BARE infinitive (no 'to'): 'I can swim' (NOT 'I can to swim')",
+            "No -s on third person: 'She can swim' (NOT 'She cans')",
+            "No 'do/does/did' for questions or negatives: 'Can you swim?' / 'I cannot swim' (NOT 'Do you can swim?')",
+            "Negative formed by adding 'not': can't, won't, shouldn't, mustn't, mightn't, couldn't, wouldn't",
+            "Modals do NOT have infinitive (*to can) or -ing (*canning) forms. Use replacement phrases."
+          ]
+        },
+        {
+          "pattern": "Modal replacements — when modals don't have a form",
+          "examples": [
+            { "singular": "infinitive replacement", "plural": "I want to be able to (not 'to can') swim." },
+            { "singular": "future of must", "plural": "I will have to (not 'will must') leave early." },
+            { "singular": "past of must (necessity)", "plural": "I had to (not 'musted') leave early." },
+            { "singular": "future of can", "plural": "I will be able to (not 'will can') help." }
+          ],
+          "note": "The 'be able to / have to' alternatives are NOT modals — they conjugate normally."
+        },
+        {
+          "pattern": "Modal + perfect — the 'past' form for present modals",
+          "examples": [
+            { "singular": "must / must have", "plural": "He MUST be tired now. → He MUST HAVE BEEN tired yesterday." },
+            { "singular": "should / should have", "plural": "You SHOULD apologise. → You SHOULD HAVE apologised yesterday." },
+            { "singular": "could / could have", "plural": "She COULD help us today. → She COULD HAVE HELPED us yesterday." }
+          ],
+          "note": "Modal + have + V3 = the modal meaning applied to a past situation. This is the Band 7+ payoff."
+        }
+      ]
+    },
+    {
+      "id": "ability",
+      "title": "2. Ability — Can / Could / Be Able To",
+      "summary": "Three forms with subtle differences for present, past, and future ability.",
+      "rules": [
+        {
+          "pattern": "CAN — present ability",
+          "examples": [
+            { "singular": "current skill", "plural": "She can speak four languages." },
+            { "singular": "general possibility", "plural": "Children can learn languages quickly." }
+          ]
+        },
+        {
+          "pattern": "COULD — past general ability",
+          "examples": [
+            { "singular": "habitual ability", "plural": "When I was young, I could run very fast." },
+            { "singular": "permanent ability", "plural": "She could read by the age of four." }
+          ]
+        },
+        {
+          "pattern": "WAS / WERE ABLE TO — past specific success",
+          "examples": [
+            { "singular": "managed to (specific instance)", "plural": "Despite the rain, we WERE ABLE TO finish the match." },
+            { "singular": "specific past success", "plural": "He WAS ABLE TO solve the puzzle in 5 minutes." }
+          ],
+          "note": "Critical distinction: 'could' = general past ability; 'was able to' = specific past success on one occasion. ❌ 'I could finish the test yesterday' is wrong if you mean 'I succeeded'. ✔ 'I was able to finish the test yesterday.'"
+        },
+        {
+          "pattern": "WILL BE ABLE TO — future ability",
+          "examples": [
+            { "singular": "future skill", "plural": "After the course, students WILL BE ABLE TO present in English." },
+            { "singular": "future capability", "plural": "By 2050, AI WILL BE ABLE TO perform many manual tasks." }
+          ]
+        },
+        {
+          "pattern": "COULDN'T — past inability (both general and specific)",
+          "examples": [
+            { "singular": "general", "plural": "She couldn't swim until she was ten." },
+            { "singular": "specific", "plural": "I couldn't open the door — it was locked." }
+          ],
+          "note": "Negative is simpler — 'couldn't' works for both general and specific past inability."
+        }
+      ]
+    },
+    {
+      "id": "permission",
+      "title": "3. Permission & Requests — Can / May / Could / Would",
+      "summary": "From most informal to most formal.",
+      "rules": [
+        {
+          "pattern": "Asking permission",
+          "examples": [
+            { "singular": "informal", "plural": "Can I borrow your pen?" },
+            { "singular": "polite", "plural": "Could I borrow your pen?" },
+            { "singular": "formal", "plural": "May I borrow your pen?" },
+            { "singular": "very formal", "plural": "Might I trouble you for your pen?" }
+          ]
+        },
+        {
+          "pattern": "Asking someone to do something",
+          "examples": [
+            { "singular": "informal", "plural": "Can you help me?" },
+            { "singular": "polite", "plural": "Could you help me?" },
+            { "singular": "polite (formal)", "plural": "Would you mind helping me?" },
+            { "singular": "very formal", "plural": "Would you be so kind as to help me?" }
+          ]
+        },
+        {
+          "pattern": "Granting permission",
+          "examples": [
+            { "singular": "neutral", "plural": "You can take a break now." },
+            { "singular": "formal / written", "plural": "Students may use the library after 8 p.m." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obligation",
+      "title": "4. Obligation, Necessity & Prohibition",
+      "summary": "Must / have to / should / ought to / had better — each has a slightly different shade.",
+      "rules": [
+        {
+          "pattern": "MUST — strong obligation (often from speaker's authority)",
+          "examples": [
+            { "singular": "internal urgency", "plural": "I must finish this report tonight." },
+            { "singular": "rule (formal/written)", "plural": "All applicants must submit the form by Friday." },
+            { "singular": "strong recommendation", "plural": "You must read this book — it's brilliant!" }
+          ]
+        },
+        {
+          "pattern": "HAVE TO — external obligation (rules, circumstances)",
+          "examples": [
+            { "singular": "external rule", "plural": "We have to wear uniforms at school." },
+            { "singular": "circumstantial necessity", "plural": "I have to leave early — my train is at 6." }
+          ],
+          "note": "Subtle difference: 'must' often = I/we/the speaker says so; 'have to' = the rules/circumstances say so. Both common; both correct."
+        },
+        {
+          "pattern": "MUSTN'T vs DON'T HAVE TO — opposite meanings",
+          "examples": [
+            { "singular": "mustn't = prohibition", "plural": "You mustn't smoke here. (= it's forbidden)" },
+            { "singular": "don't have to = no obligation", "plural": "You don't have to come if you don't want to. (= it's not necessary)" }
+          ],
+          "note": "Critical Band 7+ distinction. 'You mustn't' and 'You don't have to' are NOT the same."
+        },
+        {
+          "pattern": "SHOULD / OUGHT TO — advice, recommendation",
+          "examples": [
+            { "singular": "advice", "plural": "You should drink more water." },
+            { "singular": "recommendation", "plural": "Governments should invest more in renewable energy." },
+            { "singular": "expectation", "plural": "The bus should arrive any minute now." },
+            { "singular": "ought to (more formal)", "plural": "We ought to address this issue urgently." }
+          ]
+        },
+        {
+          "pattern": "HAD BETTER — strong advice with implied warning",
+          "examples": [
+            { "singular": "warning", "plural": "You had better leave now, or you'll miss the train." },
+            { "singular": "negative", "plural": "You had better not be late." }
+          ],
+          "note": "Bare infinitive after 'had better' (not 'to'). Negative: 'had better NOT'. Stronger than 'should'."
+        }
+      ]
+    },
+    {
+      "id": "deduction",
+      "title": "5. Deduction & Speculation — Modal Strength Scale",
+      "summary": "Rank modals by certainty for present and past speculation. This is one of the highest-yield Band 7+ areas.",
+      "rules": [
+        {
+          "pattern": "PRESENT speculation — strength scale",
+          "examples": [
+            { "singular": "MUST be (95% certain — positive)", "plural": "The lights are on. He must be home." },
+            { "singular": "CAN'T / COULDN'T be (95% certain — negative)", "plural": "He can't be at home — his car isn't there." },
+            { "singular": "COULD / MAY / MIGHT be (50% — possible)", "plural": "He might be at the gym. / She may be in the library." }
+          ],
+          "note": "❌ Common error: 'mustn't be' for negative deduction. The negative of deductive 'must' is 'can't' / 'couldn't'."
+        },
+        {
+          "pattern": "PRESENT speculation — continuous form (action in progress)",
+          "examples": [
+            { "singular": "must be V-ing", "plural": "She isn't answering. She must be sleeping." },
+            { "singular": "could/may/might be V-ing", "plural": "He might be working late tonight." },
+            { "singular": "can't be V-ing", "plural": "She can't be working — she's on holiday." }
+          ]
+        },
+        {
+          "pattern": "PAST speculation — perfect modals (THE BAND 7+ MARKER)",
+          "examples": [
+            { "singular": "MUST HAVE V3 (strong past deduction — positive)", "plural": "The road is wet. It must have rained last night." },
+            { "singular": "CAN'T / COULDN'T HAVE V3 (strong past deduction — negative)", "plural": "She can't have stolen the money — she was with me all evening." },
+            { "singular": "COULD / MAY / MIGHT HAVE V3 (50% — past possibility)", "plural": "He might have forgotten our appointment." },
+            { "singular": "MAY / MIGHT NOT HAVE V3", "plural": "She may not have received the email." }
+          ],
+          "note": "Drilling perfect modals is THE single highest-value modal exercise. Most Band 6 candidates can't form 'must have been' or 'might have forgotten' under pressure."
+        },
+        {
+          "pattern": "Past continuous speculation",
+          "examples": [
+            { "singular": "must have been V-ing", "plural": "He looked tired. He must have been working all night." },
+            { "singular": "might have been V-ing", "plural": "She didn't see me. She might have been thinking about something else." }
+          ]
+        }
+      ],
+      "tip": "Speaking Part 2 cue cards about people you don't know well are perfect for speculation: 'I imagine she must be very disciplined; she might also be quite reserved in interviews.'"
+    },
+    {
+      "id": "regret",
+      "title": "6. Regret, Criticism & Hypothetical Past — Perfect Modals",
+      "summary": "Use perfect modals to express regret about your past or criticism of others' past actions. Hugely under-used by Band 6 candidates.",
+      "rules": [
+        {
+          "pattern": "SHOULD HAVE V3 — past advice / regret / criticism",
+          "examples": [
+            { "singular": "self-regret", "plural": "I should have studied harder for the exam." },
+            { "singular": "criticism of others", "plural": "You should have called me earlier." },
+            { "singular": "regret about a society/government", "plural": "Governments should have acted on climate change decades ago." },
+            { "singular": "negative — shouldn't have", "plural": "I shouldn't have ignored the warning signs." }
+          ]
+        },
+        {
+          "pattern": "COULD HAVE V3 — unrealised past possibility",
+          "examples": [
+            { "singular": "missed opportunity", "plural": "I could have gone to the meeting, but I chose not to." },
+            { "singular": "ability that wasn't used", "plural": "She could have won the prize, but she didn't enter." },
+            { "singular": "past possibility (with regret)", "plural": "Many lives could have been saved with earlier intervention." }
+          ]
+        },
+        {
+          "pattern": "WOULD HAVE V3 — third conditional / past hypothetical",
+          "examples": [
+            { "singular": "third conditional", "plural": "If I had known, I would have helped." },
+            { "singular": "past hypothetical", "plural": "I would have called, but my phone died." }
+          ]
+        },
+        {
+          "pattern": "MIGHT HAVE V3 — past possibility (lower certainty)",
+          "examples": [
+            { "singular": "guess about past", "plural": "She might have left already." },
+            { "singular": "alternative past", "plural": "Without the new policy, the situation might have worsened." }
+          ]
+        },
+        {
+          "pattern": "NEEDN'T HAVE V3 — unnecessary past action (BrE)",
+          "examples": [
+            { "singular": "unnecessary act done", "plural": "You needn't have brought a gift — but thank you." },
+            { "singular": "wasted effort", "plural": "We needn't have hurried — the meeting was postponed." }
+          ],
+          "note": "Different from 'didn't need to V': 'needn't have V3' = action was done but wasn't necessary; 'didn't need to V' = action wasn't necessary (might or might not have been done)."
+        }
+      ],
+      "tip": "In Speaking Part 2 about a memory or decision, drop in ONE perfect modal: 'I should have taken the offer' / 'It could have gone differently' / 'I might have missed the train if I hadn't run.' This single sentence signals Band 7+."
+    },
+    {
+      "id": "ielts-application",
+      "title": "7. Modals in IELTS Writing & Speaking",
+      "summary": "Each part of IELTS has high-yield modal patterns.",
+      "rules": [
+        {
+          "pattern": "Writing Task 2 — recommendations and warnings",
+          "examples": [
+            { "singular": "should + active", "plural": "Governments should invest more in renewable energy." },
+            { "singular": "should + passive", "plural": "Stricter regulations should be implemented." },
+            { "singular": "must (urgent)", "plural": "This issue must be addressed before it worsens." },
+            { "singular": "could (possibility)", "plural": "Such measures could significantly reduce inequality." }
+          ]
+        },
+        {
+          "pattern": "Writing Task 2 — academic hedging with modals",
+          "examples": [
+            { "singular": "may / might (cautious claim)", "plural": "Such policies may have unintended consequences." },
+            { "singular": "could (possibility)", "plural": "This trend could pose a serious threat to traditional industries." }
+          ]
+        },
+        {
+          "pattern": "Writing Task 2 — perfect modals in evaluation",
+          "examples": [
+            { "singular": "should have", "plural": "Many of these problems should have been anticipated." },
+            { "singular": "could have", "plural": "Earlier intervention could have prevented the crisis." },
+            { "singular": "would have", "plural": "Without strict regulation, the situation would have worsened considerably." }
+          ]
+        },
+        {
+          "pattern": "Speaking Part 2 — describing a person",
+          "examples": [
+            { "singular": "speculation", "plural": "I imagine she must be very disciplined." },
+            { "singular": "tentative description", "plural": "He might be in his late thirties — I'm not sure." }
+          ]
+        },
+        {
+          "pattern": "Speaking Part 3 — hypothetical and impersonal",
+          "examples": [
+            { "singular": "could (possibility)", "plural": "Governments could do more by investing in technology." },
+            { "singular": "might (cautious)", "plural": "This kind of policy might face resistance from older generations." },
+            { "singular": "should (advice)", "plural": "Schools should teach financial literacy from an early age." }
+          ]
+        }
+      ],
+      "tip": "Audit your last Task 2 essay: count modal verbs. Aim for at least 6–8 different modals across 250 words, including at least ONE perfect modal (should have / could have / might have)."
+    },
+    {
+      "id": "errors",
+      "title": "8. Top Modal-Verb Errors at the Band 6 → 7+ Threshold",
+      "summary": "Specific mistakes that pull Band 7 candidates down to 6.5.",
+      "rules": [
+        {
+          "pattern": "1. 'To' after a modal",
+          "examples": [
+            { "singular": "❌ I can to swim.", "plural": "✔ I can swim." },
+            { "singular": "❌ You should to study harder.", "plural": "✔ You should study harder." }
+          ]
+        },
+        {
+          "pattern": "2. -s on third person modal",
+          "examples": [
+            { "singular": "❌ She cans speak French.", "plural": "✔ She can speak French." },
+            { "singular": "❌ He musts leave.", "plural": "✔ He must leave." }
+          ]
+        },
+        {
+          "pattern": "3. 'Mustn't' confused with 'don't have to'",
+          "examples": [
+            { "singular": "❌ You mustn't come if you're busy. (intended: it's not necessary)", "plural": "✔ You don't have to come if you're busy. (= no obligation)" },
+            { "singular": "✔ You mustn't smoke here. (= it is forbidden)", "plural": "Different meanings entirely." }
+          ]
+        },
+        {
+          "pattern": "4. 'Could' for specific past success",
+          "examples": [
+            { "singular": "❌ I could finish the test yesterday.", "plural": "✔ I was able to / managed to finish the test yesterday." }
+          ],
+          "note": "'Could' for specific past success is wrong unless negative ('couldn't finish')."
+        },
+        {
+          "pattern": "5. 'Mustn't' for negative deduction",
+          "examples": [
+            { "singular": "❌ He mustn't be at home — his car isn't here.", "plural": "✔ He can't be at home — his car isn't here." }
+          ]
+        },
+        {
+          "pattern": "6. Wrong perfect modal form",
+          "examples": [
+            { "singular": "❌ He must have went home.", "plural": "✔ He must have GONE home. (V3, not V2)" },
+            { "singular": "❌ I should have studied. is it 'studied' or 'study' or 'studying'?", "plural": "✔ I should have STUDIED. (modal + have + V3)" }
+          ]
+        },
+        {
+          "pattern": "7. Trying to conjugate modals",
+          "examples": [
+            { "singular": "❌ I will can help you tomorrow.", "plural": "✔ I will be able to help you tomorrow." },
+            { "singular": "❌ I have musted to leave.", "plural": "✔ I have had to leave." }
+          ]
+        },
+        {
+          "pattern": "8. Using 'may' for ability instead of permission/possibility",
+          "examples": [
+            { "singular": "❌ I may speak three languages.", "plural": "✔ I can speak three languages. (ability = can)" },
+            { "singular": "✔ May I leave early today?", "plural": "(permission = may)" }
+          ]
+        }
+      ],
+      "tip": "Make a personal modal-perfect drill card: 'must have / should have / could have / might have / can't have / would have / shouldn't have'. Practise saying each + a verb in V3 form daily for 2 weeks. After this, perfect modals become automatic."
+    }
+  ],
+  "checklist": [
+    "I never put 'to' after a modal verb (can swim, NOT can TO swim).",
+    "I never put -s on third-person modals (she can, NOT she cans).",
+    "I distinguish 'mustn't' (forbidden) from 'don't have to' (not necessary).",
+    "I use 'was/were able to' (not 'could') for SPECIFIC past success.",
+    "I use 'can't / couldn't' (not 'mustn't') for negative present deduction.",
+    "I can form modal + have + V3 correctly (must have gone, should have studied, might have forgotten).",
+    "I deploy at least one perfect modal in any Speaking Part 2 about a memory or past situation.",
+    "I use should/must/can in active AND passive forms (must be addressed, can be implemented).",
+    "I use 'will be able to / will have to' instead of trying to conjugate modals into the future.",
+    "I use modal hedging (may, might, could) in Task 2 to soften absolute claims.",
+    "I never write *to can / *will must / *musting / *have musted."
+  ]
+}

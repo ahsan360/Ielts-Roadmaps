@@ -1,0 +1,417 @@
+{
+  "title": "Sentence Structures — Band 7+ Reference",
+  "subtitle": "Simple / Compound / Complex / Mixed + Cleft + Inversion + Parallelism",
+  "icon": "🏗️",
+  "intro": "Band 7 says 'uses a variety of complex structures'. Band 8 says 'uses a wide range of structures with full flexibility and accuracy'. The difference is range — and this reference is the toolkit. Move beyond Subject-Verb-Object sentences. Master subordination, then cleft, inversion, and participle structures. One Band 7+ paragraph mixes short punchy sentences with longer multi-clause ones — it never settles into one rhythm.",
+  "sections": [
+    {
+      "id": "four-types",
+      "title": "1. The Four Sentence Types",
+      "summary": "Every English sentence falls into one of four types based on clause structure. Band 7+ writing uses ALL four — not just complex ones.",
+      "rules": [
+        {
+          "pattern": "SIMPLE — one independent clause",
+          "examples": [
+            { "singular": "S + V", "plural": "Birds fly." },
+            { "singular": "S + V + O", "plural": "I read books every evening." },
+            { "singular": "S + V + O + adverbial", "plural": "Students learn English at school." }
+          ],
+          "note": "Simple sentences are NOT bad. Band 7+ writers use them deliberately for emphasis: 'Climate change is real. The evidence is overwhelming.' Two short sentences land harder than one long one."
+        },
+        {
+          "pattern": "COMPOUND — two independent clauses joined by FANBOYS / semicolon",
+          "examples": [
+            { "singular": "for, and, nor, but, or, yet, so", "plural": "I studied hard, but I failed the exam." },
+            { "singular": "and (sequence)", "plural": "She wrote the letter, and he posted it." },
+            { "singular": "semicolon (related ideas)", "plural": "Many students struggle with grammar; few are taught it explicitly." }
+          ],
+          "note": "FANBOYS = For, And, Nor, But, Or, Yet, So. Comma BEFORE the conjunction in compound sentences."
+        },
+        {
+          "pattern": "COMPLEX — one independent + one or more dependent clauses",
+          "examples": [
+            { "singular": "subordinator + clause + main", "plural": "Although it was raining, we decided to go for a walk." },
+            { "singular": "main + subordinator + clause", "plural": "We decided to go for a walk although it was raining." },
+            { "singular": "with relative clause", "plural": "The book that I bought yesterday is fascinating." }
+          ],
+          "note": "Subordinators: although, because, since, while, when, if, after, before, until, unless, though, even though."
+        },
+        {
+          "pattern": "COMPOUND-COMPLEX — two+ independent clauses + one+ dependent clause",
+          "examples": [
+            { "singular": "the Band 7+ workhorse", "plural": "Although technology has advanced rapidly, many people still feel left behind, and governments must address this digital divide." }
+          ],
+          "note": "This is the structure Band 7+ writers reach for in body paragraphs. It packs concession, main idea, and consequence into one sentence — but it must remain readable."
+        }
+      ],
+      "tip": "In any 250-word essay, aim for: ~3 simple sentences (for impact), ~5 complex sentences (for analysis), ~3 compound or compound-complex (for development). Never write 10 simple sentences in a row."
+    },
+    {
+      "id": "subordination",
+      "title": "2. Subordination — Building Complex Sentences",
+      "summary": "Subordinators are the engine of complex sentences. Each subordinator carries a logical relationship.",
+      "rules": [
+        {
+          "pattern": "TIME subordinators",
+          "items": [
+            "when (general time)",
+            "while (during, simultaneously)",
+            "as (gradual, simultaneous)",
+            "before / after (sequence)",
+            "until / till (up to a point)",
+            "since (from a past point)",
+            "as soon as (immediately after)",
+            "once (after the moment)",
+            "whenever (any time)",
+            "by the time (point of completion)"
+          ]
+        },
+        {
+          "pattern": "REASON / CAUSE subordinators",
+          "items": [
+            "because (most common, neutral)",
+            "since (because, more formal)",
+            "as (because, formal/written)",
+            "now that (because now)",
+            "given that (formal, considering)",
+            "in that (formal, in the sense that)",
+            "seeing that (informal, considering)"
+          ],
+          "note": "Mix these in a single essay — repeating 'because' four times reads as Band 6."
+        },
+        {
+          "pattern": "CONCESSION / CONTRAST subordinators",
+          "items": [
+            "although / though (both same meaning, 'though' more informal)",
+            "even though (stronger concession)",
+            "while / whereas (contrast between two ideas)",
+            "much as (formal, as much as)",
+            "despite the fact that / in spite of the fact that (formal, with full clause)"
+          ],
+          "note": "❌ Don't pair 'although' with 'but' in the same sentence: 'Although it was raining, but we went…'. Pick one."
+        },
+        {
+          "pattern": "CONDITION subordinators",
+          "items": [
+            "if (standard)",
+            "unless (if not)",
+            "provided that / providing (formal: on condition that)",
+            "as long as (informal: on condition that)",
+            "supposing / suppose (hypothetical)",
+            "in case (precaution)",
+            "on condition that (formal)"
+          ]
+        },
+        {
+          "pattern": "PURPOSE subordinators",
+          "items": [
+            "so that (most common)",
+            "in order that (formal)",
+            "so as to + V (purpose, no subject change)",
+            "in order to + V (formal purpose, no subject change)",
+            "lest (formal/literary: for fear that)"
+          ],
+          "examples": [
+            { "singular": "purpose with clause", "plural": "She studies hard so that she can get a scholarship." },
+            { "singular": "purpose with infinitive", "plural": "She studies hard in order to get a scholarship." }
+          ]
+        },
+        {
+          "pattern": "RESULT subordinators",
+          "examples": [
+            { "singular": "so + adj/adv + that", "plural": "He was so tired that he fell asleep at his desk." },
+            { "singular": "such + (a/an) + adj + noun + that", "plural": "It was such a difficult exam that most students failed." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cleft",
+      "title": "3. Cleft Sentences — Splitting for Emphasis",
+      "summary": "Cleft = split a sentence to highlight one part. Extremely under-used by IELTS candidates — even one well-placed cleft signals Band 7.5+.",
+      "rules": [
+        {
+          "pattern": "IT-CLEFT — emphasises the highlighted element",
+          "examples": [
+            { "singular": "Plain: Education drives social mobility.", "plural": "Cleft: It is education that drives social mobility." },
+            { "singular": "Plain: Climate change is the biggest threat.", "plural": "Cleft: It is climate change that poses the biggest threat to our planet." },
+            { "singular": "Plain: She wrote the letter (not him).", "plural": "Cleft: It was she who wrote the letter." }
+          ],
+          "note": "Use it-cleft to contrast or correct: 'It is not money but time that we value most.'"
+        },
+        {
+          "pattern": "WHAT-CLEFT — emphasises through a noun-clause subject",
+          "examples": [
+            { "singular": "Plain: Young people need access to mentors.", "plural": "Cleft: What young people really need is access to mentors." },
+            { "singular": "Plain: Governments must understand the urgency.", "plural": "Cleft: What governments must understand is the urgency of the situation." },
+            { "singular": "Plain: She values honesty most.", "plural": "Cleft: What she values most is honesty." }
+          ],
+          "note": "Excellent for opening paragraphs — 'What this essay will argue is that…' / 'What needs to change is…'."
+        },
+        {
+          "pattern": "ALL-CLEFT — emphasises through 'all (that)'",
+          "examples": [
+            { "singular": "Plain: We need a clear policy.", "plural": "Cleft: All (that) we need is a clear policy." },
+            { "singular": "Plain: They want recognition.", "plural": "Cleft: All they want is recognition." }
+          ],
+          "note": "Implies 'nothing more than' — works in conclusions for emphasis."
+        },
+        {
+          "pattern": "REASON / TIME / PLACE clefts",
+          "examples": [
+            { "singular": "reason cleft", "plural": "The reason (why) we are facing this crisis is decades of inaction." },
+            { "singular": "time cleft", "plural": "It was in the 1990s that the internet became widely available." },
+            { "singular": "place cleft", "plural": "It is in rural areas that the impact is most visible." }
+          ]
+        }
+      ],
+      "tip": "Plant ONE cleft per essay — usually in the introduction or in a body topic sentence. 'What governments must recognise is…' / 'It is education that holds the key to…'"
+    },
+    {
+      "id": "inversion",
+      "title": "4. Inversion — Subject-Auxiliary Reversal for Emphasis",
+      "summary": "Move a negative or restrictive adverbial to the start of a sentence and invert subject-auxiliary. Formal and high-impact. One per essay is impressive; three is showing off.",
+      "rules": [
+        {
+          "pattern": "Negative adverbials → inversion (do/does/did + S + V for simple tenses)",
+          "examples": [
+            { "singular": "Plain: I have never seen such pollution.", "plural": "Inverted: Never have I seen such pollution." },
+            { "singular": "Plain: I rarely watch TV.", "plural": "Inverted: Rarely do I watch TV." },
+            { "singular": "Plain: The minister hardly ever speaks publicly.", "plural": "Inverted: Hardly ever does the minister speak publicly." }
+          ]
+        },
+        {
+          "pattern": "'Not only … but also' → inversion",
+          "examples": [
+            { "singular": "Plain: Pollution harms health and damages the economy.", "plural": "Inverted: Not only does pollution harm health, but it also damages the economy." }
+          ],
+          "note": "The safest, most natural inversion. Use this in every Task 2 essay."
+        },
+        {
+          "pattern": "'Hardly / No sooner … than/when' → inversion (sequence)",
+          "examples": [
+            { "singular": "sequence", "plural": "Hardly had he arrived when the meeting started." },
+            { "singular": "sequence", "plural": "No sooner had I sat down than the phone rang." }
+          ]
+        },
+        {
+          "pattern": "'Only + adverbial' → inversion",
+          "examples": [
+            { "singular": "Only then…", "plural": "Only then did she realise the truth." },
+            { "singular": "Only when…", "plural": "Only when governments act will real change occur." },
+            { "singular": "Only by + V-ing…", "plural": "Only by working together can we solve this problem." }
+          ]
+        },
+        {
+          "pattern": "Restrictive negatives → inversion",
+          "items": [
+            "Under no circumstances should this rule be ignored.",
+            "At no point did she consider giving up.",
+            "In no way is this acceptable.",
+            "On no account should the data be shared."
+          ]
+        },
+        {
+          "pattern": "Conditional inversions (drop 'if')",
+          "examples": [
+            { "singular": "First Cond.", "plural": "Should you need help, please contact me." },
+            { "singular": "Second Cond.", "plural": "Were I to choose again, I would pick differently." },
+            { "singular": "Third Cond.", "plural": "Had I known, I would have called." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "parallelism",
+      "title": "5. Parallelism — Matching Grammatical Structure",
+      "summary": "When listing items, all items must have the SAME grammatical form. Parallelism is a Band 7+ accuracy marker — broken parallelism is one of the most-noticed style errors.",
+      "rules": [
+        {
+          "pattern": "Verbs in a series — same form",
+          "examples": [
+            { "singular": "❌ broken: She likes reading, writing, and to speak English.", "plural": "✔ parallel: She likes reading, writing, and speaking English." },
+            { "singular": "❌ broken: He came, saw, and was conquering.", "plural": "✔ parallel: He came, saw, and conquered." }
+          ]
+        },
+        {
+          "pattern": "Noun phrases in a series",
+          "examples": [
+            { "singular": "❌ broken: The job requires intelligence, dedication, and to work hard.", "plural": "✔ parallel: The job requires intelligence, dedication, and hard work." }
+          ]
+        },
+        {
+          "pattern": "Infinitive clauses in a series",
+          "examples": [
+            { "singular": "❌ broken: My goals are to learn English, to make new friends, and travelling abroad.", "plural": "✔ parallel: My goals are to learn English, to make new friends, and to travel abroad." }
+          ]
+        },
+        {
+          "pattern": "Comparative parallelism with 'than' and 'as'",
+          "examples": [
+            { "singular": "❌ broken: Driving a car is faster than to take the bus.", "plural": "✔ parallel: Driving a car is faster than taking the bus." }
+          ]
+        },
+        {
+          "pattern": "Correlative pairs — must match",
+          "items": [
+            "not only … but also",
+            "either … or",
+            "neither … nor",
+            "both … and",
+            "whether … or"
+          ],
+          "examples": [
+            { "singular": "❌ broken: Not only she is intelligent but also working hard.", "plural": "✔ parallel: She is not only intelligent but also hard-working." },
+            { "singular": "❌ broken: He is both intelligent and works hard.", "plural": "✔ parallel: He is both intelligent and hard-working." }
+          ],
+          "note": "What follows 'not only' must match in form what follows 'but also'. Same for either/or, neither/nor, both/and."
+        }
+      ],
+      "tip": "After writing any sentence with a list ('A, B, and C'), check: are A, B, and C the same grammatical form? If not, fix it before moving on."
+    },
+    {
+      "id": "fronting",
+      "title": "6. Fronting — Moving an Element for Emphasis",
+      "summary": "Move an adverbial or prepositional phrase to the START of a sentence for variety and emphasis. Subtler than inversion, equally effective.",
+      "rules": [
+        {
+          "pattern": "Time / place adverbials at the front",
+          "examples": [
+            { "singular": "Plain: Pollution levels have risen dramatically in recent decades.", "plural": "Fronted: In recent decades, pollution levels have risen dramatically." },
+            { "singular": "Plain: Many traditions are still preserved in rural areas.", "plural": "Fronted: In rural areas, many traditions are still preserved." }
+          ]
+        },
+        {
+          "pattern": "Concession at the front",
+          "examples": [
+            { "singular": "Plain: This argument has merit despite its limitations.", "plural": "Fronted: Despite its limitations, this argument has merit." },
+            { "singular": "Plain: Progress has been made, although slowly.", "plural": "Fronted: Although progress has been slow, it has nonetheless been made." }
+          ]
+        },
+        {
+          "pattern": "Causal adverbials at the front",
+          "examples": [
+            { "singular": "Plain: The policy must be revised because of changing circumstances.", "plural": "Fronted: Owing to changing circumstances, the policy must be revised." },
+            { "singular": "Plain: We must act decisively given the urgency.", "plural": "Fronted: Given the urgency, we must act decisively." }
+          ]
+        },
+        {
+          "pattern": "Participle phrases at the front (combined with main clause)",
+          "examples": [
+            { "singular": "-ing participle", "plural": "Looking at the data, we can see a clear upward trend." },
+            { "singular": "-ed participle", "plural": "Faced with rising costs, families are cutting back on non-essentials." },
+            { "singular": "Having + V3 (sequence)", "plural": "Having considered the evidence, the committee reached a decision." }
+          ],
+          "note": "The subject of the participle MUST match the subject of the main clause. ❌ 'Walking down the street, the rain started.' (the rain isn't walking)."
+        }
+      ]
+    },
+    {
+      "id": "variety",
+      "title": "7. Sentence Variety in Band 7+ Writing",
+      "summary": "Band 7+ paragraphs mix sentence types and lengths. A monotonous rhythm — even of complex sentences — sounds Band 6.",
+      "rules": [
+        {
+          "pattern": "The 'short-medium-long' rhythm pattern",
+          "examples": [
+            { "singular": "short for impact", "plural": "Climate change is accelerating. (5 words — landing punch)" },
+            { "singular": "medium for development", "plural": "Despite decades of warnings, governments have failed to act decisively. (12 words)" },
+            { "singular": "long for analysis", "plural": "Although there have been some encouraging signs of progress in renewable energy adoption, the pace of change remains far too slow to avert the worst consequences predicted by climate scientists. (32 words)" }
+          ],
+          "note": "A Band 7+ paragraph might read: short — long — medium — short. Variety creates rhythm."
+        },
+        {
+          "pattern": "Sentence-opening variety — avoid starting every sentence with the subject",
+          "examples": [
+            { "singular": "Subject (default)", "plural": "Pollution is a serious problem. Pollution affects everyone. Pollution must be addressed." },
+            { "singular": "Mixed openings (Band 7+)", "plural": "Pollution is a serious problem. In recent years, it has worsened considerably. What governments must now do is take decisive action." }
+          ],
+          "note": "Try to start at most 2 consecutive sentences with the same subject. Use fronting, cleft, prepositional phrases, conjunctive adverbs to vary."
+        },
+        {
+          "pattern": "The 'one complex per paragraph' rule",
+          "examples": [
+            { "singular": "in a body paragraph", "plural": "Plant ONE deliberately complex sentence (3+ clauses, with relative or participle) — usually as the topic sentence or the conclusion of the paragraph. Not every sentence needs to be complex." }
+          ]
+        }
+      ],
+      "tip": "After writing a paragraph, count the words in each sentence. If you wrote five sentences of similar length (e.g., all 14–18 words), break the rhythm — turn one into a 5-word punch and one into a 30-word analytical sentence."
+    },
+    {
+      "id": "errors",
+      "title": "8. Top Sentence-Structure Errors at the Band 6 → 7+ Threshold",
+      "summary": "These specific errors flag Band 6 writing.",
+      "rules": [
+        {
+          "pattern": "1. Run-on sentences (two independent clauses joined only by comma)",
+          "examples": [
+            { "singular": "❌ Pollution is increasing, governments must act.", "plural": "✔ Pollution is increasing; governments must act." },
+            { "singular": "❌ Pollution is increasing, governments must act.", "plural": "✔ Pollution is increasing, AND governments must act." },
+            { "singular": "❌ Pollution is increasing, governments must act.", "plural": "✔ Pollution is increasing. Governments must act." }
+          ]
+        },
+        {
+          "pattern": "2. Sentence fragments (incomplete sentences)",
+          "examples": [
+            { "singular": "❌ fragment: Although it was raining.", "plural": "✔ Although it was raining, we went out." },
+            { "singular": "❌ fragment: Because of the high cost.", "plural": "✔ Because of the high cost, many families struggle." }
+          ]
+        },
+        {
+          "pattern": "3. 'Although … but' / 'Because … so' double conjunctions",
+          "examples": [
+            { "singular": "❌ Although it was raining, but we went out.", "plural": "✔ Although it was raining, we went out. (no 'but')" },
+            { "singular": "❌ Because I was tired, so I went to bed.", "plural": "✔ Because I was tired, I went to bed. (no 'so')" }
+          ]
+        },
+        {
+          "pattern": "4. Broken parallelism in lists",
+          "examples": [
+            { "singular": "❌ She enjoys swimming, hiking, and to read.", "plural": "✔ She enjoys swimming, hiking, and reading." }
+          ]
+        },
+        {
+          "pattern": "5. Dangling participles",
+          "examples": [
+            { "singular": "❌ Walking down the street, the rain started.", "plural": "✔ Walking down the street, I noticed the rain start. (the speaker is walking, not the rain)" },
+            { "singular": "❌ Built in 1850, I admired the old bridge.", "plural": "✔ Built in 1850, the old bridge stands as a landmark. (the bridge was built, not the speaker)" }
+          ]
+        },
+        {
+          "pattern": "6. Over-stuffed sentences (4+ clauses become unreadable)",
+          "examples": [
+            { "singular": "❌ Although technology has advanced rapidly which has changed how we communicate, many older people who grew up before the internet which transformed daily life still struggle to adapt because they were not exposed to digital tools when they were younger.", "plural": "✔ Although technology has advanced rapidly, many older people still struggle to adapt. Most grew up before the internet transformed daily life, and they were not exposed to digital tools in their youth." }
+          ],
+          "note": "Long sentences are good — until they're unreadable. If you lose breath reading aloud, split it."
+        },
+        {
+          "pattern": "7. Repetitive sentence openings (every sentence starts with subject)",
+          "examples": [
+            { "singular": "❌ flat", "plural": "Pollution is bad. Pollution causes health issues. Pollution must be reduced. Pollution affects cities." },
+            { "singular": "✔ varied", "plural": "Pollution is a major concern in modern cities. In severe cases, it leads to chronic respiratory disease. What governments must now address is the underlying cause: vehicle emissions." }
+          ]
+        },
+        {
+          "pattern": "8. Misplaced modifiers",
+          "examples": [
+            { "singular": "❌ I saw the man walking down the street with a telescope. (who has the telescope?)", "plural": "✔ Through a telescope, I saw the man walking down the street. (clearer)" }
+          ]
+        }
+      ],
+      "tip": "Read your essay aloud. Where you stumble or have to re-read, the sentence structure is broken. Where the rhythm feels flat, you need variety. Reading aloud is the single most effective sentence-structure check."
+    }
+  ],
+  "checklist": [
+    "I can identify and produce simple, compound, complex, and compound-complex sentences on demand.",
+    "I use a variety of subordinators (although, while, since, given that, provided that) — not just because/and/but.",
+    "I never pair 'although' with 'but' or 'because' with 'so' in the same sentence.",
+    "I plant at least one cleft sentence (It is X that… / What Y is…) per Task 2 essay.",
+    "I deploy at least one inversion (Not only…but also / Never have I seen / Should you need) per essay without it sounding forced.",
+    "I check parallelism in every list — verbs match verbs, nouns match nouns, infinitives match infinitives.",
+    "I use fronting (In recent years…, Despite the challenges…, Given the evidence…) to vary sentence openings.",
+    "I never write a dangling participle — the participle's subject always matches the main clause subject.",
+    "I mix short, medium and long sentences in every paragraph for rhythm.",
+    "I never start more than two consecutive sentences with the same subject.",
+    "I read every paragraph aloud before counting it as 'done'."
+  ]
+}

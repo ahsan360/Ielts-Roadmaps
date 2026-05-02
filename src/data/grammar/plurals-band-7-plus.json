@@ -161,7 +161,7 @@
             { "singular": "mouse", "plural": "mice" },
             { "singular": "louse", "plural": "lice" }
           ],
-          "note": "Compounds inherit the same change: policeman → policemen, footprint → footprints (only the 'foot' part stays — the other element follows its own rule)."
+          "note": "In compounds, only the HEAD noun (rightmost) pluralises. When the irregular noun IS the head, it changes: policeman → policemen, schoolchild → schoolchildren. When it is only a modifier, it stays singular: footprint → footprints (NOT *feetprints), toothbrush → toothbrushes, mousetrap → mousetraps."
         },
         {
           "pattern": "Add -en (very rare)",
@@ -176,6 +176,22 @@
             { "singular": "person", "plural": "people" }
           ],
           "note": "Use 'persons' only in formal/legal contexts ('the persons named in the contract'). Everyday usage is always 'people'."
+        },
+        {
+          "pattern": "Different plural for different meaning",
+          "examples": [
+            { "singular": "die", "plural": "dice (small cubes used in games) / dies (engineering moulds and stamping tools)" },
+            { "singular": "penny", "plural": "pence (an amount of money: 'fifty pence', 'a 50p coin') / pennies (individual coins: 'a handful of pennies')" },
+            { "singular": "brother", "plural": "brothers (male siblings) / brethren (members of a religious or formal fraternal group — archaic in everyday use)" }
+          ],
+          "note": "These are doublets: the plural depends on which sense of the singular you mean. 'Brethren' should not appear in a Task 2 essay. 'Pence' is BrE (the IELTS norm) for amounts of money; 'pennies' is for the physical coins."
+        },
+        {
+          "pattern": "Looks irregular but isn't (anti-overcorrection)",
+          "examples": [
+            { "singular": "mongoose", "plural": "mongooses (NOT *mongeese — unrelated to 'goose')" }
+          ],
+          "note": "The vowel-change pattern (foot → feet, tooth → teeth, goose → geese, mouse → mice, louse → lice) is a closed set. Don't extend it by analogy — *mongeese / *meese / *spooses are hypercorrections examiners notice."
         }
       ]
     },
@@ -705,7 +721,7 @@
     },
     {
       "id": "agreement",
-      "title": "13. Subject-Verb Agreement Traps",
+      "title": "14. Subject-Verb Agreement Traps",
       "summary": "Plurals interact with verbs through subject-verb agreement. These are the most-missed Band 7 patterns.",
       "rules": [
         {

@@ -1,0 +1,425 @@
+{
+  "title": "Articles — Band 7+ Reference",
+  "subtitle": "a / an / the / zero article — the most-missed grammar point in IELTS",
+  "icon": "📰",
+  "intro": "Articles are the most frequently wrong feature in non-native English. Even Band 7+ candidates lose marks here. Bangla, Hindi, Urdu, Korean, Mandarin and Russian speakers face the most challenge — none of these languages have a/an/the system. The good news: 90% of article errors fall under 5 patterns. Master these and you eliminate the single largest grammar leak.",
+  "sections": [
+    {
+      "id": "fundamentals",
+      "title": "1. The Three-Article System",
+      "summary": "English has three article choices: indefinite (a/an), definite (the), and zero (no article). Every countable singular noun MUST take one — there is no fourth option.",
+      "rules": [
+        {
+          "pattern": "A — used before consonant SOUND (not letter)",
+          "examples": [
+            { "singular": "consonant sound", "plural": "a book, a car, a university (yoo-niversity), a European country (yoo-ropean), a one-way street (won-way)" }
+          ],
+          "note": "It's about the SOUND, not the spelling. 'A university' starts with /j/ sound. 'An hour' starts with vowel /aʊ/."
+        },
+        {
+          "pattern": "AN — used before vowel SOUND",
+          "examples": [
+            { "singular": "vowel sound", "plural": "an apple, an idea, an hour (silent h), an MBA (em-bee-ay), an FBI agent (ef-bee-ai), an honest person" }
+          ]
+        },
+        {
+          "pattern": "THE — for specific / shared knowledge / unique",
+          "examples": [
+            { "singular": "previously mentioned", "plural": "I bought a book. The book was expensive." },
+            { "singular": "unique referent", "plural": "the sun, the moon, the world, the internet, the environment" },
+            { "singular": "specifying phrase", "plural": "the book on the table, the man in the blue shirt" },
+            { "singular": "superlative / ordinal", "plural": "the best, the most important, the first, the only" }
+          ]
+        },
+        {
+          "pattern": "ZERO ARTICLE — abstract / general / uncountable",
+          "examples": [
+            { "singular": "general statement (plural)", "plural": "Children need love. (NOT 'The children need the love.')" },
+            { "singular": "abstract noun in general sense", "plural": "Education is essential. (NOT 'The education is essential.')" },
+            { "singular": "uncountable substance", "plural": "Water is vital for life. (NOT 'The water is vital.')" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "indefinite",
+      "title": "2. When to Use A / AN",
+      "summary": "Indefinite article = first mention, one of many, classifying.",
+      "rules": [
+        {
+          "pattern": "First mention of a singular countable noun",
+          "examples": [
+            { "singular": "introducing", "plural": "I saw a dog in the park." },
+            { "singular": "any one of a kind", "plural": "Pick a card." }
+          ]
+        },
+        {
+          "pattern": "Naming a profession, role, or category",
+          "examples": [
+            { "singular": "profession", "plural": "She is a teacher / a doctor / an engineer." },
+            { "singular": "category", "plural": "A whale is a mammal. (= one of the mammals)" },
+            { "singular": "nationality", "plural": "He is an American. / She is a Brazilian." }
+          ],
+          "note": "Common Bangla/Indian-English error: 'She is teacher' (no article). English requires 'a' before profession nouns."
+        },
+        {
+          "pattern": "Quantity expressions",
+          "examples": [
+            { "singular": "rates", "plural": "twice a week, three times a day, $10 an hour, 60 km an hour" },
+            { "singular": "indefinite numbers", "plural": "a few, a little, a lot, a couple of, a number of" }
+          ]
+        },
+        {
+          "pattern": "Exclamations with countable singular",
+          "examples": [
+            { "singular": "expression", "plural": "What a day! / What a beautiful view!" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "definite",
+      "title": "3. When to Use THE",
+      "summary": "Definite article = the listener/reader knows WHICH ONE. Specific, unique, or already-mentioned.",
+      "rules": [
+        {
+          "pattern": "Second / subsequent mention",
+          "examples": [
+            { "singular": "introducing then specifying", "plural": "A man walked in. The man was tall." }
+          ]
+        },
+        {
+          "pattern": "Unique entities (only one exists)",
+          "examples": [
+            { "singular": "celestial / global", "plural": "the sun, the moon, the earth, the world, the universe" },
+            { "singular": "shared entities", "plural": "the internet, the environment, the economy, the climate, the government" },
+            { "singular": "directional", "plural": "the north, the south, the east, the west, the left, the right" }
+          ]
+        },
+        {
+          "pattern": "Specified by a phrase / clause",
+          "examples": [
+            { "singular": "of-phrase", "plural": "the capital of France, the population of Bangladesh" },
+            { "singular": "relative clause", "plural": "the book that I bought, the woman who lives next door" },
+            { "singular": "in/on/at phrase", "plural": "the man on the train, the pen in my pocket" }
+          ]
+        },
+        {
+          "pattern": "Superlatives, ordinals, only",
+          "examples": [
+            { "singular": "superlative", "plural": "the best, the worst, the most important, the largest" },
+            { "singular": "ordinal", "plural": "the first, the second, the last, the third time" },
+            { "singular": "only", "plural": "the only solution, the only person who can help" }
+          ]
+        },
+        {
+          "pattern": "Generic THE — species / inventions / instruments",
+          "examples": [
+            { "singular": "species (formal/scientific)", "plural": "The elephant is endangered. (= elephants as a species)" },
+            { "singular": "musical instrument", "plural": "She plays the piano / the violin / the guitar." },
+            { "singular": "invention (defining era)", "plural": "The telephone changed communication. The internet has transformed society." }
+          ],
+          "note": "Generic 'the' + singular has a formal/scientific feel. The plural without 'the' (Elephants are endangered) sounds more natural in Task 2."
+        },
+        {
+          "pattern": "Geographical features",
+          "examples": [
+            { "singular": "rivers, seas, oceans", "plural": "the Ganges, the Nile, the Mediterranean, the Pacific Ocean" },
+            { "singular": "deserts, mountain ranges, archipelagos", "plural": "the Sahara, the Himalayas, the Alps, the Bahamas" },
+            { "singular": "plural country names", "plural": "the United States, the UK, the Netherlands, the Philippines" }
+          ]
+        },
+        {
+          "pattern": "'The + adjective' as plural noun (people)",
+          "examples": [
+            { "singular": "social group", "plural": "the rich, the poor, the elderly, the homeless, the unemployed (all take plural verb)" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "zero",
+      "title": "4. When to Use NO Article (Zero Article)",
+      "summary": "Zero article = general / abstract / uncountable. This is the single most-missed pattern by Bangla/Indian English speakers.",
+      "rules": [
+        {
+          "pattern": "Plural countable nouns in GENERAL sense",
+          "examples": [
+            { "singular": "general statement", "plural": "Children need love. (NOT 'The children…')" },
+            { "singular": "general truth", "plural": "Cars cause pollution. (NOT 'The cars cause the pollution.')" },
+            { "singular": "category as a whole", "plural": "Books are valuable. (NOT 'The books are valuable.')" }
+          ],
+          "note": "Adding 'the' makes it specific: 'The children in this school' = a specific group, not children generally."
+        },
+        {
+          "pattern": "Uncountable nouns in GENERAL sense",
+          "examples": [
+            { "singular": "abstract", "plural": "Education is important. (NOT 'The education is important.')" },
+            { "singular": "substance", "plural": "Water is essential. (NOT 'The water is essential.' — unless specific)" },
+            { "singular": "concept", "plural": "Happiness comes from within. / Knowledge is power." }
+          ]
+        },
+        {
+          "pattern": "Names of countries, cities, continents (singular)",
+          "examples": [
+            { "singular": "no article", "plural": "Bangladesh, India, France, China, Tokyo, Asia, Africa" }
+          ],
+          "note": "Plural-form country names take 'the': the United States, the UK, the Philippines."
+        },
+        {
+          "pattern": "Names of meals, languages, sports, academic subjects",
+          "examples": [
+            { "singular": "meals", "plural": "I have breakfast at 8. (NOT 'the breakfast')" },
+            { "singular": "languages", "plural": "She speaks French. (NOT 'the French')" },
+            { "singular": "sports", "plural": "He plays football / cricket / tennis." },
+            { "singular": "subjects", "plural": "I study mathematics / physics / economics." }
+          ]
+        },
+        {
+          "pattern": "Set phrases — institutions used for their PURPOSE",
+          "examples": [
+            { "singular": "no article (purpose)", "plural": "go to school, go to bed, go to church, go to hospital (BrE), be in prison, be at home, go to work" },
+            { "singular": "WITH 'the' (the building)", "plural": "go to the school (visit the building), go to the hospital (AmE), the church next door" }
+          ],
+          "note": "'My son is at school' = he's a student / studying. 'My son is at THE school' = he's at the building (perhaps to fix something)."
+        },
+        {
+          "pattern": "Means of transport with 'by'",
+          "examples": [
+            { "singular": "no article", "plural": "by car, by train, by plane, by bus, by bicycle, on foot" }
+          ],
+          "note": "But: 'in the car / on the train / on the bus' (when describing being inside a specific vehicle)."
+        }
+      ]
+    },
+    {
+      "id": "abstract",
+      "title": "5. Articles with Abstract Nouns — The Hardest Pattern",
+      "summary": "Abstract nouns (education, life, society, nature) take ZERO article when general — but THE when specified. This is where Band 7 candidates most often slip.",
+      "rules": [
+        {
+          "pattern": "ABSTRACT NOUN ALONE (general) → no article",
+          "examples": [
+            { "singular": "general", "plural": "Education is the key to development. (NOT 'The education')" },
+            { "singular": "general", "plural": "Life is challenging. (NOT 'The life')" },
+            { "singular": "general", "plural": "Nature provides everything we need." },
+            { "singular": "general", "plural": "Society values material success." },
+            { "singular": "general", "plural": "Crime is increasing. / Poverty affects millions." }
+          ]
+        },
+        {
+          "pattern": "ABSTRACT NOUN + specifying phrase → 'the'",
+          "examples": [
+            { "singular": "specified", "plural": "the education of girls in rural areas (specific)" },
+            { "singular": "specified", "plural": "the life of a refugee (specific)" },
+            { "singular": "specified", "plural": "the nature of the problem (specific)" },
+            { "singular": "specified", "plural": "the society of ancient Egypt (specific)" }
+          ]
+        },
+        {
+          "pattern": "Abstract → specific shift in the same essay",
+          "examples": [
+            { "singular": "general → specific", "plural": "Education is fundamental. → The education provided in rural schools is often inadequate." },
+            { "singular": "general → specific", "plural": "Pollution is a global concern. → The pollution caused by factories has worsened local air quality." }
+          ],
+          "note": "Same word, two articles, depending on whether the meaning is general or specific. This is the Band 7+ control examiners look for."
+        }
+      ]
+    },
+    {
+      "id": "tricky",
+      "title": "6. Tricky Article Cases (Band 7+ Specific)",
+      "summary": "Cases that even strong candidates miss.",
+      "rules": [
+        {
+          "pattern": "MAN / MANKIND / WOMAN as humanity → no article",
+          "examples": [
+            { "singular": "abstract / generic", "plural": "Man has lived on Earth for thousands of years." },
+            { "singular": "humanity", "plural": "Mankind faces unprecedented challenges." }
+          ],
+          "note": "Modern preference: 'humanity / human beings / humankind' instead of 'man'. But the article rule is the same — no 'the'."
+        },
+        {
+          "pattern": "PLAY + the + instrument; PLAY + sport (no article)",
+          "examples": [
+            { "singular": "instrument", "plural": "She plays the piano / the violin / the flute." },
+            { "singular": "sport", "plural": "She plays football / chess / cricket. (NOT 'the football')" }
+          ]
+        },
+        {
+          "pattern": "Possessives REPLACE articles — no double-up",
+          "examples": [
+            { "singular": "❌ a my book / the my book", "plural": "✔ my book" },
+            { "singular": "❌ the his idea", "plural": "✔ his idea" }
+          ],
+          "note": "If you need both, use 'a / one of': 'a book of mine' / 'one of my books'."
+        },
+        {
+          "pattern": "Body of water rules",
+          "examples": [
+            { "singular": "with 'the' (rivers, seas, oceans, gulfs, canals)", "plural": "the Nile, the Atlantic, the Bay of Bengal, the Suez Canal" },
+            { "singular": "without 'the' (lakes, single mountains, single islands)", "plural": "Lake Victoria, Mount Everest, Sri Lanka" }
+          ]
+        },
+        {
+          "pattern": "Newspaper / hotel names → 'the'",
+          "examples": [
+            { "singular": "newspapers", "plural": "the Times, the Guardian, the New York Times" },
+            { "singular": "hotels / restaurants (often)", "plural": "the Hilton, the Ritz" }
+          ]
+        },
+        {
+          "pattern": "Decades → 'the'",
+          "examples": [
+            { "singular": "decades", "plural": "in the 1990s, in the early 2000s, since the 1950s" },
+            { "singular": "centuries (formal)", "plural": "in the 19th century" }
+          ]
+        },
+        {
+          "pattern": "'A few' vs 'few'; 'a little' vs 'little'",
+          "examples": [
+            { "singular": "a few = some (positive)", "plural": "I have a few friends here. (= I have some)" },
+            { "singular": "few = not many (negative)", "plural": "I have few friends here. (= almost no friends)" },
+            { "singular": "a little = some (positive)", "plural": "We have a little time. (= some)" },
+            { "singular": "little = not much (negative)", "plural": "We have little time. (= almost no time)" }
+          ],
+          "note": "Dropping the 'a' completely changes the meaning to negative. Common Band 6 confusion."
+        }
+      ]
+    },
+    {
+      "id": "ielts-application",
+      "title": "7. Articles in IELTS Writing — Topic-Specific Patterns",
+      "summary": "Common IELTS Task 2 abstract topics and how to handle their articles correctly.",
+      "rules": [
+        {
+          "pattern": "Education topics",
+          "examples": [
+            { "singular": "education (general) → no article", "plural": "Education plays a vital role in development." },
+            { "singular": "the education system → 'the'", "plural": "The education system in Finland is widely admired." },
+            { "singular": "students (general) → no article", "plural": "Students benefit from extra-curricular activities." },
+            { "singular": "the students at this school → 'the' (specific)", "plural": "The students at this school have access to advanced facilities." }
+          ]
+        },
+        {
+          "pattern": "Environment / climate topics",
+          "examples": [
+            { "singular": "the environment / the climate (unique) → 'the'", "plural": "The environment is under threat. / The climate is changing." },
+            { "singular": "pollution / waste (uncountable, general) → no article", "plural": "Pollution causes serious health problems." },
+            { "singular": "renewable energy (general) → no article", "plural": "Renewable energy is the future." }
+          ]
+        },
+        {
+          "pattern": "Society / government topics",
+          "examples": [
+            { "singular": "society (general) → no article", "plural": "Society has changed dramatically over recent decades." },
+            { "singular": "the society of (specified) → 'the'", "plural": "The society of the 21st century is digitally connected." },
+            { "singular": "the government / the authorities → 'the'", "plural": "The government must take action. / The authorities have introduced new measures." },
+            { "singular": "governments (general / multiple) → no article", "plural": "Governments around the world are facing similar challenges." }
+          ]
+        },
+        {
+          "pattern": "Health topics",
+          "examples": [
+            { "singular": "health (general) → no article", "plural": "Health is more important than wealth." },
+            { "singular": "the health of + group → 'the'", "plural": "The health of urban populations has declined." },
+            { "singular": "diseases (general) → no article", "plural": "Heart disease is the leading cause of death globally." }
+          ]
+        }
+      ],
+      "tip": "Audit your last Task 2 essay: every time you wrote 'the education / the pollution / the society / the people in general' — check whether 'the' actually points to something specific. If not, delete it."
+    },
+    {
+      "id": "errors",
+      "title": "8. Top Article Errors at the Band 6 → 7+ Threshold",
+      "summary": "These are the specific article mistakes that pull Band 7 candidates down.",
+      "rules": [
+        {
+          "pattern": "1. Adding 'the' to abstract / general nouns",
+          "examples": [
+            { "singular": "❌ The education is important.", "plural": "✔ Education is important." },
+            { "singular": "❌ The life is full of challenges.", "plural": "✔ Life is full of challenges." },
+            { "singular": "❌ The nature is beautiful.", "plural": "✔ Nature is beautiful." }
+          ]
+        },
+        {
+          "pattern": "2. Forgetting article before profession / role",
+          "examples": [
+            { "singular": "❌ My father is engineer.", "plural": "✔ My father is an engineer." },
+            { "singular": "❌ She wants to be teacher.", "plural": "✔ She wants to be a teacher." }
+          ]
+        },
+        {
+          "pattern": "3. Adding 'the' before plural general",
+          "examples": [
+            { "singular": "❌ The children love sweets.", "plural": "✔ Children love sweets. (children in general)" },
+            { "singular": "❌ The cars cause the pollution.", "plural": "✔ Cars cause pollution." }
+          ]
+        },
+        {
+          "pattern": "4. Wrong choice of a / an before vowel/consonant SOUND",
+          "examples": [
+            { "singular": "❌ a hour / a honest mistake", "plural": "✔ an hour / an honest mistake (silent h)" },
+            { "singular": "❌ an university / an European country", "plural": "✔ a university / a European country (yoo- sound)" },
+            { "singular": "❌ an MBA seems wrong but isn't", "plural": "✔ an MBA (em-bee-ay = vowel sound 'em')" }
+          ]
+        },
+        {
+          "pattern": "5. Missing 'the' with unique entities",
+          "examples": [
+            { "singular": "❌ Sun rises in east.", "plural": "✔ The sun rises in the east." },
+            { "singular": "❌ Government must act.", "plural": "✔ The government must act." },
+            { "singular": "❌ Internet has changed our lives.", "plural": "✔ The internet has changed our lives." }
+          ]
+        },
+        {
+          "pattern": "6. 'The' before names of single countries / cities",
+          "examples": [
+            { "singular": "❌ I live in the Bangladesh / the India / the China.", "plural": "✔ I live in Bangladesh / India / China." },
+            { "singular": "❌ I visited the London.", "plural": "✔ I visited London." }
+          ],
+          "note": "Exception: plural-form countries DO take 'the' — the United States, the UK, the Netherlands."
+        },
+        {
+          "pattern": "7. 'A' with uncountable nouns",
+          "examples": [
+            { "singular": "❌ I want a homework / a furniture / an information.", "plural": "✔ I want some homework / some furniture / some information." }
+          ]
+        },
+        {
+          "pattern": "8. Using 'the' where 'a' is needed (first mention)",
+          "examples": [
+            { "singular": "❌ I saw the dog in the park yesterday. (random unspecified dog)", "plural": "✔ I saw a dog in the park yesterday. (first mention of unknown dog)" }
+          ]
+        },
+        {
+          "pattern": "9. 'Few / little' vs 'a few / a little' meaning shift",
+          "examples": [
+            { "singular": "❌ I have few friends here, so I'm happy. (logically wrong — few = almost none)", "plural": "✔ I have a few friends here, so I'm happy. (a few = some)" }
+          ]
+        },
+        {
+          "pattern": "10. Article before 'play + sport' or 'play + instrument' confusion",
+          "examples": [
+            { "singular": "❌ I play the cricket / the football.", "plural": "✔ I play cricket / football." },
+            { "singular": "❌ She plays piano in concerts.", "plural": "✔ She plays the piano in concerts." }
+          ]
+        }
+      ],
+      "tip": "Print this 10-error list. Run a one-pass article audit on every essay you write for the next 14 days — specifically asking 'Is this noun GENERAL or SPECIFIC?' for every 'the' you used and every noun you left bare."
+    }
+  ],
+  "checklist": [
+    "I use 'a' before consonant SOUNDS and 'an' before vowel SOUNDS, not letters (a university, an hour, an MBA).",
+    "I never put 'the' before abstract nouns in general statements (Education is important, NOT The education).",
+    "I never put 'the' before plural general nouns (Children play, NOT The children play in general).",
+    "I never put 'the' before single-country names (Bangladesh, India), but I do for plural-form ones (the UK, the US).",
+    "I use 'the' for unique entities (the sun, the government, the internet, the environment).",
+    "I use 'a/an' before profession nouns (She is a doctor, NOT She is doctor).",
+    "I use 'the' + adjective for social groups (the rich, the elderly).",
+    "I distinguish 'few' (almost none) from 'a few' (some); 'little' (almost none) from 'a little' (some).",
+    "I use 'play the piano' (instrument) but 'play football' (sport) without article.",
+    "I never use 'a' with uncountable nouns (a furniture, an information) — I use 'some' or a partitive instead.",
+    "I shift correctly between abstract general (Pollution is bad) and specific (The pollution caused by factories)."
+  ]
+}

@@ -1,0 +1,482 @@
+{
+  "title": "Tenses — Band 7+ Reference",
+  "subtitle": "All 12 tenses + reported speech + the Band 6→7 transition errors",
+  "icon": "⏱️",
+  "intro": "Tenses are the most-noticed grammar feature in IELTS. Every clause has a verb; every wrong tense is a visible error. Band 6 candidates control 4–5 tenses fluently. Band 7+ candidates control all 12 with intentional choice. This reference shows the form, the uses, the IELTS context, and — critically — the mistakes that pull a Band 7 candidate down to 6.5.",
+  "sections": [
+    {
+      "id": "map",
+      "title": "1. The 12 Tenses — One-Page Map",
+      "summary": "English has 4 aspects (Simple, Continuous, Perfect, Perfect Continuous) × 3 times (Past, Present, Future) = 12 tenses. Memorise the form of each, then learn when to use it.",
+      "rules": [
+        {
+          "pattern": "PRESENT — 4 forms",
+          "examples": [
+            { "singular": "Present Simple", "plural": "I work / She works" },
+            { "singular": "Present Continuous", "plural": "I am working / She is working" },
+            { "singular": "Present Perfect", "plural": "I have worked / She has worked" },
+            { "singular": "Present Perfect Continuous", "plural": "I have been working / She has been working" }
+          ]
+        },
+        {
+          "pattern": "PAST — 4 forms",
+          "examples": [
+            { "singular": "Past Simple", "plural": "I worked / She worked" },
+            { "singular": "Past Continuous", "plural": "I was working / She was working" },
+            { "singular": "Past Perfect", "plural": "I had worked / She had worked" },
+            { "singular": "Past Perfect Continuous", "plural": "I had been working / She had been working" }
+          ]
+        },
+        {
+          "pattern": "FUTURE — 4 forms (plus 2 alternative future expressions)",
+          "examples": [
+            { "singular": "Future Simple (will)", "plural": "I will work / She will work" },
+            { "singular": "Future Continuous", "plural": "I will be working / She will be working" },
+            { "singular": "Future Perfect", "plural": "I will have worked / She will have worked" },
+            { "singular": "Future Perfect Continuous", "plural": "I will have been working / She will have been working" },
+            { "singular": "be going to (intention/evidence)", "plural": "I am going to work" },
+            { "singular": "Present Continuous (arrangement)", "plural": "I am working tomorrow" }
+          ],
+          "note": "Band 7+ writers use at least 8 of these naturally across a 250-word essay. If yours uses only 3–4, that's the first thing to fix."
+        }
+      ],
+      "tip": "Print this map on one page and stick it on your desk for the first week of practice."
+    },
+    {
+      "id": "present",
+      "title": "2. Present Tenses — Forms, Uses, Signals",
+      "summary": "Each present tense has a specific function. Choosing the wrong one is the most common Band 6 grammar error.",
+      "rules": [
+        {
+          "pattern": "PRESENT SIMPLE — form: V / V-s (3rd person sing.)",
+          "examples": [
+            { "singular": "habit", "plural": "I drink tea every morning." },
+            { "singular": "general truth", "plural": "Water boils at 100°C." },
+            { "singular": "scheduled future", "plural": "The train leaves at 6 a.m." },
+            { "singular": "permanent state", "plural": "She lives in Dhaka." }
+          ],
+          "items": [
+            "Signal words: always, often, usually, sometimes, never, every day, on Mondays, generally"
+          ],
+          "note": "Common mistake: forgetting the -s on third person singular ('She go' instead of 'She goes'). This single error appears in almost every Band 6 essay."
+        },
+        {
+          "pattern": "PRESENT CONTINUOUS — form: am/is/are + V-ing",
+          "examples": [
+            { "singular": "action right now", "plural": "I am writing a paragraph." },
+            { "singular": "temporary situation", "plural": "She is staying with her sister this month." },
+            { "singular": "current trend", "plural": "More people are working from home these days." },
+            { "singular": "fixed future arrangement", "plural": "We are meeting the client at 3 p.m. tomorrow." }
+          ],
+          "items": [
+            "Signal words: now, at the moment, currently, these days, this week/month/year, today"
+          ],
+          "note": "Do NOT use with stative verbs ('I am knowing the answer' is wrong — say 'I know the answer'). See the Stative Verbs section."
+        },
+        {
+          "pattern": "PRESENT PERFECT — form: have/has + V3 (past participle)",
+          "examples": [
+            { "singular": "past action with present result", "plural": "I have lost my keys (and still don't have them)." },
+            { "singular": "experience up to now", "plural": "She has visited five countries." },
+            { "singular": "unfinished time period", "plural": "We have lived here since 2020 / for five years." },
+            { "singular": "recent action (BrE)", "plural": "I have just finished my essay." }
+          ],
+          "items": [
+            "Signal words: ever, never, just, already, yet, since, for, recently, lately, so far, up to now, in the last few years"
+          ],
+          "note": "The single highest-yield tense for IELTS. See section 6 for the critical Present Perfect vs Past Simple contrast."
+        },
+        {
+          "pattern": "PRESENT PERFECT CONTINUOUS — form: have/has been + V-ing",
+          "examples": [
+            { "singular": "action started in past, still continuing", "plural": "I have been studying English for ten years." },
+            { "singular": "recently finished, with visible result", "plural": "She is tired because she has been running." },
+            { "singular": "repeated recent activity", "plural": "We have been meeting every week to plan the project." }
+          ],
+          "items": [
+            "Signal words: for, since, all day, all week, lately, recently, how long"
+          ],
+          "note": "Difference from Present Perfect: Continuous emphasises duration/process; Simple emphasises completion. 'I have written 3 essays' (count, complete) vs 'I have been writing essays all morning' (process, ongoing)."
+        }
+      ]
+    },
+    {
+      "id": "past",
+      "title": "3. Past Tenses — Forms, Uses, Narrative Flow",
+      "summary": "Past tenses tell stories. Band 7+ candidates layer all four — Simple for the main events, Continuous for background, Perfect for earlier-than-the-story actions, Perfect Continuous for ongoing background actions.",
+      "rules": [
+        {
+          "pattern": "PAST SIMPLE — form: V2 (regular: V+ed; irregular: memorise)",
+          "examples": [
+            { "singular": "completed past action", "plural": "I visited Paris in 2018." },
+            { "singular": "past habit", "plural": "She walked to school every day as a child." },
+            { "singular": "sequence of actions", "plural": "He opened the door, looked inside, and left." },
+            { "singular": "past state", "plural": "We were happy in those days." }
+          ],
+          "items": [
+            "Signal words: yesterday, last week/month/year, in 2010, ago, when I was young, then"
+          ],
+          "note": "If a finished time is mentioned (yesterday, in 2010, last year, when I was a child), Past Simple is required — NOT Present Perfect. ❌ 'I have visited Paris in 2018.' ✔ 'I visited Paris in 2018.'"
+        },
+        {
+          "pattern": "PAST CONTINUOUS — form: was/were + V-ing",
+          "examples": [
+            { "singular": "action in progress at a past moment", "plural": "At 8 p.m. last night I was watching TV." },
+            { "singular": "background to a Past Simple event", "plural": "I was cooking when the phone rang." },
+            { "singular": "two parallel actions", "plural": "While I was reading, my brother was playing music." },
+            { "singular": "annoying repeated past habit (with always)", "plural": "He was always interrupting me." }
+          ],
+          "items": [
+            "Signal words: while, as, when, at 5 o'clock yesterday, all day yesterday"
+          ]
+        },
+        {
+          "pattern": "PAST PERFECT — form: had + V3",
+          "examples": [
+            { "singular": "an action completed BEFORE another past action", "plural": "By the time I arrived, the meeting had finished." },
+            { "singular": "to give background that pre-dates the story", "plural": "She had studied medicine before becoming a writer." },
+            { "singular": "third conditional", "plural": "If I had known, I would have helped." }
+          ],
+          "items": [
+            "Signal words: by the time, before, after, already, just, when (in 'when I arrived, they had left')"
+          ],
+          "note": "Don't use Past Perfect for every past event in a story — only when one past event clearly happened BEFORE another. Overuse sounds awkward."
+        },
+        {
+          "pattern": "PAST PERFECT CONTINUOUS — form: had been + V-ing",
+          "examples": [
+            { "singular": "action that continued up to a point in the past", "plural": "She had been waiting for an hour when the bus finally arrived." },
+            { "singular": "cause of a past situation", "plural": "His eyes were red because he had been crying." }
+          ],
+          "items": [
+            "Signal words: for, since, all day, before, until then"
+          ]
+        }
+      ],
+      "tip": "Speaking Part 2 cue cards reward narrative tense layering. Plan a 2-minute answer where you use Past Simple + Past Continuous + Past Perfect in the same answer — that signals Band 7+ grammatical range."
+    },
+    {
+      "id": "future",
+      "title": "4. Future — 6 Ways to Talk About the Future",
+      "summary": "Band 7+ writers don't only use 'will'. There are six ways, each with a different shade of meaning.",
+      "rules": [
+        {
+          "pattern": "WILL — predictions, instant decisions, promises",
+          "examples": [
+            { "singular": "prediction (no evidence)", "plural": "I think it will rain tomorrow." },
+            { "singular": "instant decision", "plural": "OK, I'll have the chicken." },
+            { "singular": "promise / offer", "plural": "I will help you with the assignment." }
+          ]
+        },
+        {
+          "pattern": "BE GOING TO — intentions and evidence-based predictions",
+          "examples": [
+            { "singular": "intention / plan", "plural": "I am going to study medicine next year." },
+            { "singular": "evidence-based prediction", "plural": "Look at those clouds — it is going to rain." }
+          ],
+          "note": "If you can SEE evidence, prefer 'going to' over 'will'."
+        },
+        {
+          "pattern": "PRESENT CONTINUOUS — fixed future arrangements",
+          "examples": [
+            { "singular": "arrangement (ticket booked, time agreed)", "plural": "I am flying to London on Friday." },
+            { "singular": "scheduled meeting", "plural": "We are meeting the client at 3 p.m. tomorrow." }
+          ]
+        },
+        {
+          "pattern": "PRESENT SIMPLE — timetables / scheduled events",
+          "examples": [
+            { "singular": "timetable", "plural": "The train leaves at 6 a.m." },
+            { "singular": "scheduled programme", "plural": "Term starts on the first of October." }
+          ]
+        },
+        {
+          "pattern": "FUTURE CONTINUOUS — action in progress at a future point",
+          "examples": [
+            { "singular": "action ongoing at future moment", "plural": "This time next year, I will be living in Sydney." },
+            { "singular": "polite enquiry about plans", "plural": "Will you be using the car tonight?" }
+          ]
+        },
+        {
+          "pattern": "FUTURE PERFECT — action completed by a future point",
+          "examples": [
+            { "singular": "completion before a future deadline", "plural": "By 2050, automation will have replaced many jobs." },
+            { "singular": "completion of duration", "plural": "By next month, I will have lived here for ten years." }
+          ],
+          "note": "Future Perfect is rare and high-value. One sentence with 'will have + V3' in a Task 2 conclusion about the future signals advanced grammar control."
+        }
+      ],
+      "tip": "Aim to use at least 3 of these 6 future forms in any 250-word Task 2 essay that discusses the future."
+    },
+    {
+      "id": "stative",
+      "title": "5. Stative Verbs — The 'I am loving it' Trap",
+      "summary": "Stative verbs describe states (not actions) and normally do NOT take continuous (-ing) forms. Saying 'I am knowing' or 'I am owning' instantly drops your perceived band.",
+      "rules": [
+        {
+          "pattern": "Common stative verbs — DO NOT use in continuous",
+          "items": [
+            "Mental: know, believe, understand, think (= opinion), realise, recognise, remember, forget, doubt",
+            "Emotional: love, hate, like, dislike, prefer, want, need, wish, mind",
+            "Possession: have (= own), own, belong, possess, contain, consist of",
+            "Senses: see, hear, smell, taste, feel, notice, sound, look (= appear), seem, appear",
+            "Other: be, exist, depend (on), matter, deserve, mean, fit, weigh, owe, cost"
+          ],
+          "note": "Use Simple form: ❌ 'I am knowing the answer.' ✔ 'I know the answer.' ❌ 'She is having a car.' ✔ 'She has a car.'"
+        },
+        {
+          "pattern": "Dual-use verbs — meaning shifts between Simple and Continuous",
+          "examples": [
+            { "singular": "I think you're right", "plural": "I'm thinking about the problem (= mental activity = dynamic)" },
+            { "singular": "She has a car (= owns)", "plural": "She is having a shower / a meal (= experience = dynamic)" },
+            { "singular": "I see what you mean (= understand)", "plural": "I am seeing the doctor at 3 (= meeting)" },
+            { "singular": "The food tastes good (= has flavour)", "plural": "The chef is tasting the soup (= testing flavour)" },
+            { "singular": "He is rude (= permanent character)", "plural": "He is being rude today (= temporary behaviour)" }
+          ],
+          "note": "When in doubt, default to the Simple form — it's almost always safer."
+        }
+      ],
+      "tip": "Make a personal list of 15 stative verbs you use most often, and drill saying them in Simple form under Speaking pressure. Under stress, candidates default to '-ing' — train against that habit."
+    },
+    {
+      "id": "perfect-vs-simple",
+      "title": "6. Present Perfect vs Past Simple — IELTS-Critical Contrast",
+      "summary": "The single highest-yield tense distinction for IELTS. Hours of practice on this one rule pay off more than any other tense work.",
+      "rules": [
+        {
+          "pattern": "Past Simple = FINISHED time period (mentioned or implied)",
+          "examples": [
+            { "singular": "yesterday / last week", "plural": "I visited the museum yesterday." },
+            { "singular": "in 2010 / when I was young", "plural": "She moved here in 2010." },
+            { "singular": "ago", "plural": "We met five years ago." }
+          ]
+        },
+        {
+          "pattern": "Present Perfect = UNFINISHED time period OR result-now",
+          "examples": [
+            { "singular": "since / for", "plural": "We have lived here since 2020 / for five years." },
+            { "singular": "ever / never (life-experience)", "plural": "Have you ever visited Paris? / I have never tried sushi." },
+            { "singular": "just / already / yet (recent + connected to now)", "plural": "I have already finished my work." },
+            { "singular": "result still applies", "plural": "She has lost her keys (and still doesn't have them)." }
+          ]
+        },
+        {
+          "pattern": "Side-by-side comparison",
+          "examples": [
+            { "singular": "I lived in Dhaka for 5 years (no longer)", "plural": "I have lived in Dhaka for 5 years (still do)" },
+            { "singular": "She visited Paris three times (in past, no longer relevant)", "plural": "She has visited Paris three times (life-experience, up to now)" },
+            { "singular": "Did you finish? (specific past time understood)", "plural": "Have you finished? (right now, status check)" },
+            { "singular": "Technology changed dramatically in the 2000s (finished period)", "plural": "Technology has changed dramatically over the last decade (continues)" }
+          ]
+        },
+        {
+          "pattern": "IELTS Writing Task 1 — line graphs / trends",
+          "examples": [
+            { "singular": "data ending in past (e.g., 2015)", "plural": "Production fell sharply between 2010 and 2015." },
+            { "singular": "trend reaching the present", "plural": "Energy consumption has risen steadily over the last decade." }
+          ],
+          "note": "If the chart's last data point is the present (or near it), use Present Perfect. If it's clearly in the past, use Past Simple."
+        }
+      ],
+      "tip": "Open any Writing Task 2 introduction you've written. Find every 'happened / has happened / had happened' and check whether the time frame is finished, unfinished, or earlier-than-another-past. This single audit fixes more grammar errors than any other drill."
+    },
+    {
+      "id": "narrative",
+      "title": "7. Narrative Tenses Together",
+      "summary": "Storytelling — in Speaking Part 2 and Writing Task 2 examples — needs all four past tenses layered. This is where Band 7+ candidates show range.",
+      "rules": [
+        {
+          "pattern": "The four-tense narrative pattern",
+          "examples": [
+            { "singular": "Past Simple", "plural": "main events (then I went home, she said hello)" },
+            { "singular": "Past Continuous", "plural": "background / setting (it was raining, people were waiting)" },
+            { "singular": "Past Perfect", "plural": "earlier-than-the-story (she had already left, I had never seen anything like it)" },
+            { "singular": "Past Perfect Continuous", "plural": "ongoing background up to the moment (I had been waiting for hours when the bus arrived)" }
+          ]
+        },
+        {
+          "pattern": "Example narrative paragraph (all four tenses in 3 sentences)",
+          "examples": [
+            { "singular": "Sentence 1 (background)", "plural": "It was a Friday evening, and I had been working at my desk for several hours when the lights suddenly went out." },
+            { "singular": "Sentence 2 (main event)", "plural": "I stood up and walked to the window, but the entire street was in darkness." },
+            { "singular": "Sentence 3 (earlier context)", "plural": "I realised that the storm we had been warned about earlier in the week had finally arrived." }
+          ],
+          "note": "This 3-sentence paragraph contains 4 past tenses. That is exactly what Band 7+ examiners look for."
+        }
+      ],
+      "tip": "Speaking Part 2 cue cards always invite past narration. Prepare 3 personal anecdotes (a difficult journey, a memorable meal, a time you were late) where you can deploy this 4-tense pattern."
+    },
+    {
+      "id": "reported",
+      "title": "8. Reported Speech — Backshift Rules",
+      "summary": "When the reporting verb is past (said, told, claimed), tenses in the reported clause normally shift one step back. Place / time references shift too. This is a frequent IELTS Speaking Part 3 area.",
+      "rules": [
+        {
+          "pattern": "Tense backshift (one step into the past)",
+          "examples": [
+            { "singular": "Present Simple → Past Simple", "plural": "'I work here.' → He said he worked there." },
+            { "singular": "Present Continuous → Past Continuous", "plural": "'I am working.' → She said she was working." },
+            { "singular": "Present Perfect → Past Perfect", "plural": "'I have finished.' → He said he had finished." },
+            { "singular": "Past Simple → Past Perfect", "plural": "'I went home.' → She said she had gone home." },
+            { "singular": "will → would", "plural": "'I will help.' → He said he would help." },
+            { "singular": "can → could", "plural": "'I can swim.' → She said she could swim." },
+            { "singular": "may → might", "plural": "'I may attend.' → He said he might attend." }
+          ]
+        },
+        {
+          "pattern": "Place / time references also shift",
+          "examples": [
+            { "singular": "now → then", "plural": "'I am tired now.' → She said she was tired then." },
+            { "singular": "today → that day", "plural": "'I will leave today.' → He said he would leave that day." },
+            { "singular": "tomorrow → the next day / the following day", "plural": "'I will see you tomorrow.' → She said she would see me the next day." },
+            { "singular": "yesterday → the previous day / the day before", "plural": "'I called yesterday.' → He said he had called the day before." },
+            { "singular": "here → there", "plural": "'I live here.' → She said she lived there." },
+            { "singular": "this → that", "plural": "'I bought this book.' → He said he had bought that book." }
+          ]
+        },
+        {
+          "pattern": "NO backshift when the statement is still true / a general truth / a future-still-pending",
+          "examples": [
+            { "singular": "general truth", "plural": "The teacher said the Earth orbits the Sun. (NOT 'orbited')" },
+            { "singular": "still true", "plural": "She said she lives in London. (still lives there)" },
+            { "singular": "still-future event", "plural": "He said he will fly tomorrow. (the flight hasn't happened yet)" }
+          ],
+          "note": "Backshift is the SAFE default. NOT-backshifting is a stylistic choice that examiners reward when used correctly."
+        },
+        {
+          "pattern": "Reporting verbs beyond 'said' / 'told'",
+          "items": [
+            "Stating: claim, declare, mention, point out, state, comment, remark, observe",
+            "Agreeing/disagreeing: agree, disagree, deny, refuse, dispute, contradict",
+            "Promising/threatening: promise, threaten, swear, vow, pledge",
+            "Suggesting: suggest, propose, recommend, advise",
+            "Asking: ask, enquire, wonder, want to know",
+            "Admitting: admit, confess, acknowledge, concede"
+          ],
+          "note": "Using 'claimed' / 'argued' / 'pointed out' instead of 'said' is a vocabulary upgrade examiners notice. 'The author argued that…' is Band 7+; 'The author said that…' is Band 6."
+        }
+      ]
+    },
+    {
+      "id": "tense-clauses",
+      "title": "9. Tenses in Conditionals & Time Clauses",
+      "summary": "After 'if', 'when', 'as soon as', 'before', 'after', 'until', 'unless' — DO NOT use 'will' in the subordinate clause, even when the meaning is future.",
+      "rules": [
+        {
+          "pattern": "After IF / WHEN / AS SOON AS / BEFORE / AFTER / UNTIL / UNLESS — use Present, not 'will'",
+          "examples": [
+            { "singular": "future condition", "plural": "If it rains tomorrow, we will cancel. (NOT 'If it will rain')" },
+            { "singular": "future time clause", "plural": "I will call you when I arrive. (NOT 'when I will arrive')" },
+            { "singular": "as soon as", "plural": "As soon as the meeting ends, we will leave. (NOT 'will end')" },
+            { "singular": "before / after", "plural": "I will check the email before I leave the office." },
+            { "singular": "until", "plural": "Wait here until I get back." },
+            { "singular": "unless", "plural": "Unless you study, you will fail. (NOT 'will study')" }
+          ],
+          "note": "This is among the top 3 grammar errors for Band 6 candidates. Drill it: the SUBORDINATE clause stays in Present; the MAIN clause gets the future."
+        },
+        {
+          "pattern": "Conditionals — tense pattern at a glance",
+          "examples": [
+            { "singular": "Zero (general truth)", "plural": "If water reaches 100°C, it boils. (Present + Present)" },
+            { "singular": "First (likely future)", "plural": "If it rains, we will stay home. (Present + will)" },
+            { "singular": "Second (unlikely / imaginary present)", "plural": "If I had time, I would help. (Past + would)" },
+            { "singular": "Third (impossible past)", "plural": "If I had known, I would have helped. (Past Perfect + would have)" }
+          ],
+          "note": "See the dedicated Conditionals reference for mixed conditionals, inversions, and IELTS Speaking Part 3 hypothetical questions."
+        }
+      ]
+    },
+    {
+      "id": "errors",
+      "title": "10. Top Tense Errors at the Band 6 → Band 7+ Threshold",
+      "summary": "These are the specific tense mistakes that pull a Band 7 candidate down to Band 6.5 — and the fixes.",
+      "rules": [
+        {
+          "pattern": "1. Using Past Simple where Present Perfect is needed",
+          "examples": [
+            { "singular": "❌ I lived here for five years.", "plural": "✔ I have lived here for five years. (still living here)" },
+            { "singular": "❌ Technology changed a lot recently.", "plural": "✔ Technology has changed a lot recently." }
+          ]
+        },
+        {
+          "pattern": "2. Using 'will' inside an if- or when-clause",
+          "examples": [
+            { "singular": "❌ If it will rain, we will stay home.", "plural": "✔ If it rains, we will stay home." },
+            { "singular": "❌ I will call when I will arrive.", "plural": "✔ I will call when I arrive." }
+          ]
+        },
+        {
+          "pattern": "3. Stative verbs in continuous form",
+          "examples": [
+            { "singular": "❌ I am knowing the answer.", "plural": "✔ I know the answer." },
+            { "singular": "❌ She is owning a flat in Dhaka.", "plural": "✔ She owns a flat in Dhaka." }
+          ]
+        },
+        {
+          "pattern": "4. Forgetting third-person -s in Present Simple",
+          "examples": [
+            { "singular": "❌ She go to school every day.", "plural": "✔ She goes to school every day." },
+            { "singular": "❌ My country have many rivers.", "plural": "✔ My country has many rivers." }
+          ]
+        },
+        {
+          "pattern": "5. Mixing tenses within a paragraph without reason",
+          "examples": [
+            { "singular": "❌ I went to the shop. I see my friend. We are talking for an hour.", "plural": "✔ I went to the shop. I saw my friend. We talked for an hour." }
+          ],
+          "note": "Pick a tense for the timeline of your paragraph and stay in it unless the meaning changes."
+        },
+        {
+          "pattern": "6. Past Perfect for any past event (overuse)",
+          "examples": [
+            { "singular": "❌ Yesterday I had gone to the market and had bought some fruit.", "plural": "✔ Yesterday I went to the market and bought some fruit." }
+          ],
+          "note": "Use Past Perfect only when one past event happened CLEARLY BEFORE another past event."
+        },
+        {
+          "pattern": "7. Wrong backshift in reported speech",
+          "examples": [
+            { "singular": "❌ He said he is tired.", "plural": "✔ He said he was tired." },
+            { "singular": "❌ She said she will come tomorrow.", "plural": "✔ She said she would come the next day. (or: She said she will come tomorrow — if tomorrow is still in the future at the time of writing)" }
+          ]
+        },
+        {
+          "pattern": "8. Future tense for habitual present",
+          "examples": [
+            { "singular": "❌ Every weekend I will go to the market.", "plural": "✔ Every weekend I go to the market." }
+          ]
+        },
+        {
+          "pattern": "9. Using 'do/does/did' in question and forgetting in negative",
+          "examples": [
+            { "singular": "❌ I no understand.", "plural": "✔ I do not understand." },
+            { "singular": "❌ Where you live?", "plural": "✔ Where do you live?" },
+            { "singular": "❌ She no like coffee.", "plural": "✔ She does not like coffee." }
+          ]
+        },
+        {
+          "pattern": "10. Using Present Continuous for permanent states",
+          "examples": [
+            { "singular": "❌ I am living in Dhaka all my life.", "plural": "✔ I have lived in Dhaka all my life." },
+            { "singular": "❌ My family is having three members.", "plural": "✔ My family has three members." }
+          ]
+        }
+      ],
+      "tip": "Print this list and run a verb-by-verb audit on every essay you write for the next 14 days. After two weeks of conscious checking, the corrections become automatic."
+    }
+  ],
+  "checklist": [
+    "I can name and form all 12 tenses without hesitation.",
+    "I never forget the -s on third-person singular Present Simple ('She goes', 'It works').",
+    "I use Present Perfect (not Past Simple) for unfinished time periods (since/for) and life-experience (ever/never).",
+    "I use Past Simple (not Present Perfect) when a finished past time is mentioned (yesterday, in 2010, ago).",
+    "I never use 'will' inside an if- or when-clause that refers to the future.",
+    "I never put stative verbs (know, believe, own, love) into the -ing form.",
+    "I can layer Past Simple + Past Continuous + Past Perfect in one narrative paragraph.",
+    "I use at least 3 different future forms (will, going to, Present Continuous, Future Perfect) in a Task 2 essay.",
+    "I apply correct backshift in reported speech and recognise when not to backshift (general truths).",
+    "I use varied reporting verbs (claim, argue, point out, suggest) instead of repeating 'say'.",
+    "I can write a 3-sentence story that contains 4 different past tenses without it feeling forced.",
+    "I do NOT use Past Perfect for every past event — only when one event clearly pre-dates another."
+  ]
+}

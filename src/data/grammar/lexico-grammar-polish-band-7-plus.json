@@ -1,0 +1,597 @@
+{
+  "title": "Lexico-Grammar Polish — Band 7+ Reference",
+  "subtitle": "Nominalization + hedging + dependent prepositions + advanced punctuation + comparatives — the final 10%",
+  "icon": "✨",
+  "intro": "Once you control tenses, conditionals, articles and clauses, the final 10% of Band 7+ comes from the polish: turning verbs into noun phrases (nominalization), softening absolute claims (hedging), pairing the right preposition with each verb/adjective, deploying semicolons and dashes correctly, and using comparatives with sophistication. Each one is small. Together, they're the difference between Band 7 and Band 8.",
+  "sections": [
+    {
+      "id": "nominalization",
+      "title": "1. Nominalization — Verbs Into Noun Phrases",
+      "summary": "Academic writing prefers noun phrases over clauses. Nominalization compresses information and creates the dense, formal register Band 7+ examiners reward.",
+      "rules": [
+        {
+          "pattern": "Verb → Noun transformation",
+          "examples": [
+            { "singular": "develop", "plural": "the development of" },
+            { "singular": "increase / decrease", "plural": "an increase in / a decrease in" },
+            { "singular": "rise / fall", "plural": "a rise in / a fall in" },
+            { "singular": "introduce", "plural": "the introduction of" },
+            { "singular": "implement", "plural": "the implementation of" },
+            { "singular": "decide", "plural": "the decision to" },
+            { "singular": "fail", "plural": "the failure to / the failure of" },
+            { "singular": "succeed", "plural": "the success of" },
+            { "singular": "discover", "plural": "the discovery of" },
+            { "singular": "analyse", "plural": "the analysis of" },
+            { "singular": "improve", "plural": "improvement / the improvement of" },
+            { "singular": "contribute", "plural": "the contribution of" },
+            { "singular": "depend", "plural": "the dependence of … on" },
+            { "singular": "investigate", "plural": "the investigation of / into" },
+            { "singular": "approve", "plural": "the approval of" }
+          ]
+        },
+        {
+          "pattern": "Sentence-level nominalization (transformation)",
+          "examples": [
+            { "singular": "verb-driven", "plural": "The economy grew rapidly. → " },
+            { "singular": "nominalised", "plural": "The rapid growth of the economy was striking." },
+            { "singular": "verb-driven", "plural": "The government decided to invest in schools. → " },
+            { "singular": "nominalised", "plural": "The government's decision to invest in schools was widely supported." },
+            { "singular": "verb-driven", "plural": "Pollution has increased. This is concerning. → " },
+            { "singular": "nominalised", "plural": "The increase in pollution is a matter of growing concern." }
+          ]
+        },
+        {
+          "pattern": "Critical preposition + nominalization combinations",
+          "items": [
+            "an increase IN (NOT 'of'): an increase in pollution",
+            "a decrease IN: a decrease in birth rates",
+            "a rise IN: a rise in unemployment",
+            "a fall IN: a fall in living standards",
+            "the introduction OF: the introduction of new policies",
+            "the implementation OF: the implementation of reforms",
+            "the development OF: the development of technology",
+            "the impact OF: the impact of climate change ON society",
+            "the effect OF: the effect of advertising ON children",
+            "the cause OF: the cause of the crisis",
+            "the reason FOR: the reason for the delay",
+            "the importance OF: the importance of education",
+            "the role OF: the role of women in society"
+          ],
+          "note": "Wrong preposition is a subtle but visible error: ❌ 'an increase OF pollution' should be 'an increase IN pollution'."
+        },
+        {
+          "pattern": "Why nominalization matters — Band 7+ density",
+          "examples": [
+            { "singular": "Band 6 verb-driven", "plural": "Cities are growing very quickly, which means more people live in them. This means there is more pressure on housing." },
+            { "singular": "Band 7+ nominalised", "plural": "The rapid growth of urban populations has placed considerable pressure on housing markets." }
+          ],
+          "note": "Same idea — half the words, twice the density. This is exactly what 'wide range with full flexibility' means in the Band 8 descriptor."
+        }
+      ],
+      "tip": "When you write a sentence with a -ing verb (Pollution is increasing in cities), try: 'The increase in pollution in cities is...'. If it reads naturally, use the nominalised form. Don't over-do it — alternate verb and noun forms for rhythm."
+    },
+    {
+      "id": "hedging",
+      "title": "2. Hedging Language — Academic Caution",
+      "summary": "Academic writing avoids absolute claims. Hedging softens certainty so claims sound measured and credible. Band 7+ writers hedge naturally; Band 6 writers make sweeping claims.",
+      "rules": [
+        {
+          "pattern": "MODAL VERBS for hedging",
+          "examples": [
+            { "singular": "may / might", "plural": "Such policies MAY have unintended consequences." },
+            { "singular": "could", "plural": "This trend COULD pose a serious threat." },
+            { "singular": "can", "plural": "Excessive screen time CAN be harmful." }
+          ]
+        },
+        {
+          "pattern": "LEXICAL VERBS for hedging",
+          "items": [
+            "tend to + V (Children tend to learn quickly)",
+            "appear to + V (The data appears to support this view)",
+            "seem to + V (Younger generations seem to prefer digital media)",
+            "suggest that (Research suggests that...)",
+            "indicate that (The findings indicate that...)",
+            "imply that",
+            "be likely to + V (Air pollution is likely to worsen)"
+          ]
+        },
+        {
+          "pattern": "ADVERBS for hedging",
+          "items": [
+            "often / frequently / typically / generally",
+            "in most cases / in many cases",
+            "to some extent / to a certain degree / to a large extent",
+            "largely / generally / on the whole",
+            "broadly speaking / generally speaking",
+            "perhaps / possibly / arguably / conceivably",
+            "almost certainly (high but not absolute)"
+          ]
+        },
+        {
+          "pattern": "ADJECTIVES for hedging",
+          "items": [
+            "likely / unlikely",
+            "probable / improbable",
+            "possible / impossible",
+            "plausible",
+            "apparent",
+            "potential"
+          ]
+        },
+        {
+          "pattern": "NOUN forms for hedging",
+          "items": [
+            "the possibility of / the likelihood of",
+            "a tendency to / for",
+            "an indication of / that",
+            "evidence suggests"
+          ]
+        },
+        {
+          "pattern": "Hedging in Task 2 — before vs after",
+          "examples": [
+            { "singular": "❌ absolutist (Band 6)", "plural": "All teenagers are addicted to phones. Phones destroy social skills." },
+            { "singular": "✔ hedged (Band 7+)", "plural": "Many teenagers appear to be heavily reliant on their phones, which may be undermining face-to-face social skills." }
+          ]
+        },
+        {
+          "pattern": "AVOID over-hedging",
+          "examples": [
+            { "singular": "❌ over-hedged", "plural": "It might possibly tend to perhaps suggest that some people may possibly..." },
+            { "singular": "✔ measured", "plural": "It tends to suggest that some people may..." }
+          ],
+          "note": "One or two hedges per claim is enough. Stacking 4+ hedges sounds vague and unconfident. Hedge in EVIDENCE; be firm in your OPINION."
+        }
+      ],
+      "tip": "When you express your OPINION in Task 2, be FIRM. When you describe EVIDENCE or CAUSE, hedge. 'I firmly believe X' (firm opinion) + 'because Y may contribute to Z' (hedged evidence). This balance is exactly Band 7+."
+    },
+    {
+      "id": "dependent-prepositions",
+      "title": "3. Dependent Prepositions — Verb / Adjective / Noun + Preposition",
+      "summary": "Many words require a specific preposition. Wrong preposition is the most common lexical-grammar error in Band 6 writing.",
+      "rules": [
+        {
+          "pattern": "ADJECTIVE + PREPOSITION (Band 7+ essential)",
+          "items": [
+            "interested IN",
+            "good AT / bad AT",
+            "capable OF / incapable OF",
+            "responsible FOR",
+            "dependent ON / independent OF",
+            "aware OF / unaware OF",
+            "similar TO / different FROM (NOT 'than' in formal BrE)",
+            "suitable FOR",
+            "accustomed TO / used TO",
+            "afraid OF",
+            "fond OF",
+            "proud OF",
+            "ashamed OF",
+            "jealous OF",
+            "concerned ABOUT / WITH",
+            "involved IN / WITH",
+            "exposed TO",
+            "addicted TO",
+            "opposed TO",
+            "committed TO",
+            "engaged IN",
+            "engaged TO (someone — for marriage)",
+            "famous FOR",
+            "married TO",
+            "divorced FROM",
+            "based ON / IN",
+            "rich IN",
+            "lacking IN",
+            "consistent WITH",
+            "compatible WITH",
+            "associated WITH",
+            "familiar WITH (something) / familiar TO (someone)"
+          ]
+        },
+        {
+          "pattern": "VERB + PREPOSITION (high-frequency)",
+          "items": [
+            "depend ON (NOT 'depend of')",
+            "rely ON",
+            "consist OF",
+            "result IN (cause)",
+            "result FROM (effect)",
+            "lead TO",
+            "contribute TO",
+            "comply WITH",
+            "agree WITH (a person) / agree ON (a topic) / agree TO (a proposal)",
+            "succeed IN",
+            "concentrate ON / focus ON",
+            "approve OF",
+            "object TO",
+            "apologise FOR (something) TO (someone)",
+            "blame sb FOR sth / blame sth ON sb",
+            "complain ABOUT",
+            "comment ON",
+            "argue WITH (a person) / ABOUT (a topic) / FOR (in favour) / AGAINST",
+            "search FOR",
+            "look FOR / AFTER / INTO / AT / UP",
+            "deal WITH",
+            "cope WITH",
+            "interfere WITH (a thing) / IN (an issue)",
+            "react TO",
+            "respond TO",
+            "refer TO",
+            "translate FROM … INTO",
+            "differ FROM",
+            "differ ON / OVER (an issue)"
+          ]
+        },
+        {
+          "pattern": "NOUN + PREPOSITION",
+          "items": [
+            "increase / decrease / rise / fall IN",
+            "reason FOR",
+            "cause OF",
+            "effect ON",
+            "impact ON",
+            "influence ON",
+            "demand FOR",
+            "solution TO (NOT 'of')",
+            "answer TO",
+            "approach TO",
+            "attitude TO / TOWARDS",
+            "advantage / disadvantage OF",
+            "benefit OF / TO",
+            "exposure TO",
+            "access TO",
+            "objection TO",
+            "alternative TO",
+            "addition TO",
+            "introduction TO / OF",
+            "interest IN",
+            "lack OF",
+            "shortage OF",
+            "fall IN",
+            "decrease IN"
+          ]
+        },
+        {
+          "pattern": "Top errors — high-frequency wrong prepositions",
+          "examples": [
+            { "singular": "❌ It depends OF the situation.", "plural": "✔ It depends ON the situation." },
+            { "singular": "❌ Different THAN (informal AmE).", "plural": "✔ Different FROM (formal / BrE / IELTS norm)." },
+            { "singular": "❌ The reason OF the problem.", "plural": "✔ The reason FOR the problem." },
+            { "singular": "❌ A solution OF the issue.", "plural": "✔ A solution TO the issue." },
+            { "singular": "❌ An effect TO health.", "plural": "✔ An effect ON health." },
+            { "singular": "❌ An increase OF pollution.", "plural": "✔ An increase IN pollution." },
+            { "singular": "❌ Discuss ABOUT the problem.", "plural": "✔ Discuss the problem. ('discuss' takes no preposition!)" },
+            { "singular": "❌ Mention ABOUT the issue.", "plural": "✔ Mention the issue. ('mention' takes no preposition!)" },
+            { "singular": "❌ I'm married WITH her.", "plural": "✔ I'm married TO her." },
+            { "singular": "❌ They escaped FROM the prison.", "plural": "(actually correct) ✔ They escaped FROM prison. — but ❌ 'They escaped OF the prison' is wrong." }
+          ]
+        },
+        {
+          "pattern": "Verbs that take NO preposition (Band 6 over-prepositions)",
+          "items": [
+            "discuss (NOT 'discuss about')",
+            "mention (NOT 'mention about')",
+            "approach (NOT 'approach to' as a verb — 'approach the problem')",
+            "enter (NOT 'enter into a room')",
+            "attack (NOT 'attack to')",
+            "answer (NOT 'answer to the question')",
+            "marry (NOT 'marry with')",
+            "lack (NOT 'lack of' as verb — 'they lack experience')",
+            "demand (NOT 'demand for' as verb — 'they demand action')"
+          ]
+        }
+      ],
+      "tip": "Build a personal cheat-sheet of the 30 dependent prepositions you misuse most. Drill 5/day. After 14 days, the right preposition becomes automatic — and you eliminate the most-noticed lexical-grammar errors at the Band 7 threshold."
+    },
+    {
+      "id": "punctuation",
+      "title": "4. Advanced Punctuation — Semicolons, Colons, Dashes",
+      "summary": "Beyond commas and full stops. Used correctly, these signal Band 7+ control of sentence rhythm.",
+      "rules": [
+        {
+          "pattern": "SEMICOLON (;) — joining two related independent clauses",
+          "examples": [
+            { "singular": "balanced contrast", "plural": "Many students struggle with grammar; few are taught it explicitly." },
+            { "singular": "cause-effect", "plural": "Demand has surged; supply chains are strained." }
+          ],
+          "note": "Both sides of a semicolon must be FULL sentences. ❌ 'Many students struggle; especially with grammar.' (right side isn't a complete sentence)."
+        },
+        {
+          "pattern": "SEMICOLON in complex lists (where items contain commas)",
+          "examples": [
+            { "singular": "list with internal commas", "plural": "The committee met in three cities: London, England; Paris, France; and Berlin, Germany." }
+          ]
+        },
+        {
+          "pattern": "COLON (:) — introducing a list, explanation, or quotation",
+          "examples": [
+            { "singular": "introducing a list", "plural": "There are three causes: poor diet, lack of exercise, and stress." },
+            { "singular": "introducing an explanation", "plural": "The result was clear: the policy had failed." },
+            { "singular": "introducing a quote", "plural": "Einstein said it best: 'Imagination is more important than knowledge.'" }
+          ],
+          "note": "❌ Don't use a colon after a verb or preposition: 'The causes are: poor diet…' should be 'The causes are poor diet, lack of exercise, and stress.'"
+        },
+        {
+          "pattern": "EM DASH (—) — embedded info OR strong afterthought",
+          "examples": [
+            { "singular": "in pairs (like commas, but stronger)", "plural": "Most countries — including developed nations — face this problem." },
+            { "singular": "single dash for afterthought", "plural": "The plan is bold — perhaps too bold." }
+          ],
+          "note": "Use sparingly: max one paired use and one single use per essay. Em dash is for emphasis, not a casual replacement for commas."
+        },
+        {
+          "pattern": "COMMA — top Band 7+ comma rules to master",
+          "items": [
+            "After introductory phrases: 'In recent years, pollution has worsened.'",
+            "Around non-defining relative clauses: 'My brother, who lives in Canada, is a doctor.'",
+            "Between coordinated clauses (FANBOYS): 'I studied hard, but I failed.'",
+            "In a list of three or more (Oxford comma optional but Band 7+ writers often use it): 'apples, oranges, and bananas'",
+            "After fronted concession: 'Despite the difficulties, we continued.'",
+            "NOT before subordinator at sentence end: 'I left because I was tired.' (no comma)"
+          ]
+        },
+        {
+          "pattern": "Top punctuation errors at Band 6 → 7+",
+          "examples": [
+            { "singular": "❌ Comma splice (joining two clauses with only comma)", "plural": "❌ Pollution is increasing, governments must act. → ✔ Pollution is increasing; governments must act. / Pollution is increasing. Governments must act. / Pollution is increasing, AND governments must act." },
+            { "singular": "❌ Colon after verb", "plural": "❌ The reasons are: economic, social and political. → ✔ The reasons are economic, social and political. / There are three reasons: economic, social and political." },
+            { "singular": "❌ Missing comma after introductory phrase", "plural": "❌ In recent years pollution has worsened. → ✔ In recent years, pollution has worsened." }
+          ]
+        }
+      ],
+      "tip": "Add ONE semicolon and ONE colon to every Task 2 essay deliberately. Don't force them — find natural places. After two weeks of conscious use, they become automatic."
+    },
+    {
+      "id": "comparatives",
+      "title": "5. Comparatives & Superlatives — Beyond 'Bigger' and 'Best'",
+      "summary": "Basic comparatives are Band 5. Band 7+ uses sophisticated comparison structures.",
+      "rules": [
+        {
+          "pattern": "Standard comparative & superlative forms",
+          "items": [
+            "1-syllable: -er / -est (taller, tallest)",
+            "2-syllable ending in -y: y → ier / iest (happier, happiest)",
+            "2+ syllables: more / most (more interesting, most beautiful)",
+            "Irregular: good → better → best, bad → worse → worst, far → farther/further → farthest/furthest"
+          ]
+        },
+        {
+          "pattern": "MODIFYING comparatives — degree of difference",
+          "examples": [
+            { "singular": "small difference", "plural": "slightly / a little / a bit / marginally + comparative — slightly more expensive, marginally better" },
+            { "singular": "moderate difference", "plural": "rather / somewhat / fairly + comparative — rather more challenging" },
+            { "singular": "large difference", "plural": "much / far / a lot + comparative — much more important, far better, a lot more efficient" },
+            { "singular": "very large", "plural": "considerably / significantly + comparative — considerably faster, significantly more accurate" }
+          ]
+        },
+        {
+          "pattern": "MODIFYING superlatives — emphasising rank",
+          "examples": [
+            { "singular": "by far the + superlative", "plural": "Education is BY FAR THE most important factor." },
+            { "singular": "the very + superlative", "plural": "This is THE VERY BEST option available." },
+            { "singular": "easily the + superlative", "plural": "Climate change is EASILY THE biggest challenge of our time." }
+          ]
+        },
+        {
+          "pattern": "PARALLEL structures — 'the more … the more'",
+          "examples": [
+            { "singular": "proportional", "plural": "The more you practise, the better you become." },
+            { "singular": "proportional", "plural": "The longer the journey, the more tired we get." },
+            { "singular": "negative", "plural": "The less we sleep, the worse we perform." }
+          ],
+          "note": "This structure is high-yield Band 7+ — drop one in any Task 2 essay where two trends are linked."
+        },
+        {
+          "pattern": "AS … AS comparisons",
+          "examples": [
+            { "singular": "equal", "plural": "Online learning can be as effective as classroom teaching." },
+            { "singular": "with quantifier", "plural": "The new policy is twice as effective as the old one." },
+            { "singular": "with quantifier", "plural": "Demand has risen three times as fast as supply." }
+          ]
+        },
+        {
+          "pattern": "GRADUAL change — 'getting + comparative'",
+          "examples": [
+            { "singular": "ongoing trend", "plural": "Cities are getting bigger and bigger." },
+            { "singular": "ongoing trend", "plural": "Technology is becoming increasingly sophisticated." }
+          ]
+        },
+        {
+          "pattern": "Comparison errors at Band 7 threshold",
+          "examples": [
+            { "singular": "❌ More taller / more better / more worse", "plural": "✔ Taller / better / worse (irregulars; never 'more' before -er forms)" },
+            { "singular": "❌ The most tallest / the most best", "plural": "✔ The tallest / the best (don't combine 'most' with -est)" },
+            { "singular": "❌ Different THAN (informal AmE)", "plural": "✔ Different FROM (formal BrE / IELTS norm)" },
+            { "singular": "❌ Many people prefer rural life THAN city life.", "plural": "✔ Many people prefer rural life TO city life. (prefer X to Y)" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing-task1-language",
+      "title": "6. Specialised Lexico-Grammar for Task 1 (Data)",
+      "summary": "Task 1 has its own vocabulary system. Master these collocations.",
+      "rules": [
+        {
+          "pattern": "Verbs of TREND",
+          "items": [
+            "Upward: rise / increase / grow / climb / surge / soar / rocket / shoot up",
+            "Downward: fall / decrease / decline / drop / plunge / plummet / dip",
+            "Stable: remain stable / level off / stabilise / plateau / stay constant",
+            "Fluctuation: fluctuate / vary / oscillate / show fluctuations"
+          ]
+        },
+        {
+          "pattern": "Adverbs of DEGREE for trends",
+          "items": [
+            "Sharp: sharply / steeply / dramatically / significantly / considerably",
+            "Moderate: gradually / steadily / moderately",
+            "Slight: slightly / marginally"
+          ]
+        },
+        {
+          "pattern": "Verb + adverb combinations (collocations)",
+          "examples": [
+            { "singular": "sharp upward", "plural": "Sales rose sharply / increased dramatically / surged unexpectedly." },
+            { "singular": "moderate downward", "plural": "Numbers gradually declined / steadily decreased." },
+            { "singular": "stability", "plural": "Prices remained stable / levelled off / plateaued at $50." }
+          ]
+        },
+        {
+          "pattern": "Noun-based comparisons (Task 1 sophistication)",
+          "examples": [
+            { "singular": "verb form", "plural": "Sales rose sharply." },
+            { "singular": "noun form (Band 7+)", "plural": "There was a sharp rise in sales." },
+            { "singular": "verb form", "plural": "Production declined slightly." },
+            { "singular": "noun form (Band 7+)", "plural": "A slight decline was observed in production." }
+          ],
+          "note": "Mixing verb and noun forms creates variety. Three verb-form sentences in a row = Band 6. Mix in noun forms for Band 7+."
+        }
+      ]
+    },
+    {
+      "id": "spelling",
+      "title": "7. Spelling Patterns That Cost Marks",
+      "summary": "Spelling errors fall under Lexical Resource. The patterns below are the most common Band 7→6.5 sources.",
+      "rules": [
+        {
+          "pattern": "Doubled consonants when adding -ed / -ing",
+          "examples": [
+            { "singular": "1-syllable, vowel-consonant ending → double", "plural": "stop → stopped / stopping; plan → planned / planning; run → running" },
+            { "singular": "2-syllable, stress on LAST → double", "plural": "begin → beginning; prefer → preferred; admit → admitting" },
+            { "singular": "2-syllable, stress on FIRST → no double", "plural": "open → opened / opening; happen → happened; benefit → benefited" }
+          ]
+        },
+        {
+          "pattern": "Y → I when adding suffix",
+          "examples": [
+            { "singular": "consonant + y", "plural": "study → studied / studies; happy → happier / happiest" },
+            { "singular": "vowel + y", "plural": "play → played; key → keys (no change)" }
+          ]
+        },
+        {
+          "pattern": "Silent E dropped before vowel suffix",
+          "examples": [
+            { "singular": "drop the e", "plural": "make → making; come → coming; have → having" },
+            { "singular": "keep the e before consonant suffix", "plural": "useful, lovely, careful" }
+          ]
+        },
+        {
+          "pattern": "Common IELTS-topic spelling errors",
+          "items": [
+            "❌ governement → ✔ government",
+            "❌ enviroment → ✔ environment",
+            "❌ oppurtunity / oportunity → ✔ opportunity",
+            "❌ recieve → ✔ receive (i before e except after c)",
+            "❌ definately → ✔ definitely",
+            "❌ accomodation → ✔ accommodation (double m, double c)",
+            "❌ neccessary → ✔ necessary (one c, two s)",
+            "❌ seperate → ✔ separate",
+            "❌ occured → ✔ occurred (double r)",
+            "❌ untill → ✔ until (one l)",
+            "❌ alot → ✔ a lot (two words)",
+            "❌ writting → ✔ writing (one t)",
+            "❌ benifit / beneficary → ✔ benefit / beneficiary",
+            "❌ thier → ✔ their",
+            "❌ wich → ✔ which",
+            "❌ techology → ✔ technology"
+          ]
+        },
+        {
+          "pattern": "British vs American spelling — pick one and be consistent",
+          "examples": [
+            { "singular": "BrE: -our / AmE: -or", "plural": "behaviour / behavior, colour / color, favour / favor" },
+            { "singular": "BrE: -re / AmE: -er", "plural": "centre / center, theatre / theater" },
+            { "singular": "BrE: -ise / AmE: -ize", "plural": "realise / realize, organise / organize, recognise / recognize" },
+            { "singular": "BrE: -lled / AmE: -led", "plural": "travelled / traveled, cancelled / canceled" }
+          ],
+          "note": "IELTS accepts BOTH variants — but be CONSISTENT throughout one essay. Mixing 'colour' and 'color' in the same essay is an accuracy slip."
+        }
+      ]
+    },
+    {
+      "id": "errors",
+      "title": "8. Top Lexico-Grammar Errors at the Band 6 → 7+ Threshold",
+      "summary": "The cumulative polish — 10 specific errors that pull Band 7 candidates down.",
+      "rules": [
+        {
+          "pattern": "1. Wrong dependent preposition",
+          "examples": [
+            { "singular": "❌ depends OF / different THAN / reason OF / solution OF", "plural": "✔ depends ON / different FROM / reason FOR / solution TO" }
+          ]
+        },
+        {
+          "pattern": "2. 'Discuss about' / 'Mention about'",
+          "examples": [
+            { "singular": "❌ We will discuss about the issue.", "plural": "✔ We will discuss the issue. (no preposition)" }
+          ]
+        },
+        {
+          "pattern": "3. Wrong nominalization preposition",
+          "examples": [
+            { "singular": "❌ an increase OF pollution", "plural": "✔ an increase IN pollution" },
+            { "singular": "❌ the impact TO society", "plural": "✔ the impact ON society" }
+          ]
+        },
+        {
+          "pattern": "4. Over-hedging (vague claims)",
+          "examples": [
+            { "singular": "❌ It might possibly tend to perhaps suggest that some people may possibly...", "plural": "✔ It tends to suggest that some people may..." }
+          ]
+        },
+        {
+          "pattern": "5. Comma splice (two clauses joined by comma only)",
+          "examples": [
+            { "singular": "❌ Pollution is rising, governments must act.", "plural": "✔ Pollution is rising. Governments must act. / Pollution is rising; governments must act. / Pollution is rising, AND governments must act." }
+          ]
+        },
+        {
+          "pattern": "6. Colon after verb / preposition",
+          "examples": [
+            { "singular": "❌ The reasons are: economic and social.", "plural": "✔ The reasons are economic and social. / There are two reasons: economic and social." }
+          ]
+        },
+        {
+          "pattern": "7. Wrong comparative form",
+          "examples": [
+            { "singular": "❌ more taller / more better", "plural": "✔ taller / better" },
+            { "singular": "❌ the most easiest / most simplest", "plural": "✔ the easiest / simplest" }
+          ]
+        },
+        {
+          "pattern": "8. Mixed BrE / AmE spelling within one essay",
+          "examples": [
+            { "singular": "❌ The colour reflects the favorite tradition...", "plural": "✔ Pick one variety: 'colour... favourite...' (BrE) OR 'color... favorite...' (AmE)." }
+          ]
+        },
+        {
+          "pattern": "9. Common spelling errors on IELTS topics",
+          "examples": [
+            { "singular": "❌ environement / governement / oppurtunity / accomodation", "plural": "✔ environment / government / opportunity / accommodation" }
+          ]
+        },
+        {
+          "pattern": "10. 'Prefer X than Y' instead of 'prefer X to Y'",
+          "examples": [
+            { "singular": "❌ I prefer tea than coffee.", "plural": "✔ I prefer tea TO coffee. / I would rather have tea THAN coffee. (different structure)" }
+          ]
+        }
+      ],
+      "tip": "Build a personal 'top 30 errors' card — your specific recurring slips. Audit every essay against this card. After two weeks of conscious checking, most of these errors disappear."
+    }
+  ],
+  "checklist": [
+    "I use nominalization at least 3 times per Task 2 essay (the rise in, the development of, the impact of).",
+    "I use the correct preposition with each nominalization (increase IN, impact ON, solution TO, reason FOR).",
+    "I hedge claims with modal verbs, lexical hedges (tend to, appear to), or adverbs (often, in many cases).",
+    "I never over-hedge — one or two hedges per claim, never four.",
+    "I am firm in my opinion ('I firmly believe') and hedged in my evidence ('Y may contribute to').",
+    "I never write 'depends OF / different THAN / discuss about / mention about / married with'.",
+    "I use semicolons to join related independent clauses (one or two per essay).",
+    "I use colons to introduce lists / explanations after a complete clause (not after a verb).",
+    "I never write a comma splice (two clauses joined by only a comma).",
+    "I use modifiers with comparatives (significantly more, considerably less, by far the most).",
+    "I deploy 'the more X, the more Y' parallel comparison at least once per Task 2 essay.",
+    "I am consistent with BrE or AmE spelling throughout one essay.",
+    "I have eliminated my top 10 personal spelling errors through targeted drilling."
+  ]
+}

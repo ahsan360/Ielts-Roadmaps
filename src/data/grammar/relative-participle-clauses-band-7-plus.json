@@ -1,0 +1,354 @@
+{
+  "title": "Relative & Participle Clauses — Band 7+ Reference",
+  "subtitle": "Defining / Non-defining / Reduced / Participle clauses — the elegance of Band 7+ writing",
+  "icon": "🔗",
+  "intro": "Relative and participle clauses let you pack two ideas into one sentence elegantly. Band 6 writers say 'A man came in. He was wearing a blue jacket.' Band 7+ writers say 'A man wearing a blue jacket came in.' Mastering these structures is the single biggest source of the 'sophistication' examiners reward in Lexical Resource and Grammatical Range.",
+  "sections": [
+    {
+      "id": "fundamentals",
+      "title": "1. Relative Pronouns — Which One to Use",
+      "summary": "The relative pronoun replaces a noun in a second clause and links the two clauses together.",
+      "rules": [
+        {
+          "pattern": "WHO — for people (subject or object)",
+          "examples": [
+            { "singular": "subject", "plural": "The student WHO scored highest received a scholarship." },
+            { "singular": "object", "plural": "The teacher WHO(M) I admire most has retired." }
+          ]
+        },
+        {
+          "pattern": "WHICH — for things and animals (subject or object)",
+          "examples": [
+            { "singular": "subject", "plural": "The book WHICH won the prize is a novel." },
+            { "singular": "object", "plural": "The course WHICH I took last year was excellent." }
+          ]
+        },
+        {
+          "pattern": "THAT — for people OR things (defining clauses only)",
+          "examples": [
+            { "singular": "people", "plural": "The student THAT scored highest received a scholarship." },
+            { "singular": "things", "plural": "The book THAT won the prize is a novel." }
+          ],
+          "note": "'That' cannot be used in non-defining clauses (those with commas). And 'that' is more informal than 'who/which' in writing."
+        },
+        {
+          "pattern": "WHOSE — possession (people or things)",
+          "examples": [
+            { "singular": "people", "plural": "The author WHOSE book won the prize is from India." },
+            { "singular": "things", "plural": "I live in a city WHOSE population is over ten million." }
+          ],
+          "note": "Many candidates avoid 'whose' for things and write awkward 'of which' constructions. 'Whose' is fully accepted for non-human nouns and reads more naturally."
+        },
+        {
+          "pattern": "WHERE / WHEN / WHY — adverbial relatives",
+          "examples": [
+            { "singular": "place", "plural": "This is the city WHERE I was born." },
+            { "singular": "time", "plural": "I remember the day WHEN we first met." },
+            { "singular": "reason", "plural": "The reason WHY he left is unclear." }
+          ],
+          "note": "Alternatives: 'the city in which', 'the day on which', 'the reason for which' — same meaning, more formal."
+        }
+      ]
+    },
+    {
+      "id": "defining-vs-non",
+      "title": "2. Defining vs Non-Defining — The Comma Rule",
+      "summary": "The single most important relative-clause distinction. Punctuation completely changes the meaning.",
+      "rules": [
+        {
+          "pattern": "DEFINING — identifies WHICH ONE — NO commas",
+          "examples": [
+            { "singular": "necessary information", "plural": "The student who scored highest got the prize. (= specifies WHICH student)" },
+            { "singular": "narrows the noun", "plural": "Books that are written for children are usually short." },
+            { "singular": "contact clause (object pronoun dropped)", "plural": "The book I read yesterday was fascinating. (= which I read)" }
+          ],
+          "note": "If you remove the relative clause, the meaning is lost or unclear. 'The student got the prize' alone — which student?"
+        },
+        {
+          "pattern": "NON-DEFINING — adds extra info — COMMAS required",
+          "examples": [
+            { "singular": "extra info, not essential", "plural": "My brother, who lives in Canada, is a doctor. (assumes you know which brother)" },
+            { "singular": "extra info about a thing", "plural": "Bangladesh, which has a population of 170 million, is one of the most densely populated countries." },
+            { "singular": "extra info at sentence end", "plural": "I met the new manager, who turned out to be very approachable." }
+          ],
+          "note": "Remove the relative clause and the sentence still makes complete sense: 'My brother is a doctor.'"
+        },
+        {
+          "pattern": "Meaning shift between defining and non-defining",
+          "examples": [
+            { "singular": "defining (no comma)", "plural": "My sister who lives in Dhaka is a teacher. (= I have multiple sisters; this one specifically)" },
+            { "singular": "non-defining (commas)", "plural": "My sister, who lives in Dhaka, is a teacher. (= I have one sister; she lives in Dhaka)" }
+          ]
+        },
+        {
+          "pattern": "'THAT' is FORBIDDEN in non-defining clauses",
+          "examples": [
+            { "singular": "❌ My brother, that lives in Canada, is a doctor.", "plural": "✔ My brother, who lives in Canada, is a doctor." }
+          ]
+        }
+      ],
+      "tip": "Test: read the sentence WITHOUT the relative clause. If the meaning is still clear → use commas (non-defining). If meaning becomes vague → no commas (defining)."
+    },
+    {
+      "id": "prepositions",
+      "title": "3. Relative Clauses With Prepositions",
+      "summary": "Two ways to handle prepositions in relative clauses — formal vs informal. Band 7+ writing tends toward the formal placement.",
+      "rules": [
+        {
+          "pattern": "Preposition at the END (informal, more common in speech)",
+          "examples": [
+            { "singular": "informal", "plural": "The man who(m) I spoke to is a lawyer." },
+            { "singular": "informal", "plural": "The book that I was looking for is on the table." },
+            { "singular": "informal", "plural": "The topic which we discussed yesterday is fascinating." }
+          ]
+        },
+        {
+          "pattern": "Preposition BEFORE the relative pronoun (formal, written)",
+          "examples": [
+            { "singular": "formal", "plural": "The man TO WHOM I spoke is a lawyer." },
+            { "singular": "formal", "plural": "The book FOR WHICH I was looking is on the table." },
+            { "singular": "formal", "plural": "The topic ABOUT WHICH we discussed yesterday is fascinating. ❌ — see note" }
+          ],
+          "note": "When preposition comes before, you MUST use 'whom' (not who) and 'which' (not that). 'That' cannot follow a preposition: ❌ 'the book for that I was looking'. ALSO, the third example is incorrect because 'discuss' is not followed by 'about' — say 'discussed' alone."
+        },
+        {
+          "pattern": "Quantifiers + 'of which / of whom' (academic)",
+          "examples": [
+            { "singular": "people", "plural": "There were 50 students, ten of WHOM had failed the exam." },
+            { "singular": "things", "plural": "The committee made several proposals, most of WHICH were accepted." },
+            { "singular": "things", "plural": "The book has 12 chapters, the first of WHICH is an introduction." }
+          ],
+          "note": "Highly academic. One per essay is impressive."
+        }
+      ]
+    },
+    {
+      "id": "reduced",
+      "title": "4. Reduced Relative Clauses — Compactness",
+      "summary": "Drop 'who/which/that + be' to compress the sentence. Band 7+ writing is full of these — they sound more elegant than full relative clauses.",
+      "rules": [
+        {
+          "pattern": "Active reduction → -ING form",
+          "examples": [
+            { "singular": "Full: People who live in cities", "plural": "Reduced: People living in cities" },
+            { "singular": "Full: Students who are studying abroad", "plural": "Reduced: Students studying abroad" },
+            { "singular": "Full: The man who is sitting in the corner", "plural": "Reduced: The man sitting in the corner" },
+            { "singular": "Full: A noise which is coming from the engine", "plural": "Reduced: A noise coming from the engine" }
+          ]
+        },
+        {
+          "pattern": "Passive reduction → -ED form",
+          "examples": [
+            { "singular": "Full: A book which was written by Orwell", "plural": "Reduced: A book written by Orwell" },
+            { "singular": "Full: The proposal that was submitted yesterday", "plural": "Reduced: The proposal submitted yesterday" },
+            { "singular": "Full: Houses which are built of wood", "plural": "Reduced: Houses built of wood" },
+            { "singular": "Full: People who are affected by the policy", "plural": "Reduced: People affected by the policy" }
+          ]
+        },
+        {
+          "pattern": "Reduction with adjective phrase",
+          "examples": [
+            { "singular": "Full: The applicants who are eligible for the scholarship", "plural": "Reduced: The applicants eligible for the scholarship" },
+            { "singular": "Full: Issues which are relevant to the topic", "plural": "Reduced: Issues relevant to the topic" }
+          ]
+        },
+        {
+          "pattern": "When you CANNOT reduce",
+          "examples": [
+            { "singular": "with modal verbs", "plural": "Students who must attend the workshop... (can't reduce — 'must' is essential)" },
+            { "singular": "with stative verbs in present", "plural": "People who know the answer... (don't reduce stative verbs to -ing)" },
+            { "singular": "non-defining clauses (sometimes)", "plural": "The CEO, who has worked here for 20 years, will retire next month. (reduction possible but less natural)" }
+          ]
+        }
+      ],
+      "tip": "Take any 250-word essay you've written. Find every 'who is / which is / that are / which was / who have'. Reduce as many as possible. Your essay will instantly read more sophisticated."
+    },
+    {
+      "id": "participle",
+      "title": "5. Participle Clauses — Adverbial Compactness",
+      "summary": "Participle clauses replace adverbial clauses (when, because, after) with a verb form. Even more compact than reduced relatives. Band 7+ examiners specifically reward these.",
+      "rules": [
+        {
+          "pattern": "-ING participle — simultaneous / cause / replacing 'while' or 'because'",
+          "examples": [
+            { "singular": "Full: While I was walking down the street, I saw a fox.", "plural": "Reduced: Walking down the street, I saw a fox." },
+            { "singular": "Full: Because she was tired, she went to bed early.", "plural": "Reduced: Being tired, she went to bed early." },
+            { "singular": "Full: As we look at the data, we can see…", "plural": "Reduced: Looking at the data, we can see…" }
+          ]
+        },
+        {
+          "pattern": "-ED participle — passive / cause / replacing 'because' or 'when'",
+          "examples": [
+            { "singular": "Full: Since it was built in 1850, the bridge has stood here.", "plural": "Reduced: Built in 1850, the bridge has stood here." },
+            { "singular": "Full: Because she was disappointed by the result, she withdrew.", "plural": "Reduced: Disappointed by the result, she withdrew." },
+            { "singular": "Full: When confronted with such evidence, the minister had to resign.", "plural": "Reduced: Confronted with such evidence, the minister had to resign." }
+          ]
+        },
+        {
+          "pattern": "HAVING + V3 (Perfect participle) — sequence / cause",
+          "examples": [
+            { "singular": "Full: After he had finished his work, he left the office.", "plural": "Reduced: Having finished his work, he left the office." },
+            { "singular": "Full: After we had considered the evidence, we reached a decision.", "plural": "Reduced: Having considered the evidence, we reached a decision." },
+            { "singular": "Full: Because she had lived abroad for years, she spoke fluent English.", "plural": "Reduced: Having lived abroad for years, she spoke fluent English." }
+          ],
+          "note": "'Having + V3' is the highest-yield Band 7+ participle. It signals careful sequencing of past events."
+        },
+        {
+          "pattern": "HAVING BEEN + V3 (Perfect passive participle) — formal sequence",
+          "examples": [
+            { "singular": "Full: After he had been informed of the decision, he wrote a reply.", "plural": "Reduced: Having been informed of the decision, he wrote a reply." }
+          ]
+        }
+      ],
+      "tip": "Drop ONE 'Having + V3' or 'Having been + V3' into a Task 2 essay. It is the single highest-impact compaction structure for Band 7.5+."
+    },
+    {
+      "id": "dangling",
+      "title": "6. Dangling Participles — The Critical Trap",
+      "summary": "The participle's implicit subject MUST match the main clause's subject. Mismatching them creates absurd sentences — and is one of the most-noticed style errors at Band 7+.",
+      "rules": [
+        {
+          "pattern": "The dangling participle problem",
+          "examples": [
+            { "singular": "❌ dangling: Walking down the street, the rain started.", "plural": "(Logically: the rain is walking — absurd)" },
+            { "singular": "✔ fixed: Walking down the street, I noticed the rain start.", "plural": "(I am walking — matches)" },
+            { "singular": "❌ dangling: Built in 1850, I admired the old bridge.", "plural": "(Logically: I was built in 1850 — absurd)" },
+            { "singular": "✔ fixed: Built in 1850, the old bridge stands as a landmark.", "plural": "(The bridge was built — matches)" }
+          ]
+        },
+        {
+          "pattern": "More dangling examples in Task 2 register",
+          "examples": [
+            { "singular": "❌ Living in a fast-paced society, technology has become indispensable.", "plural": "✔ Living in a fast-paced society, people increasingly rely on technology." },
+            { "singular": "❌ Faced with rising prices, the government raised interest rates.", "plural": "✔ Faced with rising prices, consumers cut back on spending. (the consumers face the prices, not the government)" },
+            { "singular": "❌ Considering the evidence, a decision must be reached.", "plural": "✔ Considering the evidence, the committee must reach a decision." }
+          ]
+        },
+        {
+          "pattern": "Quick check: read the participle aloud, then the subject",
+          "examples": [
+            { "singular": "Walking down the street", "plural": "WHO is walking? → must be the subject of the main clause" },
+            { "singular": "Faced with rising costs", "plural": "WHO is faced? → must be the subject of the main clause" },
+            { "singular": "Having finished the report", "plural": "WHO has finished? → must be the subject of the main clause" }
+          ]
+        }
+      ],
+      "tip": "After writing any sentence beginning with a participle (-ing, -ed, having + V3), find the subject of the main clause. Ask: 'Is the SUBJECT really the one doing the participle action?' If not, rewrite."
+    },
+    {
+      "id": "common-uses",
+      "title": "7. Relative & Participle Clauses in IELTS Writing",
+      "summary": "Specific contexts where these structures earn marks.",
+      "rules": [
+        {
+          "pattern": "Task 1 — describing data with relative/participle compaction",
+          "examples": [
+            { "singular": "compact data point", "plural": "The country which experienced the largest growth was India. → The country experiencing the largest growth was India." },
+            { "singular": "background detail", "plural": "Sales, which had been declining since 2010, recovered sharply in 2015." },
+            { "singular": "process description", "plural": "Once heated, the mixture is poured into moulds. (reduced: Once it is heated)" }
+          ]
+        },
+        {
+          "pattern": "Task 2 — adding context with non-defining relatives",
+          "examples": [
+            { "singular": "fact + explanation", "plural": "Public transport, which is heavily subsidised in many cities, plays a crucial role in reducing traffic congestion." },
+            { "singular": "subject + characterisation", "plural": "Climate change, which has emerged as the defining challenge of our time, demands collective action." }
+          ]
+        },
+        {
+          "pattern": "Task 2 introduction — opening with a participle phrase",
+          "examples": [
+            { "singular": "evidence-led opening", "plural": "Faced with rising global temperatures, governments are under increasing pressure to act." },
+            { "singular": "data-led opening", "plural": "Living in an age of unprecedented technological change, we are constantly forced to adapt." }
+          ]
+        },
+        {
+          "pattern": "Task 2 conclusion — Having + V3 for summing up",
+          "examples": [
+            { "singular": "summary opener", "plural": "Having considered both perspectives, it seems clear that…" },
+            { "singular": "evidence-summary", "plural": "Having weighed the evidence, one cannot avoid the conclusion that…" }
+          ]
+        },
+        {
+          "pattern": "Speaking — natural compaction in answers",
+          "examples": [
+            { "singular": "Part 2", "plural": "Walking through the streets of my hometown, I always feel a sense of nostalgia." },
+            { "singular": "Part 3", "plural": "Faced with such challenges, young people today need stronger support systems." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "errors",
+      "title": "8. Top Relative & Participle Clause Errors at the Band 6 → 7+ Threshold",
+      "summary": "Specific mistakes that reveal Band 6 grammar — and how to fix them.",
+      "rules": [
+        {
+          "pattern": "1. Using 'that' in non-defining clauses",
+          "examples": [
+            { "singular": "❌ My father, that is a teacher, lives in Dhaka.", "plural": "✔ My father, who is a teacher, lives in Dhaka." }
+          ]
+        },
+        {
+          "pattern": "2. Missing or extra commas (changes meaning)",
+          "examples": [
+            { "singular": "❌ My sister who lives in Dhaka is a teacher (when there is only one sister)", "plural": "✔ My sister, who lives in Dhaka, is a teacher. (commas because there is only one)" }
+          ]
+        },
+        {
+          "pattern": "3. Adding redundant subject pronoun in relative clause",
+          "examples": [
+            { "singular": "❌ The book that I bought IT yesterday is fascinating.", "plural": "✔ The book that I bought yesterday is fascinating. (no 'it' — the relative pronoun replaces it)" },
+            { "singular": "❌ People who they live in cities tend to be busier.", "plural": "✔ People who live in cities tend to be busier. (no 'they')" }
+          ]
+        },
+        {
+          "pattern": "4. Wrong relative pronoun for people / things",
+          "examples": [
+            { "singular": "❌ The person which I admire most…", "plural": "✔ The person who(m) I admire most…" },
+            { "singular": "❌ The book who won the prize…", "plural": "✔ The book which/that won the prize…" }
+          ]
+        },
+        {
+          "pattern": "5. Dangling participles (covered fully in Section 6)",
+          "examples": [
+            { "singular": "❌ Walking to school, the rain caught me.", "plural": "✔ Walking to school, I was caught by the rain." }
+          ]
+        },
+        {
+          "pattern": "6. Reducing modal verbs (you can't)",
+          "examples": [
+            { "singular": "❌ Students attending must wear ID. (intended: Students who must attend)", "plural": "✔ Students who must attend the seminar must wear ID. (don't reduce 'must')" }
+          ]
+        },
+        {
+          "pattern": "7. 'Whose' avoidance (over-using 'of which')",
+          "examples": [
+            { "singular": "awkward: The book the cover of which is torn", "plural": "natural: The book WHOSE cover is torn" }
+          ],
+          "note": "'Whose' for things is fully accepted and reads more naturally."
+        },
+        {
+          "pattern": "8. Using -ing reduction on stative verbs",
+          "examples": [
+            { "singular": "❌ People knowing the answer raised their hands.", "plural": "✔ People who knew the answer raised their hands. (don't reduce 'know' to 'knowing')" }
+          ],
+          "note": "Stative verbs (know, believe, own, contain) generally don't reduce to -ing form."
+        }
+      ],
+      "tip": "Run a 'WHO/WHICH/THAT/COMMA' audit on any essay. (1) Every 'that' in commas → fix to who/which. (2) Every defining clause WITH commas, check if the noun has only one possible referent. (3) Every relative clause: try reducing it. (4) Every -ing or -ed participle at the start of a sentence: confirm the subject matches."
+    }
+  ],
+  "checklist": [
+    "I distinguish defining (no commas) from non-defining (commas) relative clauses on every relative clause I write.",
+    "I never use 'that' in a non-defining clause (with commas) — only 'who' or 'which'.",
+    "I use 'whose' freely for things, not just for people, instead of awkward 'of which' constructions.",
+    "I never insert a redundant subject pronoun ('that I bought IT', 'who they live').",
+    "I can reduce active relative clauses to -ing forms (people LIVING in cities) and passive ones to -ed forms (a book WRITTEN by Orwell).",
+    "I use 'Having + V3' / 'Having been + V3' at least once per Band 7+ Task 2 essay.",
+    "I always check that participle clause subjects match the main clause subject (no danglers).",
+    "I open at least one Task 2 sentence with a participle phrase ('Faced with…', 'Having considered…', 'Looking at…').",
+    "I move prepositions before 'whom' or 'which' (to whom, for which) for formal register at least once per essay.",
+    "I use quantifier + 'of whom' / 'of which' (most of which, ten of whom) in academic writing for sophistication."
+  ]
+}

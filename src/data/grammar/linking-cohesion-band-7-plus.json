@@ -1,0 +1,485 @@
+{
+  "title": "Linking & Cohesion — Band 7+ Reference",
+  "subtitle": "Discourse markers + reference + substitution + paragraph flow — Band 7's own scoring criterion",
+  "icon": "🔗",
+  "intro": "Coherence & Cohesion is one of the four IELTS Writing scoring criteria — 25% of your mark. Band 7 says 'uses cohesion well'; Band 8 says 'cohesion attracts no attention'. This means: don't open every paragraph with 'Firstly / Secondly / In conclusion'. The Band 7+ writer uses VARIED linkers, REFERENCE devices (this, such, the former), and SUBSTITUTION (one, do so, so) to glue ideas together invisibly.",
+  "sections": [
+    {
+      "id": "addition",
+      "title": "1. Adding Ideas — Beyond 'Also'",
+      "summary": "If you only know 'and / also / moreover', you sound Band 6. Each linker has a register and rhythm.",
+      "rules": [
+        {
+          "pattern": "Simple addition (everyday)",
+          "items": [
+            "and",
+            "also",
+            "as well",
+            "too",
+            "in addition",
+            "what's more (informal)"
+          ]
+        },
+        {
+          "pattern": "Formal addition (Band 7+ Task 2)",
+          "items": [
+            "moreover (introduces an additional reinforcing point)",
+            "furthermore (similar to moreover, slightly more formal)",
+            "in addition to + noun/-ing (In addition to causing pollution, cars contribute to noise)",
+            "additionally",
+            "besides + noun/-ing (Besides being expensive, the policy is impractical)",
+            "not to mention + noun (The plan is impractical, not to mention costly)"
+          ]
+        },
+        {
+          "pattern": "Strong / surprising addition",
+          "examples": [
+            { "singular": "Not only … but also (inversion)", "plural": "Not only does pollution harm health, but it also damages the economy." },
+            { "singular": "What is more", "plural": "The proposal is impractical. What is more, it is prohibitively expensive." },
+            { "singular": "On top of that", "plural": "Wages are stagnant. On top of that, the cost of living continues to rise." }
+          ]
+        },
+        {
+          "pattern": "Listing / sequencing — varied openers",
+          "items": [
+            "Firstly… Secondly… Thirdly… Finally… (basic — don't repeat across all paragraphs)",
+            "First and foremost",
+            "To begin with",
+            "For one thing… For another thing…",
+            "On the one hand… On the other hand… (NOT 'in the other hand')",
+            "Most importantly",
+            "A further point is that"
+          ]
+        }
+      ],
+      "tip": "In a 4-paragraph essay, never use 'Firstly… Secondly… Thirdly… Finally…' as the openers. Mix: paragraph 1 opens with 'One key reason', paragraph 2 with 'A further consideration', paragraph 3 with 'Equally important'. Variety = Band 7+ cohesion."
+    },
+    {
+      "id": "contrast",
+      "title": "2. Contrast & Concession — Beyond 'However'",
+      "summary": "Contrast linkers carry different shades of opposition. Mix at least 3–4 different ones per essay.",
+      "rules": [
+        {
+          "pattern": "BUT / HOWEVER / NEVERTHELESS — direct contrast",
+          "examples": [
+            { "singular": "but (informal, mid-sentence)", "plural": "I wanted to go, but I was busy." },
+            { "singular": "however (formal, sentence-initial)", "plural": "I wanted to go. However, I was busy." },
+            { "singular": "nevertheless / nonetheless (in spite of what was said)", "plural": "The plan is risky. Nevertheless, it deserves consideration." }
+          ]
+        },
+        {
+          "pattern": "WHEREAS / WHILE — comparing two ideas (parallel)",
+          "examples": [
+            { "singular": "whereas (formal)", "plural": "Some people prefer city life, whereas others find it stressful." },
+            { "singular": "while", "plural": "While technology brings convenience, it also creates new dependencies." }
+          ]
+        },
+        {
+          "pattern": "ALTHOUGH / EVEN THOUGH / THOUGH (+ clause) — concession",
+          "examples": [
+            { "singular": "although + clause", "plural": "Although it was raining, we went out." },
+            { "singular": "even though (stronger)", "plural": "Even though the policy is unpopular, it is necessary." },
+            { "singular": "though (informal, end-of-sentence too)", "plural": "It's expensive, though." }
+          ]
+        },
+        {
+          "pattern": "DESPITE / IN SPITE OF (+ noun / -ing) — concession",
+          "examples": [
+            { "singular": "despite + noun", "plural": "Despite the rain, we went out." },
+            { "singular": "in spite of + noun", "plural": "In spite of the criticism, the policy was implemented." },
+            { "singular": "despite + -ing", "plural": "Despite being tired, she finished the report." },
+            { "singular": "despite the fact that + clause", "plural": "Despite the fact that costs have risen, demand remains high." }
+          ],
+          "note": "❌ Critical error: 'Despite he was tired' / 'In spite of she was busy'. After 'despite/in spite of', use NOUN or -ING — not a clause. To use a clause, say 'despite the fact that' or switch to 'although'."
+        },
+        {
+          "pattern": "Higher-register concession (one per essay)",
+          "items": [
+            "albeit (= although; followed by adjective/phrase, not a full clause): 'The policy is effective, albeit expensive.'",
+            "notwithstanding (formal): 'Notwithstanding these concerns, the project will proceed.'",
+            "granted (that) (admitting a counter-point): 'Granted that costs are high, the long-term benefits are clear.'",
+            "admittedly (admitting a partial truth): 'Admittedly, the plan has flaws, but it is the best available option.'"
+          ]
+        },
+        {
+          "pattern": "ON THE CONTRARY vs ON THE OTHER HAND",
+          "examples": [
+            { "singular": "on the contrary (= NOT what was said is true; the opposite is true)", "plural": "Many believe technology isolates people. On the contrary, it can foster deeper connections." },
+            { "singular": "on the other hand (presenting a different perspective, not contradiction)", "plural": "Technology brings convenience. On the other hand, it raises privacy concerns." }
+          ],
+          "note": "❌ Critical error: using 'on the contrary' to mean 'on the other hand'. They are NOT synonyms. 'On the contrary' = the opposite is true; 'on the other hand' = a different perspective."
+        }
+      ]
+    },
+    {
+      "id": "cause-effect",
+      "title": "3. Cause / Effect / Result — Beyond 'Because' and 'So'",
+      "summary": "These linkers make logical relationships explicit. Vary them across an essay.",
+      "rules": [
+        {
+          "pattern": "CAUSE — connector + clause",
+          "items": [
+            "because (most common, neutral)",
+            "since (formal, especially when reason is known)",
+            "as (formal, similar to since)",
+            "now that (because now)",
+            "given that (formal: considering that)",
+            "seeing that (informal: considering)",
+            "in that (formal: in the sense that)",
+            "owing to the fact that (formal)"
+          ]
+        },
+        {
+          "pattern": "CAUSE — preposition + noun/-ing (Band 7+)",
+          "items": [
+            "because of + noun (Most common)",
+            "due to + noun (Often used in formal writing)",
+            "owing to + noun (Formal)",
+            "on account of + noun (Formal)",
+            "in light of + noun (Formal — 'considering')",
+            "as a result of + noun",
+            "thanks to + noun (positive cause)"
+          ],
+          "note": "❌ Critical error: 'Due to it rained heavily…' / 'Owing to he was late…'. These prepositions take NOUN, not a clause. ✔ 'Due to heavy rain…' / 'Owing to his lateness…' or use the conjunction form 'Because it rained heavily…'."
+        },
+        {
+          "pattern": "EFFECT / RESULT — sentence connectors",
+          "items": [
+            "therefore (logical conclusion)",
+            "thus (formal — therefore)",
+            "hence (formal — for this reason)",
+            "consequently (as a consequence)",
+            "as a result",
+            "accordingly (formal — therefore)",
+            "with the result that"
+          ],
+          "examples": [
+            { "singular": "Plain", "plural": "Costs have risen. Therefore, prices must increase." },
+            { "singular": "Formal", "plural": "Demand has surged; consequently, supply chains are strained." }
+          ]
+        },
+        {
+          "pattern": "PURPOSE — to express WHY something is done",
+          "examples": [
+            { "singular": "to + V (most common)", "plural": "She studies hard to get a scholarship." },
+            { "singular": "in order to + V (formal)", "plural": "Governments invest in education in order to develop a skilled workforce." },
+            { "singular": "so as to + V (formal)", "plural": "He left early so as to avoid traffic." },
+            { "singular": "so that + clause", "plural": "She speaks slowly so that everyone can understand." },
+            { "singular": "in order that + clause (very formal)", "plural": "Strict rules apply in order that fairness is maintained." }
+          ]
+        }
+      ],
+      "tip": "Open Task 2 introductions with 'Given that…' or 'In light of…': 'In light of growing concerns about climate change, governments must act.' This single phrase signals Band 7+ register."
+    },
+    {
+      "id": "comparison",
+      "title": "4. Similarity & Comparison",
+      "summary": "How to point out similarities. Useful in Task 1 and Task 2 comparison essays.",
+      "rules": [
+        {
+          "pattern": "Comparison linkers",
+          "items": [
+            "similarly (introduces a similar point)",
+            "likewise (formal — similarly)",
+            "in the same way",
+            "in a similar fashion / manner",
+            "by comparison",
+            "compared with / compared to",
+            "in much the same way"
+          ]
+        },
+        {
+          "pattern": "Examples in Task 1 (data comparison)",
+          "examples": [
+            { "singular": "comparing two trends", "plural": "Sales of electric cars rose sharply between 2015 and 2020. Similarly, hybrid car sales increased over the same period." },
+            { "singular": "comparing values", "plural": "While 60% of men were employed full-time, the figure for women was only 35%." }
+          ]
+        },
+        {
+          "pattern": "Examples in Task 2 (idea comparison)",
+          "examples": [
+            { "singular": "drawing a parallel", "plural": "Education reform requires patience. Likewise, healthcare improvements take decades to show results." },
+            { "singular": "extending an analogy", "plural": "Just as physical exercise benefits the body, mental challenges sharpen the mind." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "examples",
+      "title": "5. Giving Examples — Beyond 'For Example'",
+      "summary": "Repeating 'for example' three times in an essay sounds Band 6. Vary your example markers.",
+      "rules": [
+        {
+          "pattern": "Example markers",
+          "items": [
+            "for example / for instance (most common)",
+            "such as + noun (no comma, integrated): 'subjects such as physics and chemistry'",
+            "namely (specifying — 'that is to say')",
+            "particularly / in particular (highlighting one example)",
+            "to illustrate (this) / to give an example",
+            "a case in point",
+            "consider, for example, + noun"
+          ]
+        },
+        {
+          "pattern": "Where to place each",
+          "examples": [
+            { "singular": "such as (mid-sentence, before noun)", "plural": "Languages such as French and Spanish are widely studied." },
+            { "singular": "for example (sentence-initial or mid)", "plural": "For example, France introduced a 35-hour week. / France, for example, introduced a 35-hour week." },
+            { "singular": "namely (specifying)", "plural": "Two countries — namely, Norway and Sweden — lead in renewable energy." },
+            { "singular": "particularly (one prominent case)", "plural": "Climate change affects developing countries, particularly those in coastal regions." },
+            { "singular": "to illustrate", "plural": "To illustrate this point, consider Singapore's water management strategy." },
+            { "singular": "a case in point", "plural": "Many countries have adopted this policy. A case in point is Finland." }
+          ]
+        },
+        {
+          "pattern": "❌ Common error: 'such as' vs 'for example' confusion",
+          "examples": [
+            { "singular": "❌ Such as France introduced a 35-hour week.", "plural": "✔ For example, France introduced a 35-hour week." },
+            { "singular": "❌ Many countries, for example France and Germany, are members.", "plural": "✔ Many countries, such as France and Germany, are members. (or: ...for example, France and Germany... — both work, but 'such as' is cleaner)" }
+          ],
+          "note": "'Such as' integrates examples into the noun phrase. 'For example' starts a sentence or a parenthetical."
+        }
+      ]
+    },
+    {
+      "id": "summary",
+      "title": "6. Summarising & Concluding — Beyond 'In Conclusion'",
+      "summary": "Most candidates use 'In conclusion' for every essay. Vary it. Conclusions need rhythm too.",
+      "rules": [
+        {
+          "pattern": "Concluding linkers",
+          "items": [
+            "In conclusion (most common — fine, but don't ALWAYS use it)",
+            "To conclude / To sum up",
+            "In summary / To summarise",
+            "Overall (= taking everything into account)",
+            "On the whole (= generally speaking)",
+            "All things considered",
+            "Ultimately (= in the end)",
+            "All in all"
+          ]
+        },
+        {
+          "pattern": "Conclusion sentence patterns",
+          "examples": [
+            { "singular": "neutral", "plural": "In conclusion, both sides have valid arguments, but the long-term benefits of [X] outweigh the costs." },
+            { "singular": "evaluative", "plural": "Overall, although [X] has its drawbacks, the advantages are considerable." },
+            { "singular": "summary + opinion", "plural": "All things considered, governments must take stronger action on [X]." },
+            { "singular": "ultimate point", "plural": "Ultimately, the success of any such policy depends on consistent enforcement." }
+          ]
+        },
+        {
+          "pattern": "Restatement / re-emphasising",
+          "items": [
+            "in other words",
+            "that is (to say)",
+            "namely",
+            "i.e. (formal Latin abbreviation)",
+            "in short",
+            "in brief",
+            "put simply"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "reference",
+      "title": "7. Reference Devices — Pointing Back Across Sentences",
+      "summary": "Cohesion isn't just linkers. The HIGHEST cohesion comes from references — this/that/such/the former — which point back to earlier ideas without repeating them.",
+      "rules": [
+        {
+          "pattern": "THIS / THAT — pointing to a previous idea",
+          "examples": [
+            { "singular": "❌ Naked 'this'", "plural": "Climate change is accelerating. This is a major problem. (vague — 'this' has no clear antecedent)" },
+            { "singular": "✔ This + summarising noun", "plural": "Climate change is accelerating. This trend is a major problem. (this trend = the previous idea)" },
+            { "singular": "✔ This + summarising noun", "plural": "Costs have risen sharply. This development has surprised analysts." }
+          ],
+          "note": "ALWAYS pair 'this/that' with a noun in academic writing. 'This issue', 'this concern', 'this trend', 'this phenomenon', 'this approach', 'this development'."
+        },
+        {
+          "pattern": "Useful summarising nouns to pair with 'this/such'",
+          "items": [
+            "this issue / problem / concern / challenge",
+            "this trend / pattern / phenomenon",
+            "this development / change / shift",
+            "this argument / view / claim / perspective",
+            "this approach / method / strategy",
+            "this situation / scenario / case",
+            "such concerns / such measures / such conditions",
+            "such evidence / such reasoning"
+          ]
+        },
+        {
+          "pattern": "THE FORMER / THE LATTER",
+          "examples": [
+            { "singular": "two items", "plural": "Both online and traditional learning have advantages: the former offers flexibility, while the latter provides social interaction." },
+            { "singular": "in academic discussion", "plural": "Two main views exist: free-market and state-led. The former emphasises efficiency; the latter prioritises equality." }
+          ],
+          "note": "Highly academic. Use sparingly — once per essay max."
+        },
+        {
+          "pattern": "PRONOUNS for cohesion (it / they / he / she / them)",
+          "examples": [
+            { "singular": "second mention with pronoun", "plural": "The government introduced new regulations. They have been controversial." },
+            { "singular": "thread of pronouns", "plural": "Climate change is real. It threatens millions of lives, and tackling it requires global cooperation." }
+          ],
+          "note": "Don't repeat the noun if a pronoun is clear. But ensure the antecedent is unambiguous."
+        }
+      ],
+      "tip": "After writing a paragraph, find every full-noun repetition (e.g., 'pollution… pollution… pollution'). Replace at least half with 'this issue / this problem / it / such pollution'."
+    },
+    {
+      "id": "substitution",
+      "title": "8. Substitution & Ellipsis",
+      "summary": "Replace repeated words with substitute pronouns or omit them entirely. Subtle Band 7+ cohesion.",
+      "rules": [
+        {
+          "pattern": "ONE / ONES — substituting countable nouns",
+          "examples": [
+            { "singular": "single substitution", "plural": "I have a red car and a blue one. (one = car)" },
+            { "singular": "plural substitution", "plural": "These ideas are better than the old ones. (ones = ideas)" }
+          ]
+        },
+        {
+          "pattern": "DO SO / DO THAT / DO IT — substituting whole verb phrases",
+          "examples": [
+            { "singular": "formal", "plural": "I plan to revise the report; I will do so this evening." },
+            { "singular": "in argument", "plural": "Governments must act decisively, and they must do so urgently." }
+          ]
+        },
+        {
+          "pattern": "SO / NOT — substituting whole clauses",
+          "examples": [
+            { "singular": "so = the previous statement is true", "plural": "Will it rain? — I think so." },
+            { "singular": "not = the previous statement is not true", "plural": "Will he agree? — I hope not." }
+          ]
+        },
+        {
+          "pattern": "ELLIPSIS — omitting repeated words",
+          "examples": [
+            { "singular": "after auxiliary", "plural": "He works hard, and she does too. (does = works hard, omitted)" },
+            { "singular": "after 'to'", "plural": "I wanted to go, but I wasn't able to. (able to GO is omitted)" },
+            { "singular": "in lists", "plural": "He plays football and (he plays) cricket." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "paragraph",
+      "title": "9. Paragraph-Level Cohesion",
+      "summary": "Cohesion isn't only inside sentences. Paragraphs link to each other with topic sentences, transitions, and parallel structure.",
+      "rules": [
+        {
+          "pattern": "TOPIC SENTENCE — first sentence of each body paragraph",
+          "examples": [
+            { "singular": "structure", "plural": "[Linker] + [main claim of paragraph]." },
+            { "singular": "example 1", "plural": "One major argument in favour of online learning is its flexibility." },
+            { "singular": "example 2", "plural": "A second consideration concerns the cost of implementation." },
+            { "singular": "example 3", "plural": "Critics, however, raise valid concerns about social isolation." }
+          ],
+          "note": "Topic sentences signal the structure of your essay. Good topic sentences let an examiner skim the first sentence of each paragraph and grasp the entire argument."
+        },
+        {
+          "pattern": "TRANSITION between paragraphs",
+          "examples": [
+            { "singular": "echo previous + introduce next", "plural": "[End of paragraph 1: ... cost-effectiveness.] [Start of paragraph 2: 'Beyond cost, there are also concerns about quality...']" },
+            { "singular": "bridge with reference", "plural": "Such concerns lead naturally to the question of regulation." }
+          ]
+        },
+        {
+          "pattern": "PARALLEL STRUCTURE across paragraphs",
+          "examples": [
+            { "singular": "advantages essay", "plural": "Paragraph 1: 'One advantage is X.' Paragraph 2: 'A further advantage lies in Y.' Paragraph 3: 'However, the most significant benefit is Z.'" },
+            { "singular": "discuss-both-views", "plural": "Paragraph 1 (view 1): 'Some argue that…' Paragraph 2 (view 2): 'Others contend that…' Paragraph 3 (opinion): 'In my view, while both sides have merit…'" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "errors",
+      "title": "10. Top Cohesion Errors at the Band 6 → 7+ Threshold",
+      "summary": "Specific cohesion mistakes that signal Band 6 writing.",
+      "rules": [
+        {
+          "pattern": "1. Over-using basic linkers",
+          "examples": [
+            { "singular": "❌ Firstly… Secondly… Thirdly… Finally… (every paragraph)", "plural": "✔ One key reason… A further consideration… Equally important… Ultimately…" },
+            { "singular": "❌ Moreover, moreover, moreover (one per body paragraph)", "plural": "✔ Mix: moreover, in addition, what is more, furthermore, additionally." }
+          ]
+        },
+        {
+          "pattern": "2. 'Naked' this/that without summarising noun",
+          "examples": [
+            { "singular": "❌ Vague: 'This is a problem.' (this = what?)", "plural": "✔ 'This trend is a problem.' / 'This phenomenon is a problem.'" }
+          ]
+        },
+        {
+          "pattern": "3. 'Despite + clause' / 'In spite of + clause'",
+          "examples": [
+            { "singular": "❌ Despite he was tired, he kept working.", "plural": "✔ Despite being tired… / Although he was tired…" }
+          ]
+        },
+        {
+          "pattern": "4. 'Although … but' / 'Because … so' double conjunction",
+          "examples": [
+            { "singular": "❌ Although it was raining, but we went out.", "plural": "✔ Although it was raining, we went out." }
+          ]
+        },
+        {
+          "pattern": "5. 'On the contrary' = 'on the other hand' confusion",
+          "examples": [
+            { "singular": "❌ Some prefer city life. On the contrary, others prefer the countryside.", "plural": "✔ Some prefer city life. On the other hand, others prefer the countryside. ('on the contrary' implies contradiction, not just difference)" }
+          ]
+        },
+        {
+          "pattern": "6. 'Such as' followed by a clause",
+          "examples": [
+            { "singular": "❌ Such as France introduced this policy.", "plural": "✔ For example, France introduced this policy." }
+          ]
+        },
+        {
+          "pattern": "7. Linker placement — comma errors",
+          "examples": [
+            { "singular": "❌ However the policy is unpopular.", "plural": "✔ However, the policy is unpopular. (comma after 'However' at sentence start)" },
+            { "singular": "❌ The policy, however is unpopular.", "plural": "✔ The policy, however, is unpopular. (commas BOTH sides when mid-sentence)" }
+          ]
+        },
+        {
+          "pattern": "8. Repeating the same noun across the paragraph",
+          "examples": [
+            { "singular": "❌ flat", "plural": "Pollution is bad. Pollution affects health. Pollution must be reduced. Pollution is increasing." },
+            { "singular": "✔ varied", "plural": "Pollution is bad. It affects health, particularly in urban areas. This problem must be addressed. Such challenges are only increasing." }
+          ]
+        },
+        {
+          "pattern": "9. Missing topic sentences",
+          "examples": [
+            { "singular": "❌ Body paragraph starts with example or detail.", "plural": "✔ Body paragraph starts with a topic sentence stating the main claim, then examples support it." }
+          ]
+        },
+        {
+          "pattern": "10. Conclusion that just repeats the introduction",
+          "examples": [
+            { "singular": "❌ 'In conclusion, technology has changed our lives.' (= same as introduction)", "plural": "✔ 'In conclusion, while technology has undoubtedly transformed daily life, its long-term implications for human connection demand careful reflection.' (= synthesis, not repetition)" }
+          ]
+        }
+      ],
+      "tip": "Read every essay aloud. Wherever you trip over a connector ('however' three times in a paragraph?), or where you sense the rhythm flatten ('Firstly… Secondly… Thirdly…'), that's the cohesion fix. Cohesion is FELT before it's seen."
+    }
+  ],
+  "checklist": [
+    "I use at least 4 different addition linkers in a 250-word essay (NOT 'and / and / also / and').",
+    "I distinguish 'on the contrary' (the opposite is true) from 'on the other hand' (different perspective).",
+    "I never combine 'although … but' or 'because … so' in the same sentence.",
+    "After 'despite / in spite of', I use noun or -ing — never a clause.",
+    "After 'due to / owing to / because of', I use noun — never a clause.",
+    "I always pair 'this / that / such' with a summarising noun (this issue, such concerns).",
+    "I use 'the former / the latter' at least once per essay (when comparing two specific things).",
+    "I use 'such as' inline with the noun (subjects such as physics) but 'for example' to start a sentence.",
+    "I use varied conclusion openers (not always 'In conclusion').",
+    "I write a clear topic sentence at the start of every body paragraph.",
+    "I read essays aloud and reduce any noun repeated 3+ times to pronouns/references.",
+    "I use varied openers across body paragraphs (NOT 'Firstly / Secondly / Thirdly / Finally')."
+  ]
+}
