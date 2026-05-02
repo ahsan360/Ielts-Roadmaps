@@ -1,0 +1,702 @@
+{
+  "title": "Plural Forms — Band 7+ Reference",
+  "subtitle": "Every plural pattern an IELTS Band 7+ candidate is expected to control",
+  "icon": "📝",
+  "intro": "Band 7+ writing and speaking demands accurate plurals across regular, irregular, classical (Latin/Greek) and tricky compound forms — plus correct subject-verb agreement with collective and plural-only nouns. This is a complete reference: scan it, drill weak areas, and self-test against the checklist at the bottom.",
+  "sections": [
+    {
+      "id": "regular",
+      "title": "1. Regular Plurals",
+      "summary": "The default rules. Most English plurals follow one of four spelling patterns based on the singular's ending.",
+      "rules": [
+        {
+          "pattern": "Most nouns: add -s",
+          "examples": [
+            { "singular": "cat", "plural": "cats" },
+            { "singular": "book", "plural": "books" },
+            { "singular": "idea", "plural": "ideas" },
+            { "singular": "result", "plural": "results" }
+          ]
+        },
+        {
+          "pattern": "Ending in -s, -x, -z, -ch, -sh: add -es",
+          "examples": [
+            { "singular": "bus", "plural": "buses" },
+            { "singular": "box", "plural": "boxes" },
+            { "singular": "buzz", "plural": "buzzes" },
+            { "singular": "church", "plural": "churches" },
+            { "singular": "dish", "plural": "dishes" },
+            { "singular": "tax", "plural": "taxes" }
+          ],
+          "note": "An extra syllable is pronounced (/ɪz/)."
+        },
+        {
+          "pattern": "Consonant + y → -ies",
+          "examples": [
+            { "singular": "city", "plural": "cities" },
+            { "singular": "story", "plural": "stories" },
+            { "singular": "country", "plural": "countries" },
+            { "singular": "company", "plural": "companies" }
+          ]
+        },
+        {
+          "pattern": "Vowel + y → just add -s (no spelling change)",
+          "examples": [
+            { "singular": "boy", "plural": "boys" },
+            { "singular": "day", "plural": "days" },
+            { "singular": "key", "plural": "keys" },
+            { "singular": "monkey", "plural": "monkeys" }
+          ],
+          "note": "Common error: writing *companys / *citys instead of companies / cities (after consonant) — or *daies / *keies (after vowel)."
+        }
+      ]
+    },
+    {
+      "id": "f-fe",
+      "title": "2. Words Ending in -f / -fe",
+      "summary": "These split into three groups. The third (both forms) is the trickiest.",
+      "rules": [
+        {
+          "pattern": "Change -f / -fe to -ves",
+          "examples": [
+            { "singular": "leaf", "plural": "leaves" },
+            { "singular": "knife", "plural": "knives" },
+            { "singular": "life", "plural": "lives" },
+            { "singular": "wife", "plural": "wives" },
+            { "singular": "half", "plural": "halves" },
+            { "singular": "calf", "plural": "calves" },
+            { "singular": "shelf", "plural": "shelves" },
+            { "singular": "wolf", "plural": "wolves" },
+            { "singular": "thief", "plural": "thieves" },
+            { "singular": "loaf", "plural": "loaves" },
+            { "singular": "self", "plural": "selves" }
+          ]
+        },
+        {
+          "pattern": "Just add -s (no change)",
+          "examples": [
+            { "singular": "roof", "plural": "roofs" },
+            { "singular": "chief", "plural": "chiefs" },
+            { "singular": "belief", "plural": "beliefs" },
+            { "singular": "cliff", "plural": "cliffs" },
+            { "singular": "proof", "plural": "proofs" },
+            { "singular": "gulf", "plural": "gulfs" },
+            { "singular": "safe", "plural": "safes" },
+            { "singular": "chef", "plural": "chefs" }
+          ]
+        },
+        {
+          "pattern": "Both forms accepted",
+          "examples": [
+            { "singular": "scarf", "plural": "scarfs / scarves" },
+            { "singular": "hoof", "plural": "hoofs / hooves" },
+            { "singular": "dwarf", "plural": "dwarfs / dwarves" },
+            { "singular": "wharf", "plural": "wharfs / wharves" },
+            { "singular": "handkerchief", "plural": "handkerchiefs / handkerchieves" }
+          ],
+          "note": "When both are valid, pick one and stay consistent within a piece of writing."
+        }
+      ],
+      "tip": "Memorise the -ves group as a list — there is no reliable rule that distinguishes 'leaf → leaves' from 'roof → roofs'."
+    },
+    {
+      "id": "o-endings",
+      "title": "3. Words Ending in -o",
+      "summary": "Three patterns — and choosing the wrong one is a common Band 6 spelling slip.",
+      "rules": [
+        {
+          "pattern": "Add -es (mostly food, animals, longer-established words)",
+          "examples": [
+            { "singular": "potato", "plural": "potatoes" },
+            { "singular": "tomato", "plural": "tomatoes" },
+            { "singular": "hero", "plural": "heroes" },
+            { "singular": "echo", "plural": "echoes" },
+            { "singular": "veto", "plural": "vetoes" },
+            { "singular": "embargo", "plural": "embargoes" },
+            { "singular": "torpedo", "plural": "torpedoes" }
+          ]
+        },
+        {
+          "pattern": "Just add -s (often loanwords, abbreviations, music terms)",
+          "examples": [
+            { "singular": "photo", "plural": "photos" },
+            { "singular": "piano", "plural": "pianos" },
+            { "singular": "kilo", "plural": "kilos" },
+            { "singular": "radio", "plural": "radios" },
+            { "singular": "video", "plural": "videos" },
+            { "singular": "studio", "plural": "studios" },
+            { "singular": "kangaroo", "plural": "kangaroos" },
+            { "singular": "taboo", "plural": "taboos" },
+            { "singular": "zoo", "plural": "zoos" }
+          ],
+          "note": "Words ending in vowel + o (zoo, video, radio) almost always take just -s."
+        },
+        {
+          "pattern": "Both forms accepted",
+          "examples": [
+            { "singular": "zero", "plural": "zeros / zeroes" },
+            { "singular": "volcano", "plural": "volcanoes / volcanos" },
+            { "singular": "mango", "plural": "mangoes / mangos" },
+            { "singular": "cargo", "plural": "cargoes / cargos" },
+            { "singular": "mosquito", "plural": "mosquitoes / mosquitos" },
+            { "singular": "tornado", "plural": "tornadoes / tornados" },
+            { "singular": "motto", "plural": "mottoes / mottos" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "irregular",
+      "title": "4. Irregular Plurals (Memorise)",
+      "summary": "These do not follow any spelling rule. You either know them or you don't.",
+      "rules": [
+        {
+          "pattern": "Internal vowel change",
+          "examples": [
+            { "singular": "man", "plural": "men" },
+            { "singular": "woman", "plural": "women" },
+            { "singular": "foot", "plural": "feet" },
+            { "singular": "tooth", "plural": "teeth" },
+            { "singular": "goose", "plural": "geese" },
+            { "singular": "mouse", "plural": "mice" },
+            { "singular": "louse", "plural": "lice" }
+          ],
+          "note": "Compounds inherit the same change: policeman → policemen, footprint → footprints (only the 'foot' part stays — the other element follows its own rule)."
+        },
+        {
+          "pattern": "Add -en (very rare)",
+          "examples": [
+            { "singular": "child", "plural": "children" },
+            { "singular": "ox", "plural": "oxen" }
+          ]
+        },
+        {
+          "pattern": "Suppletive (entirely different word)",
+          "examples": [
+            { "singular": "person", "plural": "people" }
+          ],
+          "note": "Use 'persons' only in formal/legal contexts ('the persons named in the contract'). Everyday usage is always 'people'."
+        }
+      ]
+    },
+    {
+      "id": "zero",
+      "title": "5. Zero Plurals (Singular = Plural Form)",
+      "summary": "These nouns have the same form for singular and plural; the verb tells you the number.",
+      "rules": [
+        {
+          "pattern": "Animals",
+          "items": [
+            "sheep",
+            "deer",
+            "fish (plural 'fish' for the same species; 'fishes' for several species)",
+            "salmon",
+            "trout",
+            "moose",
+            "bison",
+            "swine"
+          ]
+        },
+        {
+          "pattern": "Other zero plurals",
+          "items": [
+            "aircraft",
+            "spacecraft",
+            "hovercraft",
+            "species",
+            "series",
+            "means",
+            "offspring",
+            "headquarters"
+          ],
+          "note": "Use the verb to mark number: 'One species is endangered; many species are extinct.'"
+        },
+        {
+          "pattern": "After a number — keep singular",
+          "examples": [
+            { "singular": "two dozen", "plural": "two dozen eggs (NOT two dozens eggs)" },
+            { "singular": "five hundred", "plural": "five hundred people" },
+            { "singular": "three thousand", "plural": "three thousand visitors" }
+          ],
+          "note": "But with 'of', the -s comes back: 'dozens of eggs', 'hundreds of people', 'thousands of visitors'."
+        }
+      ]
+    },
+    {
+      "id": "classical",
+      "title": "6. Latin & Greek Plurals (Academic Register)",
+      "summary": "The single highest-yield section for Band 7+ academic writing. Using 'criteria' (not *criterions) and 'analyses' (not *analysises) is exactly what examiners notice.",
+      "rules": [
+        {
+          "pattern": "-us → -i",
+          "examples": [
+            { "singular": "cactus", "plural": "cacti" },
+            { "singular": "focus", "plural": "foci" },
+            { "singular": "fungus", "plural": "fungi" },
+            { "singular": "syllabus", "plural": "syllabi" },
+            { "singular": "nucleus", "plural": "nuclei" },
+            { "singular": "alumnus", "plural": "alumni" },
+            { "singular": "stimulus", "plural": "stimuli" },
+            { "singular": "radius", "plural": "radii" }
+          ],
+          "note": "Some accept Anglicised forms: 'cactuses', 'syllabuses', 'focuses' — fine in everyday writing, but classical forms read more academic."
+        },
+        {
+          "pattern": "-is → -es (pronounced /iːz/)",
+          "examples": [
+            { "singular": "analysis", "plural": "analyses" },
+            { "singular": "basis", "plural": "bases" },
+            { "singular": "crisis", "plural": "crises" },
+            { "singular": "thesis", "plural": "theses" },
+            { "singular": "hypothesis", "plural": "hypotheses" },
+            { "singular": "oasis", "plural": "oases" },
+            { "singular": "parenthesis", "plural": "parentheses" },
+            { "singular": "axis", "plural": "axes" },
+            { "singular": "diagnosis", "plural": "diagnoses" },
+            { "singular": "synopsis", "plural": "synopses" },
+            { "singular": "ellipsis", "plural": "ellipses" }
+          ],
+          "note": "Spelling looks identical to a verb form (axes = the plural of 'axis' AND of 'axe'). Context resolves it."
+        },
+        {
+          "pattern": "-on → -a (Greek)",
+          "examples": [
+            { "singular": "criterion", "plural": "criteria" },
+            { "singular": "phenomenon", "plural": "phenomena" },
+            { "singular": "automaton", "plural": "automata" }
+          ],
+          "note": "Common Band 6 error: 'criterias' / 'phenomenas' / 'a phenomena' — all wrong. 'Criteria' is already plural; for one, say 'a criterion'."
+        },
+        {
+          "pattern": "-um → -a (Latin)",
+          "examples": [
+            { "singular": "datum", "plural": "data" },
+            { "singular": "medium", "plural": "media" },
+            { "singular": "bacterium", "plural": "bacteria" },
+            { "singular": "curriculum", "plural": "curricula" },
+            { "singular": "memorandum", "plural": "memoranda" },
+            { "singular": "stratum", "plural": "strata" },
+            { "singular": "millennium", "plural": "millennia" },
+            { "singular": "addendum", "plural": "addenda" },
+            { "singular": "symposium", "plural": "symposia" }
+          ],
+          "note": "'Data' is now widely treated as singular ('the data shows...') in everyday English — both 'data is' and 'data are' are accepted. Academic writing prefers 'data are'."
+        },
+        {
+          "pattern": "-a → -ae (Latin)",
+          "examples": [
+            { "singular": "formula", "plural": "formulae / formulas" },
+            { "singular": "antenna", "plural": "antennae / antennas" },
+            { "singular": "vertebra", "plural": "vertebrae" },
+            { "singular": "larva", "plural": "larvae" },
+            { "singular": "alga", "plural": "algae" },
+            { "singular": "alumna", "plural": "alumnae" }
+          ]
+        },
+        {
+          "pattern": "-ex / -ix → -ices",
+          "examples": [
+            { "singular": "index", "plural": "indices / indexes" },
+            { "singular": "matrix", "plural": "matrices" },
+            { "singular": "appendix", "plural": "appendices / appendixes" },
+            { "singular": "vortex", "plural": "vortices" },
+            { "singular": "helix", "plural": "helices" },
+            { "singular": "apex", "plural": "apices / apexes" }
+          ],
+          "note": "'Indices' is preferred in maths/finance; 'indexes' in publishing (book indexes)."
+        },
+        {
+          "pattern": "Greek -ma → -mata (rarer)",
+          "examples": [
+            { "singular": "stigma", "plural": "stigmata / stigmas" },
+            { "singular": "schema", "plural": "schemata / schemas" },
+            { "singular": "trauma", "plural": "traumata / traumas" }
+          ],
+          "note": "Anglicised '-mas' is more common in everyday writing; classical '-mata' appears in religious or technical texts."
+        }
+      ],
+      "tip": "Drop one classical plural per Task 2 essay where it fits naturally — 'these criteria', 'two hypotheses', 'underlying phenomena' — and Lexical Resource scoring rises noticeably."
+    },
+    {
+      "id": "compound",
+      "title": "7. Compound Nouns",
+      "summary": "Which word takes the -s? Two patterns, plus a tricky third.",
+      "rules": [
+        {
+          "pattern": "Pluralise the head noun (the most important word)",
+          "examples": [
+            { "singular": "mother-in-law", "plural": "mothers-in-law" },
+            { "singular": "sister-in-law", "plural": "sisters-in-law" },
+            { "singular": "passer-by", "plural": "passers-by" },
+            { "singular": "runner-up", "plural": "runners-up" },
+            { "singular": "attorney-general", "plural": "attorneys-general" },
+            { "singular": "court-martial", "plural": "courts-martial" },
+            { "singular": "editor-in-chief", "plural": "editors-in-chief" }
+          ]
+        },
+        {
+          "pattern": "Pluralise the last word (most common compound nouns)",
+          "examples": [
+            { "singular": "bookcase", "plural": "bookcases" },
+            { "singular": "washing machine", "plural": "washing machines" },
+            { "singular": "can opener", "plural": "can openers" },
+            { "singular": "pickpocket", "plural": "pickpockets" },
+            { "singular": "toothbrush", "plural": "toothbrushes" }
+          ]
+        },
+        {
+          "pattern": "-ful suffix: pluralise the suffix, not the first noun",
+          "examples": [
+            { "singular": "spoonful", "plural": "spoonfuls" },
+            { "singular": "cupful", "plural": "cupfuls" },
+            { "singular": "handful", "plural": "handfuls" },
+            { "singular": "mouthful", "plural": "mouthfuls" }
+          ],
+          "note": "Older form 'spoonsful' still appears but 'spoonfuls' is now standard."
+        }
+      ]
+    },
+    {
+      "id": "uncountable",
+      "title": "8. Uncountable Nouns (Never Pluralise)",
+      "summary": "These cannot take -s and cannot be preceded by 'a / an / one'. They take a singular verb. To count them, use a partitive ('a piece of advice').",
+      "rules": [
+        {
+          "pattern": "Mass / material nouns",
+          "items": [
+            "water",
+            "sand",
+            "rice",
+            "sugar",
+            "salt",
+            "money",
+            "smoke",
+            "air",
+            "oil",
+            "milk",
+            "bread"
+          ]
+        },
+        {
+          "pattern": "Abstract nouns (most common Band 6 error zone)",
+          "items": [
+            "information (NOT informations)",
+            "advice (NOT advices)",
+            "knowledge (NOT knowledges)",
+            "evidence (NOT evidences)",
+            "research (NOT researches)",
+            "progress (NOT progresses)",
+            "news (already -s, but uncountable & singular: 'the news IS bad')",
+            "work (NOT works, except 'works of art')",
+            "homework",
+            "music",
+            "training",
+            "education",
+            "intelligence",
+            "wisdom",
+            "behaviour",
+            "feedback"
+          ]
+        },
+        {
+          "pattern": "Category / collection nouns",
+          "items": [
+            "furniture (NOT furnitures)",
+            "luggage / baggage (NOT luggages / baggages)",
+            "equipment (NOT equipments)",
+            "machinery (NOT machineries)",
+            "scenery (NOT sceneries)",
+            "traffic (NOT traffics)",
+            "accommodation (NOT accommodations in BrE; AmE allows it)",
+            "rubbish / garbage",
+            "transportation"
+          ]
+        },
+        {
+          "pattern": "Counting uncountables — use partitives",
+          "examples": [
+            { "singular": "advice", "plural": "a piece of advice / two pieces of advice" },
+            { "singular": "news", "plural": "an item of news / three items of news" },
+            { "singular": "bread", "plural": "a slice / loaf of bread" },
+            { "singular": "rice", "plural": "a grain of rice" },
+            { "singular": "water", "plural": "a glass / bottle of water" },
+            { "singular": "furniture", "plural": "an item / piece of furniture" },
+            { "singular": "luggage", "plural": "a piece / item of luggage" },
+            { "singular": "equipment", "plural": "a piece of equipment" }
+          ]
+        }
+      ],
+      "tip": "Saying 'I have many informations' or 'I gave him advices' is the fastest way to drop a band on accuracy. Train yourself into 'a lot of information' and 'some advice'."
+    },
+    {
+      "id": "plural-only",
+      "title": "9. Plural-only Nouns (Pluralia Tantum)",
+      "summary": "These nouns exist only in plural form and take a plural verb. To talk about one, use 'a pair of'.",
+      "rules": [
+        {
+          "pattern": "Items thought of as having two parts",
+          "items": [
+            "trousers",
+            "jeans",
+            "shorts",
+            "pyjamas / pajamas",
+            "leggings",
+            "tights",
+            "scissors",
+            "pliers",
+            "tongs",
+            "glasses (eyewear)",
+            "goggles",
+            "binoculars",
+            "headphones",
+            "earphones"
+          ]
+        },
+        {
+          "pattern": "Other plural-only nouns",
+          "items": [
+            "clothes (singular 'clothing' is uncountable)",
+            "congratulations",
+            "thanks",
+            "goods",
+            "premises (= a building)",
+            "wages",
+            "savings",
+            "outskirts",
+            "surroundings",
+            "belongings",
+            "earnings"
+          ]
+        },
+        {
+          "pattern": "Counting with 'a pair of'",
+          "examples": [
+            { "singular": "trousers", "plural": "a pair of trousers / two pairs of trousers" },
+            { "singular": "scissors", "plural": "a pair of scissors / three pairs of scissors" },
+            { "singular": "glasses", "plural": "a pair of glasses" }
+          ],
+          "note": "'A pair of jeans IS expensive' (singular verb because 'a pair' is the subject); but 'These jeans ARE expensive' (plural verb because 'jeans' is the subject)."
+        }
+      ]
+    },
+    {
+      "id": "s-but-singular",
+      "title": "10. -s Ending But Singular Meaning",
+      "summary": "Some nouns end in -s but take a SINGULAR verb. Treating them as plural is a classic Band 6 error.",
+      "rules": [
+        {
+          "pattern": "Academic subjects / fields",
+          "items": [
+            "mathematics",
+            "physics",
+            "economics",
+            "politics (as a subject)",
+            "linguistics",
+            "statistics (as a subject)",
+            "athletics",
+            "gymnastics",
+            "ethics (as a field)",
+            "genetics",
+            "electronics",
+            "aerobics"
+          ],
+          "note": "'Physics IS my favourite subject.' / 'Economics IS a difficult field.'"
+        },
+        {
+          "pattern": "Diseases",
+          "items": [
+            "measles",
+            "mumps",
+            "AIDS",
+            "rabies",
+            "herpes",
+            "diabetes"
+          ]
+        },
+        {
+          "pattern": "Games",
+          "items": [
+            "billiards",
+            "darts",
+            "dominoes (as a game)"
+          ],
+          "note": "'Darts IS played on a wooden board.'"
+        },
+        {
+          "pattern": "Places / news",
+          "items": [
+            "news ('The news IS shocking.')",
+            "the United States ('The United States IS...')",
+            "the Netherlands",
+            "the Bahamas",
+            "the Philippines"
+          ]
+        },
+        {
+          "pattern": "Same word, different meaning, different verb",
+          "examples": [
+            { "singular": "politics (subject)", "plural": "Politics IS interesting." },
+            { "singular": "politics (views)", "plural": "Her politics ARE extreme." },
+            { "singular": "statistics (subject)", "plural": "Statistics IS difficult." },
+            { "singular": "statistics (data)", "plural": "The statistics ARE alarming." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "collective",
+      "title": "11. Collective Nouns (BrE vs AmE)",
+      "summary": "Group nouns can take a singular or plural verb depending on whether you mean the entity or its members. The British and American conventions differ.",
+      "rules": [
+        {
+          "pattern": "Common collective nouns",
+          "items": [
+            "team",
+            "family",
+            "government",
+            "committee",
+            "staff",
+            "audience",
+            "jury",
+            "company",
+            "class",
+            "club",
+            "crew",
+            "board",
+            "panel",
+            "choir",
+            "orchestra"
+          ]
+        },
+        {
+          "pattern": "British English (IELTS norm) — singular OR plural",
+          "examples": [
+            { "singular": "the team (entity)", "plural": "The team IS well-funded." },
+            { "singular": "the team (members)", "plural": "The team ARE arguing among themselves." },
+            { "singular": "the government (entity)", "plural": "The government HAS announced new policies." },
+            { "singular": "the government (members)", "plural": "The government ARE divided on the issue." }
+          ],
+          "note": "BrE prefers plural when the action is something individuals do (argue, decide individually); singular when the entity acts as one."
+        },
+        {
+          "pattern": "American English — usually singular",
+          "examples": [
+            { "singular": "the team", "plural": "The team IS playing well tonight." },
+            { "singular": "the staff", "plural": "The staff IS attending the meeting." }
+          ]
+        },
+        {
+          "pattern": "Always plural (in both BrE and AmE)",
+          "items": [
+            "the police ('The police ARE investigating.')",
+            "cattle ('Cattle ARE grazing in the field.')",
+            "people (regular plural; 'persons' only in formal/legal use)"
+          ]
+        }
+      ],
+      "tip": "Pick one variety (BrE or AmE) and stay consistent throughout an essay. IELTS accepts both, but mixing within a paragraph reads as an accuracy slip."
+    },
+    {
+      "id": "meaning-shift",
+      "title": "12. Plurals That Change Meaning",
+      "summary": "Adding -s sometimes changes the meaning entirely. Confusing the two is a vocabulary error, not just a grammar one.",
+      "rules": [
+        {
+          "pattern": "Singular vs plural shifts meaning",
+          "examples": [
+            { "singular": "glass (material / drinking vessel)", "plural": "glasses (eyewear / multiple drinking vessels)" },
+            { "singular": "custom (tradition)", "plural": "customs (border control / multiple traditions)" },
+            { "singular": "damage (harm caused)", "plural": "damages (legal compensation)" },
+            { "singular": "pain (suffering)", "plural": "pains (efforts: 'took great pains to...')" },
+            { "singular": "manner (way of doing)", "plural": "manners (etiquette)" },
+            { "singular": "air (gas / mood)", "plural": "airs (pretensions: 'putting on airs')" },
+            { "singular": "spectacle (impressive sight)", "plural": "spectacles (eyewear)" },
+            { "singular": "quarter (one fourth)", "plural": "quarters (lodgings; military 'living quarters')" },
+            { "singular": "force (power)", "plural": "forces (military: 'the armed forces')" },
+            { "singular": "look (a glance)", "plural": "looks (appearance: 'good looks')" },
+            { "singular": "wood (material)", "plural": "woods (a forest)" },
+            { "singular": "effect (result)", "plural": "effects (personal belongings: 'personal effects')" },
+            { "singular": "premise (assumption)", "plural": "premises (a building / its grounds)" },
+            { "singular": "minute (60 seconds)", "plural": "minutes (record of a meeting)" },
+            { "singular": "letter (alphabet symbol / written message)", "plural": "letters (literature: 'a man of letters')" },
+            { "singular": "arm (limb)", "plural": "arms (weapons: 'the right to bear arms')" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "agreement",
+      "title": "13. Subject-Verb Agreement Traps",
+      "summary": "Plurals interact with verbs through subject-verb agreement. These are the most-missed Band 7 patterns.",
+      "rules": [
+        {
+          "pattern": "'A number of' vs 'The number of'",
+          "examples": [
+            { "singular": "a number of [plural]", "plural": "A number of students ARE absent. (= many students)" },
+            { "singular": "the number of [plural]", "plural": "The number of students IS rising. (= the count itself)" }
+          ]
+        },
+        {
+          "pattern": "'Each / every / one of + plural noun' → singular verb",
+          "examples": [
+            { "singular": "each of the students", "plural": "Each of the students HAS submitted the work." },
+            { "singular": "every one of the books", "plural": "Every one of the books IS available." },
+            { "singular": "one of my friends", "plural": "One of my friends IS a doctor." }
+          ],
+          "note": "Common error: 'Each of the students HAVE submitted...' — the subject is 'each', not 'students'."
+        },
+        {
+          "pattern": "'Either / Neither + singular' → singular verb",
+          "examples": [
+            { "singular": "either of you", "plural": "Either of you IS welcome." },
+            { "singular": "neither of them", "plural": "Neither of them KNOWS the answer." }
+          ]
+        },
+        {
+          "pattern": "'Either... or / Neither... nor' → verb agrees with the NEAREST subject",
+          "examples": [
+            { "singular": "either the students or the teacher", "plural": "Either the students or the teacher IS responsible." },
+            { "singular": "either the teacher or the students", "plural": "Either the teacher or the students ARE responsible." }
+          ]
+        },
+        {
+          "pattern": "'The majority of / a lot of / some of / all of + plural' → plural verb",
+          "examples": [
+            { "singular": "the majority of people", "plural": "The majority of people ARE in favour." },
+            { "singular": "a lot of children", "plural": "A lot of children ARE absent today." }
+          ],
+          "note": "But with uncountables, the verb is singular: 'The majority of the water IS contaminated.' / 'A lot of equipment IS missing.'"
+        },
+        {
+          "pattern": "'There is / there are' — agrees with what FOLLOWS",
+          "examples": [
+            { "singular": "there is + singular", "plural": "There IS a problem." },
+            { "singular": "there are + plural", "plural": "There ARE several problems." }
+          ],
+          "note": "Common Band 6 slip: starting a sentence with 'There is' and then listing plural nouns ('There IS many reasons...' should be 'There ARE many reasons')."
+        },
+        {
+          "pattern": "Quantity expressions with apostrophe (treated as singular concept)",
+          "examples": [
+            { "singular": "five years' experience", "plural": "She has five years' experience in marketing." },
+            { "singular": "two weeks' notice", "plural": "Employees must give two weeks' notice." },
+            { "singular": "an hour's walk", "plural": "It is an hour's walk from here." }
+          ],
+          "note": "Hyphenated as adjective → singular: 'a 10-year-old child' (NOT 'a 10-years-old child'); 'a five-year plan' (NOT 'a five-years plan')."
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    "I can pluralise regular nouns including consonant + y, vowel + y, -f/-fe and -o variants without spelling errors.",
+    "I know the irregular plurals (men, women, children, people, mice, feet, teeth) and never write *childs / *foots / *womans.",
+    "I use classical plurals (criteria, phenomena, analyses, hypotheses, data) accurately in academic writing.",
+    "I never write *informations, *advices, *researches, *equipments, *furnitures, *knowledges.",
+    "I count uncountables with partitives ('a piece of advice', 'an item of equipment').",
+    "I know that news, mathematics, physics, economics, politics (as a subject) take a SINGULAR verb despite ending in -s.",
+    "I use plural-only nouns (trousers, scissors, glasses) with plural verbs and 'a pair of'.",
+    "I can choose the right verb after 'a number of' (plural) vs 'the number of' (singular).",
+    "I use a singular verb after 'each of', 'every one of', 'one of', 'either of', 'neither of'.",
+    "I use a singular verb in hyphenated quantity adjectives ('a 10-year-old', 'a five-year plan')."
+  ]
+}

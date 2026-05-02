@@ -1,0 +1,1155 @@
+{
+  "title": "IELTS Grammar Roadmap — Band 7+",
+  "subtitle": "42-day advanced grammar mastery for IELTS Writing & Speaking — 1 hr/day",
+  "icon": "📘",
+  "totalDays": 42,
+  "statLabels": {
+    "concept": "Concepts",
+    "drill": "Drills",
+    "writing": "Writing",
+    "speaking": "Speaking"
+  },
+  "weeks": [
+    {
+      "title": "Week 1 — Tense &amp; Aspect Mastery",
+      "goal": "Band 7+ examiners look for <em>a wide range of structures used accurately</em>. This week: stop using only Present Simple + Past Simple. Master perfect aspect, continuous nuances, future variety, and narrative tense flow.",
+      "days": [
+        {
+          "day": 1,
+          "title": "The 12 Tenses — Band 7 Precision Audit",
+          "tags": [
+            "concept",
+            "drill"
+          ],
+          "blocks": [
+            {
+              "time": "Concept",
+              "content": "Map all <strong>12 tenses</strong> on one page: 4 aspects (Simple, Continuous, Perfect, Perfect Continuous) × 3 times (Past, Present, Future). For each, write the form (auxiliary + main verb) and one IELTS-appropriate example. Most Band 6 candidates only use 4–5 tenses fluently — your goal is at least 8."
+            },
+            {
+              "time": "Common mistakes",
+              "content": "Audit your own writing samples for: (1) using Past Simple when Present Perfect is needed (<em>I have lived here for 5 years</em>, not <em>I lived here for 5 years</em>), (2) overusing Present Continuous for habitual actions, (3) mixing tenses within the same sentence without reason."
+            },
+            {
+              "time": "Drill",
+              "content": "Pick 5 IELTS Writing Task 2 topics. For each, write one sentence per tense (12 sentences). Check that each sentence is <strong>natural</strong> — Band 7+ is not about cramming all tenses, but about choosing the right one for the meaning."
+            },
+            {
+              "time": "IELTS application",
+              "content": "In Speaking Part 2, candidates often slip back to Past Simple under pressure. Record yourself describing a memory using <strong>Past Simple + Past Continuous + Past Perfect</strong> in the same answer (<em>I had been waiting for an hour when she finally arrived</em>)."
+            }
+          ],
+          "deliverable": "One-page tense map + 12 self-written IELTS-context sentences (one per tense)"
+        },
+        {
+          "day": 2,
+          "title": "Present Perfect vs Past Simple — IELTS-critical contrast",
+          "tags": [
+            "concept",
+            "writing"
+          ],
+          "blocks": [
+            {
+              "time": "Concept",
+              "content": "The single highest-yield tense distinction in IELTS. <strong>Past Simple</strong> = finished time (<em>yesterday, in 2010, last year</em>). <strong>Present Perfect</strong> = unfinished time / result-now (<em>since, for, recently, already, yet, ever</em>). Native examiners notice this immediately."
+            },
+            {
+              "time": "Examples",
+              "content": "<em>Technology has changed dramatically over the last decade</em> (effect continues now → Present Perfect). <em>Technology changed dramatically in the 2000s</em> (finished period → Past Simple). Both grammatically correct — but only one fits the meaning."
+            },
+            {
+              "time": "Drill",
+              "content": "Write 10 sentences for Writing Task 1 (line graph / bar chart) using <strong>Present Perfect</strong> when the trend reaches the present, and <strong>Past Simple</strong> when the data ends in the past. This is the #1 grammar issue in Task 1."
+            },
+            {
+              "time": "Writing application",
+              "content": "Open any Writing Task 2 introduction you've written. Replace 2–3 Past Simples with Present Perfects where the result still applies today. Notice how the writing instantly sounds more sophisticated."
+            }
+          ],
+          "deliverable": "Side-by-side rewrite of one Task 1 + one Task 2 paragraph applying the distinction"
+        },
+        {
+          "day": 3,
+          "title": "Past Perfect &amp; Past Perfect Continuous in narratives",
+          "tags": [
+            "concept",
+            "speaking"
+          ],
+          "blocks": [
+            {
+              "time": "Concept",
+              "content": "<strong>Past Perfect</strong> (<em>had + V3</em>) = an action completed before another past action. <strong>Past Perfect Continuous</strong> (<em>had been + V-ing</em>) = an action that continued up to a point in the past. These two tenses are what separate Band 6 storytelling from Band 7+."
+            },
+            {
+              "time": "Examples",
+              "content": "<em>By the time I reached the airport, my flight had already taken off.</em> / <em>She had been studying for 3 hours when the power went out.</em> Each one collapses two sentences into one and shows time-relationship clearly."
+            },
+            {
+              "time": "Drill",
+              "content": "Take 5 simple two-sentence stories (<em>I went to the shop. The shop closed.</em>) and rewrite each as one sentence using Past Perfect or Past Perfect Continuous. Vary the connectors: <em>by the time, when, before, after, until</em>."
+            },
+            {
+              "time": "Speaking application",
+              "content": "Speaking Part 2 cue cards often ask for past experiences. Plan a 2-minute answer about <em>a difficult journey</em> using at least <strong>3 past tenses</strong> (Simple, Continuous, Perfect). Record and check."
+            }
+          ],
+          "deliverable": "Recorded 2-minute Speaking Part 2 answer using all 4 past tenses"
+        },
+        {
+          "day": 4,
+          "title": "Future Forms — 6 ways to talk about the future",
+          "tags": [
+            "concept",
+            "drill"
+          ],
+          "blocks": [
+            {
+              "time": "Concept",
+              "content": "Band 7+ writers don't only use <em>will</em>. The 6 future forms: (1) <strong>will</strong> (prediction/decision), (2) <strong>be going to</strong> (intention/evidence-based prediction), (3) <strong>Present Continuous</strong> (arrangement), (4) <strong>Present Simple</strong> (timetable), (5) <strong>Future Continuous</strong> (action in progress at a future point), (6) <strong>Future Perfect</strong> (completed by a future point)."
+            },
+            {
+              "time": "Examples",
+              "content": "<em>By 2050, automation will have replaced many manual jobs</em> (Future Perfect — completion). <em>This time next year, I'll be living in Sydney</em> (Future Continuous — ongoing). <em>Governments are launching new climate policies in March</em> (Present Continuous — fixed plan)."
+            },
+            {
+              "time": "Drill",
+              "content": "Write a 150-word prediction paragraph about <em>cities in 2050</em> using all 6 future forms at least once. Highlight each form in a different colour to confirm range."
+            },
+            {
+              "time": "Writing application",
+              "content": "Future Perfect is rare and high-value: in Task 2 conclusions about the future, drop in one sentence with <em>will have + V3</em>. It signals advanced control."
+            }
+          ],
+          "deliverable": "150-word future-prediction paragraph using all 6 future forms"
+        },
+        {
+          "day": 5,
+          "title": "Stative vs Dynamic Verbs (the “I am loving it” trap)",
+          "tags": [
+            "concept",
+            "drill"
+          ],
+          "blocks": [
+            {
+              "time": "Concept",
+              "content": "<strong>Stative verbs</strong> describe states, not actions, and normally <strong>do not take the continuous form</strong>: <em>know, believe, understand, own, belong, contain, prefer, love, hate, mean, seem, exist</em>. Saying <em>I am knowing</em> or <em>I am owning</em> is a dead giveaway of Band 5–6."
+            },
+            {
+              "time": "Examples",
+              "content": "❌ <em>I am understanding the question.</em> ✔ <em>I understand the question.</em> Some verbs are dual-use with different meanings: <em>I think you're right</em> (opinion — stative) vs <em>I'm thinking about the problem</em> (mental activity — dynamic)."
+            },
+            {
+              "time": "Drill",
+              "content": "Make a personal list of <strong>15 stative verbs you use most often</strong>. For each, write one sentence in Simple form. Then identify any verbs that can be dynamic with a different meaning (<em>have, see, taste, smell, think, feel</em>)."
+            },
+            {
+              "time": "Common mistakes",
+              "content": "Watch out in Speaking — under stress, candidates say <em>I am thinking it is important</em>. Train yourself to default to <em>I think</em>, <em>I believe</em>, <em>I find</em>."
+            }
+          ],
+          "deliverable": "Personal list of 15 stative verbs + dual-use chart for 6 verbs"
+        },
+        {
+          "day": 6,
+          "title": "Sequence of Tenses &amp; Backshift in Reported Speech",
+          "tags": [
+            "concept",
+            "drill"
+          ],
+          "blocks": [
+            {
+              "time": "Concept",
+              "content": "When the reporting verb is past (<em>said, told, claimed</em>), tenses in the reported clause usually <strong>shift one step back</strong>: Present → Past, Present Perfect → Past Perfect, will → would, can → could, may → might. Place/time references shift too: <em>here → there, now → then, today → that day, tomorrow → the next day</em>."
+            },
+            {
+              "time": "Examples",
+              "content": "Direct: <em>“I have finished my homework,”</em> she said. → Reported: <em>She said (that) she had finished her homework.</em> Notice the clause connector <em>that</em> is optional in informal use, but Band 7+ writing usually keeps it."
+            },
+            {
+              "time": "Exceptions",
+              "content": "No backshift when the reported statement is <strong>still true / a general truth / a future-still-pending</strong>: <em>The teacher said the Earth orbits the Sun.</em> Examiners reward writers who recognise these subtleties."
+            },
+            {
+              "time": "Drill",
+              "content": "Convert 10 direct-speech sentences (mix of Present, Present Perfect, will, can) into reported speech. Then write 3 sentences where backshift is <strong>optional</strong> and explain why."
+            }
+          ],
+          "deliverable": "Reported-speech conversion sheet (10 + 3 exceptions explained)"
+        },
+        {
+          "day": 7,
+          "title": "Week 1 Review — Tense Variety in Writing Task 2",
+          "tags": [
+            "review",
+            "writing"
+          ],
+          "blocks": [
+            {
+              "time": "Review",
+              "content": "Self-test without notes: name and form all 12 tenses. List 5 stative verbs. Explain when no backshift is needed in reported speech. Explain the difference between <em>I have lived here for 5 years</em> and <em>I lived here for 5 years</em>."
+            },
+            {
+              "time": "Writing task",
+              "content": "Write a full <strong>Writing Task 2 essay</strong> (250+ words) on: <em>Some people believe that technology has made our lives easier; others argue it has created new problems. Discuss both views and give your opinion.</em> Aim for at least <strong>8 different tenses</strong> across the essay."
+            },
+            {
+              "time": "Self-edit",
+              "content": "Highlight every verb in your essay. Annotate the tense of each. If you find yourself stuck in Present Simple for 5+ verbs in a row, rewrite at least 2 to use Present Perfect, Future Perfect, or a participle clause."
+            }
+          ],
+          "deliverable": "250-word Task 2 essay with verb-by-verb tense annotation"
+        }
+      ]
+    },
+    {
+      "title": "Week 2 — Conditionals &amp; Hypothetical Forms",
+      "goal": "Conditionals are gold for Band 7+. They show <em>complex thinking</em>: cause-effect, hypothesis, regret, advice. Mixed and inverted forms in particular signal control well above Band 6.",
+      "days": [
+        {
+          "day": 8,
+          "title": "Zero, First, Second, Third — precision recap",
+          "tags": [
+            "concept",
+            "drill"
+          ],
+          "blocks": [
+            {
+              "time": "Concept",
+              "content": "<strong>Zero</strong>: <em>If + Present, Present</em> — general truths (<em>If water reaches 100°C, it boils</em>). <strong>First</strong>: <em>If + Present, will + V</em> — likely future. <strong>Second</strong>: <em>If + Past, would + V</em> — unlikely/imaginary present. <strong>Third</strong>: <em>If + Past Perfect, would have + V3</em> — impossible past."
+            },
+            {
+              "time": "Common mistakes",
+              "content": "❌ <em>If I would have time, I would help you.</em> ✔ <em>If I had time, I would help you.</em> <strong>Never use <em>would</em> in the if-clause</strong> in standard conditionals (rare exceptions with <em>would</em> for politeness)."
+            },
+            {
+              "time": "Drill",
+              "content": "Write 4 conditional sentences on a Band-7 topic (<em>climate change, education, technology</em>) — one of each type. Then rewrite each, swapping <em>if</em> for <em>unless / provided that / as long as</em> where it fits naturally."
+            },
+            {
+              "time": "IELTS application",
+              "content": "Speaking Part 3 questions like <em>What would happen if everyone used public transport?</em> demand Second Conditional. Practice 5 hypothetical Part-3 answers, each starting with <em>If…, …would…</em>"
+            }
+          ],
+          "deliverable": "4-type conditional set + 5 hypothetical Speaking Part 3 answers"
+        },
+        {
+          "day": 9,
+          "title": "Mixed Conditionals — the Band 7+ signature",
+          "tags": [
+            "concept",
+            "drill"
+          ],
+          "blocks": [
+            {
+              "time": "Concept",
+              "content": "Mixed conditionals combine times. <strong>Type A — past condition, present result</strong>: <em>If I had studied medicine, I would be a doctor now</em> (didn't study → not a doctor today). <strong>Type B — present condition, past result</strong>: <em>If I were better organised, I wouldn't have missed the deadline</em> (general trait → past consequence)."
+            },
+            {
+              "time": "Why it matters",
+              "content": "Mixed conditionals are rare even among Band 7 candidates. Using just <strong>one accurate mixed conditional</strong> in a Task 2 essay or Speaking Part 3 answer is a strong Band 7.5–8 signal."
+            },
+            {
+              "time": "Drill",
+              "content": "Write 6 mixed conditional sentences — 3 of Type A, 3 of Type B — on real personal or social topics (career, education, environment). Test each by checking that the <em>time of the if-clause</em> and <em>time of the result clause</em> are clearly different."
+            },
+            {
+              "time": "Speaking application",
+              "content": "Memorise one fluent Type-A template: <em>If I hadn't [past action], I wouldn't be [present state] today.</em> Use it when describing a turning point in Speaking Part 2."
+            }
+          ],
+          "deliverable": "6 mixed-conditional sentences (3 Type A + 3 Type B) on social topics"
+        },
+        {
+          "day": 10,
+          "title": "Inverted Conditionals (Were I to..., Had I known..., Should you...)",
+          "tags": [
+            "concept",
+            "writing"
+          ],
+          "blocks": [
+            {
+              "time": "Concept",
+              "content": "Drop <em>if</em> and invert subject-auxiliary. <strong>First Conditional</strong>: <em>Should you need help, please contact me</em>. <strong>Second</strong>: <em>Were I to choose again, I would pick a different career</em>. <strong>Third</strong>: <em>Had I known the risks, I would never have invested</em>. These are formal, written, and a Band 7.5+ marker."
+            },
+            {
+              "time": "When to use",
+              "content": "In Writing Task 2 — especially in formal letter / report / discursive essays. They give a discursive register that <em>If you should need help</em> simply doesn't have. Don't overuse: one per essay is impressive; three is showing off and may sound forced."
+            },
+            {
+              "time": "Drill",
+              "content": "Take 6 ordinary conditional sentences from your past writing and rewrite each in the inverted form. Then check: does it still sound natural in context? If not, the inversion is forced — use the original."
+            },
+            {
+              "time": "Writing application",
+              "content": "Find one place in your most recent Task 2 conclusion to insert <em>Were governments to act decisively…</em> or <em>Should this trend continue…</em>. That single sentence raises the perceived register of the whole conclusion."
+            }
+          ],
+          "deliverable": "6 conditional sentences rewritten in inverted form, judged for naturalness"
+        },
+        {
+          "day": 11,
+          "title": "Wish / If only / I'd rather / It's (high) time",
+          "tags": [
+            "concept",
+            "speaking"
+          ],
+          "blocks": [
+            {
+              "time": "Concept",
+              "content": "All four use the <strong>unreal past</strong> (Past Simple or Past Perfect) even when meaning is present or future. <em>I wish I knew the answer</em> (don't know now). <em>If only I had studied harder</em> (regret about past). <em>I'd rather you didn't smoke here</em> (preference about now). <em>It's high time we acted on climate change</em> (it should be happening now)."
+            },
+            {
+              "time": "Common mistakes",
+              "content": "❌ <em>I wish I will pass.</em> ✔ <em>I hope I will pass.</em> Use <em>wish + would</em> only for complaints about other people's behaviour: <em>I wish he would stop interrupting</em>."
+            },
+            {
+              "time": "Drill",
+              "content": "Write 8 sentences expressing regrets or preferences — 2 each with <em>wish</em>, <em>if only</em>, <em>I'd rather</em>, <em>it's (high) time</em>. Make 4 about the present and 4 about the past."
+            },
+            {
+              "time": "Speaking application",
+              "content": "Speaking Part 3 questions like <em>How could your country improve education?</em> are perfect for <em>It's high time the government invested more in…</em> Practice 3 such answers."
+            }
+          ],
+          "deliverable": "8-sentence regret/preference set + 3 high-time Speaking Part 3 answers"
+        },
+        {
+          "day": 12,
+          "title": "Alternatives to “if” — provided that, supposing, unless, as long as, in case",
+          "tags": [
+            "concept",
+            "drill"
+          ],
+          "blocks": [
+            {
+              "time": "Concept",
+              "content": "<strong>Provided that / providing</strong> = on the condition that (formal). <strong>As long as</strong> = same, more conversational. <strong>Unless</strong> = if not (used with positive verb). <strong>Supposing / suppose</strong> = imagine (hypothetical, often spoken). <strong>In case</strong> = as a precaution (different meaning — not really a conditional)."
+            },
+            {
+              "time": "Common mistakes",
+              "content": "❌ <em>Unless you don't study, you will fail.</em> ✔ <em>Unless you study, you will fail.</em> <em>Unless</em> already contains the negative. Also: <em>in case</em> ≠ <em>if</em> — <em>Take an umbrella in case it rains</em> means <em>so that you are prepared if</em>, not <em>if</em>."
+            },
+            {
+              "time": "Drill",
+              "content": "Rewrite 10 plain <em>if</em>-sentences on social/educational topics using these alternatives. Check that the meaning didn't shift (especially watch <em>unless</em> for double-negatives and <em>in case</em> for the precaution sense)."
+            },
+            {
+              "time": "Writing application",
+              "content": "Band 7+ essays vary connectors. Drop <em>provided that</em> or <em>as long as</em> into one body paragraph in your next Task 2 to break the <em>if-if-if</em> repetition."
+            }
+          ],
+          "deliverable": "10 rewrites with <em>unless / provided that / as long as / in case / supposing</em>"
+        },
+        {
+          "day": 13,
+          "title": "Conditionals in Speaking Part 3 (hypothetical questions)",
+          "tags": [
+            "speaking",
+            "drill"
+          ],
+          "blocks": [
+            {
+              "time": "Why this matters",
+              "content": "Examiners specifically use <strong>“What would happen if…”</strong>, <strong>“How would things change if…”</strong>, <strong>“Do you think it would be better if…”</strong> in Part 3 to test whether you can handle <strong>hypothetical grammar</strong>. A Band 6 candidate answers in Present Simple. A Band 7+ answers in Second/Mixed conditional."
+            },
+            {
+              "time": "Templates",
+              "content": "<em>If everyone X, society would Y.</em> / <em>Were people to X, the result would be Y.</em> / <em>If we hadn't done X in the past, we wouldn't be facing Y today.</em> Memorise 3 templates so you can deploy them under pressure."
+            },
+            {
+              "time": "Drill",
+              "content": "Pick 8 real Part 3 hypothetical questions (search <em>IELTS Speaking Part 3 hypothetical questions</em>). Record a 30-second answer for each, using a conditional form. Listen back: did you slip into Present Simple?"
+            },
+            {
+              "time": "Common mistakes",
+              "content": "Don't change the conditional type mid-answer — if you start with <em>If everyone used public transport, the air would be cleaner</em>, don't follow with <em>and people will save money</em>. Stay in the <em>would</em> world throughout the answer."
+            }
+          ],
+          "deliverable": "8 recorded hypothetical Speaking Part 3 answers using 3+ conditional forms"
+        },
+        {
+          "day": 14,
+          "title": "Week 2 Review — Conditional-rich opinion paragraph",
+          "tags": [
+            "review",
+            "writing"
+          ],
+          "blocks": [
+            {
+              "time": "Review self-test",
+              "content": "Without notes: write the form for each of the 4 standard conditionals + the 2 mixed types. Explain why <em>Unless you don't try, you'll fail</em> is wrong. Give one inverted-conditional example for each of First/Second/Third."
+            },
+            {
+              "time": "Writing task",
+              "content": "Write a 250-word opinion paragraph on: <em>Some governments are considering banning private cars in city centres. Discuss the consequences.</em> Use at least <strong>5 different conditional forms</strong>: Zero / First / Second / Third / Mixed / Inverted."
+            },
+            {
+              "time": "Self-edit",
+              "content": "Highlight every <em>if / unless / provided / had / were / should</em> in the paragraph. If you only used <em>if</em>, rewrite at least 2 with alternatives. The paragraph should not feel formulaic — naturalness beats variety if forced."
+            }
+          ],
+          "deliverable": "250-word paragraph using 5+ distinct conditional forms, naturalness-checked"
+        }
+      ]
+    },
+    {
+      "title": "Week 3 — Complex Sentence Structures",
+      "goal": "Band 7 says <em>uses a variety of complex structures</em>. Band 8 says <em>uses a wide range of structures with full flexibility and accuracy</em>. This week is the difference: relative clauses, participles, clefts, inversion.",
+      "days": [
+        {
+          "day": 15,
+          "title": "Relative Clauses — defining vs non-defining (punctuation rules)",
+          "tags": [
+            "concept",
+            "drill"
+          ],
+          "blocks": [
+            {
+              "time": "Concept",
+              "content": "<strong>Defining relative clauses</strong> identify which one (no commas, <em>that</em> allowed): <em>The student who scored highest got the prize.</em> <strong>Non-defining relative clauses</strong> add extra info (commas required, <em>that</em> NOT allowed): <em>My brother, who lives in Canada, is a doctor.</em>"
+            },
+            {
+              "time": "Common mistakes",
+              "content": "❌ <em>My brother, that lives in Canada,…</em> — non-defining never uses <em>that</em>. ❌ Missing commas in non-defining → makes the meaning shift completely (<em>My brother who lives in Canada</em> implies you have other brothers; <em>My brother, who lives in Canada,</em> implies one brother)."
+            },
+            {
+              "time": "Drill",
+              "content": "Write 10 sentences mixing the two types. Half should require commas; half must not. Then write 5 sentences using <strong>whose</strong> and <strong>of which</strong> (<em>The book, the cover of which is torn, is mine</em>) — these are formal Band 7+ forms."
+            },
+            {
+              "time": "Writing application",
+              "content": "In Writing Task 1, defining relatives compress data: <em>The country which experienced the largest growth was India</em>. In Task 2, non-defining relatives add explanation: <em>Public transport, which is heavily subsidised in many cities, reduces traffic congestion.</em>"
+            }
+          ],
+          "deliverable": "15 relative-clause sentences (10 defining/non-defining + 5 with whose/of which)"
+        },
+        {
+          "day": 16,
+          "title": "Reduced Relative Clauses",
+          "tags": [
+            "concept",
+            "drill"
+          ],
+          "blocks": [
+            {
+              "time": "Concept",
+              "content": "Drop <em>who/which/that + be</em> when meaning is preserved. <em>The students who are sitting at the back</em> → <em>The students sitting at the back</em>. <em>The book which was written by Orwell</em> → <em>The book written by Orwell</em>. Reduces clutter; sounds sophisticated."
+            },
+            {
+              "time": "Forms",
+              "content": "Active reduction → <strong>-ing</strong> form: <em>People who live in cities</em> → <em>People living in cities</em>. Passive reduction → <strong>-ed</strong> form: <em>Houses that are built of wood</em> → <em>Houses built of wood</em>. Also reduces with <em>be + adjective</em>: <em>The applicants who are eligible</em> → <em>The applicants eligible</em>."
+            },
+            {
+              "time": "Drill",
+              "content": "Take 12 full relative clauses from a previous essay or article and reduce as many as possible. Note which ones don't reduce well (modal verbs, certain stative verbs) — those keep the full form."
+            },
+            {
+              "time": "Common mistakes",
+              "content": "❌ <em>People going to the gym every day they are healthy.</em> ✔ <em>People going to the gym every day are healthy.</em> The reduction <strong>cannot</strong> add a redundant subject."
+            }
+          ],
+          "deliverable": "12 reduced-relative-clause rewrites + notes on cases where reduction failed"
+        },
+        {
+          "day": 17,
+          "title": "Participle Clauses — -ing, -ed, having + V3",
+          "tags": [
+            "concept",
+            "writing"
+          ],
+          "blocks": [
+            {
+              "time": "Concept",
+              "content": "Participle clauses replace adverbial clauses for compactness and elegance. <strong>-ing (active, simultaneous)</strong>: <em>Walking through the park, I saw a fox.</em> <strong>-ed (passive)</strong>: <em>Built in 1850, the bridge still stands.</em> <strong>Having + V3 (perfect, sequence)</strong>: <em>Having finished his work, he left.</em>"
+            },
+            {
+              "time": "Why it matters",
+              "content": "Replaces <em>While I was walking / Because the bridge was built / After he had finished</em> — three full clauses collapsed. This is exactly what Band 8 means by <em>full flexibility</em>."
+            },
+            {
+              "time": "Common mistakes",
+              "content": "<strong>Dangling participles</strong>: ❌ <em>Walking down the street, the rain started.</em> The rain isn't walking. ✔ <em>Walking down the street, I noticed the rain start.</em> Always check the participle's subject is the same as the main clause subject."
+            },
+            {
+              "time": "Drill",
+              "content": "Rewrite 8 two-clause sentences using participle clauses — mix all three forms (-ing, -ed, having + V3). Read each aloud to check no dangling participles."
+            }
+          ],
+          "deliverable": "8 participle-clause rewrites covering all three forms, dangling-checked"
+        },
+        {
+          "day": 18,
+          "title": "Cleft Sentences — It-cleft, What-cleft, All-cleft",
+          "tags": [
+            "concept",
+            "drill"
+          ],
+          "blocks": [
+            {
+              "time": "Concept",
+              "content": "Cleft = split a sentence to <strong>emphasise one part</strong>. <strong>It-cleft</strong>: <em>It is education that drives social mobility</em> (emphasis on <em>education</em>). <strong>What-cleft</strong>: <em>What young people really need is access to mentors</em>. <strong>All-cleft</strong>: <em>All we need is a clear policy</em>."
+            },
+            {
+              "time": "Why it matters",
+              "content": "Cleft sentences are <strong>extremely under-used</strong> by IELTS candidates. Even one well-placed <em>What governments must understand is…</em> in a Task 2 essay opens the introduction with a Band 7.5+ feel."
+            },
+            {
+              "time": "Drill",
+              "content": "Take 6 plain Subject-Verb-Object sentences and rewrite each as: an It-cleft, a What-cleft, and (where natural) an All-cleft. Compare which version sounds best in academic writing."
+            },
+            {
+              "time": "Common mistakes",
+              "content": "Don't pile clefts on top of each other. One per paragraph max. Also note tense agreement in the cleft: <em>It was the policy that caused the problem</em> (not <em>that causes</em> if the event is past)."
+            }
+          ],
+          "deliverable": "6 sentences rewritten in 2–3 cleft forms each, best version flagged"
+        },
+        {
+          "day": 19,
+          "title": "Inversion for Emphasis (Not only..., Hardly had..., Never...)",
+          "tags": [
+            "concept",
+            "writing"
+          ],
+          "blocks": [
+            {
+              "time": "Concept",
+              "content": "Negative or restrictive adverb at the start → invert subject + auxiliary. <em>Not only does pollution harm health, but it also damages the economy.</em> <em>Hardly had he arrived when the meeting started.</em> <em>Never have I seen such a clear example.</em> <em>Under no circumstances should this rule be ignored.</em>"
+            },
+            {
+              "time": "Triggers",
+              "content": "Triggers: <strong>Not only / Never / Rarely / Seldom / Hardly / No sooner / Little / Only then / Only when / Under no circumstances / At no point / In no way</strong>."
+            },
+            {
+              "time": "Drill",
+              "content": "Rewrite 8 sentences using each trigger at least once. Check the inversion: <em>do/does/did + S + V</em> for simple tenses; auxiliary + S + V for others. Common error: forgetting the <em>do/does/did</em> for simple-tense inversions."
+            },
+            {
+              "time": "Writing application",
+              "content": "<em>Not only…but also…</em> is the safest, most natural inversion to use in Task 2 — it works in introductions, body, and conclusion. Aim to use it at least once per essay from now on."
+            }
+          ],
+          "deliverable": "8 inversion sentences covering all major triggers, do/does/did checked"
+        },
+        {
+          "day": 20,
+          "title": "Building Multi-Clause Sentences (subordination + coordination + relative)",
+          "tags": [
+            "concept",
+            "writing"
+          ],
+          "blocks": [
+            {
+              "time": "Concept",
+              "content": "Band 7+ sentences often have <strong>3+ clauses</strong>: a main clause, a subordinate clause (<em>although, because, while</em>), and a relative or participle. Example: <em>Although technology, which has transformed many industries, also raises privacy concerns, governments must regulate it carefully.</em>"
+            },
+            {
+              "time": "Method",
+              "content": "Don't write a 3-clause sentence by accident — plan it. (1) State the main idea. (2) Add a contrast or cause via <em>although / because / while</em>. (3) Embed extra info via a relative or participle clause. (4) Read aloud — if you lose breath or meaning, split it."
+            },
+            {
+              "time": "Drill",
+              "content": "Build 5 three-clause sentences on different IELTS topics (education, environment, urbanisation, technology, health). Each must use: 1 subordinator + 1 relative-or-participle + 1 main clause."
+            },
+            {
+              "time": "Common mistakes",
+              "content": "<strong>Run-on sentences</strong> — over-stuffed sentences confuse the reader. Band 7+ values <em>variety</em>, which means a mix of short punchy sentences AND longer complex ones, not endless 4-line monsters."
+            }
+          ],
+          "deliverable": "5 hand-crafted 3-clause sentences, each split into short version for comparison"
+        },
+        {
+          "day": 21,
+          "title": "Week 3 Review — Rewrite simple paragraph into Band 7+ complex sentences",
+          "tags": [
+            "review",
+            "writing"
+          ],
+          "blocks": [
+            {
+              "time": "Source paragraph",
+              "content": "Take this Band-5 paragraph and keep it: <em>Many people use cars. Cars cause pollution. Pollution is bad for health. Governments should act. Acting will protect people.</em>"
+            },
+            {
+              "time": "Writing task",
+              "content": "Rewrite the paragraph using: at least 1 relative clause, 1 participle clause, 1 cleft sentence, 1 inversion, 1 mixed conditional. Aim for <strong>3 sentences total</strong>, not 5. Compare both versions side by side — the difference between Band 5 and Band 7+ is visible immediately."
+            },
+            {
+              "time": "Self-edit",
+              "content": "Annotate every clause type. If you only have one type, force in another. Then rewrite ONE sentence to be deliberately short and punchy — Band 7+ writers know that <strong>short sentences are also a tool</strong>, not a sin."
+            }
+          ],
+          "deliverable": "Side-by-side Band 5 vs Band 7+ paragraph with clause-type annotations"
+        }
+      ]
+    },
+    {
+      "title": "Week 4 — Voice, Modality &amp; Subjunctive",
+      "goal": "Passive voice and modal verbs are where most Band 6 candidates plateau. This week: full passive control, perfect modals for speculation, causative <em>have/get</em>, and the subjunctive — small details that examiners notice.",
+      "days": [
+        {
+          "day": 22,
+          "title": "Full Passive Voice across all tenses",
+          "tags": [
+            "concept",
+            "drill"
+          ],
+          "blocks": [
+            {
+              "time": "Concept",
+              "content": "Passive = <strong>be + V3</strong>, conjugated in any tense. Present Simple: <em>is built</em>. Present Perfect: <em>has been built</em>. Past Continuous: <em>was being built</em>. Future Perfect: <em>will have been built</em>. Modal: <em>should be built</em>. Modal Perfect: <em>should have been built</em>."
+            },
+            {
+              "time": "When to use",
+              "content": "Use passive when the <strong>doer is unknown / unimportant / obvious</strong>, or when you want to put the <strong>receiver in focus</strong>. Writing Task 1 (process diagrams) is heavy passive: <em>The mixture is heated, then poured into moulds.</em> Task 2 uses passive for objectivity: <em>It has been argued that…</em>"
+            },
+            {
+              "time": "Drill",
+              "content": "Conjugate one verb (<em>build</em>) into the passive across all 12 tenses. Then rewrite 10 active sentences as passive, keeping the meaning. Then rewrite 3 passives back to active where the doer matters more — that's also a Band 7+ skill."
+            },
+            {
+              "time": "Common mistakes",
+              "content": "❌ Overusing passive — Task 2 essays drowning in <em>It is believed / It is said / It has been argued</em> sound vague. Mix active and passive deliberately."
+            }
+          ],
+          "deliverable": "Full passive conjugation table + 10 active→passive + 3 passive→active rewrites"
+        },
+        {
+          "day": 23,
+          "title": "Passive of Reporting Verbs (It is said that..., He is believed to be...)",
+          "tags": [
+            "concept",
+            "writing"
+          ],
+          "blocks": [
+            {
+              "time": "Concept",
+              "content": "Two structures, same meaning. <strong>Type 1</strong>: <em>It + passive reporting verb + that-clause</em>: <em>It is said that smoking causes cancer.</em> <strong>Type 2</strong>: <em>Subject + passive reporting verb + to-infinitive</em>: <em>Smoking is said to cause cancer.</em>"
+            },
+            {
+              "time": "Reporting verbs",
+              "content": "Common in Type 1/2: <em>say, believe, think, claim, report, expect, know, consider, allege, estimate, assume</em>. Tense in the to-infinitive shifts: <em>He is believed to have stolen the money</em> (past act); <em>He is believed to be hiding</em> (current act)."
+            },
+            {
+              "time": "Why it matters",
+              "content": "Both forms make Task 2 essays sound objective and academic, hedging the writer's commitment. <em>It is widely believed that…</em> is a far stronger opener than <em>People believe that…</em>"
+            },
+            {
+              "time": "Drill",
+              "content": "Take 8 active sentences with reporting verbs (<em>People say…, Scientists believe…, Many think…</em>) and rewrite each in BOTH passive forms."
+            }
+          ],
+          "deliverable": "8 active reports rewritten in both passive structures"
+        },
+        {
+          "day": 24,
+          "title": "Causative — have/get something done",
+          "tags": [
+            "concept",
+            "speaking"
+          ],
+          "blocks": [
+            {
+              "time": "Concept",
+              "content": "<strong>Have/get + object + V3</strong> = arrange for someone else to do something. <em>I had my car repaired</em> (mechanic did it, not me). <em>She got her hair cut</em>. Tense varies: <em>I'm having my house painted</em>, <em>I'll get the document translated</em>, <em>I had been having my watch repaired when…</em>"
+            },
+            {
+              "time": "Negative meaning",
+              "content": "Causative also means experiencing something done to you (often unpleasant): <em>He had his wallet stolen</em>, <em>She got her phone confiscated</em>. Same form, different meaning from context."
+            },
+            {
+              "time": "Drill",
+              "content": "Write 8 sentences using causative — 4 arrangements (services) and 4 experiences (negative). Mix tenses (Present Continuous, Past Simple, Future, Modal)."
+            },
+            {
+              "time": "Speaking application",
+              "content": "Speaking Part 1 has questions like <em>Do you cut your own hair?</em> Answering <em>No, I usually have it cut at a salon</em> instead of <em>No, someone cuts my hair</em> sounds noticeably more advanced."
+            }
+          ],
+          "deliverable": "8 causative sentences (4 services + 4 negative experiences) across 4 tenses"
+        },
+        {
+          "day": 25,
+          "title": "Perfect Modals — must have, should have, could have, might have",
+          "tags": [
+            "concept",
+            "drill"
+          ],
+          "blocks": [
+            {
+              "time": "Concept",
+              "content": "<strong>Modal + have + V3</strong> = a modal meaning applied to the past. <em>must have</em> = strong past deduction. <em>should/shouldn't have</em> = past advice or regret. <em>could have</em> = past possibility / unrealised ability. <em>might/may have</em> = uncertain past possibility. <em>can't/couldn't have</em> = strong past negative deduction."
+            },
+            {
+              "time": "Examples",
+              "content": "<em>The lights are off — they must have left.</em> <em>You should have called me earlier.</em> <em>I could have gone to the meeting, but I didn't.</em> <em>She might have forgotten our appointment.</em> <em>He can't have finished — it only started 10 minutes ago.</em>"
+            },
+            {
+              "time": "Why it matters",
+              "content": "Most Band 6 candidates only use modals in the present. Even one accurate <em>must have / should have</em> in Speaking Part 2–3 marks you as Band 7+. They're how English speakers express speculation and regret about the past."
+            },
+            {
+              "time": "Drill",
+              "content": "Write 10 perfect-modal sentences mixing all 5 forms. For each, write the <strong>present-time equivalent</strong> in the modal-only form (<em>he must be tired</em> ↔ <em>he must have been tired yesterday</em>) so the contrast is clear."
+            }
+          ],
+          "deliverable": "10 perfect-modal sentences with present-modal counterparts"
+        },
+        {
+          "day": 26,
+          "title": "Modals for Speculation (present &amp; past)",
+          "tags": [
+            "concept",
+            "speaking"
+          ],
+          "blocks": [
+            {
+              "time": "Concept",
+              "content": "Speculation strength scale: <strong>must</strong> (95% sure positive) → <strong>can't</strong> (95% sure negative) → <strong>could / may / might</strong> (50%, neutral). Present: <em>must be / can't be / might be</em>. Continuous: <em>must be working / might be working</em>. Past: <em>must have been / can't have been / could have been</em>."
+            },
+            {
+              "time": "Avoid",
+              "content": "❌ <em>maybe</em> as the only speculation tool. <em>Maybe he is tired</em> works at Band 5. <em>He might be tired</em>, <em>He could be feeling tired</em>, <em>He must be exhausted</em> — that's the Band 7+ range."
+            },
+            {
+              "time": "Drill",
+              "content": "Look at 5 photos (or imagine 5 scenarios) and write 4 speculative sentences about each — one strong-positive (<em>must</em>), one strong-negative (<em>can't</em>), one neutral (<em>might/could</em>), and one past (<em>must have</em>)."
+            },
+            {
+              "time": "Speaking application",
+              "content": "Part 2 cue cards often involve uncertainty (<em>describe a person you'd like to meet</em>). Speculative modals fit naturally: <em>I imagine she must be very disciplined; she might also be quite reserved in interviews.</em>"
+            }
+          ],
+          "deliverable": "5 scenarios × 4 speculation types = 20 modal sentences"
+        },
+        {
+          "day": 27,
+          "title": "Subjunctive Mood — mandative &amp; formulaic",
+          "tags": [
+            "concept",
+            "writing"
+          ],
+          "blocks": [
+            {
+              "time": "Concept",
+              "content": "<strong>Mandative subjunctive</strong>: after verbs/expressions of demand, suggestion, request, recommendation, the subordinate clause uses <strong>base form</strong> (no -s, no were/was distinction). <em>I suggest that he <strong>study</strong> harder</em> (not <em>studies</em>). <em>It is essential that every student <strong>be</strong> on time</em> (not <em>is</em>). <em>The committee demands that the report <strong>be</strong> submitted by Friday.</em>"
+            },
+            {
+              "time": "Triggers",
+              "content": "Verbs: <em>suggest, recommend, demand, insist, propose, request, require, advise, ask</em>. Adjectives: <em>essential, vital, important, crucial, necessary, imperative</em> + <em>that</em>. The British alternative is <em>should + base form</em> (<em>I suggest that he should study</em>) — also accepted."
+            },
+            {
+              "time": "Were-subjunctive",
+              "content": "After <em>if, wish, as if, suppose, imagine, would rather</em>, use <em>were</em> for all persons in formal English: <em>If I <strong>were</strong> you</em> (not <em>was</em>). <em>I wish I <strong>were</strong> taller</em>. Examiners specifically reward this in Task 2."
+            },
+            {
+              "time": "Drill",
+              "content": "Write 6 mandative-subjunctive sentences (academic Task 2 register: <em>It is essential that…, We recommend that…, The government must insist that…</em>) and 4 were-subjunctives."
+            }
+          ],
+          "deliverable": "10 subjunctive sentences (6 mandative + 4 were-subjunctive)"
+        },
+        {
+          "day": 28,
+          "title": "Week 4 Review — Writing Task 1 process diagram using passive",
+          "tags": [
+            "review",
+            "writing"
+          ],
+          "blocks": [
+            {
+              "time": "Review self-test",
+              "content": "Without notes: conjugate the verb <em>design</em> in the passive across 6 tenses. Give 2 reporting-verb passives. Write 1 causative for each of the two meanings. Give 1 mandative-subjunctive sentence. Explain when to use <em>were</em> instead of <em>was</em>."
+            },
+            {
+              "time": "Writing task",
+              "content": "Pick any IELTS Writing Task 1 process diagram (search <em>IELTS Task 1 process diagram</em>). Write a 150-word description. Use passive in <strong>at least 70%</strong> of clauses. Vary the connectors: <em>firstly, subsequently, once, after which, at this stage, finally</em>."
+            },
+            {
+              "time": "Self-edit",
+              "content": "Highlight every passive form. Then highlight your modals. Goal: at least 8 passives, plus 1 modal-passive (<em>should be / must be / can be</em>). If your description reads as a flat list, rewrite 2 sentences with reduced passive participles (<em>Once heated, the mixture is poured…</em>)."
+            }
+          ],
+          "deliverable": "150-word Task 1 process description with passive coverage analysis"
+        }
+      ]
+    },
+    {
+      "title": "Week 5 — Cohesion, Articles &amp; Hedging",
+      "goal": "Band 7 says <em>uses cohesion well</em>; Band 8 says <em>cohesion attracts no attention</em>. This week: stop saying <em>Firstly, Secondly, In conclusion</em>. Master reference, hedging, nominalization, and the article cases that trip up most candidates.",
+      "days": [
+        {
+          "day": 29,
+          "title": "Cohesive Devices — Reference &amp; Substitution",
+          "tags": [
+            "concept",
+            "writing"
+          ],
+          "blocks": [
+            {
+              "time": "Concept",
+              "content": "Cohesion isn't only linkers. <strong>Reference</strong>: pronouns and demonstratives that point back to earlier nouns (<em>this, that, these, those, such, the former, the latter</em>). <strong>Substitution</strong>: replace a repeated word with <em>one(s) / do / so / not</em> (<em>The red car is faster than the blue one</em>; <em>I think so</em>; <em>I hope not</em>)."
+            },
+            {
+              "time": "Why it matters",
+              "content": "Band 6 essays repeat full noun phrases (<em>The problem of pollution… This problem of pollution…</em>). Band 7+ essays move to <em>This issue / Such concerns / The latter</em>. Examiners specifically check for this."
+            },
+            {
+              "time": "Drill",
+              "content": "Take a 200-word essay you've written. Find every repeated noun. Replace half with <em>this/that/such/the former/the latter/one</em>. Read aloud — if any reference is unclear, restore the noun. Cohesion fails when reference is ambiguous."
+            },
+            {
+              "time": "Common mistakes",
+              "content": "❌ <em>This is a big problem.</em> (Standalone <em>This</em> with no clear referent.) ✔ <em>This trend / This phenomenon / This concern</em> — always pair <em>this/that</em> with a summarising noun in academic writing."
+            }
+          ],
+          "deliverable": "200-word essay revised with reference + substitution applied"
+        },
+        {
+          "day": 30,
+          "title": "Advanced Linkers for Contrast &amp; Concession",
+          "tags": [
+            "concept",
+            "writing"
+          ],
+          "blocks": [
+            {
+              "time": "Concept",
+              "content": "Move beyond <em>however / but</em>. <strong>Contrast</strong>: <em>whereas, while, on the other hand, in contrast, conversely</em>. <strong>Concession</strong> (admitting a point against your view): <em>although, even though, despite (the fact that), in spite of, notwithstanding, albeit, granted that, admittedly</em>."
+            },
+            {
+              "time": "Form difference",
+              "content": "<em>Despite / In spite of</em> + <strong>noun or -ing</strong>: <em>Despite the rain, …</em> / <em>Despite being tired, …</em> <em>Although / Even though</em> + <strong>full clause</strong>: <em>Although it was raining, …</em> Mixing these is the most common Band 6 grammar error."
+            },
+            {
+              "time": "Drill",
+              "content": "Write 10 contrast/concession sentences across these connectors: 2 with <em>whereas</em>, 2 with <em>despite/in spite of</em> + noun or -ing, 2 with <em>although/even though</em> + clause, 2 with <em>albeit / notwithstanding</em>, 2 with <em>admittedly / granted that</em>."
+            },
+            {
+              "time": "Common mistakes",
+              "content": "❌ <em>Despite he was tired, he kept working.</em> ✔ <em>Despite being tired</em> / <em>Although he was tired</em>. Also: don't pair <em>although</em> with <em>but</em> in the same sentence (<em>Although it was raining, but…</em>) — pick one."
+            }
+          ],
+          "deliverable": "10-sentence contrast/concession set covering all 6+ connectors"
+        },
+        {
+          "day": 31,
+          "title": "Advanced Linkers for Cause/Effect/Result",
+          "tags": [
+            "concept",
+            "writing"
+          ],
+          "blocks": [
+            {
+              "time": "Concept",
+              "content": "Move beyond <em>so, because, therefore</em>. <strong>Cause</strong>: <em>because, since, as, owing to, due to, on account of, given that, in light of, given the fact that</em>. <strong>Effect/Result</strong>: <em>therefore, thus, hence, consequently, as a result, accordingly, with the result that</em>."
+            },
+            {
+              "time": "Form difference",
+              "content": "<em>Due to / Owing to / On account of</em> + <strong>noun</strong>: <em>Due to heavy rain, …</em> <em>Because / Since / As</em> + <strong>full clause</strong>: <em>Because it rained heavily, …</em> Most candidates use <em>due to</em> as a preposition (<em>The flight was cancelled due to fog</em>) — that's correct. Errors come when <em>due to</em> is used to start a sentence followed by a clause: ❌ <em>Due to it rained.</em>"
+            },
+            {
+              "time": "Drill",
+              "content": "Take 8 simple <em>because/so</em> sentences and rewrite each twice — once with a cause linker and once with an effect linker. Vary noun-form vs clause-form connectors."
+            },
+            {
+              "time": "Writing application",
+              "content": "<em>Given that / In light of</em> are excellent for Task 2 introductions. <em>Given that climate change is accelerating, governments must act decisively</em> sounds far stronger than <em>Because climate change is accelerating, governments must act</em>."
+            }
+          ],
+          "deliverable": "16 cause-effect rewrites + 1 Task 2 introduction using <em>given that</em>"
+        },
+        {
+          "day": 32,
+          "title": "Hedging Language — academic caution",
+          "tags": [
+            "concept",
+            "writing"
+          ],
+          "blocks": [
+            {
+              "time": "Concept",
+              "content": "Academic writing avoids absolute claims. <strong>Hedging</strong> = softening the certainty of a statement. Tools: <strong>modal verbs</strong> (<em>may, might, could, can</em>), <strong>lexical verbs</strong> (<em>tend to, appear to, seem to, suggest, indicate</em>), <strong>adverbs</strong> (<em>generally, often, typically, in many cases, to some extent</em>), <strong>adjectives</strong> (<em>likely, possible, probable, apparent</em>)."
+            },
+            {
+              "time": "Why it matters",
+              "content": "Band 7+ Task 2 avoids <em>This always happens</em> / <em>Everyone agrees that…</em>. Examiners reward measured claims: <em>This often happens</em> / <em>It is widely accepted that…</em> Hedging shows critical thinking, not weakness."
+            },
+            {
+              "time": "Drill",
+              "content": "Take 8 absolutist sentences from a draft (<em>All teenagers are addicted to phones</em>) and hedge each with at least 2 different tools. Compare."
+            },
+            {
+              "time": "Common mistakes",
+              "content": "Don't double-hedge: ❌ <em>It might possibly tend to perhaps suggest…</em> Pick one or two hedges per claim. Also: hedging Task 2 <em>opinion</em> sentences too much makes your stance unclear (<em>I might possibly agree to some extent</em>) — be firm in your opinion, hedge in your evidence."
+            }
+          ],
+          "deliverable": "8 absolutist→hedged sentence rewrites with 2+ hedge types each"
+        },
+        {
+          "day": 33,
+          "title": "Nominalization — turning verbs into noun phrases",
+          "tags": [
+            "concept",
+            "writing"
+          ],
+          "blocks": [
+            {
+              "time": "Concept",
+              "content": "Academic writing prefers <strong>noun phrases over clauses</strong>. <em>The economy grew rapidly</em> → <em>The rapid growth of the economy</em>. <em>The government decided to invest in schools</em> → <em>The government's decision to invest in schools</em>. This is called nominalization."
+            },
+            {
+              "time": "Why it matters",
+              "content": "Nominalization compresses information and lets you build a long noun phrase as the subject of a complex sentence: <em>The rapid growth of urban populations in developing countries has placed considerable pressure on housing markets.</em> One sentence; densely packed; Band 7.5+."
+            },
+            {
+              "time": "Drill",
+              "content": "Take 10 verb-driven sentences and convert each into a sentence built around a noun phrase. Common nominalizations: <em>increase / rise / decline / development / introduction / implementation / availability / awareness / contribution</em>."
+            },
+            {
+              "time": "Common mistakes",
+              "content": "Over-nominalization makes prose dense and impersonal. Mix nominalized sentences with verb-driven ones. Also keep article + preposition correct: <em>the introduction of, the development of, the increase in</em> (NOT <em>the increase of</em>)."
+            }
+          ],
+          "deliverable": "10 verb-driven → noun-phrase rewrites + 5 collocations memorised"
+        },
+        {
+          "day": 34,
+          "title": "Articles — Advanced &amp; Tricky Cases",
+          "tags": [
+            "concept",
+            "drill"
+          ],
+          "blocks": [
+            {
+              "time": "Concept",
+              "content": "Beyond a/an/the basics, Band 7+ requires control of: <strong>zero article</strong> with abstract / uncountable / general-plural nouns (<em>education is important</em>, NOT <em>the education</em>); <strong>generic <em>the</em></strong> for species/instruments/inventions (<em>the elephant is endangered</em>, <em>the piano</em>, <em>the internet</em>); <strong>article + abstract noun</strong> when the noun is specified (<em>the education of girls in rural areas</em>)."
+            },
+            {
+              "time": "Tricky cases",
+              "content": "<em>Society</em> (zero) vs <em>the society of ancient Egypt</em> (specified). <em>Life</em> (zero) vs <em>the life of a refugee</em>. <em>Man</em> meaning humanity (zero) vs <em>the man</em> (specific). Geographic names: <em>the United States, the UK, the Sahara, the Atlantic</em> but <em>India, France, Mount Everest, Lake Victoria</em>."
+            },
+            {
+              "time": "Drill",
+              "content": "Write 12 sentences on academic topics (<em>education, technology, the environment, government, family, society</em>) carefully choosing zero / a / the. Then check each — most candidates over-use <em>the</em> with abstract nouns."
+            },
+            {
+              "time": "Common mistakes",
+              "content": "❌ <em>The education is the key to success.</em> ✔ <em>Education is the key to success.</em> ❌ <em>The Mount Everest.</em> ✔ <em>Mount Everest.</em>"
+            }
+          ],
+          "deliverable": "12 article-controlled sentences + a personal list of 10 abstract nouns you keep over-articling"
+        },
+        {
+          "day": 35,
+          "title": "Week 5 Review — rewrite a paragraph using nominalization + hedging",
+          "tags": [
+            "review",
+            "writing"
+          ],
+          "blocks": [
+            {
+              "time": "Source paragraph",
+              "content": "Source: <em>People use a lot of social media. Social media affects mental health. Young people are addicted. The government should ban it.</em>"
+            },
+            {
+              "time": "Writing task",
+              "content": "Rewrite as a 100-word academic paragraph using: at least 2 nominalizations, 3 hedges, 2 advanced linkers (one cause/effect, one concession), and 1 reference device (<em>this trend / such concerns / the former</em>). Aim for 3–4 sentences."
+            },
+            {
+              "time": "Self-edit",
+              "content": "Mark each rewrite tool with a different colour. If your paragraph still reads like a list, the issue is sentence variety, not vocabulary. Apply at least 1 complex sentence (3+ clauses) from Week 3."
+            }
+          ],
+          "deliverable": "100-word academic rewrite with all 5 cohesion-and-hedging tools annotated"
+        }
+      ]
+    },
+    {
+      "title": "Week 6 — Lexico-Grammar &amp; IELTS Polish",
+      "goal": "Final week. Lock down the lexico-grammar details examiners notice last but mark first: dependent prepositions, collocations, word formation, and punctuation. Then put everything into a full Task 2 essay with a grammar checklist.",
+      "days": [
+        {
+          "day": 36,
+          "title": "Dependent Prepositions",
+          "tags": [
+            "concept",
+            "drill"
+          ],
+          "blocks": [
+            {
+              "time": "Concept",
+              "content": "Many adjectives, verbs, and nouns require a specific preposition. <strong>Adjectives</strong>: <em>interested in, capable of, responsible for, dependent on, aware of, similar to, different from, suitable for, accustomed to</em>. <strong>Verbs</strong>: <em>depend on, refer to, consist of, result in, contribute to, comply with, agree with/on/to, succeed in</em>. <strong>Nouns</strong>: <em>increase in, decrease in, reason for, cause of, effect on, demand for, solution to</em>."
+            },
+            {
+              "time": "Why it matters",
+              "content": "Wrong dependent preposition is the most common <strong>lexical-grammar</strong> error in Band 6 writing. <em>Different from</em>, not <em>different than</em> in formal British English. <em>Solution to</em>, not <em>solution of</em>. <em>Effect on</em>, not <em>effect to</em>."
+            },
+            {
+              "time": "Drill",
+              "content": "Make a personal preposition cheat-sheet: 20 collocations grouped by part of speech (adjective + prep, verb + prep, noun + prep). Test yourself: cover the prepositions; supply them; check."
+            },
+            {
+              "time": "Common mistakes",
+              "content": "❌ <em>It depends of the situation.</em> ✔ <em>It depends on the situation.</em> ❌ <em>The reason of the problem.</em> ✔ <em>The reason for the problem.</em>"
+            }
+          ],
+          "deliverable": "Personal cheat-sheet of 20 dependent-preposition collocations, self-tested"
+        },
+        {
+          "day": 37,
+          "title": "Collocations &amp; Lexical Chunks",
+          "tags": [
+            "concept",
+            "writing"
+          ],
+          "blocks": [
+            {
+              "time": "Concept",
+              "content": "Collocations = words that <strong>habitually go together</strong>. <em>Strong tea</em> not <em>powerful tea</em>. <em>Take a decision</em> not <em>do a decision</em>. <em>Pose a threat</em>, <em>raise concerns</em>, <em>play a role</em>, <em>achieve a goal</em>, <em>meet a deadline</em>, <em>make progress</em>, <em>conduct research</em>, <em>tackle a problem</em>."
+            },
+            {
+              "time": "Why it matters",
+              "content": "Band 7 says <em>uses less common lexical items with awareness of style</em>. Collocations are exactly that. Single Band 7+ verbs (<em>conduct, tackle, pose, devise, foster, exacerbate</em>) cluster with specific nouns — using them correctly signals upper-band lexis."
+            },
+            {
+              "time": "Drill",
+              "content": "Memorise 25 IELTS-relevant collocations, grouped by topic: <strong>Education</strong> (acquire knowledge, develop skills, sit an exam, drop out), <strong>Environment</strong> (mitigate climate change, reduce emissions, deplete resources), <strong>Health</strong> (lead a sedentary lifestyle, prevent diseases, raise awareness), <strong>Technology</strong> (rely heavily on, foster innovation, embrace digital tools)."
+            },
+            {
+              "time": "Writing application",
+              "content": "Open your latest Task 2 essay. Find 5 plain phrases (<em>think about, talk about, do something about</em>) and replace with collocations (<em>address the issue, discuss the matter, take action on</em>)."
+            }
+          ],
+          "deliverable": "25 topic-grouped collocations memorised + 5 phrase upgrades in your essay"
+        },
+        {
+          "day": 38,
+          "title": "Word Formation — Affixation",
+          "tags": [
+            "concept",
+            "drill"
+          ],
+          "blocks": [
+            {
+              "time": "Concept",
+              "content": "Move flexibly across <strong>word families</strong> using prefixes and suffixes. <em>produce</em> → <em>product, productivity, productive, unproductive, productively, reproduce</em>. <em>govern</em> → <em>government, governance, governable, ungovernable</em>. <em>economy</em> → <em>economic, economical, economist, economically, uneconomic</em>."
+            },
+            {
+              "time": "Why it matters",
+              "content": "Band 7+ writers don't repeat the same form. They turn a verb into a noun, an adjective, an adverb as needed. <em>The decision was wise → The wisdom of the decision → It was decided wisely</em>."
+            },
+            {
+              "time": "Drill",
+              "content": "Pick 15 high-frequency IELTS topic words (<em>educate, develop, sustain, govern, employ, environment, technology, society, economy, urban, industry, culture, science, communicate, pollute</em>). For each, write the noun, verb, adjective, adverb — even if some don't exist, knowing this is part of word-form control."
+            },
+            {
+              "time": "Common mistakes",
+              "content": "<em>economic</em> (related to the economy) vs <em>economical</em> (saving money) — different meanings, both correct words. <em>historic</em> (significant in history) vs <em>historical</em> (related to history). Examiners notice these."
+            }
+          ],
+          "deliverable": "15-word family table (noun/verb/adjective/adverb) + economic-vs-economical type pairs"
+        },
+        {
+          "day": 39,
+          "title": "Advanced Punctuation — semicolons, colons, dashes",
+          "tags": [
+            "concept",
+            "writing"
+          ],
+          "blocks": [
+            {
+              "time": "Semicolons",
+              "content": "Joins <strong>two related independent clauses</strong> without a conjunction: <em>Many students struggle with grammar; few are taught it explicitly.</em> Also separates items in a complex list where items contain commas. <strong>Use sparingly</strong> — one or two per essay max."
+            },
+            {
+              "time": "Colons",
+              "content": "Introduces <strong>a list, an explanation, or a quotation</strong> after an independent clause: <em>There are three causes: poor diet, lack of exercise, and stress.</em> Don't use a colon after a verb or preposition (❌ <em>The causes are: poor diet…</em>)."
+            },
+            {
+              "time": "Dashes",
+              "content": "Em-dash — used in pairs to embed extra info, like commas but stronger: <em>Most countries — including developed nations — face this problem.</em> Or singly to add an afterthought. Optional, but adds variety. Don't use more than once per paragraph."
+            },
+            {
+              "time": "Drill",
+              "content": "Write 6 sentences: 2 with semicolons (joining clauses), 2 with colons (introducing a list/explanation), 2 with em-dashes (embedded info). Then take a recent essay paragraph and add ONE semicolon and ONE colon where appropriate without breaking flow."
+            }
+          ],
+          "deliverable": "6 advanced-punctuation sentences + 1 paragraph upgraded with one semicolon and one colon"
+        },
+        {
+          "day": 40,
+          "title": "Top 20 Band 7+ Grammar Errors to Avoid",
+          "tags": [
+            "review",
+            "drill"
+          ],
+          "blocks": [
+            {
+              "time": "The list (1–10)",
+              "content": "(1) <em>Different than</em> → <em>different from</em>. (2) <em>Despite + clause</em> → use <em>despite the fact that</em>. (3) <em>Will</em> in if-clause → never in standard conditionals. (4) <em>Most of people</em> → <em>most people</em>. (5) Article omitted with abstract noun (<em>the education</em>) when none needed. (6) Subject-verb disagreement with <em>each / every / one of</em> (<em>Each of the students <strong>has</strong></em>, not <em>have</em>). (7) <em>Maybe</em> as the only speculation tool. (8) Comma splice — joining two clauses with only a comma. (9) Dangling participle (<em>Walking down the street, the rain started</em>). (10) <em>Although…but</em> in the same sentence."
+            },
+            {
+              "time": "The list (11–20)",
+              "content": "(11) <em>Information / advice / research / equipment</em> as plurals — they're uncountable. (12) Repeating the same linker (<em>Firstly… Secondly… Thirdly…</em>). (13) Using <em>nowadays</em> in every paragraph. (14) Confusing <em>economic / economical</em>, <em>historic / historical</em>. (15) <em>People is</em> instead of <em>people are</em>. (16) <em>Discuss about</em> → <em>discuss</em> takes no preposition. (17) <em>In nowadays</em> → <em>nowadays</em> alone. (18) Mixed tenses without justification. (19) <em>I am agree</em> → <em>I agree</em>. (20) Over-using <em>very</em> — replace with strong adjectives (<em>very big</em> → <em>huge</em>, <em>very important</em> → <em>crucial</em>)."
+            },
+            {
+              "time": "Drill",
+              "content": "Take a Task 2 essay you've written. Audit every clause against these 20 errors. Mark every issue. Rewrite the worst-affected paragraph from scratch."
+            }
+          ],
+          "deliverable": "Self-audit of one full Task 2 essay against the 20-error checklist"
+        },
+        {
+          "day": 41,
+          "title": "Full Writing Task 2 with Grammar Checklist",
+          "tags": [
+            "writing",
+            "review"
+          ],
+          "blocks": [
+            {
+              "time": "Writing task",
+              "content": "Write a full <strong>Writing Task 2 essay</strong> (250–280 words) under exam conditions (40 minutes) on: <em>Many people believe that international tourism brings more harm than good. To what extent do you agree or disagree?</em>"
+            },
+            {
+              "time": "Grammar checklist",
+              "content": "After writing, audit your essay against this checklist: ✓ at least 8 different tenses ✓ at least 2 conditionals (one Second + one Third or Mixed or Inverted) ✓ at least 1 cleft sentence OR inversion ✓ at least 2 relative clauses (1 defining + 1 non-defining with commas) ✓ at least 1 participle clause ✓ at least 1 perfect modal ✓ at least 2 hedging tools ✓ at least 1 nominalization ✓ at least 1 advanced linker each for contrast / cause / concession ✓ correct articles on abstract nouns ✓ no item from the Day 40 error list."
+            },
+            {
+              "time": "Self-edit",
+              "content": "Tick each item. Where missing, rewrite ONE sentence to include it — without forcing it. The final essay should still read naturally. Time the audit (15 minutes max) — this is exactly what you'll do in the exam's last few minutes."
+            }
+          ],
+          "deliverable": "250+ word Task 2 essay with all 11 checklist items ticked and annotated"
+        },
+        {
+          "day": 42,
+          "title": "Self-Assessment &amp; Personalized Practice Plan",
+          "tags": [
+            "review"
+          ],
+          "blocks": [
+            {
+              "time": "Self-assessment",
+              "content": "Score your Day 41 essay against the official Band Descriptors (search <em>IELTS Writing Task 2 band descriptors</em>). Be honest. For each of the 4 criteria — <strong>Task Response, Coherence &amp; Cohesion, Lexical Resource, Grammatical Range &amp; Accuracy</strong> — write your estimated band and ONE specific reason."
+            },
+            {
+              "time": "Identify weak areas",
+              "content": "From the 6 weeks: which day's topic still feels shaky? Did you struggle most with conditionals, complex sentences, articles, or hedging? List your top 3 weak areas."
+            },
+            {
+              "time": "30-day practice plan",
+              "content": "Build a follow-up 30-day plan: Days 1–10 = revisit your top 3 weak topics with fresh examples. Days 11–20 = write one Task 2 essay every other day, applying weak-area focus. Days 21–30 = full mock tests under timed conditions, with self-audit using the Day 41 checklist."
+            },
+            {
+              "time": "Reflection",
+              "content": "You've put in ~42 hours of focused grammar practice. Compare your Day 1 baseline writing with your Day 41 essay. Notice the structural variety, the conditional control, the cohesion. That's the difference between Band 6.5 and Band 7+ — and it's now in your toolkit."
+            }
+          ],
+          "deliverable": "Self-assessed Task 2 with band estimate per criterion + personalized 30-day follow-up plan"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1268 @@
+{
+  "title": "60-Day Cloud & Distributed Systems Roadmap",
+  "subtitle": "Cloud Computing & Distributed Systems — 3-4 hrs/day",
+  "icon": "🚀",
+  "totalDays": 60,
+  "statLabels": {
+    "theory": "Theory",
+    "handson": "Hands-on",
+    "project": "Projects"
+  },
+  "weeks": [
+    {
+      "title": "Week 1 — Linux, Networking & Cloud Basics",
+      "goal": "Build the foundation: understand how machines talk to each other, how the internet actually works, and set up your AWS account. You already use these daily — now understand <em>why</em> they work.",
+      "days": [
+        {
+          "day": 1,
+          "title": "Linux Fundamentals Refresher",
+          "tags": [
+            "theory",
+            "handson"
+          ],
+          "blocks": [
+            {
+              "time": "Hour 1 — Theory",
+              "content": "Review <strong>Linux process model</strong>: what is a process vs thread, how Node.js uses a single process with event loop. Understand <strong>file descriptors</strong>, stdin/stdout/stderr. These concepts underpin containers and cloud VMs."
+            },
+            {
+              "time": "Hour 2 — Hands-on",
+              "content": "SSH into a machine (use your local terminal or spin up an <span class='resource'>AWS EC2 free-tier</span> instance). Practice: <strong>ps aux</strong>, <strong>top/htop</strong>, <strong>netstat -tlnp</strong>, <strong>df -h</strong>, <strong>lsof</strong>. Understand what each column means."
+            },
+            {
+              "time": "Hour 3 — Hands-on",
+              "content": "Practice <strong>systemd</strong>: create a simple service file for a Node.js app. Start/stop/restart it. Check logs with <strong>journalctl</strong>. Understand how production apps are managed on servers."
+            },
+            {
+              "time": "Hour 4 — Reading",
+              "content": "Read DDIA Chapter 1 (<strong>Reliable, Scalable, Maintainable Applications</strong>). Take notes on what each term means. This chapter frames everything that follows."
+            }
+          ],
+          "deliverable": "A running EC2 instance with SSH access and a Node.js app managed by systemd"
+        },
+        {
+          "day": 2,
+          "title": "Networking — DNS, TCP/IP, HTTP Deep Dive",
+          "tags": [
+            "theory"
+          ],
+          "blocks": [
+            {
+              "time": "Hour 1 — Theory",
+              "content": "Understand the <strong>OSI model layers</strong> that matter: Layer 4 (TCP/UDP) and Layer 7 (HTTP). Learn what happens when you type a URL: DNS resolution → TCP handshake → TLS handshake → HTTP request → response."
+            },
+            {
+              "time": "Hour 2 — Theory",
+              "content": "Deep dive into <strong>DNS</strong>: A records, CNAME, NS records, TTL. How DNS propagation works. What Route 53 does. Draw the full DNS resolution flow on paper."
+            },
+            {
+              "time": "Hour 3 — Hands-on",
+              "content": "Use <strong>dig</strong>, <strong>nslookup</strong>, <strong>traceroute</strong>, <strong>curl -v</strong> to trace actual network paths. Run <strong>dig google.com</strong> and understand every line of output. Use <strong>curl -v</strong> on your own API to see headers."
+            },
+            {
+              "time": "Hour 4 — Theory",
+              "content": "Learn <strong>HTTP/1.1 vs HTTP/2 vs HTTP/3</strong>. Understand keep-alive connections, head-of-line blocking, multiplexing. Learn what a reverse proxy does (Nginx) and why it matters for Node.js."
+            }
+          ],
+          "deliverable": "Hand-drawn diagram of the full journey of an HTTP request, from browser to server and back"
+        },
+        {
+          "day": 3,
+          "title": "Load Balancers & Reverse Proxies",
+          "tags": [
+            "theory",
+            "handson"
+          ],
+          "blocks": [
+            {
+              "time": "Hour 1 — Theory",
+              "content": "Understand <strong>Layer 4 vs Layer 7 load balancers</strong>. L4 routes by IP/port (fast, dumb). L7 routes by URL path, headers, cookies (smart, slower). When to use each."
+            },
+            {
+              "time": "Hour 2 — Theory",
+              "content": "Load balancing algorithms: <strong>Round Robin</strong>, <strong>Least Connections</strong>, <strong>IP Hash</strong> (sticky sessions), <strong>Weighted Round Robin</strong>. Draw each one. Understand when sticky sessions are needed (stateful apps) and why they're generally bad."
+            },
+            {
+              "time": "Hour 3 — Hands-on",
+              "content": "Set up <strong>Nginx as a reverse proxy</strong> on your EC2 instance. Configure it to proxy requests to your Node.js app. Add a second Node instance on a different port. Configure Nginx to load balance between them."
+            },
+            {
+              "time": "Hour 4 — Hands-on",
+              "content": "Add <strong>health checks</strong> in Nginx config. Test: kill one Node process and verify Nginx routes to the healthy one. Install and use <strong>ab</strong> (Apache Bench) or <strong>wrk</strong> to generate load and observe distribution."
+            }
+          ],
+          "deliverable": "Nginx config load balancing between 2 Node.js instances with health checks"
+        },
+        {
+          "day": 4,
+          "title": "AWS Core — IAM, VPC, EC2",
+          "tags": [
+            "handson"
+          ],
+          "blocks": [
+            {
+              "time": "Hour 1 — Setup",
+              "content": "Create a proper <strong>AWS account</strong> (if not done). Set up <strong>IAM</strong>: create an admin user (never use root), enable MFA, create a policy that allows only specific actions. Understand <strong>IAM roles vs users vs policies</strong>."
+            },
+            {
+              "time": "Hour 2 — Theory + Hands-on",
+              "content": "Learn <strong>VPC</strong>: what is a VPC, subnets (public vs private), internet gateway, NAT gateway, route tables, security groups vs NACLs. Create a VPC from scratch (don't use default)."
+            },
+            {
+              "time": "Hour 3 — Hands-on",
+              "content": "Launch an <strong>EC2 instance</strong> inside your custom VPC's public subnet. Configure security group to allow SSH (port 22) and HTTP (port 80) only. SSH in and deploy your Node app."
+            },
+            {
+              "time": "Hour 4 — Hands-on",
+              "content": "Create a <strong>private subnet</strong>. Try to understand why a database should live here (no public internet access). Set up a NAT gateway so the private subnet can still pull packages. This is real-world VPC architecture."
+            }
+          ],
+          "deliverable": "Custom VPC with public + private subnets, EC2 running in public subnet, security groups configured"
+        },
+        {
+          "day": 5,
+          "title": "AWS Storage — S3, EBS, and Data Tiers",
+          "tags": [
+            "theory",
+            "handson"
+          ],
+          "blocks": [
+            {
+              "time": "Hour 1 — Theory",
+              "content": "Understand storage types: <strong>Block storage</strong> (EBS — like a hard drive attached to EC2), <strong>Object storage</strong> (S3 — for files, images, backups), <strong>File storage</strong> (EFS — shared filesystem). When to use each."
+            },
+            {
+              "time": "Hour 2 — Hands-on",
+              "content": "Create an <strong>S3 bucket</strong>. Upload files via CLI (<strong>aws s3 cp</strong>). Configure <strong>bucket policies</strong> for public read access on a specific folder. Set up <strong>lifecycle rules</strong> to move old objects to Glacier after 90 days."
+            },
+            {
+              "time": "Hour 3 — Hands-on",
+              "content": "Modify your Node.js app to upload images to S3 using the <strong>AWS SDK</strong>. Generate <strong>presigned URLs</strong> for secure temporary access. This is how most production apps handle file uploads."
+            },
+            {
+              "time": "Hour 4 — Theory",
+              "content": "Read about <strong>S3 internals</strong>: how S3 achieves 99.999999999% durability (11 nines). Understand <strong>eventual consistency</strong> in S3 (now strong consistency for PUTs). Learn about S3 storage classes and cost optimization."
+            }
+          ],
+          "deliverable": "Node.js app uploading files to S3 with presigned URLs"
+        },
+        {
+          "day": 6,
+          "title": "AWS Databases — RDS & DynamoDB Intro",
+          "tags": [
+            "theory",
+            "handson"
+          ],
+          "blocks": [
+            {
+              "time": "Hour 1 — Theory",
+              "content": "Understand <strong>RDS</strong>: managed relational DB. What AWS handles for you (patching, backups, failover) vs what you handle (schema, queries, indexes). Multi-AZ deployment for high availability."
+            },
+            {
+              "time": "Hour 2 — Hands-on",
+              "content": "Launch a <strong>MySQL RDS instance</strong> in your private subnet. Connect to it from your EC2 instance. Migrate your existing MySQL schema and data. Verify your Node app works with RDS instead of local MySQL."
+            },
+            {
+              "time": "Hour 3 — Theory",
+              "content": "Introduction to <strong>DynamoDB</strong>: key-value + document store. Understand <strong>partition keys</strong>, <strong>sort keys</strong>, <strong>read/write capacity units</strong>. When to choose DynamoDB over RDS (high scale, simple access patterns, low latency)."
+            },
+            {
+              "time": "Hour 4 — Hands-on",
+              "content": "Create a DynamoDB table. Write a small Node.js script to do CRUD operations using the <strong>AWS SDK</strong>. Experiment with queries vs scans. Understand why scans are expensive."
+            }
+          ],
+          "deliverable": "Node app connected to RDS MySQL + a DynamoDB CRUD script"
+        },
+        {
+          "day": 7,
+          "title": "Week 1 Review & Mini-Project",
+          "tags": [
+            "review",
+            "project"
+          ],
+          "blocks": [
+            {
+              "time": "Hour 1 — Review",
+              "content": "Review all notes from the week. Draw the <strong>complete architecture</strong> of what you've built: Client → Nginx LB → EC2 (Node.js) → RDS (MySQL) + S3 (files). Label every component."
+            },
+            {
+              "time": "Hour 2-3 — Project",
+              "content": "Build a <strong>simple image gallery API</strong> that ties everything together: Node.js API on EC2 behind Nginx, images stored in S3, metadata in RDS, served via presigned URLs. Deploy it properly on your VPC."
+            },
+            {
+              "time": "Hour 4 — Self-test",
+              "content": "Answer without looking: What's the difference between security groups and NACLs? Why use a private subnet for RDS? What happens if the Nginx process crashes? How does S3 achieve 11 nines durability? What's the difference between L4 and L7 load balancing?"
+            }
+          ],
+          "deliverable": "Deployed image gallery API with architecture diagram"
+        }
+      ]
+    },
+    {
+      "title": "Week 2 — Scaling, Caching & CDNs",
+      "goal": "Learn how to make systems fast and handle millions of users. Understand <em>horizontal scaling</em>, <em>caching at every layer</em>, and content delivery.",
+      "days": [
+        {
+          "day": 8,
+          "title": "Vertical vs Horizontal Scaling",
+          "tags": [
+            "theory"
+          ],
+          "blocks": [
+            {
+              "time": "Hour 1 — Theory",
+              "content": "Understand <strong>vertical scaling</strong> (bigger machine) vs <strong>horizontal scaling</strong> (more machines). Why vertical has a ceiling. The challenges horizontal introduces: data consistency, session management, service discovery."
+            },
+            {
+              "time": "Hour 2 — Theory",
+              "content": "Read DDIA Chapter 2 (<strong>Data Models and Query Languages</strong>). Understand relational vs document vs graph models. Think about which fits your past projects."
+            },
+            {
+              "time": "Hour 3 — Theory + Hands-on",
+              "content": "Study <strong>stateless vs stateful</strong> services. Your Node.js app with sessions stored in-memory is stateful — how to make it stateless: move sessions to Redis/DB. Refactor your app to use <strong>Redis for session storage</strong>."
+            },
+            {
+              "time": "Hour 4 — Hands-on",
+              "content": "Use <strong>AWS Auto Scaling Groups</strong>: create a launch template from your EC2 instance. Set up an ASG with min=1, max=3. Put an <strong>Application Load Balancer (ALB)</strong> in front. Test that new instances auto-register."
+            }
+          ],
+          "deliverable": "Auto Scaling Group with ALB, stateless Node.js app with Redis sessions"
+        },
+        {
+          "day": 9,
+          "title": "Caching Fundamentals — Redis Deep Dive",
+          "tags": [
+            "theory",
+            "handson"
+          ],
+          "blocks": [
+            {
+              "time": "Hour 1 — Theory",
+              "content": "Why caching works: <strong>locality of reference</strong>. Understand the caching layers: browser cache, CDN cache, application cache (Redis/Memcached), database cache (query cache, buffer pool). Each has different TTLs and invalidation strategies."
+            },
+            {
+              "time": "Hour 2 — Theory",
+              "content": "Cache strategies: <strong>Cache-Aside</strong> (app checks cache first, loads from DB on miss), <strong>Write-Through</strong> (write to cache and DB simultaneously), <strong>Write-Behind</strong> (write to cache, async flush to DB), <strong>Read-Through</strong>. Draw each pattern."
+            },
+            {
+              "time": "Hour 3 — Hands-on",
+              "content": "Set up <strong>ElastiCache Redis</strong> on AWS (or local Redis). Implement <strong>cache-aside pattern</strong> in your Node app: check Redis first, if miss → query MySQL → store result in Redis with TTL. Measure response time before/after."
+            },
+            {
+              "time": "Hour 4 — Theory",
+              "content": "Cache eviction policies: <strong>LRU</strong> (least recently used — the default), <strong>LFU</strong> (least frequently used), <strong>TTL-based</strong>. The <strong>cache stampede</strong> problem: when a hot key expires and 1000 requests simultaneously hit the DB. Solutions: locking, staggered TTL."
+            }
+          ],
+          "deliverable": "Cache-aside implementation in Node.js with before/after latency comparison"
+        },
+        {
+          "day": 10,
+          "title": "CDN & Edge Computing",
+          "tags": [
+            "theory",
+            "handson"
+          ],
+          "blocks": [
+            {
+              "time": "Hour 1 — Theory",
+              "content": "How a <strong>CDN</strong> works: origin server → edge locations worldwide. Understand <strong>pull-based</strong> (edge fetches from origin on first request) vs <strong>push-based</strong> (you upload to all edges). Cache-Control headers, max-age, s-maxage, stale-while-revalidate."
+            },
+            {
+              "time": "Hour 2 — Hands-on",
+              "content": "Set up <strong>CloudFront</strong> in front of your S3 bucket. Serve images through CloudFront. Test latency from different regions using online tools. Configure <strong>cache behaviors</strong> for different file types."
+            },
+            {
+              "time": "Hour 3 — Theory",
+              "content": "Learn about <strong>cache invalidation</strong> in CDNs: why it's called one of the two hardest problems in CS. Strategies: versioned URLs (style.v2.css), cache-busting query strings, explicit invalidation API calls."
+            },
+            {
+              "time": "Hour 4 — Theory",
+              "content": "Introduction to <strong>edge computing</strong>: CloudFront Functions, Lambda@Edge. The idea of running code at the edge (authentication, URL rewriting, A/B testing). Understand when edge makes sense vs when it doesn't."
+            }
+          ],
+          "deliverable": "CloudFront distribution serving S3 assets with proper cache headers"
+        },
+        {
+          "day": 11,
+          "title": "Database Indexing & Query Optimization",
+          "tags": [
+            "theory",
+            "handson"
+          ],
+          "blocks": [
+            {
+              "time": "Hour 1 — Theory",
+              "content": "How database indexes work: <strong>B-Tree</strong> indexes (most common — good for range queries), <strong>Hash indexes</strong> (exact match only, very fast). Understand that every index speeds up reads but slows down writes."
+            },
+            {
+              "time": "Hour 2 — Theory",
+              "content": "Read DDIA Chapter 3 (<strong>Storage and Retrieval</strong>). Understand <strong>LSM-Trees vs B-Trees</strong>. This is the foundation of why different databases perform differently."
+            },
+            {
+              "time": "Hour 3 — Hands-on",
+              "content": "In your RDS MySQL: run <strong>EXPLAIN</strong> on your queries. Add indexes and see how the query plan changes. Practice creating <strong>composite indexes</strong>. Understand the leftmost prefix rule."
+            },
+            {
+              "time": "Hour 4 — Hands-on",
+              "content": "Generate 1 million rows of test data using a script. Run queries with and without indexes, measure the time difference. Practice <strong>slow query log</strong> analysis. This is a skill you'll use weekly in real jobs."
+            }
+          ],
+          "deliverable": "Query optimization report: before/after EXPLAIN plans with index improvements"
+        },
+        {
+          "day": 12,
+          "title": "Database Replication — Read Replicas",
+          "tags": [
+            "theory",
+            "handson"
+          ],
+          "blocks": [
+            {
+              "time": "Hour 1 — Theory",
+              "content": "Read DDIA Chapter 5 (<strong>Replication</strong>). Understand <strong>leader-follower replication</strong>: one leader handles writes, followers replicate and handle reads. Synchronous vs asynchronous replication."
+            },
+            {
+              "time": "Hour 2 — Theory",
+              "content": "Problems with replication: <strong>replication lag</strong> (follower is behind leader), <strong>read-after-write consistency</strong> (user writes then reads from replica, doesn't see their own write), <strong>monotonic reads</strong>. Solutions to each."
+            },
+            {
+              "time": "Hour 3 — Hands-on",
+              "content": "Create a <strong>read replica</strong> of your RDS instance. Modify your Node.js app to send writes to the primary and reads to the replica. Use separate connection pools."
+            },
+            {
+              "time": "Hour 4 — Theory",
+              "content": "Multi-leader replication: when and why (multi-datacenter). The <strong>conflict resolution</strong> problem: two leaders accept conflicting writes. Strategies: last-write-wins, custom merge, CRDTs (intro only for now)."
+            }
+          ],
+          "deliverable": "Node.js app with read/write splitting across primary and replica"
+        },
+        {
+          "day": 13,
+          "title": "Database Partitioning / Sharding",
+          "tags": [
+            "theory"
+          ],
+          "blocks": [
+            {
+              "time": "Hour 1 — Theory",
+              "content": "Read DDIA Chapter 6 (<strong>Partitioning</strong>). Why shard: single DB can't handle the data volume or write throughput. <strong>Horizontal partitioning</strong> (sharding) vs vertical partitioning."
+            },
+            {
+              "time": "Hour 2 — Theory",
+              "content": "Sharding strategies: <strong>Range-based</strong> (user IDs 1-1M on shard 1, 1M-2M on shard 2 — risk of hotspots), <strong>Hash-based</strong> (hash(user_id) mod N — even distribution but no range queries), <strong>Directory-based</strong> (lookup table maps key → shard)."
+            },
+            {
+              "time": "Hour 3 — Theory",
+              "content": "The problems sharding creates: <strong>cross-shard queries</strong> (JOINs across shards are expensive/impossible), <strong>resharding</strong> (adding a new shard means redistributing data), <strong>hotspot handling</strong> (celebrity problem — one shard gets all traffic)."
+            },
+            {
+              "time": "Hour 4 — Theory",
+              "content": "<strong>Consistent hashing</strong>: the elegant solution to the resharding problem. Draw the hash ring. Understand virtual nodes. This is asked in almost every system design interview. Practice explaining it aloud."
+            }
+          ],
+          "deliverable": "Hand-drawn diagrams of each sharding strategy + consistent hashing ring"
+        },
+        {
+          "day": 14,
+          "title": "Week 2 Review & Caching Project",
+          "tags": [
+            "review",
+            "project"
+          ],
+          "blocks": [
+            {
+              "time": "Hour 1 — Review",
+              "content": "Review all notes. Key questions to answer: When would you use cache-aside vs write-through? What's the difference between CDN pull and push? Why is consistent hashing better than simple mod-N? What causes replication lag?"
+            },
+            {
+              "time": "Hour 2-3 — Project",
+              "content": "Enhance your image gallery: add <strong>Redis caching</strong> for popular images, <strong>CloudFront CDN</strong> for static assets, and <strong>read replicas</strong> for read-heavy queries. Measure the performance improvement at each step."
+            },
+            {
+              "time": "Hour 4 — System Design Practice",
+              "content": "Practice designing <strong>a URL shortener</strong> using the 6-step framework. Focus on: how to generate short URLs, where to store the mappings, how to cache hot URLs, how to handle 301 vs 302 redirects."
+            }
+          ],
+          "deliverable": "Full-stack image gallery with caching at every layer + URL shortener design doc"
+        }
+      ]
+    },
+    {
+      "title": "Week 3 — Containers, Orchestration & CI/CD",
+      "goal": "Containerize everything, learn Kubernetes fundamentals, and set up a real deployment pipeline. This is how modern cloud-native apps are deployed.",
+      "days": [
+        {
+          "day": 15,
+          "title": "Docker Deep Dive",
+          "tags": [
+            "theory",
+            "handson"
+          ],
+          "blocks": [
+            {
+              "time": "Hour 1 — Theory",
+              "content": "How Docker works under the hood: <strong>namespaces</strong> (process isolation), <strong>cgroups</strong> (resource limits), <strong>union filesystems</strong> (layered images). The difference between a container and a VM. Why containers are faster to start."
+            },
+            {
+              "time": "Hour 2 — Hands-on",
+              "content": "Write a <strong>production-quality Dockerfile</strong> for your Node.js app: multi-stage build (build stage + production stage), non-root user, proper .dockerignore, small base image (node:alpine). Understand each layer."
+            },
+            {
+              "time": "Hour 3 — Hands-on",
+              "content": "<strong>Docker Compose</strong>: create a docker-compose.yml that runs your Node app + Redis + MySQL together. Set up networking between containers. Use volumes for database persistence. Add health checks."
+            },
+            {
+              "time": "Hour 4 — Hands-on",
+              "content": "Push your image to <strong>Amazon ECR</strong> (Elastic Container Registry). Understand image tagging strategies (latest, git SHA, semantic versioning). Pull and run from ECR on a fresh EC2 instance."
+            }
+          ],
+          "deliverable": "Production Dockerfile + Docker Compose with 3 services + image pushed to ECR"
+        },
+        {
+          "day": 16,
+          "title": "Kubernetes — Core Concepts",
+          "tags": [
+            "theory",
+            "handson"
+          ],
+          "blocks": [
+            {
+              "time": "Hour 1 — Theory",
+              "content": "K8s architecture: <strong>Control plane</strong> (API server, scheduler, controller manager, etcd) vs <strong>worker nodes</strong> (kubelet, kube-proxy, container runtime). How a pod gets scheduled."
+            },
+            {
+              "time": "Hour 2 — Theory",
+              "content": "Core objects: <strong>Pod</strong> (smallest unit, 1+ containers), <strong>Deployment</strong> (manages ReplicaSets for rolling updates), <strong>Service</strong> (stable network endpoint: ClusterIP, NodePort, LoadBalancer), <strong>ConfigMap/Secret</strong>."
+            },
+            {
+              "time": "Hour 3 — Hands-on",
+              "content": "Install <strong>Minikube</strong> or use <strong>Kind</strong> (Kubernetes in Docker). Deploy your Node.js app: write a Deployment YAML (3 replicas) and a Service YAML (type: LoadBalancer). Use <strong>kubectl get pods/svc/deploy</strong>."
+            },
+            {
+              "time": "Hour 4 — Hands-on",
+              "content": "Practice <strong>kubectl</strong>: exec into a pod, view logs, describe resources, port-forward. Kill a pod and watch K8s restart it automatically. Scale the deployment to 5 replicas and back to 2."
+            }
+          ],
+          "deliverable": "Node.js app running on Kubernetes with 3 replicas and a LoadBalancer service"
+        },
+        {
+          "day": 17,
+          "title": "Kubernetes — Scaling & Networking",
+          "tags": [
+            "theory",
+            "handson"
+          ],
+          "blocks": [
+            {
+              "time": "Hour 1 — Theory",
+              "content": "<strong>Horizontal Pod Autoscaler (HPA)</strong>: scales pods based on CPU/memory metrics. <strong>Vertical Pod Autoscaler</strong>: adjusts resource requests. <strong>Cluster Autoscaler</strong>: adds/removes nodes."
+            },
+            {
+              "time": "Hour 2 — Hands-on",
+              "content": "Set up <strong>HPA</strong> for your deployment: target 50% CPU. Install <strong>metrics-server</strong>. Generate load with a simple script and watch pods scale up. Remove load and watch them scale down."
+            },
+            {
+              "time": "Hour 3 — Theory",
+              "content": "K8s networking: every pod gets its own IP. <strong>Services</strong> provide stable endpoints via kube-proxy and iptables. <strong>Ingress</strong>: L7 load balancing with path-based or host-based routing. Install Nginx Ingress Controller."
+            },
+            {
+              "time": "Hour 4 — Hands-on",
+              "content": "Create an <strong>Ingress resource</strong> that routes /api to your backend service and /static to a frontend service. This is how most production K8s apps expose endpoints."
+            }
+          ],
+          "deliverable": "HPA configured + Ingress routing to multiple services"
+        },
+        {
+          "day": 18,
+          "title": "CI/CD Pipeline",
+          "tags": [
+            "handson",
+            "project"
+          ],
+          "blocks": [
+            {
+              "time": "Hour 1 — Theory",
+              "content": "CI/CD concepts: <strong>Continuous Integration</strong> (every commit triggers build + test), <strong>Continuous Delivery</strong> (automated deployment to staging), <strong>Continuous Deployment</strong> (automated deployment to production). The deployment pipeline."
+            },
+            {
+              "time": "Hour 2 — Hands-on",
+              "content": "Set up <strong>GitHub Actions</strong> for your project: on push → run tests → build Docker image → push to ECR. Write the workflow YAML step by step. Understand runners, jobs, steps, and secrets."
+            },
+            {
+              "time": "Hour 3 — Hands-on",
+              "content": "Add the deployment step: after image push, update the K8s deployment with the new image tag. Use <strong>kubectl set image</strong> or apply a new manifest. Set up <strong>staging</strong> and <strong>production</strong> environments."
+            },
+            {
+              "time": "Hour 4 — Hands-on",
+              "content": "Add quality gates: <strong>linting</strong> (ESLint), <strong>unit tests</strong> (Jest), <strong>security scanning</strong> (npm audit, Snyk). The pipeline should block if any gate fails. Push a broken commit and verify it catches the error."
+            }
+          ],
+          "deliverable": "Complete CI/CD pipeline: push → test → build → deploy to K8s"
+        },
+        {
+          "day": 19,
+          "title": "Infrastructure as Code — Terraform",
+          "tags": [
+            "theory",
+            "handson"
+          ],
+          "blocks": [
+            {
+              "time": "Hour 1 — Theory",
+              "content": "Why IaC: <strong>reproducibility</strong>, <strong>version control</strong>, <strong>auditability</strong>. Terraform vs CloudFormation vs Pulumi. Terraform's model: <strong>providers</strong> (AWS, GCP), <strong>resources</strong>, <strong>state file</strong>, <strong>plan → apply</strong> workflow."
+            },
+            {
+              "time": "Hour 2 — Hands-on",
+              "content": "Install Terraform. Write your first config: create a VPC + subnet + EC2 instance using <strong>HCL</strong>. Run <strong>terraform init</strong>, <strong>plan</strong>, <strong>apply</strong>. Look at the state file. Run <strong>destroy</strong>."
+            },
+            {
+              "time": "Hour 3 — Hands-on",
+              "content": "Recreate your entire AWS infrastructure in Terraform: VPC, subnets, security groups, RDS, S3 bucket, ALB. Use <strong>variables</strong> and <strong>outputs</strong>. This replaces everything you clicked in the console."
+            },
+            {
+              "time": "Hour 4 — Theory + Hands-on",
+              "content": "Terraform <strong>state management</strong>: why local state is dangerous (team collaboration). Set up <strong>remote state in S3</strong> with DynamoDB locking. Understand <strong>state drift</strong> and how to handle it."
+            }
+          ],
+          "deliverable": "Full AWS infrastructure defined in Terraform with remote state"
+        },
+        {
+          "day": 20,
+          "title": "Observability — Logging, Metrics, Tracing",
+          "tags": [
+            "theory",
+            "handson"
+          ],
+          "blocks": [
+            {
+              "time": "Hour 1 — Theory",
+              "content": "The <strong>three pillars of observability</strong>: Logs (what happened), Metrics (how much/how fast), Traces (the path of a request through services). Each answers different questions. You need all three."
+            },
+            {
+              "time": "Hour 2 — Hands-on",
+              "content": "Set up <strong>structured logging</strong> in your Node.js app using Winston or Pino. JSON format, log levels (error/warn/info/debug), correlation IDs. Send logs to <strong>CloudWatch Logs</strong>."
+            },
+            {
+              "time": "Hour 3 — Hands-on",
+              "content": "Set up <strong>Prometheus + Grafana</strong> locally (docker-compose). Expose /metrics from your Node app using <strong>prom-client</strong>. Create dashboards for: request rate, error rate, latency percentiles (p50, p95, p99)."
+            },
+            {
+              "time": "Hour 4 — Theory",
+              "content": "Learn about <strong>distributed tracing</strong>: how a single request flows through multiple services. OpenTelemetry standard. The concept of spans and trace context propagation. <strong>RED method</strong>: Rate, Errors, Duration."
+            }
+          ],
+          "deliverable": "Grafana dashboard with request rate, error rate, and latency charts"
+        },
+        {
+          "day": 21,
+          "title": "Week 3 Review & Full Stack Deployment",
+          "tags": [
+            "review",
+            "project"
+          ],
+          "blocks": [
+            {
+              "time": "Hour 1 — Review",
+              "content": "Review: Draw the full deployment pipeline from git push to running in K8s. Explain Docker layering, K8s self-healing, HPA scaling, Terraform state. These are interview gold."
+            },
+            {
+              "time": "Hour 2-3 — Project",
+              "content": "Deploy your full-stack app the <strong>cloud-native way</strong>: Terraform provisions infrastructure → GitHub Actions builds and pushes Docker image → K8s Deployment runs the app → Prometheus/Grafana monitors it. End-to-end."
+            },
+            {
+              "time": "Hour 4 — System Design Practice",
+              "content": "Design <strong>a notification service</strong> (push notifications, email, SMS). Focus on: how to handle different channels, retry logic for failures, user preference management, rate limiting notifications."
+            }
+          ],
+          "deliverable": "Complete cloud-native deployment: IaC + CI/CD + K8s + monitoring"
+        }
+      ]
+    },
+    {
+      "title": "Week 4 — Distributed Systems Core Theory",
+      "goal": "The hardest and most important week. Master the theoretical foundations: <em>CAP theorem</em>, <em>consistency models</em>, <em>consensus</em>, and <em>distributed transactions</em>. This is what separates senior engineers.",
+      "days": [
+        {
+          "day": 22,
+          "title": "CAP Theorem & Consistency Models",
+          "tags": [
+            "theory"
+          ],
+          "blocks": [
+            {
+              "time": "Hour 1 — Theory",
+              "content": "The <strong>CAP theorem</strong>: in a network partition, you must choose between Consistency and Availability. Understand why you can't have both. Real-world: CP systems (HBase, MongoDB with majority reads) vs AP systems (Cassandra, DynamoDB)."
+            },
+            {
+              "time": "Hour 2 — Theory",
+              "content": "Why CAP is <strong>oversimplified</strong>: the PACELC extension. In normal operation (no partition), you still choose between Latency and Consistency. Most real systems make different choices for different operations."
+            },
+            {
+              "time": "Hour 3 — Theory",
+              "content": "Consistency models ranked: <strong>Linearizability</strong> (strongest — behaves like a single copy), <strong>Sequential consistency</strong>, <strong>Causal consistency</strong>, <strong>Eventual consistency</strong> (weakest). Draw examples of each with timeline diagrams."
+            },
+            {
+              "time": "Hour 4 — Reading",
+              "content": "Read DDIA Chapter 7 (<strong>Transactions</strong>) first half. Understand ACID properties deeply. Focus on <strong>Isolation levels</strong>: Read Uncommitted → Read Committed → Repeatable Read → Serializable. What anomalies each prevents."
+            }
+          ],
+          "deliverable": "Comparison chart of consistency models with real-world database examples for each"
+        },
+        {
+          "day": 23,
+          "title": "Distributed Transactions",
+          "tags": [
+            "theory"
+          ],
+          "blocks": [
+            {
+              "time": "Hour 1 — Theory",
+              "content": "Why distributed transactions are hard: the <strong>Two Generals Problem</strong> (can't guarantee agreement over unreliable network). The FLP impossibility result (no deterministic consensus in async system with even one failure)."
+            },
+            {
+              "time": "Hour 2 — Theory",
+              "content": "<strong>Two-Phase Commit (2PC)</strong>: coordinator sends prepare → participants vote yes/no → coordinator sends commit/abort. The problem: if coordinator crashes after prepare, participants are blocked forever. Draw the failure scenarios."
+            },
+            {
+              "time": "Hour 3 — Theory",
+              "content": "<strong>Saga pattern</strong>: the practical alternative. Break a distributed transaction into local transactions with compensating actions. Example: Order Service → Payment Service → Inventory Service. If payment fails, compensate by canceling the order."
+            },
+            {
+              "time": "Hour 4 — Theory",
+              "content": "Saga orchestration vs choreography. <strong>Orchestrator</strong>: central coordinator tells each service what to do. <strong>Choreography</strong>: each service listens to events and reacts. Pros/cons of each. Draw both patterns."
+            }
+          ],
+          "deliverable": "Diagram of 2PC flow + Saga pattern (both orchestration and choreography) for an e-commerce order"
+        },
+        {
+          "day": 24,
+          "title": "Consensus — Raft Protocol",
+          "tags": [
+            "theory"
+          ],
+          "blocks": [
+            {
+              "time": "Hour 1 — Theory",
+              "content": "Why consensus matters: multiple nodes need to agree on a value even if some nodes crash. This is the foundation of distributed databases, leader election, and configuration services."
+            },
+            {
+              "time": "Hour 2 — Theory",
+              "content": "<strong>Raft protocol</strong>: leader election (term numbers, random timeouts), log replication (leader appends entries, followers replicate), safety (only candidates with all committed entries can become leader). Watch the <span class='resource'>Raft visualization at raft.github.io</span>."
+            },
+            {
+              "time": "Hour 3 — Theory",
+              "content": "How Raft handles failures: leader crash (new election), follower crash (leader retries), network partition (old leader steps down when it sees a higher term). Walk through each scenario step by step."
+            },
+            {
+              "time": "Hour 4 — Theory",
+              "content": "Real-world consensus: <strong>etcd</strong> (uses Raft — powers Kubernetes), <strong>ZooKeeper</strong> (uses ZAB protocol — similar to Raft), <strong>Consul</strong> (uses Raft for service discovery). You don't implement Raft, but you must understand it for interviews."
+            }
+          ],
+          "deliverable": "Step-by-step walkthrough of Raft leader election and log replication on paper"
+        },
+        {
+          "day": 25,
+          "title": "Message Queues & Event-Driven Architecture",
+          "tags": [
+            "theory",
+            "handson"
+          ],
+          "blocks": [
+            {
+              "time": "Hour 1 — Theory",
+              "content": "Why async: decoupling producers from consumers, buffering spikes, enabling retries. <strong>Message queue</strong> (SQS, RabbitMQ — each message consumed by one consumer) vs <strong>event stream</strong> (Kafka, Kinesis — messages consumed by many consumers, replayable)."
+            },
+            {
+              "time": "Hour 2 — Theory",
+              "content": "Delivery guarantees: <strong>at-most-once</strong> (fire and forget), <strong>at-least-once</strong> (retry until ack — may duplicate), <strong>exactly-once</strong> (very hard — usually at-least-once + idempotency). Most systems use at-least-once with idempotent consumers."
+            },
+            {
+              "time": "Hour 3 — Hands-on",
+              "content": "Set up <strong>AWS SQS</strong>. Create a queue. Write a Node.js producer that sends messages and a consumer that processes them. Implement <strong>visibility timeout</strong> and <strong>dead-letter queue</strong> for failed messages."
+            },
+            {
+              "time": "Hour 4 — Theory",
+              "content": "<strong>Kafka fundamentals</strong>: topics, partitions, consumer groups, offsets. How Kafka achieves high throughput (sequential disk I/O, zero-copy). When to use Kafka vs SQS. Event sourcing pattern introduction."
+            }
+          ],
+          "deliverable": "SQS producer/consumer in Node.js with dead-letter queue handling"
+        },
+        {
+          "day": 26,
+          "title": "Kafka Deep Dive & Event Sourcing",
+          "tags": [
+            "theory",
+            "handson"
+          ],
+          "blocks": [
+            {
+              "time": "Hour 1 — Theory",
+              "content": "Kafka architecture: <strong>brokers</strong>, <strong>partitions</strong> (parallelism unit), <strong>replication factor</strong> (durability), <strong>consumer groups</strong> (each partition consumed by exactly one consumer in a group). Draw the full picture."
+            },
+            {
+              "time": "Hour 2 — Hands-on",
+              "content": "Run Kafka locally with Docker Compose (use Confluent images or Redpanda as a lighter alternative). Create a topic with 3 partitions. Write a Node.js producer using <strong>kafkajs</strong>. Send 1000 messages and observe partition distribution."
+            },
+            {
+              "time": "Hour 3 — Hands-on",
+              "content": "Write a <strong>consumer group</strong> with 3 consumers. Verify each partition goes to one consumer. Kill a consumer and verify rebalancing. This is exactly how production Kafka consumers work."
+            },
+            {
+              "time": "Hour 4 — Theory",
+              "content": "<strong>Event Sourcing</strong>: instead of storing current state, store the sequence of events. The current state is derived by replaying events. Benefits: complete audit trail, temporal queries, rebuild state. <strong>CQRS</strong>: separate read and write models."
+            }
+          ],
+          "deliverable": "Kafka producer + consumer group in Node.js demonstrating partition rebalancing"
+        },
+        {
+          "day": 27,
+          "title": "Distributed Systems Patterns",
+          "tags": [
+            "theory"
+          ],
+          "blocks": [
+            {
+              "time": "Hour 1 — Theory",
+              "content": "<strong>Circuit Breaker pattern</strong>: prevent cascading failures. States: Closed (normal) → Open (failing, don't call) → Half-Open (test one request). Like a real circuit breaker in your house. Used in Netflix Hystrix, resilience4j."
+            },
+            {
+              "time": "Hour 2 — Theory",
+              "content": "<strong>Retry with exponential backoff</strong>: retry failed requests with increasing delays (1s, 2s, 4s, 8s...) + jitter (random offset to prevent thundering herd). <strong>Idempotency</strong>: design operations so retrying is safe. Idempotency keys."
+            },
+            {
+              "time": "Hour 3 — Theory",
+              "content": "<strong>Bulkhead pattern</strong>: isolate resources so one failing component doesn't consume all resources. Like compartments in a ship. Thread pool isolation, connection pool isolation. <strong>Rate limiting</strong> (you already designed this!)."
+            },
+            {
+              "time": "Hour 4 — Theory",
+              "content": "<strong>Service discovery</strong>: how do services find each other? Client-side discovery (client queries registry) vs server-side discovery (load balancer queries registry). DNS-based (simple) vs dedicated registry (Consul, etcd, K8s Service)."
+            }
+          ],
+          "deliverable": "Cheat sheet of all distributed system patterns with when to use each"
+        },
+        {
+          "day": 28,
+          "title": "Week 4 Review & System Design Practice",
+          "tags": [
+            "review",
+            "design"
+          ],
+          "blocks": [
+            {
+              "time": "Hour 1 — Review",
+              "content": "This was the theory-heavy week. Ensure you can explain: CAP theorem (and why it's nuanced), eventual vs strong consistency, how Raft leader election works, saga vs 2PC, Kafka partitions and consumer groups, circuit breaker pattern."
+            },
+            {
+              "time": "Hour 2 — System Design",
+              "content": "Design <strong>a chat system (WhatsApp)</strong>. Apply this week's knowledge: WebSockets for real-time, Kafka for message delivery, read receipts as events, group chat fan-out, message storage and retrieval."
+            },
+            {
+              "time": "Hour 3 — System Design",
+              "content": "Design <strong>a distributed task queue</strong> (like Celery/Sidekiq). How to assign tasks, handle worker failures, ensure at-least-once processing, dead-letter handling, priority queues, rate limiting per tenant."
+            },
+            {
+              "time": "Hour 4 — Reading",
+              "content": "Read DDIA Chapter 8 (<strong>The Trouble with Distributed Systems</strong>). This chapter covers everything that can go wrong: unreliable networks, unreliable clocks, process pauses. Sobering but essential."
+            }
+          ],
+          "deliverable": "WhatsApp system design doc + distributed task queue design doc"
+        }
+      ]
+    },
+    {
+      "title": "Week 5 — Microservices, APIs & Advanced Cloud",
+      "goal": "Learn how to break a monolith into microservices, design clean APIs, and use advanced AWS services. This is the <em>architecture</em> week.",
+      "days": [
+        {
+          "day": 29,
+          "title": "Microservices Architecture",
+          "tags": [
+            "theory"
+          ],
+          "blocks": [
+            {
+              "time": "Hour 1 — Theory",
+              "content": "<strong>Monolith vs microservices</strong>: monolith is simpler to develop/deploy/debug. Microservices offer independent scaling, deployment, and technology choice. The key question: when to split? Answer: when team size and domain complexity demand it."
+            },
+            {
+              "time": "Hour 2 — Theory",
+              "content": "<strong>Domain-Driven Design (DDD)</strong> basics: bounded contexts, aggregates, domain events. Each microservice should align with a bounded context. Example: an e-commerce system has Order context, Payment context, Inventory context."
+            },
+            {
+              "time": "Hour 3 — Theory",
+              "content": "Communication patterns: <strong>Synchronous</strong> (REST, gRPC — simple but creates coupling) vs <strong>Asynchronous</strong> (events via Kafka/SQS — decoupled but harder to debug). When to use each. The rule: sync for queries, async for commands/events."
+            },
+            {
+              "time": "Hour 4 — Theory",
+              "content": "The challenges: <strong>distributed data management</strong> (each service owns its DB), <strong>service mesh</strong> (Istio/Envoy for observability, retries, mTLS), <strong>API gateway pattern</strong> (single entry point, aggregation, auth). Draw the complete microservices topology."
+            }
+          ],
+          "deliverable": "Architecture diagram of an e-commerce system split into microservices with communication patterns labeled"
+        },
+        {
+          "day": 30,
+          "title": "API Design — REST & gRPC",
+          "tags": [
+            "theory",
+            "handson"
+          ],
+          "blocks": [
+            {
+              "time": "Hour 4 — Theory",
+              "content": "<strong>GraphQL</strong> intro: client specifies exactly what fields it needs. Solves over-fetching and under-fetching. N+1 problem and DataLoader pattern. When GraphQL makes sense (complex frontend with many entities) vs when REST is better."
+            }
+          ],
+          "deliverable": "Refactored REST API with pagination, versioning, and proper error handling"
+        },
+        {
+          "day": 31,
+          "title": "Serverless — Lambda & Event-Driven",
+          "tags": [
+            "theory",
+            "handson"
+          ],
+          "blocks": [
+            {
+              "time": "Hour 4 — Theory",
+              "content": "Serverless patterns: <strong>fan-out/fan-in</strong> (one event triggers many Lambdas), <strong>Step Functions</strong> (orchestrate multi-step workflows), <strong>event sourcing with Lambda</strong>. Limitations: 15-minute timeout, 10GB memory max, no persistent connections."
+            }
+          ],
+          "deliverable": "Serverless image processing pipeline: S3 → Lambda → S3 + DynamoDB"
+        },
+        {
+          "day": 32,
+          "title": "Authentication & Security",
+          "tags": [
+            "theory",
+            "handson"
+          ],
+          "blocks": [
+            {
+              "time": "Hour 4 — Theory",
+              "content": "Cloud security: <strong>principle of least privilege</strong> (IAM policies), <strong>encryption at rest</strong> (KMS), <strong>encryption in transit</strong> (TLS everywhere), <strong>VPC security</strong> (private subnets for databases, security groups as firewalls). The <strong>shared responsibility model</strong>."
+            }
+          ],
+          "deliverable": "JWT auth with refresh token rotation + secrets stored in AWS Secrets Manager"
+        },
+        {
+          "day": 33,
+          "title": "Microservices Project — Part 1",
+          "tags": [
+            "project"
+          ],
+          "blocks": [
+            {
+              "time": "Hour 4 — Build",
+              "content": "Build the <strong>Order Service</strong>: create order (calls Product Service to validate items, calls User Service to validate user). Use <strong>SQS</strong> to notify other services of order events asynchronously."
+            }
+          ],
+          "deliverable": "Three microservices with separate DBs, communicating via REST + SQS"
+        },
+        {
+          "day": 34,
+          "title": "Microservices Project — Part 2 (Deploy)",
+          "tags": [
+            "project",
+            "handson"
+          ],
+          "blocks": [
+            {
+              "time": "Hour 4 — Resilience",
+              "content": "Test failure scenarios: kill the Product Service pod — does the Order Service handle it gracefully? Implement a <strong>circuit breaker</strong> in the Order Service using a library like <strong>opossum</strong>. Add retry logic with exponential backoff."
+            }
+          ],
+          "deliverable": "3 microservices on K8s with monitoring, circuit breakers, and resilience testing"
+        },
+        {
+          "day": 35,
+          "title": "Week 5 Review & System Design",
+          "tags": [
+            "review",
+            "design"
+          ],
+          "blocks": [
+            {
+              "time": "Hour 4 — Reading",
+              "content": "Read DDIA Chapter 11 (<strong>Stream Processing</strong>). Understand event streams, change data capture (CDC), stream joins, and how to process events in real-time. This ties together Kafka + microservices."
+            }
+          ],
+          "deliverable": "Twitter + YouTube system design docs"
+        }
+      ]
+    },
+    {
+      "title": "Week 6 — Advanced Distributed Systems",
+      "goal": "Go deeper: <em>distributed storage</em>, <em>search systems</em>, <em>time & ordering</em>, and advanced scaling patterns. This is senior/staff-level material.",
+      "days": [
+        {
+          "day": 36,
+          "title": "Distributed Storage — How Databases Scale",
+          "tags": [
+            "theory"
+          ],
+          "blocks": [
+            {
+              "time": "Hour 4 — Theory",
+              "content": "<strong>Gossip protocol</strong>: how nodes discover each other and share state without a central coordinator. Used in Cassandra for cluster membership. Epidemic-style information spread. Eventually consistent but resilient."
+            }
+          ],
+          "deliverable": "Diagram of Dynamo-style replication with quorum reads/writes and conflict resolution"
+        },
+        {
+          "day": 37,
+          "title": "Search Systems — Elasticsearch",
+          "tags": [
+            "theory",
+            "handson"
+          ],
+          "blocks": [
+            {
+              "time": "Hour 4 — Theory",
+              "content": "How Elasticsearch scales: <strong>shards</strong> (partitions of an index), <strong>replicas</strong> (copies of each shard). How a search query is distributed across shards and results are merged. The relevance scoring pipeline."
+            }
+          ],
+          "deliverable": "Elasticsearch search + autocomplete integrated into the Product Service"
+        },
+        {
+          "day": 38,
+          "title": "Time & Ordering in Distributed Systems",
+          "tags": [
+            "theory"
+          ],
+          "blocks": [
+            {
+              "time": "Hour 4 — Theory",
+              "content": "<strong>Distributed ID generation</strong>: why auto-increment doesn't work across shards. Solutions: <strong>UUID</strong> (simple but large and unsortable), <strong>Snowflake IDs</strong> (timestamp + machine ID + sequence — used by Twitter), <strong>ULID</strong> (sortable UUIDs). Implement a Snowflake generator."
+            }
+          ],
+          "deliverable": "Snowflake ID generator implementation + vector clock walkthrough on paper"
+        },
+        {
+          "day": 39,
+          "title": "Advanced Caching & Data Structures",
+          "tags": [
+            "theory",
+            "handson"
+          ],
+          "blocks": [
+            {
+              "time": "Hour 4 — Theory",
+              "content": "<strong>Write-ahead log (WAL)</strong>: how databases ensure durability. Every write goes to the log first, then to the actual data structure. Crash recovery by replaying the log. Used in PostgreSQL, MySQL, Kafka, etcd."
+            }
+          ],
+          "deliverable": "Redis-based trending topics system + implementation of Bloom filter concept"
+        },
+        {
+          "day": 40,
+          "title": "Data Pipeline & Batch Processing",
+          "tags": [
+            "theory"
+          ],
+          "blocks": [
+            {
+              "time": "Hour 4 — Theory",
+              "content": "<strong>Change Data Capture (CDC)</strong>: capture every change in a database and publish as events. Tools: Debezium (reads MySQL/PostgreSQL binlog). Use case: keep Elasticsearch in sync with your database without dual writes."
+            }
+          ],
+          "deliverable": "Architecture diagram comparing Lambda vs Kappa architectures"
+        },
+        {
+          "day": 41,
+          "title": "Designing for Failure",
+          "tags": [
+            "theory"
+          ],
+          "blocks": [
+            {
+              "time": "Hour 4 — Theory",
+              "content": "<strong>Disaster recovery</strong>: RPO (Recovery Point Objective — how much data can you lose?) and RTO (Recovery Time Objective — how long can you be down?). Strategies: backup/restore (hours), pilot light (minutes), warm standby (seconds), multi-site active-active (near zero)."
+            }
+          ],
+          "deliverable": "Disaster recovery plan for your microservices project with RPO/RTO targets"
+        },
+        {
+          "day": 42,
+          "title": "Week 6 Review & System Design Marathon",
+          "tags": [
+            "review",
+            "design"
+          ],
+          "blocks": [
+            {
+              "time": "Hour 4 — System Design",
+              "content": "Design <strong>a distributed cache (like Memcached/Redis)</strong>: consistent hashing for key distribution, replication for HA, eviction policies, hot key handling, cache client with failover."
+            }
+          ],
+          "deliverable": "Google Drive + Web Crawler + Distributed Cache design docs"
+        }
+      ]
+    },
+    {
+      "title": "Week 7 — Real-World Architecture & Patterns",
+      "goal": "Study how real companies build systems. Learn architectural patterns that come up in every interview. Build your <em>pattern recognition</em>.",
+      "days": [
+        {
+          "day": 43,
+          "title": "Real-World Case Study — Netflix",
+          "tags": [
+            "theory"
+          ],
+          "blocks": [
+            {
+              "time": "Hour 4 — Theory",
+              "content": "Netflix's <strong>reliability practices</strong>: Chaos Monkey, regional failover (active-active in 3 AWS regions), stateless services, eventual consistency tradeoffs. How they handle the Monday night traffic spike."
+            }
+          ],
+          "deliverable": "Architecture diagram of Netflix's full system from a user pressing play to video appearing"
+        },
+        {
+          "day": 44,
+          "title": "Real-World Case Study — Uber & WhatsApp",
+          "tags": [
+            "theory"
+          ],
+          "blocks": [
+            {
+              "time": "Hour 4 — Theory",
+              "content": "Common patterns across all three: <strong>connection management at scale</strong> (WebSockets, long polling), <strong>geospatial indexing</strong>, <strong>real-time pub/sub</strong>, <strong>offline-first design</strong>. How these patterns apply to any system."
+            }
+          ],
+          "deliverable": "Notes comparing architectural decisions across Netflix, Uber, and WhatsApp"
+        },
+        {
+          "day": 45,
+          "title": "Database Selection Guide",
+          "tags": [
+            "theory"
+          ],
+          "blocks": [
+            {
+              "time": "Hour 4 — Theory",
+              "content": "The <strong>polyglot persistence</strong> pattern: use different databases for different parts of your system. E-commerce example: PostgreSQL for orders, Redis for sessions, Elasticsearch for search, Cassandra for activity logs. Draw the complete data architecture."
+            }
+          ],
+          "deliverable": "Database decision matrix: requirements → database choice with justification"
+        },
+        {
+          "day": 46,
+          "title": "API Gateway & Service Mesh Deep Dive",
+          "tags": [
+            "theory",
+            "handson"
+          ],
+          "blocks": [
+            {
+              "time": "Hour 4 — Theory",
+              "content": "When you need a service mesh vs when it's overkill. For <10 services, an API gateway + manual resilience patterns suffice. For 50+ services with complex networking requirements, a service mesh saves engineering time."
+            }
+          ],
+          "deliverable": "API Gateway configured for microservices project with rate limiting and auth"
+        },
+        {
+          "day": 47,
+          "title": "CQRS & Event Sourcing Project",
+          "tags": [
+            "project",
+            "handson"
+          ],
+          "blocks": [
+            {
+              "time": "Hour 4 — Test",
+              "content": "Test the full flow: open account → deposit → withdraw → query balance. Verify that replaying all events from the beginning reconstructs the current state. Add a <strong>snapshot</strong> mechanism for performance."
+            }
+          ],
+          "deliverable": "Event-sourced bank account service with CQRS, Kafka, and PostgreSQL"
+        },
+        {
+          "day": 48,
+          "title": "Cost Optimization & Cloud Economics",
+          "tags": [
+            "theory"
+          ],
+          "blocks": [
+            {
+              "time": "Hour 4 — Theory",
+              "content": "<strong>FinOps</strong> basics: tagging everything, cost allocation by team/service, setting budgets and alerts, regular cost reviews. How to estimate the cost of a system design before building it."
+            }
+          ],
+          "deliverable": "Cost estimate for your microservices project: monthly AWS bill breakdown"
+        },
+        {
+          "day": 49,
+          "title": "Week 7 Review & Design Marathon",
+          "tags": [
+            "review",
+            "design"
+          ],
+          "blocks": [
+            {
+              "time": "Hour 4 — System Design",
+              "content": "Design <strong>a ticket booking system</strong> (like BookMyShow): seat selection with concurrency (optimistic locking vs pessimistic locking), waiting room for popular events, payment timeout handling, inventory consistency."
+            }
+          ],
+          "deliverable": "Instagram + Uber + Ticket Booking system design docs"
+        }
+      ]
+    },
+    {
+      "title": "Week 8 — Interview Prep & Capstone",
+      "goal": "Consolidate everything. Practice system design interviews under time pressure. Build a capstone project that demonstrates your skills.",
+      "days": [
+        {
+          "day": 50,
+          "title": "System Design Interview Framework Drill",
+          "tags": [
+            "design"
+          ],
+          "blocks": [
+            {
+              "time": "Hour 4 — Review",
+              "content": "Self-critique both designs: Did you clarify requirements first? Did you do back-of-envelope math? Did you justify your database choices? Did you discuss tradeoffs? Identify your weak spots."
+            }
+          ],
+          "deliverable": "Payment system + Google Maps timed design docs with self-critique"
+        },
+        {
+          "day": 51,
+          "title": "System Design Practice — Day 2",
+          "tags": [
+            "design"
+          ],
+          "blocks": [
+            {
+              "time": "Hour 4 — Review",
+              "content": "Compare your designs with published solutions (ByteByteGo, Alex Xu's books). Note the differences. Are yours missing key components? Are you over-engineering anywhere?"
+            }
+          ],
+          "deliverable": "3 timed system design docs with comparison notes against published solutions"
+        },
+        {
+          "day": 52,
+          "title": "Capstone Project — Design Phase",
+          "tags": [
+            "project"
+          ],
+          "blocks": [
+            {
+              "time": "Hour 4 — Setup",
+              "content": "Set up the project: monorepo structure, shared Docker Compose for local dev, Terraform modules for infrastructure, GitHub Actions workflow. Run the skeleton services locally."
+            }
+          ],
+          "deliverable": "Complete technical design document + project skeleton"
+        },
+        {
+          "day": 53,
+          "title": "Capstone — Core Services",
+          "tags": [
+            "project"
+          ],
+          "blocks": [
+            {
+              "time": "Hour 4 — Build",
+              "content": "Add <strong>async processing</strong>: SQS or Kafka for background work. For URL shortener: analytics event processing. For notifications: delivery workers (email/push). For Twitter: feed fan-out workers."
+            }
+          ],
+          "deliverable": "Core service + data layer + async processing working end-to-end"
+        },
+        {
+          "day": 54,
+          "title": "Capstone — Scale & Resilience",
+          "tags": [
+            "project"
+          ],
+          "blocks": [
+            {
+              "time": "Hour 4 — Test",
+              "content": "<strong>Chaos testing</strong>: kill a service instance (does it recover?), slow down the database (does the circuit breaker trip?), fill the queue (does backpressure work?), overload with requests (does rate limiting kick in?)."
+            }
+          ],
+          "deliverable": "Load-tested, resilient capstone with monitoring and chaos test results"
+        },
+        {
+          "day": 55,
+          "title": "Capstone — Deploy & Document",
+          "tags": [
+            "project"
+          ],
+          "blocks": [
+            {
+              "time": "Hour 4 — Document",
+              "content": "Write a <strong>README</strong> worthy of a portfolio piece: what it is, why the tech choices, architecture diagram, how to run locally, how to deploy, performance benchmarks, what you'd improve with more time."
+            }
+          ],
+          "deliverable": "Fully deployed capstone with architecture docs and portfolio-ready README"
+        },
+        {
+          "day": 56,
+          "title": "Rapid-Fire System Design Day",
+          "tags": [
+            "design"
+          ],
+          "blocks": [
+            {
+              "time": "Hour 4 — Practice",
+              "content": "<strong>30-min speed round</strong>: Design <strong>a job scheduler</strong> (like cron at scale). Exactly-once execution, missed job handling, distributed locking, priority queues, multi-tenant isolation."
+            }
+          ],
+          "deliverable": "4 speed-round system design docs (concise, 1-2 pages each)"
+        },
+        {
+          "day": 57,
+          "title": "Knowledge Gaps & Weak Spots",
+          "tags": [
+            "review"
+          ],
+          "blocks": [
+            {
+              "time": "Hour 4 — Mock interview",
+              "content": "Find a friend or use <strong>Pramp</strong> / <strong>interviewing.io</strong> for a mock system design interview. Or record yourself solving a problem and watch the replay. Identify verbal tics, gaps in explanation, places where you hand-wave."
+            }
+          ],
+          "deliverable": "Self-assessment with scores + study plan for remaining weak spots"
+        },
+        {
+          "day": 58,
+          "title": "Mock Interviews & Communication",
+          "tags": [
+            "design"
+          ],
+          "blocks": [
+            {
+              "time": "Hour 4 — Reflection",
+              "content": "Review both mocks. Score yourself on: requirement gathering, estimation, architecture clarity, depth of knowledge, tradeoff discussion, communication. Write down exactly what you need to improve for the remaining 2 days."
+            }
+          ],
+          "deliverable": "2 mock interview recordings/notes with self-assessment scores"
+        },
+        {
+          "day": 59,
+          "title": "Final Review — Everything Consolidated",
+          "tags": [
+            "review"
+          ],
+          "blocks": [
+            {
+              "time": "Hour 4 — Final prep",
+              "content": "Review your capstone project and be ready to discuss it in detail. Interviewers love hearing about projects where you made real architectural decisions. Prepare a 3-minute walkthrough of your architecture."
+            }
+          ],
+          "deliverable": "Complete cheat sheet set + 3-minute capstone architecture pitch"
+        },
+        {
+          "day": 60,
+          "title": "Day 60 — Graduation & What's Next",
+          "tags": [
+            "review"
+          ],
+          "blocks": [
+            {
+              "time": "Hour 4 — Celebration & reflection",
+              "content": "You've put in 240 hours of focused study. Review how far you've come from Day 1. You now have a mental model for: cloud infrastructure, distributed systems theory, microservices architecture, deployment pipelines, system design interviews. That's a massive achievement."
+            }
+          ],
+          "deliverable": "Portfolio-ready GitHub + continued learning plan + celebration 🎉"
+        }
+      ]
+    }
+  ]
+}

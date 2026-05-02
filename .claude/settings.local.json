@@ -1,0 +1,28 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(awk 'NR>=300 && NR<=900 {n=gsub\\(/\"/,\"&\"\\); if\\(n>=4\\) print NR\": \"n\" quotes -> \"$0}' \"d:/Projects/ielts-vocab/public/roadmaps/ielts-grammar-band-7-plus.html\")",
+      "Bash(awk '/^const WEEKS/,/^\\\\];$/' \"d:/Projects/ielts-vocab/public/roadmaps/ielts-grammar-band-7-plus.html\")",
+      "Bash(node --check /tmp/grammar-data.js)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:3456/)",
+      "Bash(curl -s -o /tmp/grammar-page.html -w \"STATUS:%{http_code}\\\\n\" http://localhost:3456/roadmaps/ielts-grammar-band-7-plus)",
+      "Bash(curl -s -o /tmp/grammar-iframe.html -w \"STATUS:%{http_code}\\\\n\" http://localhost:3456/roadmaps/ielts-grammar-band-7-plus.html)",
+      "Bash(curl -sL http://localhost:3456/roadmaps/ielts-grammar-band-7-plus -o /tmp/grammar-page-full.html)",
+      "Bash(kill brsn2iec7 *)",
+      "Bash(netstat -ano)",
+      "Bash(taskkill //F //PID 12232)",
+      "Bash(node scripts/extract-roadmap-json.js)",
+      "Bash(node node_modules/typescript/bin/tsc --noEmit)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:3457/)",
+      "Bash(curl -sL http://localhost:3457/roadmaps/ielts-grammar-band-7-plus -o /tmp/grammar-page2.html -w \"STATUS:%{http_code}\\\\n\")",
+      "Bash(curl -sL http://localhost:3457/roadmaps/60-day-cloud-distributed-systems -o /tmp/cloud-page.html -w \"STATUS:%{http_code}\\\\n\")",
+      "Bash(curl -sL http://localhost:3457/roadmaps -o /tmp/roadmaps-page.html -w \"STATUS:%{http_code}\\\\n\")",
+      "Bash(awk '{print $NF}')",
+      "Bash(xargs -I {} taskkill //F //PID {})",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:3458/)",
+      "Bash(curl -sL http://localhost:3458/grammar -o /tmp/grammar-index.html -w \"INDEX:%{http_code}\\\\n\")",
+      "Bash(curl -sL http://localhost:3458/grammar/plurals-band-7-plus -o /tmp/plurals-page.html -w \"PLURALS:%{http_code}\\\\n\")",
+      "Bash(curl -sL http://localhost:3458/grammar -o /tmp/grammar-index2.html)"
+    ]
+  }
+}
