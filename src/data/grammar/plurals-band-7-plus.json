@@ -223,8 +223,59 @@
       ]
     },
     {
+      "id": "the-adjective",
+      "title": "6. 'The + Adjective' as a Plural Noun",
+      "summary": "An adjective preceded by 'the' can refer to a whole group of people. There is no -s, but the verb is PLURAL. This construction appears in almost every IELTS Task 2 essay about social issues.",
+      "rules": [
+        {
+          "pattern": "Social-group adjectives — plural verb, no -s",
+          "examples": [
+            { "singular": "the rich", "plural": "The rich ARE getting richer." },
+            { "singular": "the poor", "plural": "The poor ARE often excluded from healthcare." },
+            { "singular": "the elderly", "plural": "The elderly ARE often isolated in modern cities." },
+            { "singular": "the homeless", "plural": "The homeless NEED affordable housing." },
+            { "singular": "the unemployed", "plural": "The unemployed ARE entitled to support." },
+            { "singular": "the disabled", "plural": "The disabled FACE structural barriers." },
+            { "singular": "the young", "plural": "The young TEND to be more digitally literate." },
+            { "singular": "the injured", "plural": "The injured WERE taken to hospital." },
+            { "singular": "the wealthy", "plural": "The wealthy CONTRIBUTE significantly to charitable causes." },
+            { "singular": "the educated", "plural": "The educated ARE more likely to vote." }
+          ],
+          "note": "Common Band 6 errors: '*the elderlies', '*the poors', '*the elderly people are' (correct but reads as Band 6). Use the bare 'the + adjective' form for upper-band register."
+        },
+        {
+          "pattern": "Nationality words ending in -ese, -ch, -sh, -ss → same construction",
+          "examples": [
+            { "singular": "the Chinese", "plural": "The Chinese ARE the largest demographic in the region." },
+            { "singular": "the Japanese", "plural": "The Japanese HAVE one of the world's longest life expectancies." },
+            { "singular": "the British", "plural": "The British ARE known for their love of tea." },
+            { "singular": "the French", "plural": "The French CONSUME more cheese than any other nation." },
+            { "singular": "the English", "plural": "The English HAVE a long literary tradition." },
+            { "singular": "the Dutch", "plural": "The Dutch CYCLE more than any other Europeans." },
+            { "singular": "the Spanish", "plural": "The Spanish EAT dinner late by European standards." },
+            { "singular": "the Swiss", "plural": "The Swiss SPEAK four official languages." },
+            { "singular": "the Welsh", "plural": "The Welsh HAVE preserved their native language." }
+          ],
+          "note": "These nationality words have the same form for singular and plural. To name an individual, use a different word: a Briton, a Frenchman/Frenchwoman, an Englishman/Englishwoman, a Dutchman/Dutchwoman. For Chinese / Japanese, just say 'a Chinese person' / 'a Japanese person'."
+        },
+        {
+          "pattern": "Nationalities ending in -an / -ian → behave as regular nouns (with -s)",
+          "examples": [
+            { "singular": "American", "plural": "Americans" },
+            { "singular": "Brazilian", "plural": "Brazilians" },
+            { "singular": "Indian", "plural": "Indians" },
+            { "singular": "Russian", "plural": "Russians" },
+            { "singular": "German", "plural": "Germans" },
+            { "singular": "Italian", "plural": "Italians" }
+          ],
+          "note": "Both forms work: 'Americans are...' (regular plural) OR 'the Americans are...' (collective). Don't mix the two patterns: '*the Chineses' or '*the Britishes' is wrong."
+        }
+      ],
+      "tip": "In any Task 2 essay about inequality, ageing populations, employment or culture, drop in 'the elderly / the unemployed / the wealthy + plural verb' once. It is exactly the construction Band 7+ examiners look for."
+    },
+    {
       "id": "classical",
-      "title": "6. Latin & Greek Plurals (Academic Register)",
+      "title": "7. Latin & Greek Plurals (Academic Register)",
       "summary": "The single highest-yield section for Band 7+ academic writing. Using 'criteria' (not *criterions) and 'analyses' (not *analysises) is exactly what examiners notice.",
       "rules": [
         {
@@ -240,6 +291,22 @@
             { "singular": "radius", "plural": "radii" }
           ],
           "note": "Some accept Anglicised forms: 'cactuses', 'syllabuses', 'focuses' — fine in everyday writing, but classical forms read more academic."
+        },
+        {
+          "pattern": "-us words that DO NOT take -i (avoid overcorrection)",
+          "examples": [
+            { "singular": "virus", "plural": "viruses (NOT *viri)" },
+            { "singular": "bus", "plural": "buses (NOT *bi)" },
+            { "singular": "bonus", "plural": "bonuses" },
+            { "singular": "chorus", "plural": "choruses" },
+            { "singular": "genius", "plural": "geniuses (a very intelligent person)" },
+            { "singular": "octopus", "plural": "octopuses (NOT *octopi — Greek root, not Latin)" },
+            { "singular": "campus", "plural": "campuses" },
+            { "singular": "status", "plural": "statuses" },
+            { "singular": "prospectus", "plural": "prospectuses" },
+            { "singular": "platypus", "plural": "platypuses" }
+          ],
+          "note": "Not every -us word has a Latin origin — applying -i to a non-Latin or Greek-origin word is a hypercorrection examiners notice. When in doubt, default to -es. Modern English usage strongly prefers 'octopuses' and 'viruses'."
         },
         {
           "pattern": "-is → -es (pronounced /iːz/)",
@@ -540,6 +607,18 @@
             { "singular": "statistics (subject)", "plural": "Statistics IS difficult." },
             { "singular": "statistics (data)", "plural": "The statistics ARE alarming." }
           ]
+        },
+        {
+          "pattern": "-s ending but ALWAYS PLURAL verb (the opposite trap)",
+          "items": [
+            "tactics ('His tactics ARE clever.')",
+            "dynamics ('The dynamics of the team ARE complex.')",
+            "acoustics ('The acoustics of the hall ARE excellent.')",
+            "logistics ('The logistics ARE handled by a third party.')",
+            "thanks ('Many thanks ARE due to the volunteers.')",
+            "outskirts ('The outskirts of the city ARE rapidly expanding.')"
+          ],
+          "note": "Some -ics words flip: 'physics' is singular as a SUBJECT but plural when describing instances ('the physics OF the situation ARE complicated'). Context decides."
         }
       ]
     },
@@ -676,6 +755,22 @@
           "note": "Common Band 6 slip: starting a sentence with 'There is' and then listing plural nouns ('There IS many reasons...' should be 'There ARE many reasons')."
         },
         {
+          "pattern": "'More than one + singular noun' → SINGULAR verb (counter-intuitive)",
+          "examples": [
+            { "singular": "more than one student", "plural": "More than one student HAS failed the exam." },
+            { "singular": "more than one option", "plural": "More than one option IS available." }
+          ],
+          "note": "Even though 'more than one' implies plurality, English grammar treats the singular noun ('student') as the head, so the verb stays singular. Common error: '*More than one student have failed.'"
+        },
+        {
+          "pattern": "'Many a + singular noun' → SINGULAR verb (formal)",
+          "examples": [
+            { "singular": "many a man", "plural": "Many a man HAS tried and failed." },
+            { "singular": "many a student", "plural": "Many a student HAS struggled with this topic." }
+          ],
+          "note": "Formal / literary register. Useful in Task 2 conclusions for emphasis."
+        },
+        {
           "pattern": "Quantity expressions with apostrophe (treated as singular concept)",
           "examples": [
             { "singular": "five years' experience", "plural": "She has five years' experience in marketing." },
@@ -690,12 +785,16 @@
   "checklist": [
     "I can pluralise regular nouns including consonant + y, vowel + y, -f/-fe and -o variants without spelling errors.",
     "I know the irregular plurals (men, women, children, people, mice, feet, teeth) and never write *childs / *foots / *womans.",
+    "I use 'the + adjective' as a plural noun ('the elderly ARE...', 'the unemployed FACE...') in social-issues essays.",
+    "I use nationality plurals correctly: 'the Chinese ARE...', 'the British HAVE...', but 'Americans ARE...' (with -s).",
     "I use classical plurals (criteria, phenomena, analyses, hypotheses, data) accurately in academic writing.",
+    "I do NOT overcorrect to *viri / *busi / *octopi — many -us words just take -es.",
     "I never write *informations, *advices, *researches, *equipments, *furnitures, *knowledges.",
     "I count uncountables with partitives ('a piece of advice', 'an item of equipment').",
     "I know that news, mathematics, physics, economics, politics (as a subject) take a SINGULAR verb despite ending in -s.",
     "I use plural-only nouns (trousers, scissors, glasses) with plural verbs and 'a pair of'.",
     "I can choose the right verb after 'a number of' (plural) vs 'the number of' (singular).",
+    "I use a SINGULAR verb after 'more than one + singular' and 'many a + singular'.",
     "I use a singular verb after 'each of', 'every one of', 'one of', 'either of', 'neither of'.",
     "I use a singular verb in hyphenated quantity adjectives ('a 10-year-old', 'a five-year plan')."
   ]
