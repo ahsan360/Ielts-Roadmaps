@@ -386,7 +386,7 @@
     },
     {
       "id": "compound",
-      "title": "7. Compound Nouns",
+      "title": "8. Compound Nouns",
       "summary": "Which word takes the -s? Two patterns, plus a tricky third.",
       "rules": [
         {
@@ -425,7 +425,7 @@
     },
     {
       "id": "uncountable",
-      "title": "8. Uncountable Nouns (Never Pluralise)",
+      "title": "9. Uncountable Nouns (Never Pluralise)",
       "summary": "These cannot take -s and cannot be preceded by 'a / an / one'. They take a singular verb. To count them, use a partitive ('a piece of advice').",
       "rules": [
         {
@@ -497,7 +497,7 @@
     },
     {
       "id": "plural-only",
-      "title": "9. Plural-only Nouns (Pluralia Tantum)",
+      "title": "10. Plural-only Nouns (Pluralia Tantum)",
       "summary": "These nouns exist only in plural form and take a plural verb. To talk about one, use 'a pair of'.",
       "rules": [
         {
@@ -548,7 +548,7 @@
     },
     {
       "id": "s-but-singular",
-      "title": "10. -s Ending But Singular Meaning",
+      "title": "11. -s Ending But Singular Meaning",
       "summary": "Some nouns end in -s but take a SINGULAR verb. Treating them as plural is a classic Band 6 error.",
       "rules": [
         {
@@ -624,7 +624,7 @@
     },
     {
       "id": "collective",
-      "title": "11. Collective Nouns (BrE vs AmE)",
+      "title": "12. Collective Nouns (BrE vs AmE)",
       "summary": "Group nouns can take a singular or plural verb depending on whether you mean the entity or its members. The British and American conventions differ.",
       "rules": [
         {
@@ -677,7 +677,7 @@
     },
     {
       "id": "meaning-shift",
-      "title": "12. Plurals That Change Meaning",
+      "title": "13. Plurals That Change Meaning",
       "summary": "Adding -s sometimes changes the meaning entirely. Confusing the two is a vocabulary error, not just a grammar one.",
       "rules": [
         {
