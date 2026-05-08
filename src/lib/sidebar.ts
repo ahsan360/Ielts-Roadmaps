@@ -15,7 +15,10 @@ export interface SidebarSection {
 export const sidebarSections: SidebarSection[] = [
   {
     title: "Navigate",
-    links: [{ label: "Home", href: "/", emoji: "🏠" }],
+    links: [
+      { label: "Home", href: "/", emoji: "🏠" },
+      { label: "Vocabulary", href: "/vocabulary", emoji: "📚" },
+    ],
   },
   {
     title: "Roadmaps",
