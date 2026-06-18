@@ -44,10 +44,56 @@ export function getCategories(): Category[] {
   }));
 }
 
+const CHUNK_SIZE = 20;
+const CHUNK_SEP = "__chunk__";
+
+export function buildChunkId(categoryId: string, chunkIndex: number): string {
+  return `${categoryId}${CHUNK_SEP}${chunkIndex}`;
+}
+
+export function parseChunkId(id: string): { categoryId: string; chunkIndex: number } | null {
+  const idx = id.indexOf(CHUNK_SEP);
+  if (idx === -1) return null;
+  return { categoryId: id.slice(0, idx), chunkIndex: Number(id.slice(idx + CHUNK_SEP.length)) };
+}
+
+export function getCategoryChunks(cat: Category): Category[] {
+  const chunks: Category[] = [];
+  for (let i = 0; i < cat.count; i += CHUNK_SIZE) {
+    const end = Math.min(i + CHUNK_SIZE, cat.count);
+    chunks.push({
+      id: buildChunkId(cat.id, Math.floor(i / CHUNK_SIZE)),
+      name: `${cat.name} ${i + 1}–${end}`,
+      count: end - i,
+    });
+  }
+  return chunks;
+}
+
 export function filterByCategories(words: Word[], categoryIds: string[]): Word[] {
   if (categoryIds.length === 0) return words;
-  const set = new Set(categoryIds);
-  return words.filter((w) => set.has(w.categoryId));
+
+  const plainIds = new Set<string>();
+  const chunkFilters: { categoryId: string; chunkIndex: number }[] = [];
+
+  for (const id of categoryIds) {
+    const parsed = parseChunkId(id);
+    if (parsed) chunkFilters.push(parsed);
+    else plainIds.add(id);
+  }
+
+  return words.filter((w) => {
+    if (plainIds.has(w.categoryId)) return true;
+    for (const { categoryId, chunkIndex } of chunkFilters) {
+      if (w.categoryId !== categoryId) continue;
+      const catWords = words.filter((x) => x.categoryId === categoryId);
+      const start = chunkIndex * CHUNK_SIZE;
+      const end = start + CHUNK_SIZE;
+      const pos = catWords.indexOf(w);
+      if (pos >= start && pos < end) return true;
+    }
+    return false;
+  });
 }
 
 export function shuffle<T>(arr: T[]): T[] {
