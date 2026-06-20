@@ -1,6 +1,7 @@
 import type { ModeDefinition } from "./types";
 import { practiceMode } from "./practice";
 import { testMode } from "./test";
+import { listenMode } from "./listen";
 import { getMissedWords } from "@/lib/storage";
 import type { Word } from "@/lib/words";
 
@@ -17,7 +18,7 @@ export const reviewMode: ModeDefinition = {
   },
 };
 
-export const modes: ModeDefinition[] = [practiceMode, testMode, reviewMode];
+export const modes: ModeDefinition[] = [practiceMode, testMode, listenMode, reviewMode];
 
 export function findMode(id: string): ModeDefinition | undefined {
   return modes.find((m) => m.id === id);
