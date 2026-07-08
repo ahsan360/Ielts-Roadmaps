@@ -26,16 +26,16 @@ I feel emotionally attached to...
 It provides a peaceful environment...
 If I had the opportunity, I would...
 ```
-## 1. Tell me about the kind of accommodation you live in.
+### 1. Tell me about the kind of accommodation you live in.
 ### I currently live in a family house in Sylhet. It is a quiet and comfortable place where I have been living with my family for many years. What I particularly like about it is the peaceful atmosphere, as it allows me to focus on both my work and personal studies without much distraction.
 
-2. Do you live in a house or a flat?
-I live in a house. To be honest, I prefer living in a house because it offers more space and privacy compared to a flat. It also feels more relaxing since there is less noise from neighbours.
+### 2. Do you live in a house or a flat?
+### I live in a house. To be honest, I prefer living in a house because it offers more space and privacy compared to a flat. It also feels more relaxing since there is less noise from neighbours.
 
-3. Is it a big place?
-Yes, I would say it is fairly spacious. It has several bedrooms, a living room, a dining area, and a small outdoor space. It is not enormous, but it is certainly large enough for my family to live comfortably.
+### 3. Is it a big place?
+### Yes, I would say it is fairly spacious. It has several bedrooms, a living room, a dining area, and a small outdoor space. It is not enormous, but it is certainly large enough for my family to live comfortably.
 
-4. Does the place you live in have many amenities?
+### 4. Does the place you live in have many amenities?
 Yes, it does. We have all the basic facilities such as electricity, clean water, and a stable internet connection, which is especially important for me as I work online. Besides that, there are shops, schools, and hospitals nearby, so everything is easily accessible.
 
 5. What do you like about living there?
