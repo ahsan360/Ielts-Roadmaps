@@ -1,5 +1,5 @@
-#Accommodation 
-##IDEAS
+# Accommodation 
+## IDEAS
 ```
 ✔ comfortable
 ✔ spacious
@@ -8,7 +8,7 @@
 ✔ emotionally attached
 ```
 
-##VOCABULARY
+## VOCABULARY
 ```spacious
 cosy
 comfortable
@@ -26,8 +26,8 @@ I feel emotionally attached to...
 It provides a peaceful environment...
 If I had the opportunity, I would...
 ```
-##1. Tell me about the kind of accommodation you live in.
-###I currently live in a family house in Sylhet. It is a quiet and comfortable place where I have been living with my family for many years. What I particularly like about it is the peaceful atmosphere, as it allows me to focus on both my work and personal studies without much distraction.
+## 1. Tell me about the kind of accommodation you live in.
+### I currently live in a family house in Sylhet. It is a quiet and comfortable place where I have been living with my family for many years. What I particularly like about it is the peaceful atmosphere, as it allows me to focus on both my work and personal studies without much distraction.
 
 2. Do you live in a house or a flat?
 I live in a house. To be honest, I prefer living in a house because it offers more space and privacy compared to a flat. It also feels more relaxing since there is less noise from neighbours.
