@@ -73,7 +73,7 @@
 
 ### Answer
 
-> At the moment, I work as a software engineer. My job mainly involves designing, developing, and maintaining web applications. I genuinely enjoy solving challenging problems because every project gives me an opportunity to learn something new.
+> At the moment, I work as a software engineer. My job mainly involves designing, developing, and maintaining web applications. I genuinely enjoy solving challenging problems because it allows me the opportunity to learn something new.
 
 ### Band 9 Vocabulary
 
