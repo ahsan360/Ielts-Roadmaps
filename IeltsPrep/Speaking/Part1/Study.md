@@ -23,7 +23,7 @@
 
 ### Answer
 
-> My major was Computer Science and Engineering. During my studies, I learned about programming, software engineering, databases, algorithms, and computer networks. It provided me with both theoretical knowledge and practical experience.
+> My major was Computer Science and Engineering. During my studies, I learned about programming, software engineering, databases, algorithms, and computer networks. The course provided me with a solid theoretical foundation and also enabled me to gain practical experience through projects and problem-solving tasks..
 
 ### Band 7+ Vocabulary
 
