@@ -80,7 +80,7 @@ Result
 
 ### ✅ Answer
 
-> My hometown is Sylhet, which is situated in the north-eastern part of Bangladesh. It is one of the country's most picturesque cities and is well known for its lush tea gardens, rolling hills, and beautiful rivers. I have lived there for most of my life, so I know the city extremely well.
+> My hometown is Sylhet, which is situated in the north-eastern part of Bangladesh. It is one of the country's most picturesque cities and is also  well known for its lush tea gardens, rolling hills, and beautiful rivers. I have lived there for most of my life, so I know the city extremely well.
 
 ---
 
