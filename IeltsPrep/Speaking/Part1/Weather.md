@@ -304,3 +304,160 @@
 -   It depends on...
 -   It has become...
 -   It varies throughout the year.
+# 📚 Study
+
+> IELTS Speaking Part 1 -- Weather (Part 3)
+
+------------------------------------------------------------------------
+
+## ❓13. How is the weather here different from the weather in your home country?
+
+### Answer
+
+> The weather here is generally cooler and less humid than in my home
+> country. In Bangladesh, the climate is much warmer and the monsoon
+> season brings heavy rainfall.
+
+### Band 7+ Vocabulary
+
+-   Less humid
+-   Monsoon season
+-   Heavy rainfall
+-   Climate
+
+------------------------------------------------------------------------
+
+## ❓14. Would you say the weather in your hometown is suitable for working (or studying)?
+
+### Answer
+
+> For most of the year, yes. However, during extremely hot or humid
+> days, it can be difficult to concentrate, so many people prefer to
+> study or work indoors.
+
+### Band 7+ Vocabulary
+
+-   Concentrate
+-   Humid
+-   Productive
+-   Indoors
+
+------------------------------------------------------------------------
+
+## ❓15. Would you like to move to a place with different weather?
+
+### Answer
+
+> Yes, I would like to experience a place with a cooler climate because
+> I find cold weather more refreshing and comfortable than extreme heat.
+
+### Band 7+ Vocabulary
+
+-   Experience
+-   Cooler climate
+-   Refreshing
+-   Comfortable
+
+------------------------------------------------------------------------
+
+## ❓16. Does the weather affect the way that you feel?
+
+### Answer
+
+> Definitely. Pleasant weather usually improves my mood and motivates me
+> to be more active, whereas gloomy or extremely hot weather makes me
+> feel less energetic.
+
+### Band 7+ Vocabulary
+
+-   Improves my mood
+-   Motivates
+-   Gloomy
+-   Energetic
+
+------------------------------------------------------------------------
+
+## ❓17. Do people like the weather in your country?
+
+### Answer
+
+> It depends on the season. Most people enjoy the cool winter, but many
+> complain about the intense heat and humidity during summer.
+
+### Band 7+ Vocabulary
+
+-   Depends
+-   Intense heat
+-   Humidity
+-   Complain
+
+------------------------------------------------------------------------
+
+## ❓18. Do the kinds of outside activities people do in your country change when the weather changes?
+
+### Answer
+
+> Absolutely. During pleasant weather, people enjoy playing sports,
+> travelling, and spending time in parks. However, when it rains
+> heavily, they usually prefer indoor activities such as shopping or
+> watching movies.
+
+### Band 7+ Vocabulary
+
+-   Outdoor activities
+-   Pleasant weather
+-   Indoor activities
+-   Spend time outdoors
+
+------------------------------------------------------------------------
+
+# ⭐ High-Band Expressions
+
+-   The climate suits my lifestyle.
+-   It has a noticeable impact on my mood.
+-   I feel more productive in cooler weather.
+-   The weather influences people's daily routines.
+-   It depends largely on the season.
+
+------------------------------------------------------------------------
+
+# ❌ Common Mistakes
+
+❌ I like cold because good.
+
+✅ I prefer cooler weather because I find it more comfortable.
+
+❌ Rain stop all work.
+
+✅ Heavy rain occasionally disrupts outdoor activities.
+
+------------------------------------------------------------------------
+
+# 🎯 Quick Revision
+
+## Ideas
+
+-   Mood
+-   Productivity
+-   Outdoor activities
+-   Seasons
+-   Climate preferences
+
+## Vocabulary
+
+-   Refreshing
+-   Gloomy
+-   Humidity
+-   Productive
+-   Comfortable
+-   Outdoor activities
+
+## Useful Expressions
+
+-   I would prefer...
+-   It has a positive impact on...
+-   It depends on the season.
+-   I find it more comfortable.
+-   It motivates me to...
+# 📚 Study
+
