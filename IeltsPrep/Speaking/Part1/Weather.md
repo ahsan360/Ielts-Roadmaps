@@ -25,9 +25,7 @@
 
 ### Answer
 
-> My favourite weather is cool and sunny because it is comfortable for
-> both working and travelling. I also enjoy spending time outdoors
-> without feeling exhausted by the heat.
+> Winter is my favorite season because the cooler weather makes traveling around Bangladesh much easier, while summers can be uncomfortably hot 
 
 ### Band 7+ Vocabulary
 
