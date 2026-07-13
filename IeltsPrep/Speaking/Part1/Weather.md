@@ -8,9 +8,7 @@
 
 ### Answer
 
-> Today the weather is quite pleasant. It's warm with a gentle breeze
-> and plenty of sunshine, which makes it an ideal day to spend time
-> outdoors.
+> It's sunny today, so I'm in a good mood and it feels like a nice day to go out
 
 ### Band 7+ Vocabulary
 
