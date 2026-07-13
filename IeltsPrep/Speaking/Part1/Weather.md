@@ -372,8 +372,7 @@ Yes, the weather has a noticeable impact on my mood. If it's sunny, I feel excit
 
 ### Answer
 
-> It depends on the season. Most people enjoy the cool winter, but many
-> complain about the intense heat and humidity during summer.
+> Yes, I think most people like the weather here, but many prefer winter because it's cooler and more comfortable for going out. During the rainy season, heavy rainfall can cause flooding and disrupt daily life
 
 ### Band 7+ Vocabulary
 
