@@ -53,9 +53,7 @@
 
 ### Answer
 
-> Bangladesh has a tropical climate with hot summers, a rainy monsoon
-> season, and relatively mild winters. The weather varies noticeably
-> throughout the year.
+> Bangladesh has a tropical climate. It's hot and humid most of the year, with a rainy monsoon season that sometimes causes flooding
 
 ### Band 7+ Vocabulary
 
