@@ -364,9 +364,7 @@
 
 ### Answer
 
-> Definitely. Pleasant weather usually improves my mood and motivates me
-> to be more active, whereas gloomy or extremely hot weather makes me
-> feel less energetic.
+Yes, the weather has a noticeable impact on my mood. If it's sunny, I feel excited and really look forward to going out. But if it's rainy or gloomy, I get a bit disappointed because it can spoil my plans. So, yeah, I think weather can change how I feel during the day.
 
 ### Band 7+ Vocabulary
 
