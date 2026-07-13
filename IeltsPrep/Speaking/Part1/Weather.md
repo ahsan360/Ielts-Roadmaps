@@ -40,8 +40,7 @@
 
 ### Answer
 
-> Yes. I really dislike extremely hot and humid weather because it makes
-> me feel tired and uncomfortable. It also reduces my productivity.
+> I don't really like rainy days. They make me feel a bit down and can ruin plans, especially if I wanted to go out.
 
 ### Band 7+ Vocabulary
 
