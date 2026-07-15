@@ -8,9 +8,7 @@
 
 ### Answer
 
-> Today the weather is quite pleasant. It's warm with a gentle breeze
-> and plenty of sunshine, which makes it an ideal day to spend time
-> outdoors.
+> It's sunny today, so I'm in a good mood and it feels like a nice day to go out
 
 ### Band 7+ Vocabulary
 
@@ -25,9 +23,7 @@
 
 ### Answer
 
-> My favourite weather is cool and sunny because it is comfortable for
-> both working and travelling. I also enjoy spending time outdoors
-> without feeling exhausted by the heat.
+> Winter is my favorite season because the cooler weather makes traveling around Bangladesh much easier, while summers can be uncomfortably hot 
 
 ### Band 7+ Vocabulary
 
@@ -42,8 +38,7 @@
 
 ### Answer
 
-> Yes. I really dislike extremely hot and humid weather because it makes
-> me feel tired and uncomfortable. It also reduces my productivity.
+> I don't really like rainy days. They make me feel a bit down and can ruin plans, especially if I wanted to go out.
 
 ### Band 7+ Vocabulary
 
@@ -58,9 +53,7 @@
 
 ### Answer
 
-> Bangladesh has a tropical climate with hot summers, a rainy monsoon
-> season, and relatively mild winters. The weather varies noticeably
-> throughout the year.
+> Bangladesh has a tropical climate. It's hot and humid most of the year, with a rainy monsoon season that sometimes causes flooding
 
 ### Band 7+ Vocabulary
 
@@ -364,9 +357,7 @@
 
 ### Answer
 
-> Definitely. Pleasant weather usually improves my mood and motivates me
-> to be more active, whereas gloomy or extremely hot weather makes me
-> feel less energetic.
+Yes, the weather has a noticeable impact on my mood. If it's sunny, I feel excited and really look forward to going out. But if it's rainy or gloomy, I get a bit disappointed because it can spoil my plans. So, yeah, I think weather can change how I feel during the day.
 
 ### Band 7+ Vocabulary
 
@@ -381,8 +372,7 @@
 
 ### Answer
 
-> It depends on the season. Most people enjoy the cool winter, but many
-> complain about the intense heat and humidity during summer.
+> Yes, I think most people like the weather here, but many prefer winter because it's cooler and more comfortable for going out. During the rainy season, heavy rainfall can cause flooding and disrupt daily life
 
 ### Band 7+ Vocabulary
 
