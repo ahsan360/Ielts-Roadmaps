@@ -166,3 +166,123 @@ Overall, this experience taught me that not everything we read online is trustwo
 - A clickbait YouTube video.
 - A rumour about a famous company closing down.
 - A misleading advertisement for a product.
+# IELTS Speaking Part 3 (Band 7.5+)
+# Topic: Honesty
+
+---
+
+# Honesty and Children
+
+## Q1. Do you think children are more honest than adults?
+
+Generally speaking, yes. I think children tend to be more honest because they usually express their thoughts and feelings without overthinking the consequences. In contrast, adults often consider social expectations, relationships, or professional responsibilities before speaking, which may lead them to hide the truth or be less direct. However, as children grow older, they gradually learn that honesty sometimes needs to be balanced with politeness and sensitivity.
+
+---
+
+## Q2. Why do adults tell children it's important to be honest?
+
+Adults encourage children to be honest because honesty is one of the most important qualities for building trust and maintaining healthy relationships. When children learn to tell the truth from an early age, they are more likely to become responsible and trustworthy adults. Moreover, honesty helps them develop a strong sense of integrity and accountability.
+
+---
+
+## Q3. Do you think there are sometimes good reasons for adults not to tell children the truth?
+
+Yes, in certain situations. For example, adults may choose not to reveal distressing information, such as serious family problems or a medical emergency, in order to protect a child's emotional well-being. However, I believe this should only be temporary. As children become mature enough to understand the situation, they should be told the truth in an appropriate and sensitive manner.
+
+---
+
+# Honesty and Advertising
+
+## Q4. Are there any claims in advertisements that are sometimes not true?
+
+Yes, definitely. Some advertisements exaggerate the quality or effectiveness of a product to attract customers. For instance, a skincare product might claim to produce dramatic results within a few days, even though the actual outcome varies from person to person. These exaggerated claims can create unrealistic expectations among consumers.
+
+---
+
+## Q5. Why do people still buy things even when they know advertisements aren't completely accurate?
+
+There are several reasons. Firstly, advertisements are designed to appeal to people's emotions rather than their logic. Attractive visuals, celebrity endorsements, and persuasive language can strongly influence purchasing decisions. Secondly, people are often curious to try new products, hoping that the advertised benefits might actually be true. Social media trends and recommendations from influencers also play a significant role.
+
+---
+
+## Q6. Do you think advertisements that are dishonest should be banned?
+
+Yes, I believe they should be strictly regulated or banned if they deliberately mislead consumers. False advertising can result in financial loss, disappointment, and even health risks, particularly when it involves medicines or health-related products. Honest marketing not only protects consumers but also encourages fair competition among businesses. Companies should be allowed to promote their products, but the information they provide should be truthful and supported by evidence.
+
+---
+
+# Band 8+ Vocabulary
+
+| Vocabulary | Meaning |
+|------------|---------|
+| integrity | the quality of being honest and having strong moral principles |
+| trustworthy | deserving trust |
+| accountability | responsibility for one's actions |
+| emotional well-being | mental and emotional health |
+| exaggerate | make something seem better or bigger than it is |
+| misleading | giving the wrong impression |
+| unrealistic expectations | hopes that are unlikely to be achieved |
+| persuasive | effective at convincing people |
+| celebrity endorsement | promotion by a famous person |
+| consumer | a person who buys goods or services |
+| regulate | control by laws or rules |
+| fair competition | equal and honest business competition |
+
+---
+
+# High-Scoring Expressions
+
+- Generally speaking,...
+- From my perspective,...
+- I believe that...
+- One of the primary reasons is...
+- In my opinion,...
+- To a certain extent,...
+- It largely depends on...
+- For instance,...
+- On the other hand,...
+- As a result,...
+- In the long run,...
+- Overall, I think...
+
+---
+
+# Part 3 Answer Structure
+
+### Step 1
+Give your opinion.
+
+> "Yes, I believe so."
+
+### Step 2
+Explain why.
+
+> "One of the main reasons is..."
+
+### Step 3
+Give an example.
+
+> "For example..."
+
+### Step 4
+Conclude naturally.
+
+> "Therefore, I think..."
+
+---
+
+# Tips for Band 7.5+
+
+✅ Answer for **30–45 seconds**.
+
+✅ Give:
+- Your opinion
+- A reason
+- An example
+- A short conclusion
+
+✅ Use advanced but natural vocabulary.
+
+✅ Avoid one-sentence answers.
+
+✅ Support your ideas with logical explanations instead of memorised phrases.
