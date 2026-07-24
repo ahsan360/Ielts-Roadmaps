@@ -179,3 +179,100 @@ Overall, Ratargul is one of the most interesting natural parks I've ever seen. I
 - I would definitely recommend it.
 - Overall, it was an unforgettable experience.
 - Looking back, I'm really glad I visited this place.
+# IELTS Speaking Band 7.5+ Sample Answers
+
+---
+
+# Part 3: Homes and Gardens
+
+## 1. What are the advantages of having a home with a garden?
+
+Having a home with a garden offers numerous benefits. Firstly, it provides a peaceful environment where people can relax after a busy day. Secondly, a garden improves air quality and enhances the overall appearance of a home. Moreover, families can grow fresh fruits, vegetables, or flowers, which is both healthy and cost-effective. It's also a wonderful place for children to play safely and spend time outdoors.
+
+---
+
+## 2. How could people living in apartment blocks grow plants and vegetables?
+
+Even if people live in apartments, there are several ways to grow plants. They can use balconies, rooftops, or even windowsills to create small gardens. Many people nowadays practise container gardening or vertical gardening, which doesn't require much space. Herbs, tomatoes, chillies, and leafy vegetables can all be grown successfully in pots with proper care.
+
+---
+
+## 3. How interested are people in your country in TV shows and magazines about gardens?
+
+I think interest is gradually increasing, although it's still considered a niche hobby in Bangladesh. More people are watching YouTube channels and following social media pages about gardening rather than reading traditional magazines. These platforms provide practical tips on growing plants, decorating gardens, and maintaining home gardens, making gardening more accessible to beginners.
+
+---
+
+# Gardening as a Hobby
+
+## 4. Do you think that gardening is a hobby mainly for older people?
+
+Traditionally, gardening has been more popular among older people because they usually have more free time and enjoy peaceful activities. However, I believe this trend is changing. Many young people have started gardening as a way to reduce stress, decorate their homes, and even grow organic vegetables. So, I don't think it's limited to any particular age group anymore.
+
+---
+
+## 5. What are the benefits for people of gardening as a hobby?
+
+Gardening offers a wide range of physical and mental health benefits. It encourages people to spend time outdoors, stay physically active, and reduce stress. In addition, taking care of plants teaches patience and responsibility. For many people, seeing flowers bloom or vegetables grow brings a real sense of achievement and satisfaction.
+
+---
+
+## 6. Will gardening be a more popular hobby in the future?
+
+Yes, I believe it will become even more popular. As cities become more crowded and stressful, people will look for hobbies that help them relax and reconnect with nature. Furthermore, growing organic vegetables at home is becoming increasingly attractive because people are more concerned about health, food quality, and environmental sustainability. For these reasons, I think gardening will continue to gain popularity in the years ahead.
+
+---
+
+# Band 7.5+ Vocabulary
+
+## Verbs
+
+- cultivate
+- grow
+- maintain
+- decorate
+- reduce
+- encourage
+- preserve
+- reconnect
+- harvest
+- nurture
+
+## Adjectives
+
+- peaceful
+- refreshing
+- sustainable
+- organic
+- cost-effective
+- environmentally friendly
+- relaxing
+- rewarding
+- practical
+- beneficial
+
+## Collocations
+
+- home garden
+- fresh produce
+- organic vegetables
+- mental well-being
+- physical activity
+- improve air quality
+- vertical gardening
+- container gardening
+- green spaces
+- reconnect with nature
+
+## Useful Band 7.5+ Chunks
+
+- From my perspective,...
+- One of the biggest advantages is...
+- It's becoming increasingly popular because...
+- Another important point is that...
+- In the long run,...
+- This not only... but also...
+- As a result,...
+- I strongly believe that...
+- It's a rewarding hobby.
+- Overall, gardening has a positive impact on people's quality of life.
