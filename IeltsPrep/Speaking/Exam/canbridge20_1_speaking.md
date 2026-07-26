@@ -197,3 +197,122 @@ Overall, I'd happily watch this film again because it's visually stunning, intel
 - Watching it with friends would make it even more enjoyable.
 - We could exchange different opinions afterwards.
 - Overall, it's one of the best films I've ever watched.
+
+# IELTS Speaking Band 7.5+ Sample Answers
+
+---
+
+# Part 3: Theatre in Your Country
+
+## 1. What are the most popular kinds of plays or shows at theatres in your country?
+
+In Bangladesh, theatres mainly feature dramas based on social issues, historical events, and literary works. Comedy plays are also quite popular because they provide entertainment while often conveying meaningful messages. In recent years, musical performances and cultural shows have attracted larger audiences, especially during festivals and national celebrations.
+
+---
+
+## 2. How easy is it to get tickets to the theatre?
+
+Generally speaking, it's fairly easy to get theatre tickets, especially if you book them in advance. Most performances are reasonably priced, so they're affordable for many people. However, tickets for highly anticipated shows or performances by well-known actors can sell out quite quickly.
+
+---
+
+## 3. Do you think theatres need to do more to attract younger audiences?
+
+Yes, absolutely. I think theatres should make greater use of social media to promote upcoming performances and offer student discounts to make tickets more affordable. They could also introduce modern storylines, interactive performances, and improved visual effects to appeal to younger generations who are accustomed to digital entertainment.
+
+---
+
+# Acting as a Career
+
+## 4. What do you think attracts people to working as an actor?
+
+I think many people are attracted to acting because it allows them to express their creativity and bring different characters to life. It can also offer fame, financial rewards, and opportunities to work with talented professionals. For some people, acting is a passion rather than simply a career.
+
+---
+
+## 5. What are some of the qualities that a person needs to have if they want to become an actor?
+
+An actor needs several important qualities, including confidence, creativity, and excellent communication skills. They should also be emotionally expressive, adaptable, and willing to work hard. In addition, patience and resilience are essential because success in the acting industry often takes years of dedication and continuous improvement.
+
+---
+
+## 6. Can you think of any disadvantages of working as an actor?
+
+Yes, there are several challenges. One major disadvantage is job insecurity because acting opportunities can be unpredictable. Actors may also have to work long and irregular hours, travel frequently, and spend extended periods away from their families. Furthermore, they often face intense public scrutiny and pressure to maintain a positive public image.
+
+---
+
+# Useful Vocabulary
+
+- performing arts
+- theatrical performance
+- stage production
+- audience engagement
+- creative expression
+- public recognition
+- job insecurity
+- entertainment industry
+- artistic talent
+- emotional expression
+
+---
+
+# Band 7.5+ Vocabulary
+
+## Verbs
+
+- perform
+- entertain
+- portray
+- express
+- engage
+- inspire
+- audition
+- promote
+- captivate
+- adapt
+
+---
+
+## Adjectives
+
+- talented
+- creative
+- expressive
+- versatile
+- entertaining
+- captivating
+- demanding
+- unpredictable
+- rewarding
+- resilient
+
+---
+
+## Collocations
+
+- perform on stage
+- theatrical production
+- attract audiences
+- creative industry
+- public recognition
+- pursue a career
+- acting skills
+- express emotions
+- work under pressure
+- achieve success
+
+---
+
+## Useful Band 7.5+ Chunks
+
+- Personally, I'd say...
+- One of the main reasons is that...
+- From my perspective,...
+- It's becoming increasingly popular.
+- This enables people to...
+- On the other hand,...
+- In the long run,...
+- It requires a great deal of dedication.
+- Success doesn't happen overnight.
+- Overall, it's a challenging yet highly rewarding profession.
