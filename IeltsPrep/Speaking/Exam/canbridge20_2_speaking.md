@@ -177,3 +177,100 @@ Overall, this experience taught me that being flexible is an important part of t
 - It turned out to be...
 - In the end,...
 - Overall, it was a valuable experience.
+# IELTS Speaking Band 7.5+ Sample Answers
+
+---
+
+# Part 3: Planning for the Future
+
+## 1. What kinds of plans do friends make together?
+
+Friends usually make plans related to leisure activities, such as travelling, going out for meals, watching movies, or celebrating special occasions. Some friends also make long-term plans, like starting a business together, preparing for competitive exams, or learning new skills. Making plans together strengthens friendships and creates lasting memories.
+
+---
+
+## 2. Do you think it's better to discuss future plans with friends or with family?
+
+Personally, I think it's beneficial to discuss future plans with both. Friends can offer practical advice based on similar experiences and interests, while family members usually provide emotional support and long-term guidance. In my opinion, combining both perspectives helps people make more informed decisions.
+
+---
+
+## 3. When making plans for the future, is it important not to copy friends?
+
+Yes, absolutely. Everyone has different interests, abilities, and career goals, so copying someone else's decisions isn't always a wise idea. While it's perfectly fine to seek advice or inspiration from friends, people should ultimately make decisions based on their own strengths and aspirations. Choosing an independent path often leads to greater satisfaction in the long run.
+
+---
+
+# Education and Career
+
+## 4. When people are choosing what to study, how important is it that their course should lead directly to a career?
+
+I think it's very important, but it shouldn't be the only consideration. A course that offers good career opportunities can provide financial stability and job security. However, people should also choose a subject they genuinely enjoy because passion and interest often lead to better performance and long-term success.
+
+---
+
+## 5. Why is it a good idea to get some work experience before deciding on a future career?
+
+Work experience allows people to understand what a job is really like before making a long-term commitment. It helps them develop practical skills, improve communication, and build confidence. In addition, they can discover whether a particular profession matches their personality and career expectations, reducing the risk of choosing the wrong career.
+
+---
+
+## 6. How easy do you think it is for people to change from one career to another?
+
+Nowadays, changing careers has become much easier than it was in the past because there are countless online courses, professional training programmes, and remote learning opportunities. However, the transition can still be challenging because people may need to learn new skills, gain relevant experience, and adapt to a different working environment. With determination and continuous learning, I believe most people can successfully switch careers.
+
+---
+
+# Band 7.5+ Vocabulary
+
+## Verbs
+
+- pursue
+- discuss
+- encourage
+- inspire
+- adapt
+- transition
+- specialise
+- develop
+- acquire
+- succeed
+
+## Adjectives
+
+- practical
+- independent
+- beneficial
+- rewarding
+- flexible
+- ambitious
+- informed
+- professional
+- challenging
+- fulfilling
+
+## Collocations
+
+- future plans
+- career goals
+- informed decision
+- emotional support
+- practical advice
+- work experience
+- professional skills
+- career transition
+- long-term success
+- financial stability
+
+## Useful Band 7.5+ Chunks
+
+- Personally, I believe...
+- One of the main reasons is that...
+- From my perspective,...
+- It's essential to...
+- Another important point is that...
+- This not only... but also...
+- In the long run,...
+- As a result,...
+- Ultimately, people should...
+- Overall, I think...
