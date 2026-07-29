@@ -1,6 +1,7 @@
 
 # IELTS Speaking Band 7.5+ Sample Answers
 
+
 ---
 
 # Part 1: Fruit Preferences and Purchases
