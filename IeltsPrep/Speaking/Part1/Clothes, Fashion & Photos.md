@@ -95,7 +95,8 @@
 
 ### 🗣️ Sample Answer
 
-My favourite item of clothing is a plain cotton T-shirt. It's incredibly comfortable, especially during Bangladesh's hot and humid weather. I can wear it almost anywhere, whether I'm studying at home, meeting friends, or travelling, so it's both practical and versatile.
+My favourite item of clothing is a plain cotton T-shirt. It's incredibly comfortable, especially during Bangladesh's hot and humid weather.
+I can wear it almost anywhere, whether I'm studying at home, meeting friends, or travelling, so it's both practical and versatile.
 
 ---
 
@@ -110,7 +111,8 @@ My favourite item of clothing is a plain cotton T-shirt. It's incredibly comfort
 
 ### 🗣️ Sample Answer
 
-Yes, Bangladesh has a rich tradition of cultural clothing. Men often wear a Panjabi during religious festivals and special occasions, while women commonly wear sarees or salwar kameez. These traditional outfits reflect our cultural heritage and are still widely appreciated.
+Yes, Bangladesh has a rich tradition of cultural clothing. Men often wear a Panjabi during religious festivals and special occasions, 
+women commonly wear sarees or salwar kameez. These traditional outfits reflect our cultural heritage and are still widely appreciated.
 
 ---
 
@@ -124,7 +126,8 @@ Yes, Bangladesh has a rich tradition of cultural clothing. Men often wear a Panj
 
 ### 🗣️ Sample Answer
 
-I usually buy my clothes from shopping malls or local clothing brands because I prefer trying them on before making a purchase. Occasionally, I shop online if I find a good deal or if a particular product isn't available in nearby stores.
+I usually buy my clothes from shopping malls or local clothing brands because I prefer trying them on before making a purchase.
+Occasionally, I shop online if I find a good deal or if a particular product isn't available in nearby stores.
 
 ---
 
@@ -139,7 +142,8 @@ I usually buy my clothes from shopping malls or local clothing brands because I 
 
 ### 🗣️ Sample Answer
 
-Yes, quite a few times. Shopping online is convenient because I can compare prices and browse hundreds of options within a few minutes. However, sizing isn't always accurate, so I make sure to read customer reviews before placing an order.
+Yes, quite a few times. Shopping online is convenient because I can compare prices and browse hundreds of options within a few minutes.
+However, sizing isn't always accurate, so I make sure to read customer reviews before placing an order.
 
 ---
 
@@ -153,7 +157,8 @@ Yes, quite a few times. Shopping online is convenient because I can compare pric
 
 ### 🗣️ Sample Answer
 
-Not really. When I was a child, my parents usually chose my clothes, so I didn't pay much attention to fashion. I was much more interested in playing with my friends than thinking about what I was wearing.
+Not really. When I was a child, my parents usually chose my clothes, so I didn't pay much attention to fashion. 
+I was much more interested in playing with my friends than thinking about what I was wearing.
 
 ---
 
@@ -167,7 +172,8 @@ Not really. When I was a child, my parents usually chose my clothes, so I didn't
 
 ### 🗣️ Sample Answer
 
-I'd say it's moderately important. I don't follow every fashion trend, but I do like dressing neatly and appropriately. For me, comfort is far more important than wearing expensive or trendy clothes.
+I'd say it's moderately important. I don't follow every fashion trend, but I do like dressing neatly and appropriately.
+For me, comfort is far more important than wearing expensive or trendy clothes.
 
 ---
 
@@ -182,7 +188,8 @@ I'd say it's moderately important. I don't follow every fashion trend, but I do 
 
 ### 🗣️ Sample Answer
 
-Nowadays, oversized T-shirts, jeans, sneakers, and hoodies are extremely popular among young people in Bangladesh. Many also follow international fashion trends through social media, so Western-style clothing has become increasingly common.
+Nowadays, oversized T-shirts, jeans, sneakers, and hoodies are extremely popular among young people in Bangladesh.
+Many also follow international fashion trends through social media, so Western-style clothing has become increasingly common.
 
 ---
 
@@ -196,7 +203,8 @@ Nowadays, oversized T-shirts, jeans, sneakers, and hoodies are extremely popular
 
 ### 🗣️ Sample Answer
 
-Definitely. Young people often enjoy experimenting with different styles, whereas older adults usually prioritise comfort, quality, and practicality. Professional responsibilities also influence the way people dress as they grow older.
+Definitely. Young people often enjoy experimenting with different styles, whereas older adults usually prioritise comfort, 
+quality, and practicality. Professional responsibilities also influence the way people dress as they grow older.
 
 ---
 
@@ -211,7 +219,8 @@ Definitely. Young people often enjoy experimenting with different styles, wherea
 
 ### 🗣️ Sample Answer
 
-I mostly take photos of my family, friends, and beautiful natural scenery whenever I travel. I particularly enjoy capturing landscapes because they remind me of memorable trips and special moments.
+I mostly take photos of my family, friends, and beautiful natural scenery whenever I travel.
+I particularly enjoy capturing landscapes because they remind me of memorable trips and special moments.
 
 ---
 
@@ -225,7 +234,8 @@ I mostly take photos of my family, friends, and beautiful natural scenery whenev
 
 ### 🗣️ Sample Answer
 
-I store most of my photos digitally using Google Photos and cloud storage. This way, I can access them from any device without worrying about losing them if my phone gets damaged.
+I store most of my photos digitally using Google Photos and cloud storage. This way, 
+I can access them from any device without worrying about losing them if my phone gets damaged.
 
 ---
 
@@ -239,7 +249,8 @@ I store most of my photos digitally using Google Photos and cloud storage. This 
 
 ### 🗣️ Sample Answer
 
-Yes, I do. Besides storing them on my phone, I keep backup copies on my laptop in well-organised folders. I think it's always a good idea to have multiple backups of important memories.
+Yes, I do. Besides storing them on my phone, I keep backup copies on my laptop in well-organised folders.
+I think it's always a good idea to have multiple backups of important memories.
 
 ---
 
@@ -253,7 +264,8 @@ Yes, I do. Besides storing them on my phone, I keep backup copies on my laptop i
 
 ### 🗣️ Sample Answer
 
-Yes. I have a framed family photograph at home that was taken during a special occasion. Every time I look at it, it brings back wonderful memories, so it has great sentimental value.
+Yes. I have a framed family photograph at home that was taken during a special occasion. Every time I look at it, 
+it brings back wonderful memories, so it has great sentimental value.
 
 ---
 
@@ -267,7 +279,8 @@ Yes. I have a framed family photograph at home that was taken during a special o
 
 ### 🗣️ Sample Answer
 
-I definitely prefer sending my own photos because they feel much more personal and meaningful. They allow me to share my real experiences instead of simply buying a postcard that anyone could purchase.
+I definitely prefer sending my own photos because they feel much more personal and meaningful.
+They allow me to share my real experiences instead of simply buying a postcard that anyone could purchase.
 
 ---
 
@@ -281,7 +294,8 @@ I definitely prefer sending my own photos because they feel much more personal a
 
 ### 🗣️ Sample Answer
 
-Yes, there are. We have several family photographs and one from my graduation ceremony hanging on the walls. They make our home feel warm and remind us of some of the happiest moments in our lives.
+Yes, there are. We have several family photographs and one from my graduation ceremony hanging on the walls.
+They make our home feel warm and remind us of some of the happiest moments in our lives.
 
 ---
 

@@ -85,7 +85,7 @@
 
 ### 🗣️ Sample Answer
 
-Yes, I have. I’ve taken several boat rides in Sylhet, especially while visiting places like Ratargul Swamp Forest. It was a peaceful and memorable experience because I could enjoy the beautiful scenery and fresh air. I always find travelling on the water much more relaxing than travelling by road.
+Yes, I have. I’ve taken several boat rides in Sylhet, especially while visiting places like Ratargul Swamp Forest. It was a peaceful and memorable experience because **I could enjoy** the beautiful scenery and fresh air. I always find travelling on the water much more relaxing than travelling by road.
 
 ---
 
