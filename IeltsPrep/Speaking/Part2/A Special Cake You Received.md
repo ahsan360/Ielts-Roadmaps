@@ -13,41 +13,54 @@ You should say:
 
 ---
 
-# Band 7+ Sample Answer
-
-I'd like to talk about a special birthday cake that I received from one of my close friends.
-
-It happened a few years ago on my birthday. At that time, I was living with my family, and I didn't expect to have a big celebration because I was quite busy with my work. In the evening, one of my close friends came to my house with a beautifully decorated cake.
-
-The cake itself wasn't extremely expensive, but it looked really attractive. It had my name written on it, along with a short birthday message. We had dinner together, cut the cake, and spent some time chatting and laughing.
-
-What made it special was not the cake itself but the thought behind it. My friend remembered my birthday and took the time to choose a cake and come to my house. I was genuinely touched because I wasn't expecting anything from him.
-
-Overall, it was a simple cake, but it became a memorable experience for me because it showed how much my friend cared about our friendship. That's why I still remember it.
-
----
-
-# AAA Method
-
 ## A — Answer
 
-> I'd like to talk about a special birthday cake that I received from one of my close friends.
+I'd like to talk about **a special birthday cake that I received from one of my close friends**. It happened about two years ago on my birthday. I was at home with my family, and I wasn't expecting any special celebration because I had been quite busy with work.
+
+---
 
 ## A — Add Details
 
-> It happened a few years ago on my birthday. I was at home, and my friend surprised me with a beautifully decorated cake. We had dinner, cut the cake, and spent some time chatting and laughing.
+The cake was actually quite simple, but it looked beautiful. It was a chocolate cake with my name written on it and a small birthday message on top. My friend had chosen it especially for me because he knew that chocolate cake was my favourite.
 
-## A — Add Your Feelings
-
-> What made it special was the thought behind it. I was genuinely touched because I wasn't expecting anything. It showed me that my friend really cared about me, so the experience became very memorable.
+We had dinner together before cutting the cake. After that, we took some photos, talked about different things, and had a really enjoyable evening. I remember that the atmosphere was very warm and friendly.
 
 ---
 
-# Easy Structure to Remember
+## A — Anecdote
 
-**Friend → Birthday → Home → Surprise → Cake → Feelings → Why special**
+I particularly remember the moment when my friend suddenly arrived at my house with the cake. I was completely surprised because I hadn't told him that I was celebrating my birthday.
+
+When he gave me the cake, I was genuinely touched. I thanked him and told him that he had made my day much more special.
+
+What made me laugh was that he had actually chosen the wrong flavour at first, but later changed it after remembering that I preferred chocolate. That's a small thing, but I found it quite funny and memorable.
 
 ---
+
+## Why It Was Special
+
+I think the cake was special **not because it was expensive or luxurious, but because of the thought behind it**. My friend remembered my birthday, chose something I liked, and made an effort to surprise me.
+
+So, overall, **it was a simple chocolate cake, but it became a very memorable gift because it showed me that my friend genuinely cared about me**.
+
+---
+
+# 🧠 Easy Memory Structure
+
+**Friend → Birthday → Home → Chocolate cake → Surprise → Wrong flavour → Touched → Friendship**
+
+---
+
+# 🔑 Key Phrases
+
+- I'd like to talk about...
+- It happened about two years ago...
+- What I remember most is...
+- I particularly remember one moment when...
+- What made me laugh was...
+- I was genuinely touched because...
+- What made it special was not the price, but the thought behind it.
+- Overall, it became a memorable experience because...
 
 # Part 3: Food and Meals
 
