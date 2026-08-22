@@ -1,6 +1,7 @@
 # Topic
 
 **Describe a challenging technological problem you faced.**
+
 What the problem was
 
 When and where you faced it
