@@ -2,6 +2,14 @@
 
 **Describe an advertisement with a famous person in it.**
 
+Who the person is
+
+Where you can see it
+
+What the advertisement is about
+
+And explain how you feel about the advertisement
+
 ## AAA Method
 
 ### A — Answer
