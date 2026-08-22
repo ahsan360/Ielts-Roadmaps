@@ -1,6 +1,13 @@
 # Topic
 
 **Describe a challenging technological problem you faced.**
+What the problem was
+
+When and where you faced it
+
+How challenging it was
+
+And explain how you solved it
 
 ## AAA Method
 
