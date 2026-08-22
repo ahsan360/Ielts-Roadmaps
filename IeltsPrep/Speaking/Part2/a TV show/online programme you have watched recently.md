@@ -1,7 +1,13 @@
 # Topic
 
 **Describe a TV show/online programme you have watched recently.**
+What it is
 
+What it is about
+
+How often you watch it
+
+And explain how you feel about it
 ## AAA Method
 
 ### A — Answer
