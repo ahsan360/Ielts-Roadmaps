@@ -1,257 +1,291 @@
-# IELTS Writing Task 2 — Discussion + Opinion Essays (Band 6.5 | 250+ Words Each)
+# IELTS Writing Task 2 — Discussion + Opinion Essays
+
+## Band 6.5 Model Answers | Simple English
 
 ---
 
-## 1. Art in Modern Society
+# 1. Art in Modern Society
 
 ### Prompt
+
 People have different views about the importance of art in modern society. Some believe that art is an essential part of culture, while others consider it a waste of time and money. Discuss both views and give your opinion.
 
-### Sample Answer
-People hold contrasting views regarding the value of art in contemporary life. While a section of society views artistic expression as a vital component of cultural heritage, others argue that spending time and financial resources on art is unnecessary. In my opinion, although governments must prioritize basic public services, art plays an indispensable role in preserving history and enhancing overall quality of life.
+### Answer
 
-On the one hand, critics argue that art should not be a financial priority when communities face pressing practical challenges. Local authorities and governments must deal with major social issues, such as reducing unemployment rates, improving medical facilities, and constructing modern educational institutions. From this perspective, allocating significant funding to build public art galleries or purchasing expensive paintings can easily be seen as an extravagance. For example, a city with deteriorating roads and outdated hospitals would gain far more direct public benefit by directing its limited budget toward infrastructure repairs rather than funding public theatrical performances. Furthermore, because a large portion of the population may not have a personal interest in fine arts, they often feel that taxpayers' money should be reserved strictly for basic public services.
+People have different opinions about the importance of art in modern society. Some people believe that art is an important part of culture, while others think that spending money and time on art is unnecessary. In my opinion, art is important for society, although governments should give priority to essential services such as healthcare and education.
 
-On the other hand, proponents emphasize that art forms an essential pillar of human history and community identity. Through paintings, music, traditional literature, and local crafts, societies record their historical milestones, core values, and cultural evolution. These artistic mediums help educate younger generations about their heritage, strengthening their sense of national identity. In addition to cultural preservation, artistic investments make urban areas visually appealing, which can stimulate local tourism and create employment opportunities for artists and event organizers. On an individual level, engaging with art offers entertainment and mental relaxation, helping people reduce daily stress.
+On the one hand, some people believe that art is not a necessary use of public money. There are many serious problems that governments need to solve, including unemployment, poor healthcare and damaged roads. Therefore, they argue that money should be spent on these areas instead of art galleries, paintings or public performances. For example, if a city has poor roads and hospitals do not have enough medical equipment, it would be more useful to spend public money on these problems. In addition, not everyone is interested in art, so some taxpayers may feel that their money should not be used for something they do not enjoy.
 
-In conclusion, while public health, education, and infrastructure must always receive adequate public funding, I believe that art should never be dismissed as a waste of resources. A well-rounded society requires a balance between functional public services and cultural expression, and controlled investment in art delivers meaningful long-term social benefits.
+On the other hand, art has an important role in preserving culture and history. Paintings, music, literature and traditional crafts can show how people lived in the past and what they believed in. This can help younger generations understand and respect their cultural heritage. Art can also make cities more attractive to tourists. For example, a city with interesting museums, traditional buildings and public art may attract more visitors, which can benefit local businesses. Furthermore, taking part in artistic activities can help people relax and reduce stress after a busy day.
+
+In conclusion, although governments should first provide essential public services, I believe that art should not be considered a waste of money. It helps preserve culture, attracts tourists and gives people opportunities for entertainment and relaxation.
 
 ---
 
-## 2. Public Art vs. Essential Services
+# 2. Public Art vs. Essential Services
 
 ### Prompt
+
 There is an ongoing debate about whether governments should spend public money on art installations or essential services. Discuss both views and give your opinion.
 
-### Sample Answer
-The allocation of government expenditure between urban artistic projects and fundamental public services remains a widely debated topic. Although public art projects can make cities more attractive, I firmly believe that essential services must take precedence, especially when basic community needs remain unfulfilled.
+### Answer
 
-On the one hand, advocates of public art argue that installing sculptures, murals, and creative architectural pieces offers notable aesthetic and economic advantages. Well-designed installations transform ordinary public spaces into visually engaging landmarks, giving a city a distinctive identity and character. This elevated visual appeal often attracts domestic and international tourists, which generates economic revenue for local businesses, shops, and restaurants. Furthermore, public art fosters a sense of community pride among local residents and provides valuable career opportunities for local artists to display their creative work to a broad audience. For instance, transforming an unused town square with a prominent sculpture can convert a quiet location into a bustling gathering spot for citizens and visitors alike.
+There is a debate about whether governments should spend public money on art projects or essential public services. Some people believe that public art can make cities more attractive, while others think that money should be used for important services. In my opinion, essential services should receive more government funding, especially when basic needs are not being met.
 
-On the other hand, essential public services have a far more direct and critical impact on citizens' daily lives and well-being. Governments carry the fundamental duty of building and maintaining public hospitals, funding quality schools, maintaining safe road networks, and providing clean water supplies. When these foundational services suffer from underfunding or poor infrastructure, spending substantial amounts of public money on decorative art projects becomes difficult to justify. For example, renovating an unsafe road intersection or purchasing modern medical equipment directly protects lives and improves public safety, whereas a decorative statue provides primarily cultural and visual benefits.
+On the one hand, public art can bring several benefits to a city. Statues, paintings and other art installations can make public places more attractive and interesting. As a result, some areas may become popular tourist attractions. This can help local shops, restaurants and hotels earn more money. Public art can also give local artists an opportunity to show their work and develop their careers. For example, a large sculpture in a city centre could become a well-known landmark and encourage more people to visit the area. In addition, attractive public spaces can make local people feel proud of their city.
 
-In conclusion, although public art installations enrich urban environments and support local culture, basic public infrastructure must remain the top financial priority. Governments should ensure that healthcare, education, and public safety are fully supported before directing public funds toward aesthetic projects.
+On the other hand, essential services have a more direct effect on people's lives. Governments need to provide good hospitals, schools, roads, clean water and public safety. These services are necessary for people to live healthy and comfortable lives. If a hospital does not have enough equipment, spending a large amount of money on a decorative statue may not be a sensible decision. Similarly, repairing a dangerous road can protect many people, while an art installation mainly provides visual and cultural benefits. Therefore, governments should make sure that basic services are properly funded before spending large amounts on art.
+
+In conclusion, public art can improve the appearance of cities and support tourism and local artists. However, I believe that essential services should receive greater financial support because they have a more important effect on people's everyday lives.
 
 ---
 
-## 3. Life Imprisonment vs. Rehabilitation
+# 3. Life Imprisonment vs. Rehabilitation
 
 ### Prompt
+
 People have different opinions about the best way to deal with violent criminals. Some believe that life imprisonment is necessary to protect society, whereas others think rehabilitation is more effective. Discuss both views and give your opinion.
 
-### Sample Answer
-Opinions vary significantly regarding the most effective method for managing violent offenders within the criminal justice system. While some people argue that life imprisonment is essential to protect the public from dangerous individuals, others believe that rehabilitation programs offer a more effective long-term solution. In my view, serious violent criminals must face strict punishment, but rehabilitation opportunities should also be provided whenever appropriate.
+### Answer
 
-On the one hand, supporters of life imprisonment argue that long-term isolation is necessary to guarantee public safety. Individuals who commit severe violent offenses pose a continuing threat to innocent citizens if they are returned to the community too quickly. Confining dangerous criminals to prison permanently or for extended periods significantly reduces the risk of reoffending and maintains social order. Additionally, long prison sentences satisfy the demands of retribution, reassuring victims and their families that justice has been served. Strict sentences also serve as a strong deterrent, sending a clear message to society that violent actions carry severe consequences.
+People have different views about how violent criminals should be treated. Some believe that such criminals should spend the rest of their lives in prison, while others think that rehabilitation can help them change their behaviour. In my opinion, serious criminals should receive strong punishment, but rehabilitation should also be available when there is a reasonable chance of reform.
 
-On the other hand, advocates of rehabilitation argue that reforming offenders is more beneficial for society in the long run. Many individuals resort to criminal behavior as a result of underlying problems, such as a lack of basic education, substance abuse, family instability, or poor socioeconomic environments. Educational programs, psychological counseling, and vocational skills training provided during incarceration can address these root causes and help prisoners develop positive habits. If a prisoner successfully undergoes rehabilitation, society benefits upon their release because the individual is far less likely to return to crime, thereby reducing overall recidivism rates and easing pressure on the justice system.
+On the one hand, life imprisonment can protect society from dangerous criminals. People who commit serious violent crimes may continue to be a threat if they are released too early. Keeping them in prison for a long period can prevent them from harming other people. It can also give victims and their families a sense that justice has been done. In addition, strict punishments may discourage some people from committing serious crimes because they know that they could face many years in prison. For these reasons, supporters believe that life imprisonment is necessary for the most dangerous offenders.
 
-In conclusion, while life imprisonment is necessary for high-risk individuals who pose an ongoing threat to society, rehabilitation should be integrated into the prison system for suitable offenders. Combining firm punishment with structured reform programs provides the most balanced approach to ensuring public safety and reducing future crime.
+On the other hand, rehabilitation may help some criminals become responsible members of society. People sometimes commit crimes because of problems such as poor education, drug addiction, family difficulties or bad social environments. Prisoners can receive education, job training and counselling to help them change their behaviour. For example, a prisoner who learns a useful skill may be able to find a job after release instead of returning to crime. If rehabilitation is successful, the number of people who commit crimes again may also decrease.
+
+In conclusion, life imprisonment can be necessary for criminals who continue to pose a serious danger to society. However, rehabilitation can also be useful for suitable offenders. I believe that the justice system should combine strong punishment with rehabilitation programs whenever possible.
 
 ---
 
-## 4. Capital Punishment
+# 4. Capital Punishment
 
 ### Prompt
+
 Capital punishment remains a controversial issue in many countries. Some people argue that the death penalty is necessary to discourage serious crimes, while others believe that it is cruel and should be abolished. Discuss both views and give your opinion.
 
-### Sample Answer
-The application of capital punishment continues to spark intense ethical and legal debate across the world. While proponents argue that the death penalty is essential for deterring extreme criminal behavior, opponents maintain that it is an inhumane practice that should be outlawed. In my opinion, capital punishment should be abolished entirely because the risk of executing innocent people is an unacceptable justice failure.
+### Answer
 
-On the one hand, supporters of capital punishment believe that extreme crimes, such as premeditated murder or acts of terrorism, demand the ultimate legal consequence. They maintain that execution serves as a powerful deterrent, discouraging potential criminals from committing violent acts out of fear for their own lives. Furthermore, advocates argue that executing dangerous criminals brings closure and a sense of absolute justice to the families of victims, ensuring that the perpetrator can never inflict harm on society again.
+Capital punishment is a controversial issue in many countries. Some people believe that the death penalty is necessary to prevent serious crimes, while others think that it is cruel and should be removed. In my opinion, the death penalty should be abolished because there is always a possibility that an innocent person could be wrongly executed.
 
-On the other hand, opponents contend that the death penalty violates fundamental human rights and constitutes cruel punishment. The primary argument against capital punishment centers on the fallibility of legal systems. Because investigations, court procedures, and witness testimony can be flawed, there is always a real possibility that an innocent person might be wrongly convicted and executed. Unlike a prison sentence, an execution is entirely irreversible once carried out. Moreover, opponents argue that a civilized state should focus on detaining dangerous individuals safely through life imprisonment without parole, which protects the public effectively without resorting to state-sanctioned killing.
+On the one hand, supporters of capital punishment believe that it can discourage serious crimes. They argue that criminals may think twice before committing murder or other extremely serious offences if they know that they could lose their lives. They also believe that some crimes are so serious that the person responsible deserves the strongest possible punishment. In addition, executing a dangerous criminal means that this person can never harm another member of society. For the families of victims, this may also provide a feeling that justice has been served.
 
-In conclusion, although severe offenses demand firm legal consequences, I believe that capital punishment should be abolished. Long-term imprisonment without parole provides an effective and secure way to protect society and deliver justice, while avoiding the catastrophic risk of executing an innocent person.
+On the other hand, opponents argue that the death penalty is too extreme and cannot be reversed. Mistakes can happen during police investigations and court cases. Witnesses may give incorrect information, evidence may be misunderstood, and innocent people may sometimes be convicted. If an innocent person is sentenced to prison, the mistake can potentially be corrected later. However, if that person is executed, the mistake can never be repaired. Some people also believe that governments should protect society by keeping dangerous criminals in prison rather than taking their lives.
+
+In conclusion, supporters of capital punishment believe that it can prevent serious crime and provide justice for victims. However, I believe that the possibility of executing an innocent person is too serious to ignore. Life imprisonment can protect society without making an irreversible decision.
 
 ---
 
-## 5. Globalization and Culture
+# 5. Globalization and Culture
 
 ### Prompt
+
 Globalization has changed the way people communicate, work and live, and it has also affected traditional cultures. Some people believe that globalization causes cultural loss, while others think it creates cultural enrichment. Discuss both views and give your opinion.
 
-### Sample Answer
-Globalization has fundamentally altered modern communication, business practices, and daily lifestyles, while having a profound impact on local cultures around the world. While some critics argue that globalization leads to the loss of unique local traditions, others argue that it enriches society through global exchange. In my opinion, globalization offers great cultural benefits, but active measures must be taken to preserve local traditions.
+### Answer
 
-On the one hand, opponents of globalization point out that foreign influences can weaken local cultural practices over time. Through the internet, global media, and international trade, young people are heavily exposed to foreign movies, Western fashion, fast food, and popular music. As a result, younger generations may lose interest in traditional clothing, native languages, local celebrations, and indigenous customs. For example, traditional culinary arts and regional folk music in many developing countries are increasingly being replaced by international corporate brands and global pop entertainment. If this process continues unchecked across multiple generations, distinct cultural identities risk disappearing completely.
+Globalization has changed the way people communicate, work and live. It has also had a strong influence on traditional cultures. Some people believe that globalization is causing local traditions to disappear, while others think that it helps people learn about different cultures. In my opinion, globalization has many cultural benefits, but local traditions should also be protected.
 
-On the other hand, supporters argue that globalization promotes cultural exchange and broadens people's horizons. International travel, digital media, and multicultural education make it easier for people to explore and appreciate different ways of life. This cross-cultural interaction helps reduce stereotypes, promotes tolerance, and encourages mutual respect between nations. Furthermore, globalization can actually help showcase local traditions on a global stage. Local crafts, traditional festivals, and regional cuisines can attract international tourists, providing financial support to local artisans and encouraging communities to maintain their heritage.
+On the one hand, globalization can weaken traditional cultures. People, especially young people, are now exposed to foreign films, music, fashion and food through the internet and social media. As a result, they may become less interested in their own traditional customs. For example, young people in some countries may prefer international fast food to traditional dishes or choose foreign music instead of local songs. Traditional clothing, languages and festivals may also become less popular. If this continues for many years, some cultural traditions could eventually disappear.
 
-In conclusion, although rapid globalization can cause a decline in traditional practices, it also provides valuable opportunities for learning and international connection. Societies should embrace global influences while actively implementing educational and cultural policies to preserve their distinct local identity.
+On the other hand, globalization gives people opportunities to learn about other cultures. International travel, social media and online communication allow people from different countries to interact easily. This can help people understand different lifestyles and reduce misunderstandings between cultures. Globalization can also help local traditions become internationally known. For example, traditional food, crafts and festivals can attract foreign tourists and create income for local communities. In this way, global attention can sometimes help protect local culture rather than destroy it.
+
+In conclusion, globalization can cause some traditional customs to become less popular, particularly among younger generations. However, it also allows people to learn from each other and share their cultures. I believe that countries should accept the benefits of globalization while making efforts to preserve their own traditions.
 
 ---
 
-## 6. Social Media and Relationships
+# 6. Social Media and Relationships
 
 ### Prompt
+
 Social media has become an important part of modern communication. Some people believe that these platforms damage social relationships, while others argue that they help people stay connected. Discuss both views and give your opinion.
 
-### Sample Answer
-Social media platforms have transformed modern communication, altering how individuals interact on a daily basis. While some people argue that these platforms erode real-world social relationships, others contend that they make maintaining personal connections far easier. In my opinion, social media is a positive tool when used in a balanced manner, though excessive screen time can diminish the quality of personal interactions.
+### Answer
 
-On the one hand, critics contend that spending excessive time on social media platforms weakens face-to-face relationships. When individuals spend hours scrolling through digital feeds or messaging online, they often pay less attention to family members and friends who are physically present. This reliance on virtual contact can lead to superficial communication, as text messages lack tone, body language, and emotional nuance, which can easily cause misunderstandings. Furthermore, constantly comparing one's real life to the idealized photos and lifestyle posts shared by others online can generate feelings of jealousy, low self-esteem, and social dissatisfaction.
+Social media has become an important part of everyday communication. Some people believe that it has a negative effect on relationships, while others think that it helps people remain connected. In my opinion, social media is useful when it is used properly, but excessive use can harm personal relationships.
 
-On the other hand, proponents emphasize that social media enables people to maintain contact across vast geographical distances. Families and friends separated by international work opportunities or education can communicate instantaneously through video calls, instant messaging, and group chats. In addition, social media platforms allow individuals to connect with online communities that share niche hobbies, professional goals, or academic interests. For instance, students can join global study groups to share learning resources, discuss academic topics, and receive encouragement from peers worldwide.
+On the one hand, spending too much time on social media can reduce face-to-face communication. People may spend hours looking at their phones instead of talking to their family members or friends. This can make relationships weaker over time. Online communication can also cause misunderstandings because messages do not always show a person's tone or feelings clearly. Furthermore, people often share only the best parts of their lives on social media. As a result, others may compare themselves with these unrealistic images and feel unhappy with their own lives.
 
-In conclusion, while social media can harm personal relationships if it completely replaces face-to-face interaction, it remains an invaluable tool for staying connected across long distances. Individuals should manage their screen time responsibly to ensure that digital communication enhances rather than replaces meaningful real-world relationships.
+On the other hand, social media makes communication much easier, particularly for people who live far away from each other. Family members and friends can use video calls, messages and group chats to stay in contact. This is especially useful for people who move to another country for work or education. Social media can also help people find others who have similar interests. For example, students can join online groups where they can discuss their studies and share useful information. Therefore, social media can help people maintain relationships despite geographical distance.
+
+In conclusion, social media can negatively affect relationships when people use it excessively and replace real-life communication with online interaction. However, it is a useful way to stay connected with people who live far away. Therefore, people should use social media in moderation.
 
 ---
 
-## 7. Free University Education
+# 7. Free University Education
 
 ### Prompt
+
 There is considerable debate about whether university education should be free for everyone or whether students should pay for it. Discuss both views and give your opinion.
 
-### Sample Answer
-The issue of funding higher education remains a subject of intense debate among policymakers and educators. While some people advocate for free university education for all citizens to promote social equality, others argue that students should contribute toward their own tuition costs. In my opinion, although higher education should be accessible, a shared funding model based on family income offers the fairest solution.
+### Answer
 
-On the one hand, advocates of free higher education argue that removing tuition fees creates equal opportunities for every citizen. Many academically gifted students from low-income families are unable to attend university due to high tuition fees and living expenses. If higher education were fully subsidized by the state, young people could pursue degrees according to their intellectual capabilities rather than their financial situation. Furthermore, a well-educated population provides broad societal benefits, as a higher number of university graduates leads to a more skilled workforce, driving national economic growth and technological innovation.
+There is a debate about whether university education should be free for everyone or whether students should pay for their studies. Some people believe that free education creates equal opportunities, while others argue that students should contribute to the cost. In my opinion, university education should be affordable, but students who can afford it should pay part of the cost.
 
-On the other hand, opponents contend that offering completely free university education places an unbearable financial burden on taxpayers. Operating modern universities requires vast amounts of capital to pay qualified professors, maintain research facilities, and upgrade campus infrastructure. If the state covers all education costs, governments may be forced to raise taxes or cut funding for other critical sectors, such as public healthcare and transport. Additionally, when students invest their own money in their education, they are generally more motivated to attend lectures, complete coursework, and graduate on time.
+On the one hand, free university education can provide opportunities for students from poor families. Many talented young people cannot attend university because their families cannot afford tuition fees and other expenses. If university education were free, these students would have a better chance to study and build successful careers. A highly educated population can also benefit a country because graduates can become skilled workers, doctors, engineers and teachers. This can support economic development and improve society as a whole.
 
-In conclusion, while free university education helps underprivileged students access higher qualifications, requiring tuition contributions ensures that academic institutions maintain high standards without overbalancing public finances. Governments should provide full subsidies or scholarships to low-income students, while allowing financially able students to contribute to their educational costs.
+On the other hand, providing free university education for everyone can put a heavy burden on governments. Universities need large amounts of money to pay teachers, maintain buildings, provide equipment and support research. If governments pay all these costs, they may have less money for healthcare, transport and other important services. In addition, wealthy families may not need financial support because they can afford university fees themselves. It may therefore be more reasonable to ask students from financially comfortable families to contribute to their education.
+
+In conclusion, free university education can help students from poor backgrounds and create greater equality. However, completely free education for everyone can place too much pressure on government budgets. I believe that governments should provide free education or large scholarships for students who cannot afford it, while other students should contribute according to their financial situation.
 
 ---
 
-## 8. Academic vs. Vocational Education
+# 8. Academic vs. Vocational Education
 
 ### Prompt
+
 People have different views about what students should study at school. Some believe academic subjects should be the main focus, whereas others argue that vocational training is equally important. Discuss both views and give your opinion.
 
-### Sample Answer
-Debate continues regarding the ideal curriculum structure in secondary education systems. While one group argues that schools should focus predominantly on traditional academic subjects, others maintain that practical vocational training is equally necessary. In my opinion, both educational pathways are essential, and schools should offer a balanced curriculum that accommodates diverse student strengths and career objectives.
+### Answer
 
-On the one hand, supporters of academic education emphasize that theoretical subjects build core intellectual capacities. Fields such as mathematics, physics, literature, and history teach students how to analyze complex information, think critically, and communicate clearly. These foundational skills are indispensable prerequisites for higher education and specialized professional careers in medicine, law, engineering, and scientific research. Without a rigorous academic background, students would lack the theoretical preparation required to succeed in advanced professional qualifications.
+People have different opinions about what students should learn at school. Some believe that schools should mainly teach academic subjects, while others think that vocational education is equally important. In my opinion, schools should provide both types of education because students have different abilities and career goals.
 
-On the other hand, proponents of vocational education stress that practical skills training prepares students directly for essential technical trades. Industries across the globe require skilled electricians, plumbers, carpenters, automotive mechanics, and hospitality workers. These hands-on professions keep essential infrastructure functioning and do not necessarily require a four-year university degree. Offering vocational training in secondary schools allows practical learners to gain job-ready skills, enabling them to secure stable employment quickly after graduation and helping lower youth unemployment rates.
+On the one hand, academic subjects provide students with important knowledge and thinking skills. Subjects such as mathematics, science, history and literature help students develop their ability to understand information and solve problems. These subjects are also necessary for students who want to continue their education at university. For example, students who want to become doctors, engineers or lawyers need a strong academic background. Therefore, academic education is important for many professional careers.
 
-In conclusion, while academic subjects provide the theoretical foundation required for professional careers, vocational training equips young people with practical skills needed in technical industries. Educational institutions should provide access to both options, enabling students to select a path that aligns with their personal strengths and future career plans.
+On the other hand, vocational education gives students practical skills that can be used directly in the workplace. Many industries need skilled workers such as electricians, plumbers, mechanics, cooks and construction workers. These jobs are important for society, even though they may not require a university degree. Vocational training can also help young people find employment soon after leaving school. For students who do not enjoy academic subjects, practical training may be a more suitable and useful option.
+
+In conclusion, academic education is important because it provides knowledge and prepares students for university and professional careers. However, vocational education also plays an important role by providing practical skills for the job market. I believe that schools should offer both options so that students can choose a path that suits their abilities and future plans.
 
 ---
 
-## 9. Online vs. Classroom Learning
+# 9. Online vs. Classroom Learning
 
 ### Prompt
+
 Online learning has become increasingly common, and people have different opinions about its effectiveness. Some believe it is better than traditional classroom education, while others prefer face-to-face instruction. Discuss both views and give your opinion.
 
-### Sample Answer
-The rapid advancement of digital technology has made online education a widely used alternative to traditional schooling, sparking debate over which approach is more effective. While online learning offers unmatched convenience and geographical flexibility, I believe that traditional classroom instruction remains superior for overall student development.
+### Answer
 
-On the one hand, advocates of online learning highlight its flexibility and accessibility. Distance learning allows students to review lectures, complete assignments, and attend webinars from home, eliminating commuting time and lowering transportation costs. This arrangement is particularly advantageous for working adults, parents, or individuals living in remote areas with limited local educational facilities. Furthermore, online platforms grant access to global courses and digitized learning materials, allowing students to learn at their own pace and revisit recorded lectures whenever necessary.
+Online learning has become increasingly popular because of the development of digital technology. Some people believe that it is better than traditional classroom education, while others prefer face-to-face teaching. In my opinion, online education has many advantages, but traditional classrooms are still more suitable for many students.
 
-On the other hand, traditional classroom settings offer direct human interaction that digital platforms cannot fully replicate. In a physical classroom, teachers can immediately observe when a student is confused and offer instant clarification or personal guidance. Moreover, attending physical classes encourages spontaneous discussions, group projects, and social bonding among classmates, which helps develop essential interpersonal and communication skills. The structured environment of a traditional classroom also provides a disciplined space that minimizes domestic distractions, helping younger students maintain focus.
+On the one hand, online learning is convenient and flexible. Students can attend classes from their homes without travelling to a school or university. This saves both time and money. Online education is particularly useful for people who have full-time jobs or live far away from educational institutions. Another advantage is that students can watch recorded lessons again if they do not understand something. They can also access courses from universities and teachers in other countries. Therefore, online learning provides opportunities that may not be available locally.
 
-In conclusion, although online education provides exceptional convenience and access to global learning materials, traditional classroom instruction offers crucial face-to-face interaction and structured guidance. A blended learning model that combines the flexibility of online materials with physical classroom instruction offers the most balanced educational experience.
+On the other hand, traditional classroom education provides direct interaction between teachers and students. Teachers can see when students are having difficulties and explain the topic immediately. Students can also ask questions and participate in discussions more naturally. In addition, classroom learning allows students to make friends and develop communication skills. Physical classrooms can also help students concentrate because there are usually fewer distractions than at home.
+
+In conclusion, online learning offers flexibility, convenience and access to a wide range of educational materials. However, classroom education provides direct communication, social interaction and a more structured learning environment. I believe that both methods are useful, and combining online resources with traditional classes could provide a good learning experience.
 
 ---
 
-## 10. School Uniforms
+# 10. School Uniforms
 
 ### Prompt
+
 Whether students should be required to wear school uniforms is a subject of debate. Some people believe uniforms create discipline and equality, while others think children should have freedom to choose their clothes. Discuss both views and give your opinion.
 
-### Sample Answer
-The requirement for students to wear standardized school uniforms remains a controversial topic among educators, parents, and students. While critics argue that compulsory uniforms restrict personal freedom, I believe that wearing uniforms brings significant social advantages by promoting equality and maintaining a disciplined academic environment.
+### Answer
 
-On the one hand, opponents of school uniforms maintain that clothing serves as a primary form of self-expression for young people. Allowing students to choose their daily attire encourages individuality, creativity, and personal decision-making. Furthermore, purchasing mandatory school uniforms can create an extra financial burden for parents, particularly when children grow rapidly and require new uniforms each academic year. Some critics also argue that rigid dress codes do not necessarily translate into better academic performance or improved classroom behavior.
+Whether students should wear school uniforms is a subject of debate. Some people believe that uniforms create discipline and equality, while others think students should be free to choose their clothes. In my opinion, school uniforms have several important benefits, although schools should make sure that they are affordable.
 
-On the other hand, proponents argue that standardized uniforms promote social equality among students from varying economic backgrounds. When all students wear identical clothing, visible differences in family income are minimized, reducing peer pressure to purchase expensive, branded attire. This can help prevent bullying and social isolation experienced by students from less affluent families. Additionally, uniforms give schools a professional atmosphere, reinforce campus security by making visitors easy to identify, and instill a sense of school pride and unity.
+On the one hand, allowing students to choose their own clothes gives them more freedom. Clothing is one way in which young people can express their personality and individual style. When students choose what they wear, they can develop their sense of independence and personal choice. In addition, school uniforms can be expensive, particularly for families with several children. Children also grow quickly, so parents may have to buy new uniforms regularly. Therefore, some parents may prefer their children to wear normal clothes that they already own.
 
-In conclusion, although allowing casual clothing encourages individual expression, the social benefits of compulsory school uniforms are far greater. Uniforms minimize peer pressure, promote equality, and foster a disciplined learning environment, provided schools keep uniform costs affordable for all families.
+On the other hand, school uniforms can create a greater sense of equality. When all students wear similar clothes, differences between rich and poor families become less visible. This can reduce pressure on students to wear expensive brands and may also reduce some forms of bullying. Uniforms can also make schools look more organised and professional. Furthermore, it is easier for teachers and security staff to identify students from the school, especially in crowded places. Wearing the same clothes can also create a stronger sense of belonging among students.
+
+In conclusion, allowing students to choose their own clothes gives them greater freedom and self-expression. However, I believe that uniforms provide useful social and educational benefits. Schools should therefore require uniforms while keeping their cost reasonable for parents.
 
 ---
 
-## 11. Video Games
+# 11. Video Games
 
 ### Prompt
+
 Video games are extremely popular among young people, but their effects are widely debated. Some people believe they have harmful effects, while others argue that they develop useful skills. Discuss both views and give your opinion.
 
-### Sample Answer
-Video games have become one of the most dominant forms of entertainment for young people today, leading to ongoing debate regarding their overall impact. While excessive gaming can negatively affect physical health and academic performance, I believe that playing video games in moderation helps develop valuable cognitive and social skills.
+### Answer
 
-On the one hand, critics point out that spending long hours playing video games can lead to a sedentary lifestyle, contributing to health issues such as obesity, eye strain, and poor sleep quality. Students who spend excessive time gaming often neglect their schoolwork, physical exercise, and family obligations. Furthermore, prolonged exposure to violent content in certain video games can make impressionable children desensitized to aggression or cause behavioral difficulties in classroom settings.
+Video games are very popular among young people, and their effects are widely debated. Some people believe that playing games has harmful effects, while others argue that games can develop useful skills. In my opinion, excessive gaming can cause problems, but playing video games for a limited amount of time can have some benefits.
 
-On the other hand, supporters argue that modern video games foster useful cognitive abilities. Many strategy, puzzle, and role-playing games require players to analyze complex information, solve problems, make rapid decisions, and remember intricate map layouts under time constraints. In addition, online multiplayer games require players to communicate clearly, collaborate with teammates, and formulate group strategies to achieve common objectives. Educational video games can also make learning subjects like history, mathematics, and science engaging for young students.
+On the one hand, spending too much time playing video games can negatively affect young people's health and education. Players may sit for many hours without doing enough physical exercise. This can contribute to weight problems and poor physical health. Gaming late at night can also reduce the amount of sleep that young people get. Furthermore, students who spend too much time playing games may neglect their homework and studies. Some games also contain violent content, which some parents believe may have a negative influence on children's behaviour.
 
-In conclusion, while excessive gaming poses clear risks to physical health and academic focus, playing video games in moderation offers cognitive and collaborative benefits. Parents and educators should monitor gaming habits and enforce sensible time limits so that young people can enjoy digital gaming while maintaining a healthy lifestyle.
+On the other hand, video games can help young people develop certain skills. Many games require players to solve problems, make decisions and remember information. Strategy games, for example, require players to plan their actions carefully. Multiplayer games can also teach communication and teamwork because players have to cooperate with others to achieve a common goal. In addition, some educational games can make learning more enjoyable by presenting information in an interactive way.
+
+In conclusion, excessive gaming can negatively affect physical health, sleep and education. However, video games can also improve problem-solving, decision-making and teamwork skills when they are played in moderation. Parents should therefore set reasonable limits so that children can enjoy games without allowing them to interfere with their studies and health.
 
 ---
 
-## 12. Environmental Responsibility
+# 12. Environmental Responsibility
 
 ### Prompt
+
 Environmental problems such as climate change, pollution and deforestation affect countries around the world. Some people believe international organizations should take primary responsibility, while others think individual actions are more effective. Discuss both views and give your opinion.
 
-### Sample Answer
-Global environmental issues, such as global warming, widespread pollution, and deforestation, pose severe threats to the planet's future. While some argue that international organizations must take primary responsibility for addressing these crises, others contend that individual actions are more influential. In my opinion, both levels of responsibility are vital, but international organizations and national governments possess the necessary authority to enact large-scale environmental changes.
+### Answer
 
-On the one hand, advocates of individual action argue that consumer choices directly drive global production and resource consumption. When millions of individuals make eco-friendly choices—such as utilizing public transportation, reducing single-use plastic, conserving home energy, and recycling waste—the cumulative environmental benefits are immense. Furthermore, shifts in consumer demand can pressure large corporations to adopt sustainable manufacturing methods, lower carbon emissions, and utilize recyclable packaging materials.
+Environmental problems such as climate change, pollution and deforestation are affecting countries around the world. Some people believe that international organisations should be mainly responsible for solving these problems, while others think that individuals can make a greater difference. In my opinion, both individuals and international organisations have important roles, but governments and international bodies can make larger changes.
 
-On the other hand, proponents of global governance emphasize that environmental problems cross national borders and require coordinated international solutions. Issues like oceanic pollution and global warming cannot be solved by individual consumer choices alone or by a single country operating independently. International organizations, such as the United Nations, can organize international climate summits, draft binding emission reduction targets, and hold national governments accountable. Moreover, large global bodies have the financial and technological resources to fund renewable energy initiatives and conservation projects in developing nations.
+On the one hand, individual actions can have a significant effect when millions of people participate. People can reduce their environmental impact by using public transport, saving electricity, recycling waste and avoiding unnecessary plastic products. For example, if a large number of people stop using single-use plastic bags, the amount of plastic waste could be reduced. Consumers can also influence companies by choosing environmentally friendly products. If customers prefer sustainable products, businesses may change their production methods to meet this demand.
 
-In conclusion, while individual conservation choices build essential public awareness and reduce everyday waste, international organizations hold the legislative and financial power required to enforce global environmental standards. A combination of global policy enforcement and responsible individual behavior provides the most effective framework for protecting the planet.
+On the other hand, international organisations and governments have greater power to deal with environmental problems on a large scale. Climate change and ocean pollution do not stop at national borders, so countries need to work together. International organisations can encourage countries to reduce pollution and protect forests and oceans. Governments can also introduce laws that force companies to reduce harmful emissions. In addition, large organisations can provide money and technology to developing countries so that they can use cleaner sources of energy.
+
+In conclusion, individuals can help the environment through their daily choices, but large environmental problems require action from governments and international organisations. I believe that both levels of action are necessary. Individuals should behave responsibly, while governments and international bodies should create effective policies and support large-scale environmental projects.
 
 ---
 
-## 13. Parents and Children's Choices
+# 13. Parents and Children's Choices
 
 ### Prompt
+
 Parents have a major influence on their children's development, but there is disagreement about how much control they should have. Some people believe parents should make important decisions for their children, while others think children need freedom. Discuss both views and give your opinion.
 
-### Sample Answer
-The balance between parental authority and childhood autonomy is a central topic in child development. While some people believe that parents should make all key decisions to safeguard their children's future, others contend that giving children personal freedom is essential for their growth. In my opinion, parents should provide close guidance during early childhood while gradually granting more independence as children mature.
+### Answer
 
-On the one hand, advocates of strong parental control argue that adults possess the life experience and maturity needed to make wise long-term decisions. Young children and teenagers often lack a full understanding of the future consequences of their choices, making them susceptible to poor decisions regarding education, health, and social relationships. For instance, without firm parental rules, a child might spend excessive hours playing online games or consuming unhealthy food, which can harm their health and academic progress. Direct parental intervention ensures that children remain focused on their long-term well-being.
+Parents have a strong influence on their children's development, but there are different opinions about how much control they should have. Some people believe that parents should make important decisions for their children, while others think children should have more freedom. In my opinion, parents should guide young children closely but gradually give them more independence as they grow older.
 
-On the other hand, proponents of child autonomy argue that personal freedom is necessary to build self-confidence, independence, and problem-solving skills. If parents control every choice, children may become overly dependent on adult approval and struggle to make independent decisions later in life. Allowing children to make personal choices regarding their hobbies, friendships, and academic interests teaches them to take responsibility for their actions and learn from their mistakes.
+On the one hand, parents have more experience and can often make better decisions for young children. Children may not fully understand the possible results of their choices. For example, a young child may want to spend many hours playing games instead of studying or may prefer unhealthy food every day. Parents can create rules to protect their children's health and education. They can also guide their children when they choose schools, subjects or friends. Therefore, some level of parental control is necessary, particularly when children are very young.
 
-In conclusion, while strong parental guidance is necessary during early childhood to protect young people from harmful decisions, excessive control impedes personal development. Parents should maintain clear boundaries for health and safety, while progressively offering greater freedom as children show maturity.
+On the other hand, children also need freedom to develop independence. If parents control every part of their children's lives, young people may become too dependent on them. They may find it difficult to make decisions when they become adults. Allowing children to choose their hobbies, clothes or some school activities can help them become more confident. They can also learn from their mistakes and understand that their choices have consequences.
+
+In conclusion, parents should provide strong guidance when children are young because they need protection and support. However, parents should not control every decision as their children grow older. I believe that children should gradually receive more freedom while parents continue to provide advice and set clear rules for important matters such as health and safety.
 
 ---
 
-## 14. Organic vs. Modern Farming
+# 14. Organic vs. Modern Farming
 
 ### Prompt
+
 There is debate about whether organic farming or modern agricultural technology is the best way to produce food. Some consider organic farming healthier and more sustainable, while others argue modern technology is needed for large-scale production. Discuss both views and give your opinion.
 
-### Sample Answer
-As the global population continues to expand, debate has intensified regarding whether organic farming or modern agricultural technology represents the most effective method for food production. While organic methods offer significant environmental and health advantages, I believe that modern agricultural technology is essential to ensure global food security.
+### Answer
 
-On the one hand, proponents of organic farming highlight its health benefits and environmental sustainability. Organic practices avoid synthetic chemical pesticides, artificial fertilizers, and genetically modified organisms, preventing harmful chemical runoff from contaminating soil and water systems. This approach preserves soil fertility, protects natural ecosystems, and promotes biodiversity. Furthermore, many consumers prefer organic food, believing it to be fresher and free from toxic residues, which creates a growing market for local farmers.
+As the world's population continues to increase, producing enough food has become an important issue. Some people believe that organic farming is healthier and better for the environment, while others think that modern farming technology is necessary to produce enough food. In my opinion, modern technology is important for food production, but farmers should also use environmentally friendly methods.
 
-On the other hand, advocates of modern agriculture argue that advanced technological methods are necessary to satisfy the world's soaring food demand. Modern farming utilizes high-yield crop varieties, automated machinery, advanced irrigation systems, and chemical fertilizers to maximize crop output per hectare. Without these high-efficiency techniques, agricultural yields would drop significantly, leading to food shortages and rising food prices globally. For populous and developing nations, modern farming technology provides a reliable and affordable food supply that organic methods currently cannot match on a large scale.
+On the one hand, organic farming has several environmental benefits. Organic farmers generally avoid or reduce the use of artificial chemicals and focus more on natural farming methods. This can help protect soil and water from harmful substances. Organic farming can also support biodiversity by creating better conditions for insects, birds and other animals. Many consumers also prefer organic food because they believe it is healthier. As demand for organic products increases, farmers may have more opportunities to sell their products at higher prices.
 
-In conclusion, although organic farming provides valuable environmental protections and high-quality produce, modern agricultural technology is indispensable for feeding the global population efficiently. Combining modern scientific innovations with sustainable farming practices offers the most practical approach to future food production.
+On the other hand, modern farming technology can produce larger amounts of food in a shorter period. Farmers can use machines, improved seeds, modern irrigation systems and other technologies to increase crop production. This is particularly important in countries with large populations where food demand is very high. Without modern farming methods, food production could be lower and food prices could increase. Technology can also help farmers save water and reduce the amount of labour required.
+
+In conclusion, organic farming can protect the environment and meet the growing demand for natural food. However, modern agricultural technology is important for producing enough food for a growing population. I believe that farmers should combine modern technology with environmentally friendly practices to create a more sustainable food system.
 
 ---
 
-## 15. International Aid
+# 15. International Aid
 
 ### Prompt
+
 International aid is often provided to poorer countries after natural disasters or during periods of economic difficulty. Some people believe this support is essential for development, while others argue that it creates dependency. Discuss both views and give your opinion.
 
-### Sample Answer
-Providing international assistance to developing countries during natural disasters or economic hardship is a central feature of global relations. While many people view foreign aid as an essential duty that promotes global development, critics contend that long-term assistance fosters economic dependency. In my opinion, international aid is vital during humanitarian emergencies, but long-term aid must focus on building economic self-sufficiency.
+### Answer
 
-On the one hand, supporters of foreign aid argue that immediate financial and material assistance saves lives during catastrophic events. Developing nations often lack the financial resources, infrastructure, and medical supplies needed to respond effectively to major floods, earthquakes, or disease outbreaks. In these emergency situations, foreign aid provides urgent medical supplies, food rations, clean water, and temporary shelter. Additionally, international funding can help build essential infrastructure, such as schools, hospitals, and roads, establishing a foundation for economic growth.
+International aid is often given to poorer countries after natural disasters or during economic difficulties. Some people believe that this support is necessary for development, while others argue that it can make countries dependent on foreign assistance. In my opinion, international aid is essential during emergencies, but long-term support should help countries become more self-reliant.
 
-On the other hand, opponents point out that continuous, unmanaged aid can harm a country's long-term economic development. When foreign assistance is provided continuously without clear strategic goals, local governments may become dependent on external funding rather than developing efficient tax systems or local industries. Furthermore, corrupt officials may mismanage foreign funds, preventing financial support from reaching the citizens who need it most. Long-term reliance on foreign aid can also undermine local agricultural and commercial markets, making the receiving nation less capable of solving its own problems.
+On the one hand, foreign aid can save lives during serious emergencies. Poorer countries may not have enough money, medical equipment or infrastructure to deal with major floods, earthquakes or other disasters. International organisations and wealthy countries can provide food, clean water, medicine and temporary accommodation. This support can help people survive difficult situations. International funding can also be used to build schools, hospitals and roads. These projects can improve living conditions and help a country develop its economy.
 
-In conclusion, while emergency international aid is necessary to save lives during crises, continuous aid can create economic reliance if poorly managed. Foreign assistance should focus on building sustainable local infrastructure, education systems, and industries to help developing countries achieve economic independence.
+On the other hand, long-term dependence on foreign aid can create problems. If a country receives financial support continuously, its government may become less motivated to develop local industries or improve its tax system. There is also a risk that foreign money may not be used properly because of poor management or corruption. In some cases, imported products provided through aid can also make it difficult for local farmers and businesses to compete. Therefore, aid should be carefully planned so that it supports development rather than creating permanent dependence.
+
+In conclusion, international aid is extremely useful during natural disasters and other emergencies because it can provide immediate support to people in need. However, continuous aid without a clear development plan may create dependence. I believe that long-term assistance should focus on education, infrastructure, skills and local industries so that poorer countries can eventually support themselves.
 
 ---
 
-## 16. Free Healthcare
+# 16. Free Healthcare
 
 ### Prompt
+
 Healthcare is an essential part of a healthy society, but there is disagreement about who should pay for it. Some people believe medical treatment should be free for everyone, while others think individuals should pay their own costs. Discuss both views and give your opinion.
 
-### Sample Answer
-The funding of healthcare services is a central debate in public policy across many nations. While one group argues that medical treatment should be provided free of charge to all citizens, others maintain that individuals should take personal responsibility for their healthcare expenses. In my opinion, basic healthcare services should be publicly funded by the state, though individuals should be allowed to pay for supplementary private medical services.
+### Answer
 
-On the one hand, advocates of universal free healthcare argue that access to medical treatment is a basic human right. If healthcare relies strictly on private payments, low-income individuals and vulnerable families may avoid seeking medical advice due to high costs, causing preventable illnesses to become severe or fatal. A state-funded public health system ensures that all citizens, regardless of financial standing, receive necessary medical care. Furthermore, a healthy population benefits the overall economy by maintaining workforce productivity and preventing widespread disease outbreaks.
+Healthcare is an essential part of a healthy society, but people have different opinions about who should pay for medical treatment. Some believe that healthcare should be free for everyone, while others think individuals should pay their own medical expenses. In my opinion, governments should provide free basic healthcare, while people can pay for additional private services if they want them.
 
-On the other hand, opponents argue that providing completely free healthcare creates a heavy financial burden on state budgets and taxpayers. Maintaining modern medical facilities, purchasing advanced equipment, funding pharmaceutical research, and paying medical staff require immense financial resources. If medical care is entirely free with no usage fees, public health systems can suffer from overcrowding, long waiting lists, and resource wastage. Therefore, critics suggest that personal contributions encourage people to utilize medical resources responsibly and lower pressure on public funds.
+On the one hand, free healthcare can ensure that everyone has access to medical treatment. Poor people may avoid visiting doctors if they have to pay high medical fees. As a result, a small health problem could become much more serious. A publicly funded healthcare system can make sure that people receive necessary treatment regardless of their income. This can also benefit society because healthy people are more able to work and contribute to the economy. In addition, free medical services can help control the spread of some diseases.
 
-In conclusion, while relying entirely on private healthcare funding creates severe social inequality, a fully free system can strain government finances. A dual system—where the state provides free public coverage for essential treatments while offering private care options for non-essential services—delivers the most balanced and sustainable approach.
+On the other hand, completely free healthcare can place a large financial burden on governments. Hospitals need money to pay doctors and nurses, buy medical equipment and maintain their buildings. If all services are free, hospitals may also become overcrowded because people may use medical services more frequently than necessary. This can lead to long waiting times. For this reason, some people believe that individuals should pay at least part of the cost, particularly for non-essential treatments.
+
+In conclusion, private healthcare can create financial difficulties for poor families, while a completely free system can put pressure on government budgets. I believe that governments should provide free basic medical treatment to all citizens. However, people who want additional or non-essential services should have the option of paying for private healthcare.
