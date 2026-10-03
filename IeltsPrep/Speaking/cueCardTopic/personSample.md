@@ -297,51 +297,49 @@ Overall, I think his popularity mainly comes from his long career and contributi
 
 ---
 
-# 18. A person who wears unusual clothes
+# 18. Describe a famous person you would like to meet
 
-I would like to talk about a person who immediately comes to mind, and that is my friend Rafi.
+I would like to talk about a famous person whom I would like to meet, and the person who immediately comes to my mind is Yanis, who is a well-known software engineer and competitive programmer.
 
-I have known him for several years, and he has a slightly different fashion sense from most people I know.
+I first came to know about him when I was at university. He was particularly famous among programmers because of his excellent problem-solving skills and his achievements in competitive programming. I was really impressed by his ability to solve difficult algorithmic problems, especially under time pressure.
 
-He sometimes wears brightly coloured shirts, unusual combinations of trousers and jackets, and traditional clothes in modern styles.
+If I had the opportunity to meet him, I would like to have a long conversation with him about his programming journey. I would ask him how he started competitive programming, what difficulties he faced, and how he managed to become such a skilled programmer. I would also ask him about algorithms, data structures, and how to approach difficult problems when we are under pressure.
 
-I remember one occasion when he attended a casual gathering wearing a colourful shirt with a formal-looking jacket. At first, I thought the combination was quite unusual.
+Actually, I have already had an opportunity to meet him when I was at university. I met him with some of my close friends, and we discussed his journey and experiences. He shared several useful techniques with us, and we listened to him carefully. I learned a lot from that conversation, particularly about problem-solving and competitive programming.
 
-Although his clothing is different from mine, I think it suits his personality because he enjoys expressing himself through fashion.
+Overall, I would like to meet him again because I find his journey very inspiring. His experience has helped me improve my own problem-solving skills, and I believe another conversation with him would be extremely valuable for me.
 
-Overall, I find his clothes unusual, but I respect the fact that he is confident enough to wear what he likes.
-
----
-
-# 19. A famous person you would like to meet
-
-I would like to talk about a famous person I would like to meet, and that is Shakib Al Hasan.
-
-He is a famous Bangladeshi cricketer who has had a long career in international cricket. I have followed his career for many years, so meeting him would be quite exciting for me.
-
-If I had the opportunity to meet him, I would ask him about his training routine, his experiences in international cricket and how he prepares for important matches.
-
-I would also take a photograph with him as a memory.
-
-Although I could ask him many questions, I would particularly like to know how professional athletes maintain their discipline.
-
-Overall, I would like to meet him because I could learn more about the dedication and preparation required to perform at a high level.
 
 ---
 
-# 20. A friend from your childhood
+# 19.Describe a friend from your childhood
 
-I would like to talk about a friend from my childhood, and that is Rafi.
+I would like to talk about a friend who immediately comes to my mind, and his name is Yanis. Although I did not know him from my early childhood, we became very close friends during our university years, and I have many good memories with him.
 
-I met him when we were children because we lived in the same area and often played together.
+We met at university when we were studying computer science. At first, we were not particularly close, but we gradually became friends because we attended the same programming classes. Both of us were interested in coding and problem-solving, so we often spent time together after our classes.
 
-Whenever we had free time, we used to play football, ride bicycles and spend long afternoons outside with other children.
+We used to solve programming problems, discuss different solutions, and sometimes participate in programming contests together. Whenever one of us faced a difficult problem, we would discuss it and try to find a suitable solution. Because we had the same interest, we naturally became very close friends.
 
-I particularly remember one summer when we spent almost every afternoon playing football together. We did not have expensive equipment; we simply played in an open field near our homes.
+One thing I particularly remember about him is that he was very hardworking and curious. He was always interested in learning new algorithms and improving his programming skills. Sometimes we spent several hours together trying to understand a difficult problem, and those moments were both challenging and enjoyable.
 
-Although we are both much busier now, I still remember those days because they were simple and enjoyable.
+I remember this friend so well because we shared the same passion and supported each other during our university life. Even though we were initially just classmates, our common interest in programming brought us closer. We had many enjoyable and educational experiences together, so he became an important part of my university memories.
 
-Overall, I remember him so well because he was an important part of my childhood and some of my happiest early memories.
+Overall, I feel lucky to have had a friend like him because our friendship was based not only on spending time together but also on learning and helping each other.
+
+
+---
+
+# 20.Describe a famous person you would like to meet
+I would like to talk about a famous person whom I would like to meet, and the person who immediately comes to my mind is Yanis, who is a well-known software engineer and competitive programmer.
+
+I first came to know about him when I was at university. He was particularly famous among programmers because of his excellent problem-solving skills and his achievements in competitive programming. I was really impressed by his ability to solve difficult algorithmic problems, especially under time pressure.
+
+If I had the opportunity to meet him, I would like to have a long conversation with him about his programming journey. I would ask him how he started competitive programming, what difficulties he faced, and how he managed to become such a skilled programmer. I would also ask him about algorithms, data structures, and how to approach difficult problems when we are under pressure.
+
+Actually, I have already had an opportunity to meet him when I was at university. I met him with some of my close friends, and we discussed his journey and experiences. He shared several useful techniques with us, and we listened to him carefully. I learned a lot from that conversation, particularly about problem-solving and competitive programming.
+
+Overall, I would like to meet him again because I find his journey very inspiring. His experience has helped me improve my own problem-solving skills, and I believe another conversation with him would be extremely valuable for me.
+
 
 ---
 
