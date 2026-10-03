@@ -345,49 +345,42 @@ Overall, I remember him so well because he was an important part of my childhood
 
 ---
 
-# 21. A person who inspired you to do something interesting
+# 21. Describe a person who likes to grow plants
 
-I would like to talk about a person who immediately comes to mind, and that is my uncle Yanis.
+I would like to talk about a person who immediately comes to mind, and that is Yannis. He is a software engineer, but apart from his professional life, he is also quite passionate about protecting the environment.
 
-I have known him since my childhood, and he has influenced me in several ways. One particularly interesting thing he inspired me to do was grow plants at home.
+He has a small garden in front of his house where he regularly grows trees and flowers. He also tries to reduce the amount of plastic he uses and encourages other people to dispose of their waste in appropriate places. Whenever he talks to his friends or neighbors, he often raises awareness about keeping the environment clean and avoiding unnecessary plastic.
 
-He showed me how to plant a small tree and explained why taking care of plants was important.
+I think he became interested in environmental protection because he enjoys spending time in nature. He believes that a clean environment provides fresh air and contributes to a healthier lifestyle. He also thinks that if people take small steps in their daily lives, they can collectively make a significant difference.
 
-At first, I was not particularly interested in gardening. However, after seeing how much satisfaction he got from it, I decided to try it myself.
-
-Although it seemed like a very simple activity, I gradually started enjoying it.
-
-Overall, I felt really positive after doing it because I realised that spending time with nature can be both relaxing and rewarding.
-
+I really appreciate what he does because he does not simply talk about protecting nature; he actually takes practical steps himself. For example, he grows plants, reduces plastic use, and encourages others to behave responsibly. His actions have also influenced me, and they have made me more conscious of my own responsibility towards the environment.
 ---
 
 # 22. A person who likes to grow plants
 
-I would like to talk about a person who immediately comes to mind, and that is my uncle Yanis.
+I would like to talk about a person who immediately comes to mind, and that is Yannis. He is a software engineer and has been working in this field for around twenty years. Although he is quite busy with his work, he still manages to spend some of his free time gardening.
 
-I have known him since my childhood, and he has enjoyed gardening for many years. He grows flowers, vegetables and several small fruit trees.
+He has a small garden in front of his house where he grows different types of plants, including fruit trees and flowers. Whenever he has some free time, he takes care of the plants, waters them, and sometimes plants new ones. I remember visiting his house on one occasion, and I saw him working in his garden. He looked very relaxed and happy while taking care of the plants.
 
-He mainly grows these plants in the garden around his house, where there is enough sunlight.
+I once asked him why he enjoyed gardening so much. He told me that he loved being connected with nature and that gardening helped him relax after a busy day at work. He also believes that plants make the surroundings more beautiful and provide fresh air.
 
-Whenever he has some free time, particularly at weekends, he waters the plants, removes weeds and checks their condition.
-
-Although gardening can be time-consuming, he really enjoys it because it helps him relax after a busy working week.
-
-Overall, I think gardening gives him a sense of peace and achievement, especially when he sees the plants becoming healthier.
+At first, I was not particularly interested in gardening because I preferred spending my free time indoors. However, after seeing how much he enjoyed it, I gradually understood its benefits. His interest in gardening has actually influenced me, and now I think taking care of plants can be a very enjoyable and meaningful hobby.
 
 ---
 
 # 23. An old person who has had an interesting life
 
-I would like to talk about an old person who immediately comes to mind, and that is my uncle Yanis.
+I would like to talk about a person who immediately comes to mind, and that is Yannis. He is a software engineer and has been working in this field for around twenty years. I have known him since my childhood, so I have had the opportunity to learn a lot about his life and career.
 
-I have known him since my childhood, and he has experienced many interesting things throughout his life. He grew up in a relatively simple environment and later moved to a different city for work.
+I find his life particularly interesting because he started his career at a time when technology was not as advanced as it is today. For example, people mainly communicated in person or through traditional methods, and software developers had to build applications without the assistance of artificial intelligence.
 
-During his early career, he faced several difficulties, but he continued working hard and eventually established a stable professional life.
+Nowadays, AI can make many tasks easier for developers, but when I think about the software he developed in the past, I realize that he had to rely much more on his own knowledge and problem-solving skills. He had to spend a great deal of time researching problems and finding solutions manually.
 
-I remember listening to him talk about his younger days, particularly how technology and society have changed over the years. He has witnessed enormous changes in communication, transportation and everyday life.
+What fascinates me most is how he adapted to technological changes over the years. He has experienced a major transformation in the software industry, from traditional development methods to modern tools and AI-based technologies.
 
-Although his life has not been perfect, he has learned many valuable lessons from his experiences.
+I have learned a lot from talking to him, particularly about his professional experience and how technology has changed over time. His life has influenced me because it has shown me the importance of continuously learning and adapting to new technologies.
+
+Overall, I find his life interesting because he has witnessed and experienced a significant transformation in both technology and society.
 
 Overall, I find his life interesting because **he has experienced different stages of society and has learned to adapt to major changes.**
 
