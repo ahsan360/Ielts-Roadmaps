@@ -1,77 +1,53 @@
-# IELTS Speaking Part 2 — People & Relationships
+# IELTS Speaking Cue Cards — Band 6.5
 
-## MASTER STRUCTURE
+## 1. Describe a person who likes to look after the natural world
 
-Use this structure for almost every person cue card:
+I would like to talk about a person who immediately comes to my mind, and that person is Yanis, who is a software engineer and a very kind-hearted person.
 
-1. **Opening** — I would like to talk about...
-2. **Who + relationship**
-3. **Main topic**
-4. **A small example**
-5. **Why**
-6. **Feeling / conclusion**
+I have known him for several years, and what I like most about him is that he does not focus only on his professional career. Although he is usually busy with his work, he always tries to do something useful for the environment and the community.
 
-### Core sentences to memorise
+For example, he enjoys gardening and planting trees around his house. He also tries to raise awareness among local people about protecting the environment. Whenever he notices that people are not disposing of their waste properly, he talks to them and explains how they can manage their rubbish in a better way.
 
-> I would like to talk about a person who immediately comes to mind, and that is my uncle Yanis.
+I particularly remember one occasion when I visited his house and saw him working in his garden. He asked me to help him, but at first, I was not very interested because I did not have enough knowledge about gardening. However, he gradually explained the benefits of planting trees and looking after the environment. He told me that a clean and green environment can make our surroundings healthier, which can ultimately help us lead a better life.
 
-> I have known him since my childhood, and we have always had a close relationship.
+I really appreciate what he does because he does not simply talk about protecting nature; he actually takes action. His behaviour has also influenced me to become more conscious of the environment.
 
-> What I particularly like about him is that he is very consistent and always tries to do something useful.
-
-> Although he is quite busy with his work, he always makes time for the things he considers important.
-
-> I remember one occasion when I saw him doing this, and I was quite impressed by his attitude.
-
-> Overall, I really admire him because he has had a positive influence on me.
+Overall, I feel proud to know someone like Yanis because he is making small but meaningful contributions to the natural world.
 
 ---
 
-# 1. A person who likes to look after the natural world
+## 2. Describe a person who is good at learning and speaking new languages
 
-I would like to talk about a person who immediately comes to mind, and that is my uncle Yanis.
+I would like to talk about a person who immediately comes to my mind, and that person is Yanis, who is one of my close friends.
 
-I have known him since my childhood, and we have always had a close relationship. He is particularly interested in looking after the natural world. Whenever he has some free time, he tends to plant trees around his house and take care of them. He also tries to reduce the use of plastic and keeps his surroundings clean.
+He can speak several languages, including Bangla and English, and recently he has started learning German because he is planning to move to Germany. I have noticed that he can learn new things quite quickly, which is why I think he is particularly good at learning languages.
 
-I remember one occasion when I visited his house and saw him planting a small tree. He explained to me that although one person cannot solve all environmental problems, everyone can make a small contribution.
+He usually learns languages through different online resources. For example, I have seen him watching YouTube videos to improve his pronunciation and vocabulary. He also uses an application called Duolingo, which provides short exercises for speaking, listening, reading, and vocabulary. I have tried this application myself, so I know that it can be quite useful for beginners.
 
-What I particularly like about him is that he does not simply talk about protecting nature; he actually takes action.
+What I find particularly impressive is that he knows how to practise effectively. Instead of simply memorising words, he tries to use them in sentences and practise them regularly. Whenever he learns something new, he tries to use it in real conversations, which helps him remember it more easily.
 
-Overall, I really admire him because his attitude has made me more conscious of environmental issues.
+I believe he is good at learning languages because he is consistent and knows how to use different learning methods. He also does not become discouraged when something is difficult. If he does not understand something, he looks for another resource or practises it again.
 
----
-
-# 2. A person who is good at learning and speaking new languages
-
-I would like to talk about a person who immediately comes to mind, and that is my uncle Yanis.
-
-I have known him since my childhood, and we have always had a close relationship. One thing I particularly admire about him is his ability to learn languages. He can speak Bangla and English, and he has also been learning German.
-
-He learned these languages mainly through regular practice. Whenever he learns a new word, he tries to use it in conversation, and he also watches videos and listens to native speakers.
-
-I remember that when he started learning German, he found the pronunciation difficult, but he continued practising every day.
-
-Although he does not understand everything immediately, he keeps practising until he becomes comfortable.
-
-Overall, I admire his language-learning ability because it shows me that consistency can be more important than natural talent.
+Overall, I think Yanis is a talented language learner because he is motivated, consistent, and willing to practise regularly. I believe that if he continues learning German in this way, he will gradually become much more fluent.
 
 ---
 
-# 3. A person who loves to grow plants
+## 3. Describe a person you know who loves to grow plants at home or in the garden
 
-I would like to talk about a person who immediately comes to mind, and that is my uncle Yanis.
+I would like to talk about a person who immediately comes to my mind, and that person is Yanis, who is a software engineer and one of my close friends.
 
-I have known him since my childhood, and he has always been interested in gardening. He grows different kinds of plants, including flowers, vegetables and some fruit trees.
+He has been working as a software engineer for several years, but he does not spend all his time working. In his free time, he really enjoys gardening and growing different types of plants around his house.
 
-Whenever he has some free time, particularly at weekends, he waters the plants, removes weeds and checks whether they are growing properly.
+He mainly grows flowers, vegetables, and small trees. He also sometimes plants trees along roadsides and in other places where people can benefit from them. Although he is usually busy with his professional work, he tries to spend some of his free time looking after his plants.
 
-I remember visiting his house one weekend and seeing several new plants in his garden. He told me that gardening helps him relax after a busy week.
+I have seen him taking part in different social activities related to the environment. For example, he sometimes talks to his neighbours about keeping their surroundings clean and disposing of waste properly. He believes that if people work together to keep their neighbourhood clean and green, everyone can enjoy a healthier environment.
 
-Although gardening can be quite time-consuming, he really enjoys it because he feels satisfied when he sees the plants growing.
+I think he enjoys growing plants because he likes nature and wants to make his surroundings more beautiful. Gardening also gives him an opportunity to relax after a busy day at work. Whenever he spends time in his garden, he feels refreshed and satisfied because he can see the results of his effort.
 
-Overall, I think gardening gives him a sense of peace and achievement.
+What I particularly admire about him is that he does not simply talk about protecting nature; he takes practical action. His activities have also influenced me because they have made me more aware of the importance of trees and a clean environment.
 
----
+Overall, I think Yanis enjoys growing plants because it allows him to connect with nature, contribute to his community, and create a healthier environment for everyone.
+
 
 # 4. A person who has a successful business
 
