@@ -295,53 +295,51 @@ Although there are many famous people in Bangladesh, he is particularly recognis
 
 Overall, I think his popularity mainly comes from his long career and contribution to Bangladeshi cricket.
 
----
+# 1. Describe a famous person you would like to meet
 
-# 18. Describe a famous person you would like to meet
+I would like to talk about a famous person whom I would like to meet, and the person who immediately comes to my mind is Yanis. He is a well-known software engineer as well as a highly successful competitive programmer.
 
-I would like to talk about a famous person whom I would like to meet, and the person who immediately comes to my mind is Yanis, who is a well-known software engineer and competitive programmer.
+I first came to know about him when I was at university. He was particularly famous among programmers because of his excellent problem-solving skills. He has solved a huge number of algorithmic and data-structure problems, and I was really impressed by his ability to solve difficult problems under time pressure.
 
-I first came to know about him when I was at university. He was particularly famous among programmers because of his excellent problem-solving skills and his achievements in competitive programming. I was really impressed by his ability to solve difficult algorithmic problems, especially under time pressure.
+If I had the opportunity to meet him, I would definitely ask him about his journey and how he managed his time effectively. I would also like to know what resources he used to improve his programming skills and how he dealt with difficult situations during programming contests. In addition, I would seek his advice about the appropriate path to becoming a skilled programmer and a successful software engineer.
 
-If I had the opportunity to meet him, I would like to have a long conversation with him about his programming journey. I would ask him how he started competitive programming, what difficulties he faced, and how he managed to become such a skilled programmer. I would also ask him about algorithms, data structures, and how to approach difficult problems when we are under pressure.
+I think meeting him would be a life-changing experience for me because I could learn directly from his real-life experiences. His journey could give me a better understanding of how to improve my skills and achieve my professional goals.
 
-Actually, I have already had an opportunity to meet him when I was at university. I met him with some of my close friends, and we discussed his journey and experiences. He shared several useful techniques with us, and we listened to him carefully. I learned a lot from that conversation, particularly about problem-solving and competitive programming.
-
-Overall, I would like to meet him again because I find his journey very inspiring. His experience has helped me improve my own problem-solving skills, and I believe another conversation with him would be extremely valuable for me.
-
+Overall, I would really like to meet Yanis because I find his experience extremely valuable and inspiring. I believe that having a conversation with him could be a major breakthrough in my personal and professional development.
 
 ---
 
-# 19.Describe a friend from your childhood
+# 2. Describe a friend from your childhood
 
-I would like to talk about a friend who immediately comes to my mind, and his name is Yanis. Although I did not know him from my early childhood, we became very close friends during our university years, and I have many good memories with him.
+I would like to talk about a friend who immediately comes to my mind, and his name is Yanis. I have known him since my childhood because we lived very close to each other. In fact, his house was in my neighbourhood, so we grew up together and shared many memorable experiences.
 
-We met at university when we were studying computer science. At first, we were not particularly close, but we gradually became friends because we attended the same programming classes. Both of us were interested in coding and problem-solving, so we often spent time together after our classes.
+We went to school together and spent a lot of time studying and playing together. Later, we also attended the same university, which made our friendship even stronger. Since we had similar interests and choices, we naturally became very close friends.
 
-We used to solve programming problems, discuss different solutions, and sometimes participate in programming contests together. Whenever one of us faced a difficult problem, we would discuss it and try to find a suitable solution. Because we had the same interest, we naturally became very close friends.
+We usually spent time together, and whenever we went somewhere, we often tried to go together. We also discussed our studies, future plans, and different challenges in our lives. Whenever one of us faced a difficulty, we would share our experiences and try to find a solution together.
 
-One thing I particularly remember about him is that he was very hardworking and curious. He was always interested in learning new algorithms and improving his programming skills. Sometimes we spent several hours together trying to understand a difficult problem, and those moments were both challenging and enjoyable.
+One thing I particularly remember about Yanis is that we have always supported each other. Even now, we are planning to move abroad together, which shows how close our friendship has remained over the years.
 
-I remember this friend so well because we shared the same passion and supported each other during our university life. Even though we were initially just classmates, our common interest in programming brought us closer. We had many enjoyable and educational experiences together, so he became an important part of my university memories.
+I remember him so well because we have shared a large part of our lives. From childhood and school life to university and our future plans, we have experienced many things together.
 
-Overall, I feel lucky to have had a friend like him because our friendship was based not only on spending time together but also on learning and helping each other.
-
-
----
-
-# 20.Describe a famous person you would like to meet
-I would like to talk about a famous person whom I would like to meet, and the person who immediately comes to my mind is Yanis, who is a well-known software engineer and competitive programmer.
-
-I first came to know about him when I was at university. He was particularly famous among programmers because of his excellent problem-solving skills and his achievements in competitive programming. I was really impressed by his ability to solve difficult algorithmic problems, especially under time pressure.
-
-If I had the opportunity to meet him, I would like to have a long conversation with him about his programming journey. I would ask him how he started competitive programming, what difficulties he faced, and how he managed to become such a skilled programmer. I would also ask him about algorithms, data structures, and how to approach difficult problems when we are under pressure.
-
-Actually, I have already had an opportunity to meet him when I was at university. I met him with some of my close friends, and we discussed his journey and experiences. He shared several useful techniques with us, and we listened to him carefully. I learned a lot from that conversation, particularly about problem-solving and competitive programming.
-
-Overall, I would like to meet him again because I find his journey very inspiring. His experience has helped me improve my own problem-solving skills, and I believe another conversation with him would be extremely valuable for me.
-
+Overall, I feel fortunate to have a friend like Yanis because our friendship is based on trust, shared interests, and mutual support.
 
 ---
+
+# 3. Describe a person who inspired you to do something interesting
+
+I would like to talk about a person who immediately comes to my mind, and that person is Yanis. He is a software engineer as well as one of the kindest and most helpful people I have ever met.
+
+What I like most about him is that he is always willing to help others, even though he is usually very busy. Whenever I or someone else asks him for help, he tries his best to make time for them. His attitude towards other people has really influenced me.
+
+Apart from his professional life, he also takes part in different activities. For example, he does gardening and plants trees around his house. He also participates in social activities and tries to raise awareness about different issues. I found these activities particularly interesting because he does not simply talk about making a difference; he actually takes action.
+
+Because of his behaviour, I became more interested in helping other people and contributing to my community. He showed me that even small actions can have a positive impact if we do them regularly. His lifestyle also encouraged me to become more responsible towards other people and the natural environment.
+
+After seeing what he does, I felt inspired and motivated. I realised that being successful is not only about having a good career; it is also about helping others and contributing to society.
+
+Overall, Yanis has had a positive influence on me because he leads by example. I particularly admire the fact that he does not just talk about good ideas; he takes practical action, and that is what makes him an inspiring person to me.
+
+
 
 # 21. Describe a person who likes to grow plants
 
