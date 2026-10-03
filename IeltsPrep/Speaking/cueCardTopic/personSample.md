@@ -99,53 +99,58 @@ I feel positive about his choice because medicine is a profession that requires 
 
 Overall, I respect his decision because becoming a doctor is a demanding but meaningful career. I hope he will achieve his goal and become a successful medical professional in the future.
 
-# 7. A child who loves drawing/painting
+# IELTS Speaking Cue Cards — Band 6.5
 
-I would like to talk about a child who immediately comes to mind, and that is my cousin's daughter, Inaya.
+## 35. Describe a child who loves drawing/painting
 
-I know her because she is a member of my extended family, and I have watched her grow up. She particularly enjoys drawing flowers, animals, houses and colourful landscapes.
+I would like to talk about a child who immediately comes to my mind, and that is Yanis, who is a very lovely and talented child.
 
-Whenever she has some free time, she takes a notebook and some coloured pencils and starts drawing. She sometimes shows her drawings to the whole family.
+I have known him since he was born, so I have watched him grow up. He became interested in drawing when he was in the first grade, and he has continued drawing until now. Although he is only about five years old, he can draw surprisingly well for his age.
 
-I remember one occasion when she drew a picture of our family house. Although the drawing was quite simple, she included many small details, which really surprised me.
+I remember one day when he showed me one of his drawings. I was really surprised because it looked like something a ten- or twelve-year-old child could draw. He usually spends his free time watching drawing videos on YouTube and then tries to copy or practise the same types of pictures.
 
-What I particularly like about her drawings is that they are very imaginative.
+He also likes drawing things that he sees around him. For example, if he sees an interesting picture or object, he tries to draw it in his own way.
 
-Overall, I feel that she has considerable potential, and I hope she continues developing her artistic skills.
+I think he is naturally talented and has a strong interest in drawing. I really enjoy looking at his drawings because they are quite impressive for such a young child.
 
----
-
-# 8. A friend who learned something without a teacher
-
-I would like to talk about a friend who immediately comes to mind, and that is Rafi.
-
-I have known him for several years, and one thing I admire about him is his ability to learn things independently. He taught himself how to play the guitar without taking formal lessons.
-
-At first, he did not know much about music, but he started watching free tutorials online. Whenever he had some free time, he practised basic chords and gradually learned to play complete songs.
-
-I remember listening to him play for the first time, and I was quite surprised because he had learned everything by himself.
-
-Although learning something without a teacher can be difficult, he remained patient and consistent.
-
-Overall, I feel that his achievement is impressive because it demonstrates his determination and independence.
+Overall, I feel that he has good artistic ability, and I hope he continues practising because he could become an excellent artist in the future.
 
 ---
 
-# 9. A person who often helps others
+## 36. Describe one of your friends who learned something without a teacher
 
-I would like to talk about a person who immediately comes to mind, and that is my uncle Yanis.
+I would like to talk about one of my friends, Yanis, who learned computer programming and web development without a teacher.
 
-I have known him since my childhood, and he has always been supportive towards other people. Whenever someone faces a problem, he usually tries to give them practical advice or help them find a solution.
+He has always been interested in computers, so he decided to learn software engineering on his own. Instead of joining a formal course, he watched educational videos on YouTube and practised by building small projects.
 
-For example, I remember that one of his neighbours once had difficulty completing some paperwork. My uncle spent some time explaining the process and helped him complete it.
+I remember one day when he showed me a web application that he had created completely by himself. I was really surprised because he had developed it without the help of a teacher or a mentor. He had spent a lot of time watching tutorials, practising, and solving problems on his own.
 
-Although he is also quite busy with his own responsibilities, he still makes time for other people.
+What impressed me most was his patience and determination. Whenever he faced a difficult problem, he searched for information online and tried different solutions until he understood the problem.
 
-I think he likes helping others because he feels satisfied when he can make someone's life a little easier.
+His achievement also influenced me personally. He encouraged me not to wait for other people to teach me everything. Instead, he told me that I should take responsibility for my own learning and keep practising.
 
-Overall, I really appreciate this quality because even a small act of kindness can have a significant impact.
+I really admire this achievement because learning something difficult without a teacher requires a lot of discipline and patience.
+
+Overall, I think Yanis is a good example of a self-taught learner, and his experience motivated me to become more independent in my own learning.
 
 ---
+
+## 38. Describe a person who often helps others
+
+I would like to talk about a person who immediately comes to my mind, and that is Yanis. He is a software engineer and also a very helpful person.
+
+Although he is usually quite busy, he still tries to help other people whenever they face difficulties. For example, whenever I have a problem, especially with programming or problem-solving, I ask him for help, and he is always willing to support me.
+
+What I really appreciate about him is that he does not simply give me the answer. Instead, he listens to my problem carefully and gives me some useful hints so that I can solve it by myself.
+
+I remember one particular situation when I was struggling with a difficult problem-solving question. I asked him for help, and instead of giving me the complete solution, he explained the main idea and gave me a few hints. Gradually, I understood the problem and solved it myself.
+
+After solving it, I felt much more confident because I realised that I could deal with difficult problems if I stayed calm and thought carefully.
+
+I think Yanis likes helping others because he enjoys sharing his knowledge and seeing other people improve. He also understands that simply giving someone an answer does not always help them learn.
+
+Overall, I really appreciate his helpful nature because he not only solves my problems but also teaches me how to become more independent and confident.
+
 
 # 10. A person who solved a problem in a smart way
 
