@@ -49,53 +49,55 @@ What I particularly admire about him is that he does not simply talk about prote
 Overall, I think Yanis enjoys growing plants because it allows him to connect with nature, contribute to his community, and create a healthier environment for everyone.
 
 
-# 4. A person who has a successful business
+# IELTS Speaking Cue Cards — Band 6.5
 
-I would like to talk about a person who immediately comes to mind, and that is my uncle Yanis.
+## 28. Describe a person you know who has a successful business
 
-I have known him since my childhood, and he has been involved in a small family business for several years. The business mainly sells everyday household products to people in the local area.
+I would like to talk about a person who immediately comes to my mind, and that person is Yanis, who runs a successful software agency. He is a software engineer as well as a successful businessman.
 
-His business became successful because he focuses on providing good products and treating customers politely. Whenever customers have problems, he tries to find a practical solution.
+I came to know about his business through our friendship, and I have also had the opportunity to work with him. His agency gets projects from platforms such as Upwork, where he communicates with clients and provides software development services.
 
-I remember that the business was quite small when it first started, but it gradually attracted more customers through good service and word-of-mouth recommendations.
+I personally worked with him on one occasion when he had a tight schedule and needed additional support. During that time, I noticed that he was very organised and professional. He always tried to complete his projects on time and maintain good communication with his clients.
 
-Although running a business can be challenging, he never gives up easily.
+I think his business is successful because he provides good-quality services and manages his projects effectively. As his business has grown, he has hired more software engineers as well as employees for other departments. This shows that his agency is gradually expanding.
 
-Overall, I think his business is successful because of his patience, hard work and consistency.
+Although running a software agency can be challenging, he has managed to develop his business through hard work, good management, and strong relationships with his clients.
 
----
-
-# 5. A person who works in a successful company
-
-I would like to talk about a person who immediately comes to mind, and that is my uncle Yanis.
-
-I have known him since my childhood, and he currently works as a software engineer at a successful technology company.
-
-His main responsibility is to develop software and solve technical problems. He also works with other engineers to build and maintain digital products.
-
-I remember that he once told me that he had to solve a difficult technical problem at work. Although it took him several hours, he eventually found a solution by working with his colleagues.
-
-I think the company is successful because it provides useful technology-based services and continuously improves its products.
-
-Overall, I find his career interesting because he has to learn new things and solve different problems regularly.
+Overall, I consider Yanis a successful businessman because he has built a growing software agency while creating job opportunities for other professionals. I believe his business can become even more successful in the future.
 
 ---
 
-# 6. A person who would like to choose a career in the medical field
+## 30. Describe a person who works in a successful company
 
-I would like to talk about a person who immediately comes to mind, and that is my friend Rafi.
+I would like to talk about a person who works for a successful company, and the person who immediately comes to my mind is Yanis, who works as a software engineer at Google.
 
-I have known him for several years, and he has always been interested in science and helping other people. He would like to choose a career in the medical field, particularly because he wants to become a doctor.
+Google is one of the world's most well-known technology companies, and it is widely recognised for its search engine, online services, and technological products. It is also considered one of the world's major technology companies.
 
-He believes that healthcare professionals can make a direct difference in people's lives. He is also interested in learning about the human body and different diseases.
+I have known Yanis for several years, and we have met several times to discuss our professional experiences. Since I am also a software engineer, I often talk to him about career development and opportunities in the technology industry.
 
-I remember that whenever we discussed our future careers, he often talked about working in a hospital and helping people who cannot afford expensive treatment.
+His main responsibility is to work as a software engineer, where he develops software, solves technical problems, and collaborates with other members of his team. He has also shared some of his professional experiences with me and suggested what I should do to improve my own career.
 
-Although becoming a doctor requires many years of study, he is willing to work hard for his goal.
+I think the company is successful because it has highly skilled employees, innovative technology, and a strong global reputation. The company continuously develops new products and services, which helps it remain competitive in the technology industry.
 
-Overall, I really respect his choice because he wants to choose a career that allows him to help others.
+Although working for such a large company can be challenging, Yanis seems to enjoy his career because he has opportunities to work on interesting technical problems and learn from experienced professionals.
+
+Overall, I think his experience has motivated me to improve my own technical skills because I am also interested in developing my career as a software engineer.
 
 ---
+
+## 34. Describe a person you know who would like to choose a career in the medical field
+
+I would like to talk about a person who immediately comes to my mind, and that person is Yanis, whom I have known for several years. He is a kind-hearted and helpful person who has always been interested in helping others.
+
+Yanis would like to choose a career in the medical field because he wants to become a doctor and help people who are suffering from different illnesses. He has told me that he is particularly interested in medicine and would like to become a specialist in the future.
+
+I came to know about his career plan when we were talking about our future goals. During one conversation, he explained what he wanted to achieve in his professional life and how he planned to develop his career. He seemed very serious and motivated when he talked about becoming a doctor.
+
+I think he wants to work in the medical field because he enjoys helping people and believes that doctors can make a meaningful difference in people's lives. Although becoming a doctor requires many years of study and hard work, he is willing to put in the necessary effort to achieve his goal.
+
+I feel positive about his choice because medicine is a profession that requires both knowledge and compassion. Since Yanis is a helpful and caring person, I think these qualities could be valuable in his future career.
+
+Overall, I respect his decision because becoming a doctor is a demanding but meaningful career. I hope he will achieve his goal and become a successful medical professional in the future.
 
 # 7. A child who loves drawing/painting
 
