@@ -131,4 +131,29 @@ I started feeling dizzy and uncomfortable, so I quickly went downstairs and took
 Despite this uncomfortable experience, I still think the building is interesting because of its height and the spectacular view from the rooftop. It was a memorable experience for me, and I would probably visit the building again, although I would be more careful about going to the rooftop.
 
 Overall, I found the building interesting because it offered a completely different perspective of the surrounding area.
+# 1. Describe a shop/store you often visit
+
+I would like to talk about a shop that I frequently visit, which is **Shopno**, a super shop near my home. It is very convenient for me because it offers a wide variety of products that I need in my everyday life.
+
+The shop sells many different items, including rice, vegetables, meat, cheese, cakes, dry food, cosmetics and even some mobile-phone accessories and clothes. In other words, I can find almost everything I need in one place.
+
+I usually visit the shop whenever I need groceries or other household items. Sometimes I go there personally, while on other occasions, I order things from the shop.
+
+The main reason I like visiting this shop is its convenient location. It is very close to my home, so I do not have to travel a long distance to buy everyday necessities. In addition, having so many different products under one roof saves me a considerable amount of time.
+
+Overall, I frequently visit this shop because it is convenient, well-stocked and located close to my home.
+
+---
+
+# 2. Describe a place where you saw animals
+
+I would like to talk about a place that immediately comes to mind, which is **Jaflong**, a well-known tourist destination in Sylhet, Bangladesh.
+
+I visited Jaflong with my family, and during our visit, I saw several animals, including a deer. I remember the deer particularly well because it was very calm, and we were able to observe it from a close distance. We also fed it some grass and spent quite a lot of time watching it.
+
+The place was surrounded by greenery and had a quiet and peaceful atmosphere. There were also several activities to do there, so we spent a few enjoyable days exploring the area and enjoying the natural scenery.
+
+I felt really excited and fascinated when I saw the animals because I had never had such an experience before. I had never visited a zoo or seen a wild animal from such a close distance, so it was quite memorable for me.
+
+What I liked most was the peaceful environment and the opportunity to spend time with my family while observing the animals. Overall, it was an enjoyable and memorable experience, and I would definitely like to visit the place again if I get the opportunity.
 
