@@ -85,3 +85,50 @@ When I looked at the ground from the rooftop, I started feeling dizzy and overwh
 Despite this unpleasant experience, I still found the building interesting because of the spectacular view from the rooftop. I think people who are comfortable with heights would enjoy visiting such a tall building and seeing the surrounding mountains and waterfalls.
 
 Overall, I had a memorable experience there, although the height made the visit quite challenging.
+
+# IELTS Speaking Part 2 — Improved Answers
+
+## 1. Describe a place you would like to visit in your free time
+
+I would like to talk about a place that I would like to visit whenever I have some free time. It is **Jaflong**, which is located in Sylhet, in the northeastern part of Bangladesh. It is one of the most well-known tourist destinations in the country.
+
+I have visited Jaflong several times, usually with some of my close friends. When we go there, we can enjoy the breathtaking natural scenery and take part in different activities. For example, we can explore the surrounding area, enjoy the mountains and try some local food.
+
+What I like most about Jaflong is the spectacular mountain view. Although the mountains are located in India, they can be clearly seen from the Bangladesh side. The natural scenery along the journey is also beautiful, so I usually do not find the journey boring.
+
+I particularly enjoy visiting this place with my friends because we can spend quality time together and take photographs. It also gives me an opportunity to escape from the busy routine of everyday life and enjoy a peaceful environment.
+
+Overall, I really like Jaflong, and if I have the opportunity, I will definitely visit it again. I believe it is a worthwhile place to visit, especially for people who enjoy nature and travelling.
+
+---
+
+## 2. Describe a natural place
+
+I would like to talk about **Jaflong**, which is one of the most beautiful natural places in Sylhet, Bangladesh. I have visited this place several times, mainly with my close friends.
+
+Jaflong is particularly famous for its natural scenery. It has green hills, rivers, waterfalls and spectacular mountain views. One of the most impressive features is the view of the mountains on the Indian side of the border. From Jaflong, visitors can enjoy these mountains even though they are located across the border.
+
+Whenever I visit Jaflong, I usually spend time exploring the surrounding area, enjoying the scenery and trying local food. I also take photographs because there are many beautiful places to capture.
+
+What I like most about being there is the opportunity to spend time in nature. The peaceful environment helps me relax and temporarily forget about my work and other responsibilities.
+
+Although the place can become quite crowded, particularly during holidays, I still enjoy visiting it because of its natural beauty.
+
+Overall, whenever I am in Jaflong, I feel relaxed and refreshed. That is why I would like to visit this natural place again in the future.
+
+---
+
+## 3. Describe an interesting building
+
+I would like to talk about a tall building that I find quite interesting. It is located in Bangladesh, and one of the most attractive features of this building is its rooftop, from where people can enjoy an impressive view of the surrounding area.
+
+The building is quite tall and has several floors. It is mainly used for general purposes, but what makes it particularly interesting to me is the view from the top. When I reached the rooftop, I could see the surrounding landscape and the mountains in the distance.
+
+I visited this building once with some of my friends. At first, I was excited because I wanted to enjoy the view. However, when I looked down from the rooftop, I became quite frightened because I have a fear of heights.
+
+I started feeling dizzy and uncomfortable, so I quickly went downstairs and took a short rest. After I started feeling better, I decided to go home.
+
+Despite this uncomfortable experience, I still think the building is interesting because of its height and the spectacular view from the rooftop. It was a memorable experience for me, and I would probably visit the building again, although I would be more careful about going to the rooftop.
+
+Overall, I found the building interesting because it offered a completely different perspective of the surrounding area.
+
