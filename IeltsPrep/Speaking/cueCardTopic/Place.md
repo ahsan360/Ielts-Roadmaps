@@ -37,3 +37,51 @@ Another thing I enjoyed was the local culture and food. The local people were fr
 What I particularly liked about Jaflong was that there were many different things to do. Whether someone wants to enjoy nature, explore tourist attractions or simply spend some peaceful time with friends and family, there is something for everyone.
 
 The only disadvantage was the distance from my home. It sometimes takes quite a long time to get there, but the journey itself was not boring because I was travelling with my friends. Overall, I really enjoyed visiting Jaflong, and I would love to go there again in the future.
+
+
+
+# IELTS Speaking Part 2 — Three Improved Band 6.5 Answers
+
+## 1. Describe a boring place
+
+I would like to talk about a place that I found quite boring for several reasons. It was **Jaflong**, which is approximately 100 kilometres from my home. I went there last time with some of my close friends for a business purpose.
+
+First of all, the journey was quite long and tiring. It usually takes me around one to three hours to get there, depending on the traffic. Unlike some other tourist destinations that I have visited, I did not find the journey particularly enjoyable.
+
+When we finally arrived, I found the place extremely crowded and noisy. Although I was with some of my close friends, we could hardly talk to each other because there were so many people around us. The constant noise also made it difficult to relax and enjoy the surroundings.
+
+Another reason I found it boring was that I had expected the place to be peaceful because Jaflong is known for its natural beauty. However, the large number of tourists made the environment quite uncomfortable.
+
+Overall, I would say that my experience was rather boring, mainly because of the long journey, the crowds and the excessive noise. Although I was with my friends, I could not enjoy the visit as much as I had expected.
+
+---
+
+## 2. Describe a city that you think is very interesting or famous
+
+I would like to talk about **Sylhet**, which is a well-known city in the northeastern part of Bangladesh. It is particularly famous for its tea gardens, greenery and beautiful natural scenery.
+
+I have lived in Sylhet, so I know the city extremely well. Whenever I have some free time, I try to visit different tourist destinations around the city and explore the tea gardens and other green areas.
+
+What I like most about Sylhet is its picturesque environment. It has a peaceful atmosphere, and the local people are generally very friendly towards tourists. The city is also surrounded by several natural attractions, including mountains, waterfalls, rivers and tea gardens.
+
+I first learned more about these attractions by exploring them myself and visiting different places with my friends and family. Whenever I visit these locations, I really enjoy spending time in nature and taking photographs.
+
+I think Sylhet is interesting because it offers a combination of natural beauty and a peaceful environment. If someone wants to enjoy mountain views, waterfalls and beautiful green landscapes, I would definitely recommend visiting Sylhet.
+
+Overall, Sylhet is a city that I am very familiar with, and I love it because of its natural beauty, peaceful atmosphere and tourist attractions.
+
+---
+
+## 3. Describe a tall building you like or dislike
+
+I would like to talk about a tall building that I visited once. It is located in Bangladesh, and what I particularly like about this building is its rooftop, because it offers an impressive view of the surrounding area.
+
+The building is quite tall and has several floors. It is mainly used for residential and other general purposes. However, the rooftop is the most interesting part for me because, from there, I could see the Indian mountains and some beautiful natural scenery in the distance.
+
+Although I liked the view, there was also something I disliked about the building. It was quite far from the city centre, and because of its height, I actually felt frightened when I reached the rooftop. I have a fear of heights, so looking down from such a high place made me extremely uncomfortable.
+
+When I looked at the ground from the rooftop, I started feeling dizzy and overwhelmed. As a result, I quickly went downstairs and sat somewhere to take a rest. After I started feeling better, I decided to return home.
+
+Despite this unpleasant experience, I still found the building interesting because of the spectacular view from the rooftop. I think people who are comfortable with heights would enjoy visiting such a tall building and seeing the surrounding mountains and waterfalls.
+
+Overall, I had a memorable experience there, although the height made the visit quite challenging.
