@@ -49,3 +49,34 @@ I deleted some unused files and freed up some storage space. Then I restarted th
 I felt extremely relieved and satisfied because I had managed to solve the problem independently through online research. It was a valuable experience because it taught me that I can often troubleshoot technical problems by staying calm and looking for appropriate solutions.
 
 Overall, it was a challenging situation, but I was pleased that I managed to resolve it without anyone's assistance.
+# IELTS Speaking Part 2 — Two Improved Answers
+
+## 1. Describe a piece of technology you own that you feel is difficult to use
+
+**Answer:**
+
+I would like to talk about a piece of technology that I own and find quite difficult to use, which is my laptop. I got it last year as a gift from my brother.
+
+I mainly use it for coding, watching videos, and working on different software projects. As a software engineer, I regularly use my laptop for programming and other technical tasks. For example, I use it to watch tutorials on YouTube and build different kinds of projects, such as web applications and mobile software.
+
+However, I find this laptop quite difficult to use because some tasks require a lot of effort and technical knowledge. When I work on demanding projects, I sometimes have to deal with different tools and applications, which can make the laptop feel complicated and difficult to manage.
+
+Despite these difficulties, I have learned many useful things by using it. I have become more familiar with different software and have also improved my technical skills through practical projects.
+
+Overall, although I sometimes find my laptop difficult to use, it is an important device for my work and learning, so I continue to use it regularly.
+
+---
+
+## 2. Describe something that you can't live without (not a computer or phone)
+
+**Answer:**
+
+I would like to talk about an object that is extremely important in my daily life, which is my Wi-Fi router. I have been using a router for about two years, and I consider it an essential part of my daily routine.
+
+I use it mainly to access the internet on different devices, such as my laptop, mobile phone, and other electronic devices. Since I need the internet for many activities, including working, studying, watching videos, and communicating with other people, having a reliable internet connection is very important to me.
+
+Over the past two years, I have realised how essential my router is. It provides an internet connection to my devices and usually works smoothly without major problems. Whenever the internet connection becomes slow or stops working, I immediately notice how much I depend on it.
+
+I cannot imagine my daily life without a router because so many of my activities require an internet connection. As a software engineer, I particularly need the internet for coding, research, communication, and accessing online resources.
+
+Overall, I would say that my Wi-Fi router is something I cannot live without because it keeps me connected to the internet and allows me to carry out many essential activities every day.
