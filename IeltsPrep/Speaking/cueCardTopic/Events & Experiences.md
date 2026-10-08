@@ -84,3 +84,38 @@ On the day of the trip, all of my friends arrived at the meeting point on time, 
 I consider the event a success because everything went according to our plan and we did not face any major problems. More importantly, everyone enjoyed themselves, and we were able to complete the entire trip safely.
 
 I felt particularly happy because I had been the main organizer. Although organizing a group trip can sometimes be stressful, seeing everyone enjoy the day made all the effort worthwhile. It was therefore one of the most successful and enjoyable events that I have organized.
+I would like to talk about a time when I worked with my teammates on a software development project.
+
+As I work as a software engineer, I regularly collaborate with other developers to complete different projects. Recently, my team and I worked on a project that required us to complete several tasks within a limited period.
+
+At the beginning, our manager divided the project into smaller tasks and distributed them among the team members. Each developer was responsible for a particular part of the project, which allowed us to work independently while contributing to the same goal.
+
+My role was that of a senior developer, so I was responsible for handling important technical tasks and helping other team members whenever they encountered difficulties. Whenever someone faced a problem, we discussed possible solutions and tried to resolve it together. Once we had completed our individual tasks, we combined our work and tested the final product.
+
+Although we faced a few technical challenges, we managed to overcome them by communicating effectively and supporting one another. Eventually, we completed the project and delivered it on time.
+
+I felt satisfied and proud of our achievement because everyone contributed to the final result. This experience also reminded me that teamwork is essential in software development, as even skilled developers may struggle to complete a complex project without cooperation.
+
+Overall, I enjoyed working with my team because we learned from one another and achieved our goal more efficiently.
+I would like to talk about a time when I had to get up early to go on a trip with some of my close friends.
+
+It happened last year when we planned a trip together. We discussed the arrangements for several weeks and eventually decided on a particular date. Since we wanted to catch an early train, we agreed to meet at a specific location at around five o'clock in the morning.
+
+I woke up before five a.m. because we wanted to avoid traffic congestion and reach the station on time. As soon as I got out of bed, I started messaging and calling my friends to make sure that everyone was ready.
+
+Fortunately, all of them were prepared for the trip, so I asked them to start heading towards our meeting point. Once everyone arrived, we set off for the station and continued with our journey.
+
+Although waking up so early was a little difficult because I was not used to getting up at that time, I felt excited about the trip. I was particularly happy because we had spent several weeks planning everything, and we were finally going to enjoy our time together.
+
+Looking back, I think waking up early was worthwhile because it helped us avoid traffic and begin our journey without unnecessary stress. It also taught me that getting up early can be beneficial when you have an important plan.
+I would like to talk about a short-term job that I would like to do in a foreign country, particularly in Germany.
+
+I work as a software engineer, and I have more than two years of experience as a full-stack developer. Since I enjoy writing code and building software applications, I would like to find a part-time or short-term job in the IT industry while staying abroad.
+
+I learned about these opportunities when I started researching job vacancies online. As I am interested in moving to Germany through the Opportunity Card, I have been looking for positions such as software engineer and backend developer. During my research, I discovered that Germany has a well-developed technology sector and offers various opportunities for skilled professionals.
+
+Although finding a suitable job in a foreign country can be challenging, I believe that my professional experience and technical skills will help me compete for these positions.
+
+The main reason I would like to have this job is that it would allow me to gain international work experience and learn how software development teams operate in another country. Moreover, I could improve my communication skills and become familiar with a different working culture.
+
+Overall, I believe that having a short-term job abroad would be a valuable experience because it would help me grow both professionally and personally.
