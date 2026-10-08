@@ -166,3 +166,44 @@ To prepare biryani, rice is cooked with different spices, meat, onions and other
 I think biryani is associated with special occasions because it is delicious and can be prepared in large quantities, which makes it convenient to serve to a large number of guests. Moreover, people in Bangladesh have developed a strong cultural connection with this food over the years.
 
 Personally, I really enjoy eating biryani, and whenever I get the opportunity, I like visiting a good restaurant to have it. **For me, biryani is more than just a delicious meal; it is also a part of our social and cultural traditions.**
+# IELTS Speaking — Band 6.5 Model Answers
+
+## 1. Describe an unusual meal you had
+
+I would like to talk about an unusual meal that I had last month when I went to a local market with my friend Yanis. After we finished shopping, we became quite hungry, so we decided to have something at a nearby restaurant.
+
+We ordered biryani along with a cold drink that I had never tried before. The biryani was delicious and tasted quite familiar to me, but the drink was completely different from what I had expected. **Although it looked like a normal soft drink, it was extremely sweet, and I found the taste rather unusual.**
+
+At first, I thought it would go well with the biryani, so I was quite curious to try it. However, after having a few sips, I realized that I did not really like it. I also felt that it was not worth the money because I could not finish the drink.
+
+Overall, it was an unusual meal for me because of the unfamiliar drink. **Even though we were extremely hungry, I would not order that particular drink again because its taste was not suitable for me.**
+
+
+---
+
+## 2. Describe an event you attended in which you didn't like the music played
+
+I would like to talk about an event that I attended at my university last year. I was invited to the event by some of my university friends, so I decided to go there and spend some time with them.
+
+The event started quite early, and there were many students and teachers present. During the event, some traditional and relatively old-fashioned Bangla songs were played. However, I did not particularly enjoy them because I usually prefer more modern music, especially songs from Bollywood and Hollywood.
+
+**Although I respect traditional music, I personally find modern music more enjoyable because it usually has a faster rhythm and a style that I am more familiar with.** On that occasion, I also found it difficult to understand some of the lyrics because I was not familiar with the songs.
+
+As a result, I could not fully enjoy the atmosphere, even though the event itself was quite interesting. **If the organizers had played a mixture of modern and traditional songs, I think I would have enjoyed the event much more.**
+
+Overall, it was not a terrible event, but the music made the experience less enjoyable for me.
+
+
+---
+
+## 3. Describe a bicycle/motorcycle/car trip you would like to go on
+
+I would like to talk about a motorcycle trip that I have wanted to take for a long time. If I get the opportunity, I would love to travel from Delhi to Ladakh on a motorcycle with one or two close friends.
+
+I have already travelled by motorcycle on several occasions, and I really enjoy this type of journey because it gives me much more freedom than travelling by car or bus. **Since I can stop whenever I want, I would be able to take photographs, enjoy the scenery and explore different places along the way.**
+
+The main reason I want to go to Ladakh is its breathtaking natural scenery. I would love to ride through the mountains, experience the cold weather and see the roads surrounded by spectacular landscapes. **Although the journey would be physically challenging, I believe it would be an unforgettable experience because I have wanted to visit Ladakh since my childhood.**
+
+Another advantage is that travelling by motorcycle would be relatively affordable compared with travelling in a car. However, I would need to plan the journey carefully because it would take a considerable amount of time.
+
+As a software engineer, managing a long holiday can sometimes be difficult because of my work schedule. Nevertheless, **if I can arrange enough time in the future, I will definitely take this opportunity and go on this adventurous journey.**
