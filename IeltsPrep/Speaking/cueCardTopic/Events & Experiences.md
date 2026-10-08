@@ -85,7 +85,7 @@ I consider the event a success because everything went according to our plan and
 
 I felt particularly happy because I had been the main organizer. Although organizing a group trip can sometimes be stressful, seeing everyone enjoy the day made all the effort worthwhile. It was therefore one of the most successful and enjoyable events that I have organized.
 I would like to talk about a time when I worked with my teammates on a software development project.
-
+#  Describe a time when you worked in a group
 As I work as a software engineer, I regularly collaborate with other developers to complete different projects. Recently, my team and I worked on a project that required us to complete several tasks within a limited period.
 
 At the beginning, our manager divided the project into smaller tasks and distributed them among the team members. Each developer was responsible for a particular part of the project, which allowed us to work independently while contributing to the same goal.
@@ -97,6 +97,9 @@ Although we faced a few technical challenges, we managed to overcome them by com
 I felt satisfied and proud of our achievement because everyone contributed to the final result. This experience also reminded me that teamwork is essential in software development, as even skilled developers may struggle to complete a complex project without cooperation.
 
 Overall, I enjoyed working with my team because we learned from one another and achieved our goal more efficiently.
+
+
+# Describe a time when you got up early
 I would like to talk about a time when I had to get up early to go on a trip with some of my close friends.
 
 It happened last year when we planned a trip together. We discussed the arrangements for several weeks and eventually decided on a particular date. Since we wanted to catch an early train, we agreed to meet at a specific location at around five o'clock in the morning.
@@ -108,6 +111,8 @@ Fortunately, all of them were prepared for the trip, so I asked them to start he
 Although waking up so early was a little difficult because I was not used to getting up at that time, I felt excited about the trip. I was particularly happy because we had spent several weeks planning everything, and we were finally going to enjoy our time together.
 
 Looking back, I think waking up early was worthwhile because it helped us avoid traffic and begin our journey without unnecessary stress. It also taught me that getting up early can be beneficial when you have an important plan.
+
+# Describe a short-term job you want to have in a foreign country
 I would like to talk about a short-term job that I would like to do in a foreign country, particularly in Germany.
 
 I work as a software engineer, and I have more than two years of experience as a full-stack developer. Since I enjoy writing code and building software applications, I would like to find a part-time or short-term job in the IT industry while staying abroad.
