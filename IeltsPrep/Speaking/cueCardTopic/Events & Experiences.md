@@ -207,3 +207,50 @@ The main reason I want to go to Ladakh is its breathtaking natural scenery. I wo
 Another advantage is that travelling by motorcycle would be relatively affordable compared with travelling in a car. However, I would need to plan the journey carefully because it would take a considerable amount of time.
 
 As a software engineer, managing a long holiday can sometimes be difficult because of my work schedule. Nevertheless, **if I can arrange enough time in the future, I will definitely take this opportunity and go on this adventurous journey.**
+
+
+# IELTS Speaking — Band 6.5 Model Answers
+
+## 1. Describe a talk you gave to a group of people
+
+I would like to talk about a talk that I gave to some of my juniors last year. They invited me to attend a university event called Tech Fest, which was organized by the students of my university.
+
+During the event, I was invited onto the stage and asked to say a few words to motivate the junior students. I decided to talk about my personal journey, particularly my experience as a university student and how I gradually developed my skills to achieve my career goals.
+
+I told them that achieving a goal is not always easy and that it requires patience, perseverance and consistent effort. I also encouraged them to focus on both their studies and their personal development because these two things can play an important role in their future.
+
+**Although I was slightly nervous when I first went onto the stage, I gradually became more confident as I started sharing my own experiences.** I felt particularly proud because I was able to share something useful with students who were at an earlier stage of their academic journey.
+
+Overall, it was a memorable experience for me, and I felt really motivated after giving the talk because I hoped that my experience would help my juniors in the future.
+
+
+---
+
+## 2. Describe a time when you felt proud of a family member
+
+I would like to talk about a time when I felt proud of a member of my family. In this case, I would like to talk about my own achievement, because my success also made my family extremely proud of me.
+
+One of the main occasions was when I graduated from university. I studied Computer Science and Engineering, and completing my degree was a significant achievement for me because I had to work hard throughout my university life.
+
+After graduation, I started working as a software engineer, which was another important milestone in my career. **Although I faced several challenges during my studies, my family always supported me emotionally and financially, which gave me the confidence to continue working towards my goals.**
+
+I remember that my family was particularly happy when I got my first software engineering job because they knew how much effort I had put into developing my technical skills.
+
+I felt proud not only because of my own achievements but also because I was able to make my family happy. **Without their continuous support and encouragement, I believe that my journey would have been much more difficult.**
+
+Overall, it was a meaningful period of my life, and I will always be grateful to my family for standing beside me throughout my journey.
+
+
+---
+
+## 3. Describe a time when you received good service in a shop/store
+
+I would like to talk about a time when I received excellent service at Shwapno, which is one of the well-known supermarkets in Bangladesh. I usually visit this type of supermarket because it offers a wide range of products that are not always available in local markets.
+
+I remember visiting the store a few weeks ago when I needed to buy some groceries. While I was shopping, I wanted to buy a particular type of cheese, but I could not find it on the shelf.
+
+One of the employees noticed that I was looking for something and approached me politely. He checked the availability of the product and explained that it was temporarily unavailable. **Instead of simply telling me that they did not have it, he suggested an alternative product and helped me find it.**
+
+I really appreciated this service because the employee was polite, patient and genuinely interested in helping me. **Even though it was a relatively small issue, the way he handled the situation made my shopping experience much more pleasant.**
+
+Overall, I considered the service excellent because the staff were attentive and professional. I believe that this kind of customer service is important because it encourages people to return to the same shop in the future.
