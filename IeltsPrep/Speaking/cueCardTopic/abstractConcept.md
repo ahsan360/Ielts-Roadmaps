@@ -12,20 +12,13 @@ Since then, I have continued to improve my skills by working on real-world proje
 
 Overall, I believe that becoming a successful software engineer is not just about earning a good salary; it is also about continuously learning and improving myself. **If I remain consistent and continue developing my technical skills, I believe I will be able to achieve my long-term ambition.** In the future, I hope to work for a well-established international technology company and contribute to meaningful projects.
 
-## Complex Sentences to Practise
+# movie
+I would like to talk about a movie that I watched last week called **KGF**, which is a famous Indian action film.
 
-1. **Because + reason:** Because I wanted to build a successful career, I decided to work hard to achieve my goal.
-2. **Although + contrast:** Although the journey required considerable effort, I found it rewarding.
-3. **If + condition:** If I continue developing my skills, I believe I will achieve my ambition.
-4. **Relative clause:** My ambition is to become a successful software engineer, which I developed at university.
+At first, I thought it would be a typical action movie like many others. However, as I continued watching it, I found the story quite extraordinary because it was full of action, suspense, and unexpected events.
 
-## Estimated Band Score
+The movie is about a powerful businessman who takes control of a gold-mining area and forces the workers to live under cruel conditions. The main character, Rocky, enters this territory with the aim of taking control of it. Although he becomes involved in a corrupt business, he tries to establish his own authority and challenge the existing system. Eventually, the government attempts to raid the area, which creates several exciting and dramatic situations.
 
-**Band 6.5 target answer**
+**What I particularly liked about this movie was its impressive visual effects and powerful action scenes.** The acting was also excellent, especially the performance of the main character, who appeared to be both fearless and determined. Although some scenes were quite violent, they made the story more intense and engaging.
 
-- **Fluency and Coherence:** Ideas are presented in a logical sequence.
-- **Lexical Resource:** Uses appropriate expressions such as *problem-solving abilities*, *financially independent*, and *long-term ambition*.
-- **Grammatical Range and Accuracy:** Includes complex sentences with *because*, *although*, *if*, and *which*.
-- **Pronunciation:** Cannot be assessed from the written answer.
-
-*Note: This is a sample answer designed to target Band 6.5, not a guaranteed score. Your actual speaking band will depend on how accurately and naturally you deliver it.*
+Overall, I found this film fascinating because it was different from ordinary action movies. It not only entertained me but also made me think about power, corruption, and how wealthy people can exploit others. That is why I enjoyed watching it, and I can understand why it has become so popular among movie lovers.
